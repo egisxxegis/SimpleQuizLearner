@@ -21,11 +21,15 @@ def get_all_content():
 if __name__ == "__main__":
     content = get_all_content()
 
-    while True:
-        i = randint(0, len(content)-1)
+    i_range = [x for x in range(0, len(content))]
+    shuffle(i_range)
+    right = 0
+    total = 0
+    for i in i_range:
+        # i = randint(0, len(content)-1)
         task = content[i]
         print("\n------------------------------------------------------------------")
-        print(f"({i+1}/{len(content)}) {task.question}")
+        print(f"({i+1}/{len(content)}; your score: {right}/{total}) {task.question}")
         print(f"\n")
         answer_indexes = [0, 1, 2, 3]
         shuffle(answer_indexes)
@@ -34,8 +38,10 @@ if __name__ == "__main__":
         number = int(input("Your choice? - "))
         if answer_indexes[number-1] == task.answer_i:
             print("------Correct")
+            right += 1
         else:
             print(f"------Incorrect. Right answer was {task.answer_i + 1}.")
             print(task.comment)
+        total += 1
 
         input("\n-------Enter to continue\n")
