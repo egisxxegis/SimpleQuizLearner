@@ -33,14 +33,17 @@ if __name__ == "__main__":
         print(f"\n")
         answer_indexes = [0, 1, 2, 3]
         shuffle(answer_indexes)
+        correct_index = 0
         for ii in range(len(answer_indexes)):
             print(f"{ii+1}. {task.answers[answer_indexes[ii]]}")
+            if answer_indexes[ii] == task.answer_i:
+                correct_index = ii+1
         number = int(input("Your choice? - "))
         if answer_indexes[number-1] == task.answer_i:
             print("------Correct")
             right += 1
         else:
-            print(f"------Incorrect. Right answer was {task.answer_i + 1}.")
+            print(f"------Incorrect. Right answer was {correct_index}.")
             print(task.comment)
         total += 1
 
