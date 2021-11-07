@@ -7,6 +7,7 @@ def get_all_content():
     all_folders = [f.path for f in scandir(path.abspath(getcwd())) if f.is_dir()
                    if f.name != ".idea"
                    if f.name != ".git"
+                   if f.name != ".ignore"
                    if f.name != "__pycache__"]
     all_content = []
     for folder in all_folders:
