@@ -1,4 +1,5 @@
 from FileHandler import *
+import shutil
 
 
 def exists_question(the_content: [Task], the_question):
@@ -27,7 +28,19 @@ def extract_answers(full_string: str, the_options: [str]):
 
 if __name__ == "__main__":
     limiter = "%!%"
-    part = str(input("What part do you want to create? (one part = 20 questions)"))
+
+    # do we need to move questions to ignore list
+    while True:
+        part = str(input("What part do you want to create? \n"
+                         " *(one part = 20 questions)\n"
+                         " *(type \".ignore\" to move old questions to ignore list)"))
+        if part == ".ignore":
+            for folder in get_all_valid_folders():
+                shutil.move(folder, ".ignore")
+            print("Moving has been attempted. No checks for errors done. Do it yourself")
+            continue
+        break
+
     source = {
         'folder': part,
         'full_file_path': f'{part}/questions.txt'
