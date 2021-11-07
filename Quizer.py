@@ -1,14 +1,10 @@
-from FileHandler import get_content
-from os import path, scandir, getcwd
+from FileHandler import get_content, get_all_valid_folders
+from os import path
 from random import shuffle
 
 
 def get_all_content():
-    all_folders = [f.path for f in scandir(path.abspath(getcwd())) if f.is_dir()
-                   if f.name != ".idea"
-                   if f.name != ".git"
-                   if f.name != ".ignore"
-                   if f.name != "__pycache__"]
+    all_folders = get_all_valid_folders()
     all_content = []
     for folder in all_folders:
         the_path = path.join(folder, "questions.txt")

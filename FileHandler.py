@@ -1,4 +1,4 @@
-from os import path, mkdir
+from os import path, mkdir, scandir, getcwd
 from Task import Task
 
 
@@ -60,3 +60,11 @@ def append_question(the_source, the_metadata, the_question, the_answers, the_ans
         the_file.write(f'{the_metadata[0]}{zy_answer}')
     the_file.write(f'{the_metadata[0]}{the_answer_index}')
     the_file.write(f'{the_metadata[0]}{the_comment}\n')
+
+
+def get_all_valid_folders():
+    return [f.path for f in scandir(path.abspath(getcwd())) if f.is_dir()
+            if f.name != ".idea"
+            if f.name != ".git"
+            if f.name != ".ignore"
+            if f.name != "__pycache__"]
