@@ -1,6 +1,6 @@
 from FileHandler import get_content
 from os import path, scandir, getcwd
-from random import randint, shuffle
+from random import shuffle
 
 
 def get_all_content():
@@ -26,7 +26,6 @@ if __name__ == "__main__":
     right = 0
     total = 0
     for i in i_range:
-        # i = randint(0, len(content)-1)
         task = content[i]
         print("\n------------------------------------------------------------------")
         print(f"({i+1}/{len(content)}; your score: {right}/{total}) {task.question}")
@@ -48,3 +47,10 @@ if __name__ == "__main__":
         total += 1
 
         input("\n-------Enter to continue\n")
+    print("\n\n\n")
+    print("--**--**-- Results --**--**--")
+    print(f"--**-- Total questions: {total}")
+    print(f"--**-- Right answers:   {right}")
+    print(f"--**-- Magic score:     {right}/{total} = {right / total * 100 : .2f}%")
+    print("\n\n")
+    input("\n--**--**-- Enter to exit\n")
