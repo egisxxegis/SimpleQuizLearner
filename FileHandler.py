@@ -49,6 +49,25 @@ def get_content(the_source, the_limiter):
     return the_content
 
 
+def fix_format_multianswer(answer_string: str):
+    rates = [0, 0, 0]
+    rates[0] = answer_string.count(".")
+    rates[1] = answer_string.count(",")
+    rates[2] = answer_string.count(" ")
+    if max(rates) == rates[2]:
+        answer_string = answer_string.replace(".", "").replace(",", "")
+        return answer_string.replace(" ", ",")
+    elif max(rates) == rates[1]:
+        answer_string = answer_string.replace(".", "").replace(" ", "")
+        return answer_string
+    else:
+        if rates[0] == 1:
+            return answer_string.replace(".", "").replace(",", "").replace(" ", "")
+        if rates[1] + rates[2] != 0:
+            answer_string = answer_string.replace(",", "").replace(" ", "").replace(".", ",")
+            return answer_string if answer_string[-1] != ',' else answer_string[:-1]
+
+
 def append_question(the_source, the_metadata, the_question, the_answers, the_answer_index, the_comment):
     # metadata[1] - question number
     # metadata[2] - picture number (higher than 0)
@@ -58,7 +77,7 @@ def append_question(the_source, the_metadata, the_question, the_answers, the_ans
     the_file.write(f'{the_metadata[0]}{len(the_answers)}')
     for zy_answer in the_answers:
         the_file.write(f'{the_metadata[0]}{zy_answer}')
-    the_file.write(f'{the_metadata[0]}{the_answer_index}')
+    the_file.write(f'{the_metadata[0]}{fix_format_multianswer(the_answer_index)}')
     the_file.write(f'{the_metadata[0]}{the_comment}\n')
 
 

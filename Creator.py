@@ -52,15 +52,19 @@ if __name__ == "__main__":
         if len(content) == 20:
             print("---------------*********** Limit 20 questions reached. Stopping")
             break
-        question = input("Input a part or full question.\n")
+        question = input("Input full question.\n")
         if exists_question(content, question):
             print("------------Question exists. skipping")
         else:
-            question = input("+++++++++++++++++++ Question is new. Type full question")
-            picture_filename = input("+++++++++++++++++++ Picture number (not count) (>0)?")
+            print("+++++++++++++++++++ Question is new.")
+            picture_filename = input("+++++++++++++++++++ Has a picture? NO = 0, YES = anything")
+            if picture_filename != '0':
+                picture_filename = str(len(content) + 1) + ".jpg"
+                print(f"--************-------- Save image in {source['folder']} as a {picture_filename}")
+                input("+++ press enter")
             answers_raw = input("+++++++++++++++++++ Copy paste all answers.")
             answers = extract_answers(answers_raw, options)
-            correct_answer_i = int(input(f"Which answer is correct of these {len(options)}?"))
+            correct_answer_i = int(input(f"Which answer(s) is(are) correct of these {len(options)}?"))
             comment = input("What is comment?")
             append_question(source, [limiter, len(content)+1, picture_filename],
                             question, answers, correct_answer_i - 1, comment)
