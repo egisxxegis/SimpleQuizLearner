@@ -43,7 +43,7 @@ def get_content(the_source, the_limiter, its_folder=''):
                 the_task.answer_i = fragment
                 the_task.is_answer_multi = True
             else:
-                the_task.answer_i = int(fragment)
+                the_task.answer_i = fragment
         elif the_i == 6:
             the_task.comment = fragment
 
