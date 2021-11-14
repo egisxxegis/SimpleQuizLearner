@@ -4,6 +4,7 @@ class Task:
         self.question = ''
         self.answers = []
         self.answer_i = 0
+        self.is_answer_multi = False
         self.comment = ''
         self.has_picture = False
         self.full_path_picture = ''

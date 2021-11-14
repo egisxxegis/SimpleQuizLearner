@@ -38,7 +38,12 @@ def get_content(the_source, the_limiter):
                     the_i += 1
                 continue
         elif the_i == 5:
-            the_task.answer_i = int(fragment)
+            if fragment.count(',') > 0:
+                # multi
+                the_task.answer_i = fragment
+                the_task.is_answer_multi = True
+            else:
+                the_task.answer_i = int(fragment)
         elif the_i == 6:
             the_task.comment = fragment
 
@@ -55,22 +60,20 @@ def fix_format_multianswer(answer_string: str):
     rates[1] = answer_string.count(",")
     rates[2] = answer_string.count(" ")
     if max(rates) == rates[2]:
-        answer_string = answer_string.replace(".", "").replace(",", "")
-        return answer_string.replace(" ", ",")
+        answer_string = answer_string.replace(".", "").replace(",", "").replace(" ", ",")
     elif max(rates) == rates[1]:
         answer_string = answer_string.replace(".", "").replace(" ", "")
-        return answer_string
     else:
         if rates[0] == 1:
+            # there is no multianswer
             return answer_string.replace(".", "").replace(",", "").replace(" ", "")
-        if rates[1] + rates[2] != 0:
-            answer_string = answer_string.replace(",", "").replace(" ", "").replace(".", ",")
-            return answer_string if answer_string[-1] != ',' else answer_string[:-1]
+        answer_string = answer_string.replace(",", "").replace(" ", "").replace(".", ",")
+    return answer_string if answer_string[-1] != ',' else answer_string[:-1]
 
 
 def append_question(the_source, the_metadata, the_question, the_answers, the_answer_index, the_comment):
-    # metadata[1] - question number
-    # metadata[2] - picture number (higher than 0)
+    # metadata[1] - question user_guess
+    # metadata[2] - picture user_guess (higher than 0)
     the_file = open(the_source['full_file_path'], "a", encoding='utf-8')
     the_file.write(f'{the_metadata[0]}{the_metadata[1]}{the_metadata[0]}{the_metadata[2]}{the_metadata[0]}\n')
     the_file.write(the_question)

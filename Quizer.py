@@ -1,4 +1,4 @@
-from FileHandler import get_content, get_all_valid_folders
+from FileHandler import get_content, get_all_valid_folders, fix_format_multianswer
 from os import path
 from random import shuffle
 
@@ -15,6 +15,25 @@ def get_all_content():
     return all_content
 
 
+def get_correct_indexes(the_answer_indexes: [int], real_answers_i: str):
+    real_answers_i = real_answers_i if isinstance(real_answers_i, str) else str(real_answers_i)
+    multi_explode = [int(x) for x in real_answers_i.split(",")]
+    correct_indexes = []
+    for iii in range(0, len(the_answer_indexes)):
+        if the_answer_indexes[iii] + 1 in multi_explode:  # dp not +1 for old versions
+            correct_indexes.append(iii + 1)
+    return correct_indexes
+
+
+def is_answer_correct(the_input: str, the_correct_indexes: [int]):
+    the_input = fix_format_multianswer(the_input)
+    the_chosens = [x for x in the_input.split(',')]
+    the_right_ones = [x for x in the_correct_indexes]
+    the_right_ones.sort()
+    the_chosens.sort()
+    return the_right_ones == the_chosens
+
+
 if __name__ == "__main__":
     content = get_all_content()
 
@@ -27,19 +46,20 @@ if __name__ == "__main__":
         print("\n------------------------------------------------------------------")
         print(f"({i+1}/{len(content)}; your score: {right}/{total}) {task.question}")
         print(f"\n")
-        answer_indexes = [0, 1, 2, 3]
+        answer_indexes = [x for x in range(0, len(task.answers))]
         shuffle(answer_indexes)
-        correct_index = 0
+        multianswer_suffix = "(input more than one answer (MULTICHOICE)) " if task.is_answer_multi else ""
         for ii in range(len(answer_indexes)):
             print(f"{ii+1}. {task.answers[answer_indexes[ii]]}")
-            if answer_indexes[ii] == task.answer_i:
-                correct_index = ii+1
-        number = int(input("Your choice? - "))
-        if answer_indexes[number-1] == task.answer_i:
+        correct_index = get_correct_indexes(answer_indexes, task.answer_i)
+        user_guess = input(f"Your choice? {multianswer_suffix}- ")
+        # continue here
+        if is_answer_correct(user_guess, correct_index):
             print("------Correct")
             right += 1
         else:
-            print(f"------Incorrect. Right answer was {correct_index}.")
+            print(f"------Incorrect. Right answer{'s were' if task.is_answer_multi else ' was'} "
+                  f"{', '.join([str(x) for x in correct_index])}.")
             print(task.comment)
         total += 1
 

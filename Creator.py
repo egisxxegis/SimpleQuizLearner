@@ -9,19 +9,23 @@ def exists_question(the_content: [Task], the_question):
     return False
 
 
-def extract_answers(full_string: str, the_options: [str]):
+def extract_answers(full_string: str, the_options: [str], newline_in_splitter=True):
     the_answers = []
     the_temp = full_string
+    the_suffix = '\n' if newline_in_splitter else ''
     for the_i in range(len(the_options)):
-        splitter = f'{the_options[the_i]}\n'
+        splitter = f'{the_options[the_i]}{the_suffix}'
         splitter = '\n' + splitter if the_i != 0 else splitter
         the_temp = the_temp.split(splitter)
 
         if the_i != 0:
             the_answers.append(the_temp[0])
 
-        the_temp = the_temp[1]
-        the_i += 1
+        if len(the_temp) > 1:
+            the_temp = the_temp[1]
+        else:
+            return the_answers
+
     the_answers.append(the_temp)
     return the_answers
 
@@ -45,7 +49,7 @@ if __name__ == "__main__":
         'folder': part,
         'full_file_path': f'{part}/questions.txt'
     }
-    options = ['a.', 'b.', 'c.', 'd.']
+    options = ['a.', 'b.', 'c.', 'd.', 'e.', 'f.', 'g.']
     create_if_not_exists(source)
     while True:
         content = get_content(source, limiter)
@@ -64,10 +68,10 @@ if __name__ == "__main__":
                 input("+++ press enter")
             answers_raw = input("+++++++++++++++++++ Copy paste all answers.")
             answers = extract_answers(answers_raw, options)
-            correct_answer_i = int(input(f"Which answer(s) is(are) correct of these {len(options)}?"))
+            correct_answer_i = input(f"Which answer(s) is(are) correct of these {len(options)}?")
             comment = input("What is comment?")
             append_question(source, [limiter, len(content)+1, picture_filename],
-                            question, answers, correct_answer_i - 1, comment)
+                            question, answers, correct_answer_i, comment)
             print("+++++++++++++++++++++++++++++++ New Question added " +
                   f'({len(content) + 1 }/20)')
 
