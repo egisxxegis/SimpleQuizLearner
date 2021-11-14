@@ -9,20 +9,23 @@ def exists_question(the_content: [Task], the_question):
     return False
 
 
-def extract_answers(full_string: str, the_options: [str], newline_in_splitter=True):
+def extract_answers(full_string: str, the_options: [str], splitter_suffix='', end_splitting=False):
     the_answers = []
     the_temp = full_string
-    the_suffix = '\n' if newline_in_splitter else ''
+    the_suffix = splitter_suffix
     for the_i in range(len(the_options)):
         splitter = f'{the_options[the_i]}{the_suffix}'
-        splitter = '\n' + splitter if the_i != 0 else splitter
         the_temp = the_temp.split(splitter)
 
-        if the_i != 0:
-            the_answers.append(the_temp[0])
+        if the_i != 0 or end_splitting:  # add first left match
+            if len(the_temp[0]) > 0:
+                the_answers.append(the_temp[0])
 
         if len(the_temp) > 1:
-            the_temp = the_temp[1]
+            for i in range(1, len(the_temp) - 1):  # add all except last match
+                if len(the_temp[i]) > 0:
+                    the_answers.append(the_temp[i])
+            the_temp = the_temp[-1]
         else:
             return the_answers
 
@@ -49,7 +52,8 @@ if __name__ == "__main__":
         'folder': part,
         'full_file_path': f'{part}/questions.txt'
     }
-    options = ['a.', 'b.', 'c.', 'd.', 'e.', 'f.', 'g.']
+    # options = ['a.', 'b.', 'c.', 'd.', 'e.', 'f.', 'g.']
+    options = ['\n' for x in range(8)]
     create_if_not_exists(source)
     while True:
         content = get_content(source, limiter)
@@ -67,7 +71,7 @@ if __name__ == "__main__":
                 print(f"--************-------- Save image in {source['folder']} as a {picture_filename}")
                 input("+++ press enter")
             answers_raw = input("+++++++++++++++++++ Copy paste all answers.")
-            answers = extract_answers(answers_raw, options, newline_in_splitter=False)
+            answers = extract_answers(answers_raw, options)
             correct_answer_i = input(f"Which answer(s) is(are) correct of these {len(answers)}?")
             comment = input("What is comment?")
             append_question(source, [limiter, len(content)+1, picture_filename],
