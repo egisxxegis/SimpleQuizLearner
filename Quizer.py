@@ -1,6 +1,7 @@
 from FileHandler import get_content, get_all_valid_folders, fix_format_multianswer
 from os import path
 from random import shuffle
+from PIL import Image
 
 
 def get_all_content():
@@ -9,7 +10,7 @@ def get_all_content():
     for folder in all_folders:
         the_path = path.join(folder, "questions.txt")
         source = {"full_file_path": the_path}
-        the_content = get_content(source, "%!%")
+        the_content = get_content(source, "%!%", folder)
         all_content += the_content
 
     return all_content
@@ -27,8 +28,8 @@ def get_correct_indexes(the_answer_indexes: [int], real_answers_i: str):
 
 def is_answer_correct(the_input: str, the_correct_indexes: [int]):
     the_input = fix_format_multianswer(the_input)
-    the_chosens = [x for x in the_input.split(',')]
-    the_right_ones = [x for x in the_correct_indexes]
+    the_chosens = [int(x) for x in the_input.split(',')]
+    the_right_ones = [int(x) for x in the_correct_indexes]
     the_right_ones.sort()
     the_chosens.sort()
     return the_right_ones == the_chosens
@@ -48,10 +49,13 @@ if __name__ == "__main__":
         print(f"\n")
         answer_indexes = [x for x in range(0, len(task.answers))]
         shuffle(answer_indexes)
-        multianswer_suffix = "(input more than one answer (MULTICHOICE)) " if task.is_answer_multi else ""
         for ii in range(len(answer_indexes)):
             print(f"{ii+1}. {task.answers[answer_indexes[ii]]}")
         correct_index = get_correct_indexes(answer_indexes, task.answer_i)
+        if task.has_picture:
+            print("--------------------------- Opening an image. ")
+            Image.open(task.full_path_picture).show()
+        multianswer_suffix = "(input more than one answer (MULTICHOICE)) " if task.is_answer_multi else ""
         user_guess = input(f"Your choice? {multianswer_suffix}- ")
         # continue here
         if is_answer_correct(user_guess, correct_index):

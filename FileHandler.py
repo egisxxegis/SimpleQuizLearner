@@ -9,7 +9,7 @@ def create_if_not_exists(the_source):
         open(the_source['full_file_path'], "x")
 
 
-def get_content(the_source, the_limiter):
+def get_content(the_source, the_limiter, its_folder=''):
     the_file = open(the_source['full_file_path'], "r", encoding='utf-8')
     the_raw_content = the_file.read()
     the_content = []
@@ -25,7 +25,7 @@ def get_content(the_source, the_limiter):
         elif the_i == 1:
             the_picture_path = fragment
             if the_picture_path != '0':
-                the_task.set_picture(the_picture_path)
+                the_task.set_picture(path.join(its_folder, the_picture_path))
         elif the_i == 2:
             the_task.question = fragment
         elif the_i == 3:

@@ -63,12 +63,12 @@ if __name__ == "__main__":
             print("+++++++++++++++++++ Question is new.")
             picture_filename = input("+++++++++++++++++++ Has a picture? NO = 0, YES = anything")
             if picture_filename != '0':
-                picture_filename = str(len(content) + 1) + ".jpg"
+                picture_filename = str(len(content) + 1) + ".png"
                 print(f"--************-------- Save image in {source['folder']} as a {picture_filename}")
                 input("+++ press enter")
             answers_raw = input("+++++++++++++++++++ Copy paste all answers.")
-            answers = extract_answers(answers_raw, options)
-            correct_answer_i = input(f"Which answer(s) is(are) correct of these {len(options)}?")
+            answers = extract_answers(answers_raw, options, newline_in_splitter=False)
+            correct_answer_i = input(f"Which answer(s) is(are) correct of these {len(answers)}?")
             comment = input("What is comment?")
             append_question(source, [limiter, len(content)+1, picture_filename],
                             question, answers, correct_answer_i, comment)
