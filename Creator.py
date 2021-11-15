@@ -71,7 +71,7 @@ if __name__ == "__main__":
                 print(f"--************-------- Save image in {source['folder']} as a {picture_filename}")
                 input("+++ press enter")
             answers_raw = input("+++++++++++++++++++ Copy paste all answers.")
-            answers = extract_answers(answers_raw, options)
+            answers = extract_answers(answers_raw, options, end_splitting=True)
             correct_answer_i = input(f"Which answer(s) is(are) correct of these {len(answers)}?")
             comment = input("What is comment?")
             append_question(source, [limiter, len(content)+1, picture_filename],
