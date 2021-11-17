@@ -55,7 +55,9 @@ if __name__ == "__main__":
         answer_indexes = [x for x in range(0, len(task.answers))]
         shuffle(answer_indexes)
         for ii in range(len(answer_indexes)):
-            print(f"{ii+1}. {task.answers[answer_indexes[ii]]}")
+            an = task.answers[answer_indexes[ii]]
+            nl = "\n"
+            print(f"{ii+1}. {an if an[-1] == nl else an + nl}")
         correct_index = get_correct_indexes(answer_indexes, task.answer_i)
         if task.has_picture and the_pil:
             print("--------------------------- Opening an image. ")
