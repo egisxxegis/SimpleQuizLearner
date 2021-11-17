@@ -55,6 +55,7 @@ def get_content(the_source, the_limiter, its_folder=''):
 
 
 def fix_format_multianswer(answer_string: str):
+    answer_string = answer_string if len(answer_string) > 0 else "0"
     rates = [0, 0, 0]
     rates[0] = answer_string.count(".")
     rates[1] = answer_string.count(",")

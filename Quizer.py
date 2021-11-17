@@ -1,7 +1,10 @@
 from FileHandler import get_content, get_all_valid_folders, fix_format_multianswer
 from os import path
 from random import shuffle
-from PIL import Image
+
+the_pil = bool(input("Type anything to allow show images. (if there is any)"))
+if the_pil:
+    from PIL import Image
 
 
 def get_all_content():
@@ -28,8 +31,10 @@ def get_correct_indexes(the_answer_indexes: [int], real_answers_i: str):
 
 def is_answer_correct(the_input: str, the_correct_indexes: [int]):
     the_input = fix_format_multianswer(the_input)
-    the_chosens = [int(x) for x in the_input.split(',')]
-    the_right_ones = [int(x) for x in the_correct_indexes]
+    the_chosens = [int(x) for x in the_input.split(',') if x.isnumeric()]
+    the_right_ones = [int(x) for x in the_correct_indexes if x.isnumeric()]
+    the_chosen = the_chosens if len(the_chosens) > 0 else [0]
+    the_right_ones = the_right_ones if len(the_chosen) > 0 else [0]
     the_right_ones.sort()
     the_chosens.sort()
     return the_right_ones == the_chosens
@@ -52,7 +57,7 @@ if __name__ == "__main__":
         for ii in range(len(answer_indexes)):
             print(f"{ii+1}. {task.answers[answer_indexes[ii]]}")
         correct_index = get_correct_indexes(answer_indexes, task.answer_i)
-        if task.has_picture:
+        if task.has_picture and the_pil:
             print("--------------------------- Opening an image. ")
             Image.open(task.full_path_picture).show()
         multianswer_suffix = "(input more than one answer (MULTICHOICE)) " if task.is_answer_multi else ""
