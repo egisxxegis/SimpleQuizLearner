@@ -52,8 +52,10 @@ if __name__ == "__main__":
         'folder': part,
         'full_file_path': f'{part}/questions.txt'
     }
-    # options = ['a.', 'b.', 'c.', 'd.', 'e.', 'f.', 'g.']
-    options = ['\n' for x in range(8)]
+    options = ['a.', '\nb.', '\nc.', '\nd.', '\ne.', '\nf.', '\ng.']
+    # options = ['\n' for x in range(8)]
+    options_suffix = "\n"
+    end_splitting = False
     create_if_not_exists(source)
     while True:
         content = get_content(source, limiter)
@@ -71,7 +73,7 @@ if __name__ == "__main__":
                 print(f"--************-------- Save image in {source['folder']} as a {picture_filename}")
                 input("+++ press enter")
             answers_raw = input("+++++++++++++++++++ Copy paste all answers.")
-            answers = extract_answers(answers_raw, options, end_splitting=True)
+            answers = extract_answers(answers_raw, options, options_suffix=options_suffix, end_splitting=end_splitting)
             correct_answer_i = input(f"Which answer(s) is(are) correct of these {len(answers)}?")
             comment = input("What is comment?")
             append_question(source, [limiter, len(content)+1, picture_filename],
