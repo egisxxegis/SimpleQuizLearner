@@ -2,10 +2,22 @@ from FileHandler import *
 import shutil
 
 
-def exists_question(the_content: [Task], the_question):
+def exists_question(the_content: [Task], the_question: str):
     for the_task in the_content:
-        if the_task.question.find(the_question) > -1:
+        if the_task.question.find(the_question) > -1\
+                and same_amount_of_a_and_s(the_task.question, the_question, verbose=True):
             return True
+    return False
+
+
+def same_amount_of_a_and_s(valid_question, untrusted_question, verbose=False):
+    if valid_question.count('a') == untrusted_question.count('a') \
+            and untrusted_question.count('s') == untrusted_question.count('s'):
+        if verbose:
+            print(f"-----Same question as:\n{valid_question}")
+        return True
+    if verbose:
+        print("_____________________________-Found unfound question")
     return False
 
 
@@ -62,7 +74,7 @@ if __name__ == "__main__":
         if len(content) == 20:
             print("---------------*********** Limit 20 questions reached. Stopping")
             break
-        question = input("Input full question.\n")
+        question = input("Input full question.\n").strip("\r\n")
         if exists_question(content, question):
             print("------------Question exists. skipping")
         else:
