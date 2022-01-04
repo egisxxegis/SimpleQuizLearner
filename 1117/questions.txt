@@ -1,0 +1,217 @@
+%!%1%!%0%!%
+Tiekėjų atrankos proceso rezultatas yra:
+%!%4%!%tiekėjų sąskaitos
+%!%darbo užduotis
+%!%sandoris
+%!%vertinimo kriterijai%!%3%!%Tiekėjų atrankos procesas baigiasi sandorio sudarymu.  Sandoris – tai bendras susitarimas, įpareigojantis tiekėją pristatyti apibrėžtą produktą, o pirkėją - atsilyginti už tai.
+
+
+The correct answer is: sandoris
+%!%2%!%0%!%
+Projektų valdymo informacinė sistema yra instrumentas, kuris nėra naudojamas:
+%!%4%!%informacijos apie projekto eigą platinimui
+%!%projekto vykdymo valdymui
+%!%integruotajai keitimų kontrolei
+%!%projekto plano rengimui%!%1%!%Informacijos platinimo tikslas yra suteikti projekto akcininkams informaciją apie projekto stovį nustatytu laiku. Informacijos  platinimo priemonėms ir būdams priskiriami komunikavimo įgūdžiai, informacijos rinkimo ir paieškos sistemos, informacijos platinimo metodai, šios srities pamokos.
+
+PV IS priemonės, tiek automatinės, tiek rankinės, yra skirtos projekto procesams valdyti.
+
+
+The correct answer is:
+informacijos apie projekto eigą platinimui
+%!%3%!%0%!%
+Jūs gavote potencialių tiekėjų pasiūlymus. Išanalizavę juos pastebėjote didelį siūlomų produktų specifikacijų skirtumą. Kokia yra viso to priežastis?
+%!%4%!%tiekėjai nesuprato reikalavimų
+%!%pirkimo dokumentai buvo neaiškūs ir neišbaigti
+%!%pirkimo dokumentuose netikusiai buvo apibrėžtas pasiūlymų formatas
+%!%pirkimo dokumentuose nebuvo apibrėžti pasiūlymų vertinimo kriterijai%!%2%!%Manytina, kad šiame scenarijuje tiekėjams buvo neaiški prašomo produkto specifikacija, t. y.  pirkimo dokumentai buvo neaiškūs ir neišbaigti.
+
+The correct answer is: pirkimo dokumentai buvo neaiškūs ir neišbaigti
+%!%4%!%0%!%
+Pagrindinių darbo ir elgesio taisyklių (ground rules) nustatymas projekto ankstyvojoje stadijoje yra naudingas dėl žemiau išvardintų priežasčių, išskyrus:%!%4%!%jos suteikia grupės nariams aiškumo, ką jie gali daryti ir ko ne
+%!%jos padeda grupei dirbti našiau
+%!%jos padeda išvengti netvarkos grupėje
+
+%!%jos sudaro sąlygas projekto nariams susipažinti%!%4%!%Sąlygų sudarymas projekto nariams susipažinti nėra nauda, kurią duoda pagrindinių darbo ir elgesio taisyklių (ground rules) nustatymas ankstyvojoje projekto stadijoje.
+
+Taisyklės aiškiai apibrėžia, kas leidžiama grupės nariams ir kas ne.
+
+
+The correct answer is: jos sudaro sąlygas projekto nariams susipažinti
+%!%5%!%0%!%
+Kuriame iš žemiau nurodytų projekto procesų atsiranda apčiuopiami rezultatai, informacija apie darbų vykdymą, prašymai daryti pakeitimus, o taip pat yra daromi pakeitimai, atliekami korekciniai ir/ar prevenciniai veiksmai, šalinami defektai?
+%!%4%!%informacijos platinimo
+%!%projekto valdymo plano rengimo
+%!%projekto vykdymo
+%!%keitimų kontrolės%!%3%!%- Projekto vykdymas apima veiklas, susijusias su projekto valdymo plane įvardintų darbų atlikimu.
+- Projekto valdymo planas yra planavimo proceso rezultatas.
+- Keitimų kontrolė yra procedūrų visuma, kuri padeda nagrinėti projekto vykdymo eigoje atsirandančius prašymus daryti pakeitimus. Tai instrumentas, kuris naudojamas projekto integruotosios keitimų kontrolės procese.
+- Einamieji organizaciniai dokumentai ar jų pakeitimai yra informacijos platinimo proceso rezultatas.
+
+The correct answer is:
+projekto vykdymo
+%!%6%!%0%!%
+Kokie projekto vadovo įgūdžiai yra svarbiausi?%!%4%!%bendravimo stilius
+
+%!%techniniai
+%!%projekto grupės formavimo
+%!%komunikavimo žodžiu ir raštu%!%4%!%Projekto vadovui svarbu turėti gerus komunikavimo žodžiu ir raštu įgūdžius.
+
+Apie 80 proc. savo darbo laiko projekto vadovas sugaišta įvairioms komunikacijoms. Todėl geri komunikavimo įgūdžiai jam yra svarbiausi.
+
+
+The correct answer is: komunikavimo žodžiu ir raštu
+%!%7%!%0%!%
+Projekto grupės konstravimo (team-building) veiklų tikslas yra:%!%4%!%kalbinti grupės narius dirbti viršvalandžius
+%!%didinti grupės darbo našumą
+%!%a)laikytis projektų valdymo gairių
+%!%gerinti grupės narių santykius%!%2%!%Projekto grupės konstravimo veiklų tikslas yra didinti grupės darbo našumą.  Į jas įtraukiami vadovai ir atskiri grupės nariai.
+
+The correct answer is: didinti grupės darbo našumą
+%!%8%!%0%!%
+Kuris iš žemiau išvardintų dalykų reikalingas atrankos (screening) sistemai, norint naudoti ją tiekėjų atrankos procese?
+%!%4%!%rinkos kainų apžvalga tiekėjų prašomų kainų pagrįstumui įvertinti
+%!%potencialių tiekėjų sąrašas, surikiuotų eilės tvarka pagal svertąsias reikšmes, gaunamas sumuojant kiekvieno kriterijaus reikšmės ir jo svorio sandaugas
+%!%prašomų atlikti darbų kainos įvertis, parengtas nepriklausomų specialistų (should-cost)
+%!%dokumentuoti minimalūs reikalavimai potencialiems tiekėjams%!%4%!%Atrankos sistemoje naudojamas slenkstis, pagal kurį filtruojami pasiūlymai. Tai sąlygos, kurias turi atitikti tiekėjas, kad jis būtų pakviestas deryboms.
+
+
+The correct answer is: dokumentuoti minimalūs reikalavimai potencialiems tiekėjams
+%!%9%!%0%!%
+Kurie iš žemiau pateiktų rezultatų yra akcininkų valdymo proceso įeities duomenys?%!%4%!%pakeitimų registras ir rizikų registras
+%!%problemų registras ir darbų eigos ataskaitos
+%!%akcininkų valdymo planas ir pakeitimų registras
+%!%pakeitimų registras ir įmonės aplinkos duomenys%!%3%!%Akcininkų įsipareigojimų valdymas (angl. manage stakeholder engagement) – procesas, kurio metu komunikuojama ir dirbama su akcininkais, kad būtų patenkinti jų lūkesčiai, sprendžiamos jų problemos ir palaikomas jų susidomėjimas, įsipareigojimai projektui
+
+
+The correct answer is:
+akcininkų valdymo planas ir pakeitimų registras
+%!%10%!%0%!%
+Kuris iš teiginių yra teisingas, kai kalbama apie komunikavimo būdus?
+%!%4%!%iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo raštu būdą
+%!%iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo raštu arba neformalų komunikavimo balsu (pasikalbėjimo) būdą
+%!%iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo balsu (pasikalbėjimo) būdą
+%!%sudėtingais projekto atvejais jūs turite naudoti situaciją geriausiai atitinkantį komunikavimo būdą%!%1%!%Sudėtingi klausimai dažniausiai yra susiję su sudėtingais ir daug pastangų reikalaujančiais projekto darbais. Tokiais atvejais geriau naudoti formalų komunikavimo raštu būdą, nes kartu jis padeda dokumentuoti iškilusius klausimus.
+
+Kiti atsakymai į šį klausimą nėra tinkami.
+
+
+The correct answer is: iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo raštu būdą
+%!%11%!%0%!%
+Kuris iš žemiau išvardintų dalykų yra projekto vykdymo valdymo proceso rezultatas?
+%!%4%!%patvirtinti defektų šalinimai
+%!%prašomi pakeitimai
+%!%projekto valdymo planas
+%!%patvirtinti korekciniai veiksmai%!%2%!%Prašomi pakeitimai yra projekto vykdymo valdymo proceso rezultatas.
+
+Šis procesas apima veiklas, būtinas projektui įvykdyti. Dažnai, atliekant šias veiklas, tenka daryti projekto pakeitimus. Prašomi pakeitimai verčia didinti arba mažinti projekto apimtį, koreguoti projekto darbų grafiką.
+
+The correct answer is:
+prašomi pakeitimai
+%!%12%!%0%!%
+Kuris iš žemiau nurodytų dalykų yra informacijos platinimo proceso rezultatas:
+%!%4%!%projekto planas
+
+%!%komunikacijų valdymo planas
+%!%projekto būsena
+%!%projekto nuostatai%!%3%!%Projekto būsena yra informacijos platinimo proceso rezultatas.
+
+Informacijos platinimo proceso metu projekto akcininkai nustatytu laiku informuojami apie projekto būseną. Tai projekto valdymo grupės ataskaitos, rengiamos komunikacijų valdymo plane numatytais laiko momentais , kuriose apžvelgiamas projektas.
+
+
+The correct answer is: projekto būsena
+%!%13%!%0%!%
+Projekto įrašai (faktų aprašymai), ataskaitos ir pristatymai yra vieno iš žemiau išvardintų procesų rezultatas. Kurio?%!%4%!%projekto vykdymo valdymo
+
+%!%ataskaitų apie darbą rengimo
+%!%komunikacijų planavimo
+%!%informacijos platinimo%!%4%!%Projekto įrašai (faktų aprašymai), ataskaitos ir pristatymai yra informacijos platinimo proceso rezultatas. Pastarojo metu nustatytais laiko momentais parengiama akcininkams reikalinga  informacija.
+
+Kiti nurodyti atsakymai į šį klausimą yra neteisingi
+
+
+The correct answer is:
+informacijos platinimo
+%!%14%!%0%!%
+Kuriame projektų valdymo procese naudojami kokybės matavimų rezultatai?
+%!%4%!%išlaidų kontrolės
+%!%kokybės užtikrinimo
+
+%!%kokybės planavimo
+%!%darbų grafiko laikymosi kontrolės%!%2%!%Kokybės matavimų rezultatai nėra naudojami:
+
+- išlaidų kontrolės procese. Pastarasis procesas yra kontrolės procesų grupės dalis.
+- darbų grafiko laikymosi kontrolės procese. Jis taip pat yra kontrolės procesų grupės dalis.
+- kokybės planavimo procese, kurio metu įvardijami projekto kokybės standartai ir būdai, kaip tuos standartus reikėtų įgyvendinti.
+
+The correct answer is:
+kokybės užtikrinimo
+%!%15%!%0%!%
+Kuri iš žemiau išvardintų veiklų nėra sutinkama projekto vykdymo valdymo procese?
+%!%4%!%atliekamų darbų vertinimas, kad galima būtų įvardinti reikiamus korekcinius ar prevencinius veiksmus
+%!%reakcijos į riziką veiksmų atlikimas
+%!%a)projekto rezultatų tvirtinimas
+%!%vidinių ir išorinių komunikacijos kanalų valdymas%!%1%!%Projekto vykdymo valdymo procese nėra atliekamų darbų vertinimo, kad galima būtų įvardinti reikiamus korekcinius ar prevencinius veiksmus.
+
+Toks vertinimas atliekamas projekto darbų kontrolės procese, ir patvirtinti korekciniai ar prevenciniai veiksmai, kurių numatoma imtis, yra projekto vykdymo valdymo proceso įeities duomenys.
+The correct answer is:
+atliekamų darbų vertinimas, kad galima būtų įvardinti reikiamus korekcinius ar prevencinius veiksmus
+%!%16%!%0%!%
+Visi žemiau išvardinti dalykai yra informacijos platinimo proceso rezultatai, išskyrus:
+%!%4%!%projekto ataskaitas
+%!%projekto pristatymus
+%!%projekto planą
+%!%projekto įrašus%!%3%!%Projekto planas nėra informacijos platinimo proceso rezultatas.
+
+Projekto planas rengiamas projekto plano rengimo procese, kurio metu integruojami (sujungiami) visų planavimų (projekto apimties, darbų grafiko, kainos, kt.) rezultatai. Projekto plano dalis – komunikacijų planas, yra įeities duomenys informacijos platinimo procesui.
+
+
+The correct answer is: projekto planą
+%!%17%!%0%!%
+Jeronimas yra projekto, skirto pagaminti atominio ginklo komponentus, projekto vadovas. Jo projekto komandą sudaro patyrę mokslininkai, inžinieriai, dizaineriai ir techniniai ekspertai. Jeronimas, siekdamas komandoje sukurti pasitikėjimo atmosferą, inicijavo pradinį projekto susitikimą (kickoff meeting) su visais komandos nariais. Susitikimo metu Jeronimas siekia supažindinti komandą su projekto tikslais ir sužinoti daugiau apie kiekvieno komandos nario interesus ir patirtį. Jis taip pat turi paskirstyti roles ir atsakomybes kiekvienam komandos nariui. Kuriame etape yra Jeronimo komanda?
+%!%4%!%brandos (Performing)
+%!%prieštaravimo (Storming)
+%!%pusiausvyros (Norming)
+%!%formavimosi (Forming)%!%4%!%Forming – Storming – Norming – Perfoming
+
+Formavimosi etapas – supažindinimas su projektu, formalia atsakomybe; narių uždarumas, savarankiškumas 
+
+Prieštaravimų etapas – pradedamas darbas; ieškomi techniniai sprendimai; konfliktai; lyderių išaiškėjimas
+
+Pusiausvyros etapas – pradedama dirbti kartu; prisitaikoma
+
+Brandos etapas –  pasiekiamas efektyvumas; dirbama nepriklausomai, gerai organizuotai, sklandžiai
+
+
+The correct answer is:
+formavimosi (Forming)
+%!%18%!%0%!%
+Jūs esate projekto vadovas, dirbantis automobilių gamykloje. Jūsų projektas yra susijęs su naujo automobilio kūrimu. Jūs įvardinote keletą komponentų, kurių gamybą  norėtumėte pavesti rangovui. Todėl norite susitikti su galimais tiekėjais, turinčiais reikalingų įgūdžių. Jūsų gamyklos pirkimų departamentas pateikė jums projektui potencialių tiekėjų sąrašą. Ką jūs turėtumėte daryti toliau?%!%4%!%viešai paskelbti savo reikalavimus ir laukti tiekėjų pasiūlymų
+%!%pakviesti departamento sąraše nurodytus tiekėjus deryboms
+%!%išsiuntinėti pirkimo dokumentus departamento sąraše nurodytiems tiekėjams
+%!%išsiuntinėti sandorio projekto (draft) kopijas departamento sąraše nurodytiems potencialiems tiekėjams%!%3%!%Toliau jūs turėtumėte išsiuntinėti pirkimo dokumentus departamento sąraše nurodytiems tiekėjams. Pirkimo dokumentai reikalingi prašant potencialius tiekėjus teikti pasiūlymus, ir jie yra prašymo tiekėjams teikti pasiūlymus proceso įeities duomenys.
+
+Klausime minimu atveju jums reikėtų išsiuntinėti pirkimo dokumentus iš pirkimų departamento gautame sąraše nurodytiems tiekėjams ir paprašyti atsiųsti atsakymus iki nurodyto laiko. Visa tai yra prašymo tiekėjams teikti pasiūlymus proceso dalis.
+
+The correct answer is: išsiuntinėti pirkimo dokumentus departamento sąraše nurodytiems tiekėjams
+%!%19%!%0%!%
+Kuriame procese kaip priemonė yra naudojamas kokybės auditas:
+%!%4%!%kokybės užtikrinimo
+%!%reakcijos į kokybę planavimo
+%!%kokybės kontrolės
+%!%kokybės planavimo%!%1%!%Kokybės auditas atliekamas įvairiuose projekto etapuose. Tuo siekiama, kad projekto rezultatas atitiktų apibrėžtus kokybės standartus.
+
+The correct answer is:
+kokybės užtikrinimo
+%!%20%!%0%!%
+Kas galiausiai yra atsakingas už projekto kokybę?
+%!%4%!%projekto techninis vadovas
+%!%kokybės vadovas
+%!%komandos narys
+%!%projekto vadovas%!%4%!%Už projekto kokybę atsako projekto vadovas.
+
+Projektų vadovas yra paskirtas tam, kad būtų pasiekti projekto tikslai, tame tarpe ir sutarta kokybė.
+
+
+The correct answer is:
+projekto vadovas

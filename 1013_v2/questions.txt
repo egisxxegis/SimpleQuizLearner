@@ -1,0 +1,189 @@
+%!%1%!%0%!%
+Kokiais argumentais reikėtų remtis tikrinant visas daromas prielaidas?%!%4%!%prielaidos prioritetu
+
+%!%prielaidos pagrįstumu ir poveikio projektui lygiu
+
+%!%prielaidos pagrįstumu ir tikimybe
+%!%poveikio projektui lygiu%!%2%!%Prielaidų pagrįstumo tikrinimas sumažina projekto riziką. Prielaidų poveikio projektui lygio tikrinimas padeda nustatyti, kuri iš jų yra svarbiausia.
+
+Prielaidos turi būti tikrinamos ne tik poveikio projektui lygio požiūriu, bet dar turi būti tikrinamas ir jų pagrįstumas. Neteisingos prielaidos turi įtakos projekto rizikai.
+
+Prielaidos nėra dėstomos prioriteto tvarka.
+
+Prielaidos yra veiksniai, kurie turi įtakos projekto apribojimams (kainai, laikui, apimčiai). Tuo tarpu apribojimai nėra naudojami tikrinant prielaidų pagrįstumą.
+%!%2%!%0%!%
+Jūs svarstote klausimą, ką projekte galėtumėte pasidaryti patys ir ką reikėtų pirkti. Į kokį veiksnį jūs mažiausiai kreipsite dėmesį?%!%4%!%neplatintinos (jautrios) projekto detalės
+%!%darbų kaina, jei juos darysite patys
+%!%ar yra reikalingi išoriniai tiekėjai
+%!%jūsų organizacijos vidiniai ištekliai%!%3%!%Klausimo daryti patiems ar pirkti svarstymu siekiama išsiaiškinti, kokius produktus pigiau yra gamintis patiems, o kokius geriau pirkti. Tokio svarstymo metu labai svarbu žinoti:
+
+- ar jūsų organizacijoje yra specialistų, galinčių atlikti tam tikrus darbus;
+
+- ar reikalingi atlikti darbai susiję su komercinėmis, organizacijos vidinėmis, kt.  paslaptimis;
+
+- ar pakanka laiko ir organizacijos išteklių norint patiems atlikti reikiamus darbus;
+
+- ar reikiamus darbus atlikti patiems yra pigiau (patogiau, naudingiau).
+
+Kiti klausime išvardinti veiksniai yra svarbūs svarstant darymo patiems ar pirkimo klausimą.
+%!%3%!%0%!%
+Kuriame procese yra naudojami visi šie būdai ar priemonės kaip analogiškasis vertinimas, vertinimas iš viršaus į apačią, projektų valdymo programinė įranga, tiekėjų prašomos kainos (a bid) analizė, kokybės kaina?%!%4%!%išlaidų kontroliavimo
+%!%išlaidų planavimo
+%!%darbams reikiamų išteklių dydžio vertinimo
+%!%projekto kainos vertinimo%!%4%!%Projekto kainos vertinimo procese naudojami visi klausime išvardinti būdai ar priemonės. Taip pat kainos vertinimo procese dar yra naudojami išteklių kainininkai, parametrinis vertinimas, atsargų analizė.
+%!%4%!%0%!%
+Jūs rengiate savo projekto darbų grafiką ir pastebite, kad vieno iš darbų vėliausias pradžios laikas yra ankstesnis už jo anksčiausią pradžios laiką. Sakoma, kad toks darbas turi:%!%4%!%laisvąjį svyravimo dydį laike
+%!%neigiamą svyravimo dydį laike
+%!%delsimo laiką
+
+%!%svyravimo dydį (float) laike lygų nuliui%!%2%!%Paprastai sakoma, kad toks darbas turi neigiamą svyravimo dydį laike. Neigiamas svyravimo dydis gaunamas tada, kai darbo vėliausias pradžios laikas yra ankstesnis už darbo anksčiausią pradžios laiką. Neigiamas svyravimo dydis rodo, kad darbas yra kritinis ir darbų grafiką būtina paderinti, kad projektas būtų užbaigtas numatytu laiku. Neigiami svyravimo dydžiai paprastai gaunami, kai projektui uždedami pernelyg griežti laiko apribojimai. Būdai neigiamiems svyravimo dydžiams darbų grafike pašalinti yra papildomų išteklių kritinio kelio darbams atlikti skyrimas arba projekto darbų grafiko perdarymas ar pailginimas.
+%!%5%!%0%!%
+Kuris iš žemiau išvardintų dalykų nėra pirkimų planavimo proceso įeities duomenys?%!%4%!%projekto apimties aprašas
+
+%!%rinkos sąlygos
+
+%!%suskaidytų darbų lentelė (WBS)
+
+%!%tinkamų tiekėjų sąrašas%!%4%!%Tinkamų tiekėjų sąrašas nėra pirkimų planavimo proceso įeities duomenys. Toks sąrašas sudaromas tiekėjų pasiūlymų rinkimo procese.
+
+Kiti šio klausimo atsakymai nurodo pirkimų planavimo proceso įeities duomenis. Įmonės aplinkos duomenys (enterprise environmental factors; šalia kitų duomenų juose yra rinkos sąlygos), įmonės organizaciniai dokumentai (organizational process assets), projekto apimties aprašas, suskaidytų darbų lentelė (WBS), projekto valdymo planas taip pat yra pirkimų planavimo proceso įeities duomenys.
+%!%6%!%0%!%
+Kuris kainos vertinimo būdas naudoja projekto charakteristikas ir matematinį modelį įverčiams gauti?%!%4%!% analogiškąjį
+%!%parametrinio modeliavimo
+
+%!%vertinimo iš apačios į viršų
+%!%tiekėjų pasiūlymų analizės%!%2%!%Parametrinis modeliavimas yra daugiau patikimas, kai anksčiau sukaupta informacija modeliui pagrįsti yra patikima, modelyje naudojami parametrai lengvai išmatuojami ir modelis yra tinkamas.
+
+Tiekėjų pasiūlymų analizė nėra projekto kainos vertinimo būdas. Tai tiekėjų pasiūlymų vertinimas – priimtinas ar ne.
+%!%7%!%0%!%
+Jūsų kompanija pasirašė fiksuotos kainos sandorį su užsakovu. Pagal sandorio užduotį jūs turite sukurti naują programinės įrangos modulį. Atsižvelgiant į sandorio tipą, kuris iš žemiau išvardintų dalykų reikalauja didžiausio dėmesio?%!%4%!%kokybė
+%!%projekto apimtis (scope)
+
+%!%išteklių buvimas
+%!%baigimo terminas%!%2%!%Didžiausią dėmesį reikia skirti projekto apimčiai (scope), nes jūs kaip tiekėjas esate atsakingas už darbų atlikimą su užsakovu  sutarta fiksuota kaina, nežiūrint tikrųjų išlaidų. Baudos dėl bet kokių projekto vėlavimų gali sumenkinti viso projekto vykdymo naudą. Fiksuotos kainos tipo sandoriuose tiekėjas turi atidžiai stebėti projekto apimtį, kad išvengtų papildomų išlaidų.
+%!%8%!%0%!%
+Kuris iš žemiau išvardintų dalykų yra naudojamas Pirkimų planavimo procese?%!%4%!%standartiniai blankai (formos)
+
+%!%tiekėjų konferencija
+%!%atrankos (screening) sistema
+
+%!%ekspertų nuomonė%!%4%!%Ekspertų nuomonė yra svarbi Pirkimų planavimo procese. Pirkimų planavimo metu priimamas sprendimas dėl sistemos  (paslaugų) darymo patiems arba pirkimo. Jeigu nutariama pirkti, išvardinami numatomi pirkti dalykai. Ekspertų nuomonė labai praverčia priimant darymo/pirkimo sprendimą.
+
+Standartiniai blankai (formos) nėra naudojami Pirkimų planavimo procese. Jie dažniausiai naudojami planuojant sandorius.
+
+Atrankos (screening) sistema nėra naudojama Pirkimų planavimo procese. Tik vėliau, gavus pasiūlymus, ji naudojama atrenkant priimtiniausią tiekėją.
+
+Tiekėjų konferencija nėra šaukiama Pirkimų planavimo procese. Ji gali būti šaukiama prašymo potencialiems tiekėjams duoti pasiūlymus paskelbimui.
+%!%9%!%0%!%
+Projekto vykdymo metu jums prireikė papildomo  vadybininko  specifiniams darbams koordinuoti. Projekto pradžioje tokios pareigos nebuvo numatytos.  Reikalingas tarpinis vadybinis lygmuo tarp jūsų, kaip projekto vadovo, ir specifinius darbus atliekančios grupelės. Kuris iš žemiau nurodytų veiksmų būtų labiausiai tinkamas?%!%4%!%visos projekto grupės narių susirinkimo sušaukimas ir naujo grupės nario pristatymas
+
+%!%potvarkio, kad tos grupelės narių visi el. laiškai būtų siunčiami jums per naująjį vadybininką, paskelbimas
+
+%!%visos projekto grupės pertvarkymas
+
+%!%komunikacijų valdymo plano modifikavimas%!%4%!%Tinkamiausias jūsų veiksmas būtų komunikacijų valdymo plano modifikavimas. Tarpinio vadybinio lygmens tarp jūsų ir specifinius darbus atliekančios grupelės įvedimas reiškia, kad grupelė turi raportuoti naujam vadybininkui, o jis savo ruožtu raportuoti jums. Taip pasikeičia komunikacijų seka.
+%!%10%!%0%!%
+Jūs esate įmonės resursų planavimo (ERP) sistemos diegimo projekto vadovas. Keletas projekto grupės narių atkreipė jūsų dėmesį, kad jiems nesuteikiama reikiama informacija apie projekto stovį. Kokius projekto dokumentus reikia peržiūrėti?%!%4%!%reakcijos į rizikos veiksnius planą
+
+%!%projekto valdymo planą
+
+%!%projekto apimties valdymo planą
+
+%!%komunikacijų valdymo planą%!%4%!%Komunikacijų valdymo plane apibrėžiama projekto informacijos platinimo struktūra, kartu nurodant, kas turi gauti informaciją.
+
+Projekto valdymo plane išdėstomos bendrosios projekto nuostatos. Jame, kaip atskira jo dalis, gali būti komunikacijų valdymo planas, kurį ir reikėtų peržiūrėti.
+
+Reakcijos į rizikos veiksnius plane nurodoma, kaip bus valdoma projekto rizika, o projekto apimties valdymo plane nurodoma, kaip bus valdoma projekto apimtis. Šiuose planuose  nėra rašoma apie projekto informacijos platinimą.
+%!%11%!%0%!%
+Kuris sakinys geriausiai apibūdina išlaidų plano (cost baseline) sąvoką projekte?%!%4%!%išlaidų planas reiškia visas projekto eigoje padarytas išlaidas
+
+%!%išlaidų planas yra projektui patvirtintų lėšų paskirstymas laike ir naudojamas projekto išlaidoms kontroliuoti
+
+%!%išlaidų planas yra nekintamas dydis, kuris reiškia projekto kainos įvertį projekto pradžioje
+
+%!%išlaidų planas naudojamas planavimo procese vertinant projekto darbų kainas%!%2%!%Išlaidų planas yra projektui patvirtintų lėšų paskirstymas laike ir naudojamas projekto išlaidoms kontroliuoti. Išlaidų planas sudaromas rengiant projekto biudžetą.  metu. Jis gaunamas sumuojant visas išlaidas bėgant laikui. Išlaidoms pavaizduoti yra naudojama S-kreivė (S-curve), kurios Y-ašyje atidedama padarytų išlaidų suma, o X-ašyje – laikas.
+%!%12%!%0%!%
+Kurio proceso rezultatas yra vertinimo kriterijai:%!%4%!%prašymo tiekėjams teikti pasiūlymus
+
+%!%sandorių planavimo
+%!%tiekėjų atrankos
+
+%!%pirkimų planavimo%!%4%!%Vertinimo kriterijai yra pirkimų planavimo proceso rezultatas. Pirkimų planavimo proceso rezultatai yra pirkimų valdymo planas, darbų užduotys (SOW – Statement Of Work) tiekėjams, sprendimas daryti patiems ar pirkti, pirkimo dokumentai, vertinimo kriterijai ir įvairūs reikalingi pakeitimai.
+%!%13%!%0%!%
+Kuris iš žemiau išvardintų dalykų yra projekto biudžeto rengimo proceso rezultatas:%!%4%!%atliktų darbų dydis
+%!%darbų kainų įverčiai
+%!%lėšų apjungimas (cost aggregation)
+%!%projekto etapams paskirstytos lėšos (cost baseline)%!%4%!%Projekto etapams (pvz., mėnesiams) paskirstytos lėšos yra biudžeto rengimo rezultatas.
+
+Darbų kainų įverčiai gaunami kainos vertinimo procese.
+
+Lėšų apjungimas yra būdas arba priemonė, kuri naudojama biudžeto rengimo procese. 
+
+Atliktų darbų dydis yra naudojamas išlaidų kontrolės procese.
+%!%14%!%0%!%
+Kuriems asmenims yra skirti pirkimų planavimo procese parengti pirkimo dokumentai?%!%4%!%užsakovui (pirkėjui)
+
+%!%galimiems tiekėjams
+
+%!%akcininkams
+
+%!%projekto vadovui%!%2%!%Pirkimo dokumentuose pirkėjo poreikiai išdėstomi taip, kad galimas tiekėjas galėtų parengti aiškų ir tinkamą pirkėjo svarstymui atsakymą. Prašymai teikti pasiūlymus (RFP) ir kainos (a bid) siūlymai yra pirkimo dokumentų pavyzdžiai.
+
+Nors projekto vadovui ir akcininkams taip pat rūpi pirkimo dokumentai, tačiau jie nėra pagrindiniai šių dokumentų adresatai.
+
+Užsakovas (pirkėjas) yra pirkimo dokumentų kūrėjas , o ne gavėjas.
+%!%15%!%0%!%
+Jūs esate projekto vadovas leidybos kompanijoje. Sudarydami projekto darbų grafiką pastebėjote, kad jame yra daug kritinių kelių. Kuris iš žemiau pateiktų teiginių geriausiai tinka tokiam projektui:%!%4%!%jūsų atlikti kritinio kelio skaičiavimai yra neteisingi, nes projektas gali turėti tik
+
+     vieną kritinį kelią
+%!%projekto rizika yra didesnė, nes esant daug kritinių kelių jo valdymas yra
+
+     sudėtingesnis
+%!%projektui valdyti reikia mažiau pastangų, nei  esant tik vienam kritiniam keliui
+%!%kritiniai keliai sueina į tą patį projekto tašką%!%2%!%Jūsų projekto rizika yra didesnė, nes esant daug kritinių kelių projekto valdymas yra sudėtingesnis. Nukrypimams nuo darbų grafiko išvengti tenka įdėti žymiai daugiau pastangų. Kuo daugiau kritinių kelių, tuo didesnė tikimybė, kad kurį nors darbą bus vėluojama atlikti.
+
+Teiginys, kad jūsų atlikti kritinio kelio skaičiavimai yra neteisingi, nes projektas gali turėti tik vieną kritinį kelią, yra neteisingas. Projektas gali turėti daug kritinių kelių.
+%!%16%!%0%!%
+Jūs laimėjote konkursą projektui vykdyti. Projekto trukmė yra treji metai, ir jūs pasižadėjote užsakovui įdiegti naują įrangą ir procesus. Reikiamiems darbams atlikti pasirašėte 1,2 mln. Eur sandorį. Taip pat sandoryje suderėjote, kad atlikus darbus greičiau nei planuota, jūs gausite papildomai 200 000 Eur. Kokio tipo sandorį jūs sudarėte?%!%4%!%grynai fiksuotos kainos (FFP - Firm Fixed Price)
+%!%išlaidas padengiantįjį su fiksuoto dydžio priedu (CPFF - Cost Plus Fixed Fee)
+%!%išlaidas padengiantįjį su paskatinamuoju priedu (CPIF - Cost Plus Incentive Fee)
+
+%!%fiksuotos kainos su paskatinamuoju priedu (FPIF - Fixed Price Incentive Fee)%!%4%!%FPIF sandoris yra toks, kuriame tiekėjas atlieka darbus už sutartą kainą ir turi galimybę gauti paskatinamąjį priedą (premiją), jei atitinka nustatytus kriterijus.
+%!%17%!%0%!%
+Kam skirsite pagrindinį dėmesį vadovaudami projektui, kuriame su tiekėju yra sudarytas laiko ir medžiagų apmokėjimo (T&M) tipo sandoris:%!%4%!%tiekėjo patikimumui
+%!%tiekėjo medžiagų kainai
+%!%projekto darbų grafikui (schedule)
+
+%!%projekto apimčiai (scope)%!%3%!%Šio tipo sandoriuose atsiskaitoma remiantis fiksuotu darbo valandos įkainiu ir pateiktomis išlaidomis medžiagoms. Jei atsiliekama nuo projekto darbų grafiko, pirkėjas turi papildomas išlaidas. Todėl reikia atidžiai stebėti, kaip laikomasi projekto darbų grafiko. Jums, kaip projekto vadovui, nuolatos tenka stebėti projekto apimtį (scope). Dauguma projekto apimties keitimų reikalauja ilginti projekto trukmę. T&M tipo sandorio atveju tai iššaukia papildomas išlaidas. Todėl projekto darbų grafikas turi būti jūsų dėmesio centre. 
+
+ Tiekėjo patikimumas įvertinamas prieš pasirašant sandorį.
+
+ Jūs kaip pirkėjas turite padengti tiekėjo išlaidas medžiagoms. Tačiau dažniausiai pirkėjo išlaidų padidėjimą lemia ne medžiagos, o atsilikimas nuo projekto darbų grafiko.
+%!%18%!%0%!%
+Kuris iš žemiau išvardintų dalykų nėra pirkimų planavimo proceso įeities duomenys:%!%4%!%suskaidytų darbų lentelė (WBS)
+
+%!% projekto apimties aprašas (scope statement)
+
+%!%įmonės organizaciniai dokumentai (enterprise organizational process assets)
+%!%tiekėjų pasiūlymai%!%4%!%Tiekėjų pasiūlymai nėra naudojami pirkimų planavimo procese. Pasiūlymai gaunami tik paskelbus prašymą teikti juos (RFP – Request For Proposal), bet ne pirkimų planavimo procese.
+
+Kiti šiame klausime išvardinti dalykai yra naudojami pirkimų planavimo procese.
+
+Be jų dar yra naudojamas darbų skaidymo žinynas ir projekto valdymo planas.
+%!%19%!%0%!%
+Kuris iš žemiau išvardintų dalykų nėra kliūtis efektyviam komunikavimui:%!%4%!%žargono naudojimas, kuris klausytojui nėra žinomas
+
+%!%atidus klausymasis
+%!%prasti rašymo įgūdžiai
+%!%pašalinė su projektu nesusijusi informacija%!%2%!%Atidus klausymasis nėra kliūtis efektyviam komunikavimui. Taip parodomas dėmesys kalbančiajam, savais žodžiais pasitikslinama kalbėtojo išsakyta mintis, paprašoma reikiamų paaiškinimų.
+
+Su projektu nesusijusi informacija, prasti rašymo įgūdžiai, klausytojui nesuprantamas žargonas yra komunikavimo kliūtys. Efektyviam komunikavimui taip pat kenkia nepakankamos informacijos perdavimas, informacijos perdavimas ne tam asmeniui, pavėluotas informacijos perdavimas arba perdavimas nepatogiu metu.
+%!%20%!%0%!%
+Kuris iš žemiau išvardintų dalykų yra komunikacijų planavimo proceso įeities duomenys?%!%4%!%apribojimai
+%!%komunikacijų valdymo planas
+%!%komunikavimo įgūdžiai
+%!%informacijos paieškos sistemos%!%1%!%Apribojimai yra komunikacijų proceso įeities duomenys. Apskritai, šio proceso įeities duomenys yra įmonės aplinkos duomenys (enterprise environmental factors), įmonės organizaciniai dokumentai (enterprise organizational process assets; juose yra komunikacijų reikalavimai), projekto apimties aprašas ir projekto valdymo planas. 
+
+Komunikavimo įgūdžiai ir informacijos paieškos sistemos yra priemonės, kurios naudojamos informacijos platinimo procese.
+
+Komunikacijų valdymo planas yra komunikacijų planavimo proceso rezultatas, o ne įeities duomenys.

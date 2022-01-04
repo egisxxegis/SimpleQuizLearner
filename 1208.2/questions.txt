@@ -1,0 +1,9 @@
+%!%1%!%0%!%
+Jums reikia kontroliuoti pastebėtų klaidų (defektų) kiekį ir neištaisytų klaidų kiekį. Ką jūs darysite?
+%!%4%!%planuosite eksperimentą
+%!%darysite auditą
+%!%atliksite tendencijų analizę
+%!%naudosite kontrolinį sąrašą (checklist)%!%3%!%Pastebėtų klaidų (defektų) kiekio ir neištaisytų klaidų kiekio kontrolės metu jūs turite atlikti tendencijų analizę. Tendencijų analizė padeda kontroliuoti duoto laikotarpio darbų kiekį, kurie buvo užbaigti su žymiais nukrypimais.
+
+
+The correct answer is: atliksite tendencijų analizę

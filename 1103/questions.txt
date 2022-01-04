@@ -1,0 +1,193 @@
+%!%1%!%0%!%
+Projekto grupės formavime yra naudojami žemiau išvardinti veiksmai, išskyrus vieną:
+%!%4%!%
+valdymo veiksmai grupės našumui pagerinti
+%!%
+individualūs veiksmai atskirų narių ir visos grupės našumui pagerinti
+%!%
+veiksmai akcininkų tarpusavio ryšiams pagerinti
+%!%
+kolektyviniai veiksmai, kad vadovybė patenkintų projekto grupės reikalavimus%!%4%!%•Projekto grupės formavime nenaudojami kolektyviniai veiksmai, kad vadovybė patenkintų projekto grupės reikalavimus.
+•Kiti šiame klausime išvardinti veiksmai naudojami formuojant projekto grupę. Grupės formavimo veikloms priskiriami ir vadovybės, ir atskirų grupės narių veiksmai, kuriais siekiama pagerinti atskirų narių ir visos grupės našumą. Jie yra svarbūs keliant grupės našumą ir didina galimybes pasiekti norimus projekto tikslus.
+%!%2%!%0%!%
+Kuri iš žemiau išvardintų priežasčių, pasitaikančių projekto grupės rinkimo (acquire) procese, yra mažiausiai svarbi, dėl kurios reikėtų keisti projekto grupės valdymo planą?
+%!%4%!%grupės narys išvyko į kitą šalį
+%!%grupės narys, atidirbęs organizacijoje 30 metų, išėjo į pensiją
+%!%grupės narys sunkiai susirgo ir neaišku, kiek laiko negalės grįžti į darbą
+%!%grupės narys organizacijoje buvo pakeltas į aukštesnes pareigas ir daugiau nebebus grupėje%!%1%!%•Grupės nario išvykimas į kitą šalį yra mažiausiai svarbi priežastis, dėl kurios reikėtų keisti projekto grupės valdymo planą. Toks narys gali išlikti grupėje ir dirbti iš toli.
+•Visos kitos šiame klausime išvardintos priežastys yra svarbios, ir, esant joms, projekto grupės valdymo planas turi būti keičiamas. Kiekvienu iš šių atvejų netenkama grupės nario. Todėl būtina nurodyti grupės valdymo plane, kas bus daroma pasitraukus darbuotojui.
+%!%3%!%0%!%
+Jūs esate projekto vadovas. Projekto vykdymo metu jūs pastebite, kad komandoje kyla nesutarimų tiek dėl techninių sprendimų, tiek tarpasmeniniame lygyje. Kuris iš nurodytų būdų yra tinkamiausias konfliktams suvaldyti?
+%!%4%!%Jūs turėtumėte priversti komandą išspręsti konfliktus, kad būtų galima kuo greičiau susitelkti ties projekto tikslais
+%!%Konfliktas turi būti aptartas susitikimo metu, kad visa projekto komanda galėtų dalyvauti surandant sprendimą
+%!%Konfliktai blaško komandą ir įtakoja darbo ritmą. Jūs visada turėtumėte juos švelninti vos tik jie atsiranda
+%!%Į konfliktus turi būti atkreipiamas dėmesys kiek įmanoma anksčiau, tipiškai privačiai, pasitelkiant tiesų, bendradarbiaujantį požiūrį%!%4%!%Bendra taisyklė tokia, kad konflikto niekada negalima viešinti.
+
+Konflikto sušvelninti be pokalbio tipiškai neįmanoma.
+
+Prievarta konfliktai yra neišsprendžiami.
+%!%4%!%0%!%
+Koks geriausias būdas projektų vadovui sukurti ryšį su projekto komanda?
+%!%4%!%Stebint ir bendraujant
+%!%Per trečių šalių vertinimus
+%!%Užduodant trumpus aiškius, klausimus per susitikimus su komanda
+%!%Per padalinių vadovus%!%1%!%Projektų vadovas neturėtų trukdyti projekto komandai, neturėtų rengti specialių susitikimų tik tam, kad rodytų jog palaiko ryšį. Trečios šalys neturėtų būti pasitelktos ryšiui su komanda palaikyti.
+
+Geriausias yra trumpas, neformalus, asmeniškas bendravimas ir stebėjimas.
+%!%5%!%0%!%
+Projekto grupės išdėstymas (co-location) apima žemiau išvardintus dalykus, išskyrus vieną iš jų:
+%!%4%!%visiems arba aktyviausiems projekto grupės nariams darbo vietų suteikimas toje pačioje vietovėje
+%!%pagalbą projekto grupės nariams dirbti vienoje vietoje, nes grupiniam darbui tai turi teigiamos įtakos
+%!%patalpos paskyrimą projekto grupės narių susirinkimams
+%!%apmokėjimo už darbus paskirstymą grupelėms, dirbančioms skirtingose vietovėse%!%4%!%•Projekto grupės išdėstymas (co-location) nėra apmokėjimo už darbus paskirstymas grupelėms, dirbančioms skirtingose vietovėse. Projekto grupės išdėstymas daugiau yra susijęs su grupės formavimu, nei su apmokėjimo už darbus paskirstymu.
+•Projekto grupės išdėstymas reiškia visų jos narių arba daugumos aktyviausių narių įdarbinimą vienoje vietoje. Tai priemonė, kuri naudojama grupės ugdymo (develop team) procese jo darbo našumui padidinti.
+•Kiti šiame klausime išvardinti dalykai yra susiję  su projekto grupės išdėstymo veikla.
+•Kai kuriems projektams grupės narių darbo vietų įrengimas vienoje patalpoje ar vietovėje gali būti nepageidaujamas arba net neįmanomas.
+•Kaip alternatyva grupės narių surinkimui į vieną vietą yra dažnas narių susirinkimų organizavimas. Tai ypač svarbu virtualių grupių atveju, kurių nariai yra išsibarstę atskirose geografinėse vietovėse.
+%!%6%!%0%!%
+Kuris iš žemiau išvardintų dalykų nėra traktuojamas kaip darbų eigos informacija, kuri renkama projekto vykdymo procese?
+%!%4%!%visų projekto grupės narių tabeliai (darbo valandų lentelės)
+%!%detali informacija apie išteklių panaudojimą
+%!%darbų grafike numatyti darbai, kurie nebuvo pradėti
+%!%atlikti darbai%!%1%!%•Projekto grupės narių tabeliai nėra traktuojami kaip darbų eigos informacija. Nors projekto vykdymo procese paprastai tabeliai yra renkami, kur fiksuojamas grupės narių dirbtas laikas, tačiau juose nėra informacijos apie projekto darbų eigą.
+•Visi kiti atsakymai į šį klausimą yra neteisingi, nes juose nurodyta informacija reikalinga darbų eigai apibūdinti.  Projekto vykdymo procese įvairi informacija apie atliekamus darbus yra renkama.
+•Be jau minėtos informacijos gali būti renkama informacija apie pažangą, projekto stovį, gautus rezultatus, užbaigtus darbus, darbų grafiko laikymąsi, išlaidas, kt.
+%!%7%!%0%!%
+Kuri priemonė ar būdas nėra naudojama projekto grupės plėtros (ugdymo) procese?
+%!%4%!%grupės formavimo veiklos
+%!%projekto grupės išdėstymas
+%!%informacija apie darbų eigą
+%!%paskatinimų sistemos%!%3%!%•Informacija apie darbų eigą kaip priemonė ar būdas nėra naudojama projekto grupės plėtros (ugdymo) procese.  Greičiau ji yra projekto grupės valdymo proceso įeities duomenys.
+•Kiti šiame klausime pateikti atsakymai yra neteisingi. Pagal PMBOK projekto grupės plėtros (ugdymo) procesas apima bendruosius valdymo įgūdžius, mokymus, grupės formavimo veiklas, taisykles, projekto grupės išdėstymą, paskatinimus.
+%!%8%!%0%!%
+Ką projekto vadovas turėtų įvertinti prieš pradėdamas vertinti kiekvieno projekto nario efektyvumą?
+%!%4%!%Kokias valdymo klaidas galėtumėte užkrauti darbuotojui?
+%!%Kaip išvengti ginčų apie nepakankamą efektyvumą?
+%!%Kaip galėtumėte išvengti vadovaujančio stiliaus diskusijos?
+%!%Ar darbuotojas gavo reikiamus darbo įrankius ir instrukcijas?%!%4%!%Prieš vertindamas darbuotoją, turite įvertinti ar jis turėjo visas sąlygas pasiekti aukščiausių rezultatų.
+
+%!%9%!%0%!%
+Projekto grupės sudarymo (acquire) procese jūs, rinkdamiesi žmones, turėtumėte atsižvelgti į visus žemiau išvardintus įmonės aplinkos duomenis (enterprise environmental factors), išskyrus vieną iš jų:
+%!%4%!%potencialaus grupės nario suinteresuotumą projektu
+%!%potencialaus grupės nario amžių
+%!%potencialaus grupės nario patirtį
+%!%potencialaus grupės nario gebėjimus%!%2%!%•Projekto grupės sudarymo (acquire) procese jūs neturėtumėte kreipti dėmesio į potencialaus grupės nario amžių. Yra teisės aktai, draudžiantys asmenų ignoravimą dėl jų amžiaus.
+•Įmonės aplinkos duomenys (enterprise environmental factors), kuriais reikėtų remtis renkantis projekto grupės narius, yra jų tinkamumas, gebėjimai, patirtis, suinteresuotumas projektu, kaina.
+•Potencialaus grupės nario patirtis vertinama pagal tai, kiek laiko jis yra dirbęs panašiuose projektuose ar tam tikroje srityje.
+Idealu būtų, jei projekto vadovas rastų žmones, kurie yra dirbę panašiuose projektuose. Dėl turimų žinių jie galėtų būti jūsų projekto patarėjai ar ekspertai.
+%!%10%!%0%!%
+Neseniai jūs pradėjote dirbti projektų vadovu IT kompanijoje. Gavę projektą, jūs rengiatės pirmajam (kickoff) susirinkimui. Projekto plane numatytų išteklių poreikis jau buvo perduotas kompanijos vadovybei. Eidami pas išteklius tvarkantį direktorių, kokio tipo įgaliojimais jūs vadovausitės?
+%!%4%!%eksperto
+
+%!%pagarba grindžiamų
+%!%nuopelnais grindžiamų
+%!%formaliais%!%4%!%•Nurodytu atveju jūs turite vadovautis jums, kaip projekto vadovui, suteiktais formaliais įgaliojimais. Formalūs įgaliojimai priklauso nuo organizacijoje užimamų pareigų.  
+•Nuopelnais grindžiami įgaliojimai remiasi asmens pripažinimu ar pasiekimais.
+•Pagarba grindžiami įgaliojimai remiasi asmens pagarba arba aukštesnėmis pareigomis.
+•Eksperto įgaliojimai remiasi  geru dalyko žinojimu.
+%!%11%!%0%!%
+Projekto grupės plėtra (ugdymas) yra procesas, kuris vyksta:
+%!%4%!%prieš pradedant projektą
+%!%pasibaigus projektui
+%!%projekto pradžioje
+%!%viso projekto metu%!%4%!%Projekto grupės plėtra (ugdymas) vyksta viso projekto metu.
+
+Nežiūrint to, kad projektų valdymo žinyne (PMBOK) projekto grupės plėtra yra nurodoma kaip projekto vykdymo proceso dalis, iš tikro tai vyksta viso projekto metu.
+
+Kuo anksčiau pradedama projekto grupės plėtra, tuo geriau.
+%!%12%!%0%!%
+Po pertvarkos jūsų organizacijoje iš projekto grupės pasitraukė keletas narių. Jūs sušaukėte pasitarimą su asmenimis, kurie pakeitė pasitraukusius. Kurį iš žemiau išvardintų klausimų yra svarbiausia aptarti?
+%!%4%!%projekto biudžetą
+%!%grupės narių techninius gebėjimus
+%!%projekto apimtį
+%!%jūsų, kaip projekto vadovo, darbo stilių%!%3%!%•Svarbiausia yra aptarti projekto apimtį (scope). Kai į grupę priimami nauji asmenys, svarbu, kad jie peržiūrėtų suskaidytų darbų lentelę (WBS) ir kitus projekto dokumentus. Taip jie galės geriau suprasti projekto apimtį.
+•Nors žinoti projekto biudžetą yra gerai, kai kuriems grupės nariams to gali nereikėti. Projekto apimtis nurodo, kokius darbus grupės nariai turi daryti ir kokių ne.
+•Grupės narių techninius gebėjimus reikia žinoti, tačiau svarbiau yra tai, kad nariai žinotų projekto apimtį.
+•Jūsų, kaip projekto vadovo, darbo stiliaus aptarimas nėra svarbus.
+%!%13%!%0%!%
+Klientas jums pateikia prašymą atlikti nedidelius pakeitimus, tikėdamasis, kad jūs juos atliksite nekeisdamas projekto trukmės ir biudžeto. Jūs manote, kad jums suteikti įgaliojimai nuspręsti ar atlikti šį pakeitimą, bet jūs nesate tuo visiškai įsitikinęs. Kokie turėtų būti jūsų tolimesni žingsniai?
+%!%4%!%Prašymui turėtumėte taikyti pakeitimų valdymo procedūrą, kuri aprašyta jūsų valdymo plane. Tada kartu su plane nurodytais asmenimis priimti sprendimą dėl pakeitimo įtraukimo į projekto apimtį, vertinant ar padidėjęs kliento pasitenkinimas yra vertas išleidžiamų pinigų, atliekamo darbo ir prisiimamų rizikų
+%!%Kliento pasitenkinimas yra jūsų pagrindinis prioritetas. Klientas jums suteikė galimybę padidinti jo pasitenkinimą, kurią jūs turėtumėte maksimaliai išnaudoti. Didžioji dauguma projekto vadovų turi biudžetą padengti rizikas, kuris gali būti panaudotas šioms papildomoms išlaidoms padengti
+%!%Prašymai pakeitimams visada yra gera proga užsidirbti iš kliento ir paslapčia išspręsti grafiko ir kokybės problemas. Jūs turėtumėte protingai įvertinti pageidaujamų darbų trukmę, kainą, rizikas bei kita ir tada priskaičiuoti papildomą pelno maržą tam, kad galiausiai gautumėte naują projekto kainą
+%!%Prieš priimdamas sprendimą jūs turėtumėte pasižiūrėti koks automobilis stovi jūsų kliento automobilių aikštelėje. Jeigu jūs pamatote daug prabangių, naujų modelių automobilių, tuomet labiausiai tikėtina, kad iš šio prašymo pakeitimui jūs galite uždirbti projektui daugiau pinigų. Jeigu automobiliai nėra prabangūs, nauji – tuomet jūs turėtumėte pakeitimą atmesti%!%1%!%Jūs turėtumėte nuosekliai laikytis sukurtų procedūrų.
+
+Pakeitimai nėra jūsų proga pasipelnyti iš kliento. Taip pat, siekiant pagrįsti pakeitimus, kliento pasitenkinimas negali būti vienintelis argumentas.
+%!%14%!%0%!%
+Kuris iš žemiau išvardintų dalykų nėra virtualios grupės teikiamas privalumas?
+%!%4%!%specialių įgūdžių nariai gali būti įtraukti į projektą, nežiūrint jų geografinės buvimo vietos
+%!%į projektą gali būti įtraukti judėjimo negalią turintys asmenys
+%!%grupės nariai gali efektyviau komunikuoti
+%!%galima imtis projektų, kurių kitaip imtis neapsimokėtų%!%3%!%•Tai, kad grupės nariai gali efektyviau komunikuoti, nėra virtualios grupės teikiamas privalumas.  Virtuali grupė – tai bendrą tikslą turinčių individų grupė, kurie retai arba niekada betarpiškai nesusitinka. Komunikavimas virtualiose grupėse paprastai būna sunkesnis.
+• Kiti šio klausimo atsakymai yra virtualios grupės privalumai.
+
+The correct answer is: grupės nariai gali efektyviau komunikuoti
+%!%15%!%0%!%
+Vykdant projektą, kurio metu statomas modernus tiltas, jūsų komanda surado esminę klaidą techninėje projekto dokumentacijoje, kurioje buvo pateikti tilto brėžiniai. Susitelkusi komanda surado apėjimą (angl. workaround), kuris buvo panaudotas tam, kad būtų išvengta projekto atsilikimo nuo grafiko ir sušvelnintos techninės problemas. Kaip jūs turėtumėte toliau elgtis?
+%!%4%!%Surastas apėjimas buvo atliktas tik techniniame lygyje. Kol jis neįtakoja tilto funkcionalumo ir organizacinės struktūros pokyčių, prašymas pakeitimams (angl. change request) yra nereikalingas.
+%!%Prašymas pakeitimui atgaline data yra nepagrįstas. Sukursite papildomą dokumentą, kuriame aprašysite apėjimą ir pats jį pasirašysite. Kitame susitikime su vadovybe dokumentą pristatysite.
+%!%Kruopščiai dokumentuosite surastą problemą, kaip ir surastą apėjimą tam, kad sukurtumėte prašymą projekto plano pakeitimui (angl. change request), kurį vėliau pateiksite atsakingiems už pakeitimų procedūros vykdymą.
+%!%Normalu, kad vykdant projektą atsiranda tam tikri neatitikimai tarp projektinės dokumentacijos ir realaus įgyvendinimo. Tai nėra problema kol produktas atitinka funkcinius reikalavimus.%!%3%!%Pakeitimai projekte turi būti dokumentuoti ir tam yra pildoma prašymo pakeitimams forma.
+
+Visi pakeitimai turi būti dokumentuoti – projekto dokumentacija turi atitikti realų įgyvendinimą.
+
+Kad pakeitimas turi būti patvirtintas, jis turi būti apdorotas pagal pakeitimų valdymo procedūrą – tik jūsų parašo neužtenka.
+
+
+The correct answer is:
+Kruopščiai dokumentuosite surastą problemą, kaip ir surastą apėjimą tam, kad sukurtumėte prašymą projekto plano pakeitimui (angl. change request), kurį vėliau pateiksite atsakingiems už pakeitimų procedūros vykdymą.
+%!%16%!%0%!%
+Kokia kokybės užtikrinimo procese naudota informacija gali būti įtraukta į projekto valdymo planą?
+%!%4%!%panaudotų naujų arba pagerintų kokybės užtikrinimo būdų informacija
+%!%naudotos kokybės metrikos
+%!%gautos pamokos
+%!%prašymai daryti pakeitimus, atsiradę vykdant kokybės užtikrinimo veiklas%!%1%!%•Į projekto valdymo planą gali būti įtraukta kokybės užtikrinimo procese panaudota naujų arba pagerintų kokybės užtikrinimo būdų informacija.  Kokybės užtikrinimo proceso eigoje jūs galite atrasti ir panaudoti naujus procesus arba pagerinti esamus kokybės užtikrinimo procesus. Būtent jie gali būti perkelti į kokybės valdymo planą, kuris yra projekto valdymo plano dalis.
+•Į projekto valdymo planą neturi būti įtraukiamos:
+•gautos pamokos. Jos registruojamos tam, kad įgyta patirtimi galėtume pasinaudoti ateityje naujuose projektuose;
+•prašymai daryti pakeitimus, atsiradę vykdant kokybės užtikrinimo veiklas. Kad galėtume juos perkelti į projekto valdymo planą, prieš tai jie turi būti apsvarstyti ir jiems pritarta.
+
+The correct answer is: panaudotų naujų arba pagerintų kokybės užtikrinimo būdų informacija
+%!%17%!%0%!%
+Jūs nutarėte taikyti kai kuriuos pripažinimo ar skatinimo būdus grupės narių darnai ir motyvacijai padidinti. Kokie veiksmai tam būtų geriausi?
+%!%4%!%įdiegti “mėnesio Darbuotojo” programą, padedančią išryškinti geriausiai dirbantį grupės narį kiekvieną mėnesį
+%!%visiems grupės nariams padovanoti leidimus nemokamai lankytis krepšinio rungtynėse
+%!%įsteigti paskatinamąjį fondą grupės nariams už gerai ir laiku atliktą darbą
+%!%įdiegti nulinės sumos apdovanojimą (atpildą)%!%3%!%•Geriausia būtų įsteigti paskatinamąjį fondą grupės nariams už gerai ir laiku atliktą darbą. Pripažinimas ir paskatinimai skiriami už pageidaujamus rezultatus, kuriuos pasiekti gali visi grupės nariai.
+•Įdiegti “mėnesio Darbuotojo” programą, padedančią išryškinti geriausiai dirbantį grupės narį kiekvieną mėnesį, nėra geriausias sprendimas. Tai leistų paskatinti tik vieną darbuotoją per mėnesį. Paskatinimai, kurie gali būti pasiekiami tik keliems grupės nariams, dar yra vadinami nulinės sumos apdovanojimais. Geriau yra turėti tokį paskatinimą, kuris būtų pasiekiamas visiems.
+•Visiems nariams dovanoti leidimus nemokamai lankytis krepšinio rungtynėse nėra geriausias sprendimas. Paskatinimai turėtų būti skiriami tik už ypatingus nuopelnus ar gerai atliktus darbus. 
+•Nulinės sumos apdovanojimų diegimas nėra geriausias sprendimas. Tai paskatinimai, kurie pasiekiami tik keliems grupės nariams. Geriau  naudoti tokius pripažinimo ar skatinimo būdus, kurie būtų pasiekiami visiems grupės nariams.
+
+The correct answer is:
+įsteigti paskatinamąjį fondą grupės nariams už gerai ir laiku atliktą darbą
+%!%18%!%0%!%
+Jūs nagrinėjate kliento užsakyto projekto plėtros klausimą. Klientas paprašė jūsų padaryti pakeitimus projekte. Tie pakeitimai neturi įtakos projekto kainai, tačiau projekto pabaigą gali tekti nukelti trimis savaitėmis. Ką jūs, kaip projekto vadovas, visų pirma darysite?
+%!%4%!%įvertinsite prašomų pakeitimų poveikį projektui ir informuosite klientą apie tai
+%!%kreipsitės į aukštesnius projektų vadovus
+%!%aptarsite prašomus pakeitimus su projekto grupe
+%!%pakeisite darbų grafiką taip, kad ir padarius pakeitimus projektas būtų įvykdytas numatytu laiku%!%1%!%•Jūs, kaip projekto vadovas, visų pirma turėtumėte įvertinti visą situaciją ir išaiškinti klientui jo prašomo pakeitimo poveikį projektui.  
+• Įvertinę pakeitimo poveikį, jūs turite parengti galimų sprendimų sąrašą turimoje situacijoje ir apsvarstyti jį su projekto grupe artimiausiame susirinkime.
+• Apsvarstytus galimus sprendimus turimoje situacijoje jūs galite pateikti aukštesniems projektų vadovams.
+• Keitimų valdymo taryba turi nuspręsti dėl tolesnių veiksmų. Jei ji nutaria daryti pakeitimus ir sudaryti sąlygas užbaigti projektą pradžioje planuotu laiku, jūs pakoreguojate darbų grafiką taip, kad pakeisto projekto užbaigimas nebūtų vėluojamas.
+
+The correct answer is:
+įvertinsite prašomų pakeitimų poveikį projektui ir informuosite klientą apie tai
+%!%19%!%0%!%
+Jūsų vadovaujamo projekto pradžioje jūs pastebite, kad komandos nariai skirtingai supranta darbus, kurie turės būti padaryti projekto metu, rezultatus, kuriuos reikės pateikti ir apskritai – projekto sudėtingumo lygį. Ką jūs turėtumėte daryti pirmiausia?
+%!%4%!%Duoti komandai šiek tiek laiko prieiti vieningos nuomonės apie projekto apimtį ir gaminamo produkto apimtį. Sąsajos problemos galės būti išspręstos ir vėliau
+%!%Panaudoti rizikų valdymo procedūras tam, kad nustatytumėte ir įvertintumėte rizikas, susijusias su nesusikalbėjimu bei sukurtumėte planą su tam tikrais matavimais, leisiančiais reaguoti į nesusikalbėjimus
+%!%Organizuoti privačius susitikimus su kiekvienu komandos nariu individualiai tam, kad juos informuotumėte apie jūsų lūkesčius ir atmosferai bei pasitikėjimui projekte keliamus reikalavimus
+%!%Organizuoti vidinius komandos susitikimus, kurių metu įvardintumėte ir išspręstumėte nesusipratimus tarp komandos narių, taip išvengdami sąsajų problemos, susiskaldymo ir brangiai kainuojančio darbų perdarymo vėlesniuose projekto etapuose%!%4%!%Kadangi nesusipratimai iš esmės kyla dėl apimties, ją reikėtų aptarti drauge. Individualūs pokalbiai gali užtrukti per ilgai, be to gali būti skirtingai iškomunikuota ta pati informacija.
+
+Vidinis nesusikalbėjimas tipiškai nėra vertinamas kaip rizika, nes jei jis vyksta, tai jau yra problema, kurią reikia spręsti.
+
+
+The correct answer is:
+Organizuoti vidinius komandos susitikimus, kurių metu įvardintumėte ir išspręstumėte nesusipratimus tarp komandos narių, taip išvengdami sąsajų problemos, susiskaldymo ir brangiai kainuojančio darbų perdarymo vėlesniuose projekto etapuose
+%!%20%!%0%!%
+Taisyklių projekto grupei nustatymo tikslas yra:
+%!%4%!%informuoti grupės narius apie pareigas projekte
+%!%aiškiai apibrėžti grupės narių galimybes, lūkesčius
+%!%sukurti darnius ryšius tarp grupės narių
+%!%dokumentuoti pareigų paskirstymą grupėje%!%2%!%•Taisyklių nustatymo tikslas yra aiškiai apibrėžti grupės narių galimybes, lūkesčius. Grupės nariams turi būti aiškios jų galimybės, ko jie gali tikėtis ir ko ne. 
+•Taisyklių paskirtis nėra dokumentuoti pareigų paskirstymą grupėje arba grupės narius informuoti  apie pareigas projekte. Pareigų paskirstymas grupėje dažniausiai nurodomas tam skirtoje lentelėje, o ne taisyklėse.
+•Taisyklių paskirtis nėra sukurti darnius ryšius tarp grupės narių. Tam dažniausiai yra naudojamos kitos grupės ugdymo veiklos.
+The correct answer is: aiškiai apibrėžti grupės narių galimybes, lūkesčius
