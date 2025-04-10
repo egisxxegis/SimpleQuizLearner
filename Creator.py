@@ -2,17 +2,19 @@ from FileHandler import *
 import shutil
 
 
-def exists_question(the_content: [Task], the_question: str):
+def exists_question(the_content: list[Task], the_question: str):
     for the_task in the_content:
-        if the_task.question.find(the_question) > -1\
-                and same_amount_of_a_and_s(the_task.question, the_question, verbose=True):
+        if the_task.question.find(the_question) > -1 and same_amount_of_a_and_s(
+            the_task.question, the_question, verbose=True
+        ):
             return True
     return False
 
 
-def same_amount_of_a_and_s(valid_question, untrusted_question, verbose=False):
-    if valid_question.count('a') == untrusted_question.count('a') \
-            and untrusted_question.count('s') == untrusted_question.count('s'):
+def same_amount_of_a_and_s(valid_question: str, untrusted_question: str, verbose=False):
+    if valid_question.count("a") == untrusted_question.count(
+        "a"
+    ) and untrusted_question.count("s") == untrusted_question.count("s"):
         if verbose:
             print(f"-----Same question as:\n{valid_question}")
         return True
@@ -21,12 +23,14 @@ def same_amount_of_a_and_s(valid_question, untrusted_question, verbose=False):
     return False
 
 
-def extract_answers(full_string: str, the_options: [str], splitter_suffix='', end_splitting=False):
+def extract_answers(
+    full_string: str, the_options: list[str], splitter_suffix="", end_splitting=False
+):
     the_answers = []
     the_temp = full_string
     the_suffix = splitter_suffix
     for the_i in range(len(the_options)):
-        splitter = f'{the_options[the_i]}{the_suffix}'
+        splitter = f"{the_options[the_i]}{the_suffix}"
         the_temp = the_temp.split(splitter)
 
         if the_i != 0 or end_splitting:  # add first left match
@@ -50,21 +54,24 @@ if __name__ == "__main__":
 
     # do we need to move questions to ignore list
     while True:
-        part = str(input("What part do you want to create? \n"
-                         " *(one part = 20 questions)\n"
-                         " *(type \".ignore\" to move old questions to ignore list)"))
+        part = str(
+            input(
+                "What part do you want to create? \n"
+                " *(one part = 20 questions)\n"
+                ' *(type ".ignore" to move old questions to ignore list)'
+            )
+        )
         if part == ".ignore":
             for folder in get_all_valid_folders():
                 shutil.move(folder, ".ignore")
-            print("Moving has been attempted. No checks for errors done. Do it yourself")
+            print(
+                "Moving has been attempted. No checks for errors done. Do it yourself"
+            )
             continue
         break
 
-    source = {
-        'folder': part,
-        'full_file_path': f'{part}/questions.txt'
-    }
-    options = ['a.', '\nb.', '\nc.', '\nd.', '\ne.', '\nf.', '\ng.']
+    source = {"folder": part, "full_file_path": f"{part}/questions.txt"}
+    options = ["a.", "\nb.", "\nc.", "\nd.", "\ne.", "\nf.", "\ng."]
     # options = ['\n' for x in range(8)]
     options_suffix = "\n"
     use_end_splitting = False
@@ -79,22 +86,39 @@ if __name__ == "__main__":
             print("------------Question exists. skipping")
         else:
             print("+++++++++++++++++++ Question is new.")
-            picture_filename = input("+++++++++++++++++++ Has a picture? NO = 0, YES = anything")
-            if picture_filename != '0':
+            picture_filename = input(
+                "+++++++++++++++++++ Has a picture? NO = 0, YES = anything"
+            )
+            if picture_filename != "0":
                 picture_filename = str(len(content) + 1) + ".png"
-                print(f"--************-------- Save image in {source['folder']} as a {picture_filename}")
+                print(
+                    f"--************-------- Save image in {source['folder']} as a {picture_filename}"
+                )
                 input("+++ press enter")
             answers_raw = input("+++++++++++++++++++ Copy paste all answers.")
-            answers = extract_answers(answers_raw, options,
-                                      splitter_suffix=options_suffix,
-                                      end_splitting=use_end_splitting)
-            correct_answer_i = input(f"Which answer(s) is(are) correct of these {len(answers)}?")
+            answers = extract_answers(
+                answers_raw,
+                options,
+                splitter_suffix=options_suffix,
+                end_splitting=use_end_splitting,
+            )
+            correct_answer_i = input(
+                f"Which answer(s) is(are) correct of these {len(answers)}?"
+            )
             comment = input("What is comment?")
-            append_question(source, [limiter, len(content)+1, picture_filename],
-                            question, answers, correct_answer_i, comment)
-            print("+++++++++++++++++++++++++++++++ New Question added " +
-                  f'({len(content) + 1 }/20)')
+            append_question(
+                source,
+                [limiter, len(content) + 1, picture_filename],
+                question,
+                answers,
+                correct_answer_i,
+                comment,
+            )
+            print(
+                "+++++++++++++++++++++++++++++++ New Question added "
+                + f"({len(content) + 1 }/20)"
+            )
 
 
 else:
-    print('yellow')
+    print("yellow")
