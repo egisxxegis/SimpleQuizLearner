@@ -1,5 +1,6 @@
 from FileHandler import *
 import shutil
+import _creatorv2 as v2
 
 
 def exists_question(the_content: list[Task], the_question: str):
@@ -49,7 +50,7 @@ def extract_answers(
     return the_answers
 
 
-if __name__ == "__main__":
+def loop_create_questions():
     limiter = "%!%"
 
     # do we need to move questions to ignore list
@@ -119,6 +120,10 @@ if __name__ == "__main__":
                 + f"({len(content) + 1 }/20)"
             )
 
+
+if __name__ == "__main__":
+    if input("legacy? ").lower() not in ["n", "no", "0"]:
+        loop_create_questions()
 
 else:
     print("yellow")

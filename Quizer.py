@@ -45,14 +45,14 @@ def is_answer_correct(the_input: str, the_correct_indexes: list[int]):
 
 
 if __name__ == "__main__":
-    content = get_all_content()
+    content: list[Task] = get_all_content()
 
     i_range = [x for x in range(0, len(content))]
     shuffle(i_range)
     right = 0
     total = 0
     for i in i_range:
-        task: Task = content[i]
+        task = content[i]
         print("\n------------------------------------------------------------------")
         print(f"({i+1}/{len(content)}; your score: {right}/{total}) {task.question}")
         print(f"\n")
