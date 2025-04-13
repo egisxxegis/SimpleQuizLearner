@@ -1,0 +1,257 @@
+[
+    {
+        "number": 1,
+        "question": "Žinomiausias antikos laikų gydytojas.",
+        "choices": [
+            "Imhotepas.",
+            "Asklepijus.",
+            "Hipokratas.",
+            "Harvėjus."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kokia epidemija Viduramžiais pražudė daugiau nei 100 milijonų žmonių, tai yra 30-60 proc. Europos gyventojų?",
+        "choices": [
+            "Maras, vadinamas „Juodoji mirtis.",
+            "Tuberkuliozė, vadinama „Baltoji mirtis“.",
+            "Sifilio epidemija.",
+            "Gripo epidemija."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Iki universitetinio farmacijos mokslo atsiradimo Lietuvos Didžiosios kunigaikštystės vaistininkai buvo ruošiami.",
+        "choices": [
+            "Miestų magistratuose.",
+            "Vaistinėse.",
+            "Gildijose.",
+            "Mokydavosi savarankiškai."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Penkiatomis Avicenos medicinos Kanonas Europos medicinoje išskirtinę vietą užėmė beveik 700 metų. Kokia kalba rašė šis įžymus iš Persijos kilęs gydytojas?",
+        "choices": [
+            "Arabų.",
+            "Lotynų.",
+            "Graikų.",
+            "Anglų."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kas nustatė, kad rusmenė Digitalis gydo širdies ligas?",
+        "choices": [
+            "Harvey.",
+            "Pasteur.",
+            "Withering.",
+            "Anton Van Leeuwenhoek."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kuria sritimi rūpinosi Florence Nightingale?",
+        "choices": [
+            "Slauga.",
+            "Farmacijos studijų kūrimu.",
+            "Chirurgija.",
+            "Medicinos draugijų kūrimu."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Materia medica XVIII a. farmakopėjose buvo skirstoms į šias grupes:",
+        "choices": [
+            "Mineralai, augalai ir gyvūnai.",
+            "Žemė, ugnis, oras ir vanduo.",
+            "Šarmai ir rūgštys.",
+            "Skysčiai, dujos ir kietieji kūnai."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Ką 1928 m. atrado Aleksandras Flemmingas Alexander Fleming?",
+        "choices": [
+            "Insuliną.",
+            "Peniciliną.",
+            "Kokainą.",
+            "Tuberkuliozės sukėlėjus."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kas gavo Nobelio premiją už insulino atradimą?",
+        "choices": [
+            "Banting ir Best.",
+            "Banting ir MacLeod.",
+            "Florence Nightingale",
+            "Collip ir Fleming."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kas 1953 m. atskleidė DNR sandarą ?",
+        "choices": [
+            "Alexander Fleming.",
+            "James Watson ir Francis Crick.",
+            "Tom Edison.",
+            "Marie Curie."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kas atrado pirmą efektyvų vaistą sifiliui gydyti ir tapo Nobelio premijos lauretu?",
+        "choices": [
+            "Paul Ehrlich.",
+            "Tom Edison.",
+            "Alexander Fleming.",
+            "Felix Hoffmann."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kada pradėta dėstyti farmacijos kursą Vilniaus universitete ir kas buvo pirmasis dėstytojas?",
+        "choices": [
+            "1785 m. italas Jozefas Sartorijus Sartorius.",
+            "1781 m. Johanas Frydrichas Volfgangas Wolfgang.",
+            "1863 m. Liudvikas Zeidleris Zeidler.",
+            "1918 m. Petras Raudonikis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "XIX a. pradžioje vokiečių vaistininkas F.V.Sertiurneris Friedrich Wilhelm Sertürner išskyrė pirmąjį alkaloidą, kuris naudojamas medicinoje iki šių dienų. Kaip jis vadinasi?",
+        "choices": [
+            "Nikotinas.",
+            "Digoksinas.",
+            "Morfinas.",
+            "Kodeinas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kuris laikotarpis vadinamas “Farmacijos aukso amžiumi”",
+        "choices": [
+            "Alchemijos klestėjimo laikotarpis Europoje (XV –XVI a.).",
+            "Veikliųjų medžiagų išskyrimai ir kiti atradimai atlikti vaistinėse (XVIII –XIXa.).",
+            "Antibiotikų atradimų (XX a. pirma pusė).",
+            "Arabų farmacijos klestėjimo (IX – X a.)."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Nepriklausomoje Lietuvos Respublikoje (1918-1940) buvo leidžiama steigti vaistines gavus Sveikatos departamento leidimą. Vaistinių skaičius buvo:",
+        "choices": [
+            "Neribojamas.",
+            "Priklausė nuo gyventojų skaičiaus.",
+            "Priklausė nuo receptų skaičiaus.",
+            "Priklausė nuo atstumo. Neleidžiama steigti naujos vaistinės arčiau nei už 10 km. nuo jau veikiančios vaistinės."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

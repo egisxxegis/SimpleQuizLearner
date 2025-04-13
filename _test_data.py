@@ -570,7 +570,14 @@ D) Nerūgštiniams heterocikliniams dariniams
 66 – B
 """
 
-
+conversion2_raw = """
+A –  teisingi 1,2 ir 3  
+ B – teisingi 1 ir 3     
+ C –  teisingi 2 ir 4  
+ D –  teisingas tik 4  
+ E –  teisingi visi atsakymai 
+"""
+conversion2 = ["1,2;3", "1    3", "2.     4", "4;.,", "           *             ", "-"]
 body2 = """
 1. Kurie iš šių teiginių apie resveratrolį yra teisingi? 
  
@@ -646,4 +653,175 @@ Atsakymai:
 8. C 
 9. E 
 10. D
+"""
+
+body3 = """
+1. Žinomiausias antikos laikų gydytojas. 
+A) Imhotepas. 
+B) Asklepijus. 
+C) Hipokratas. 
+D) Harvėjus. 
+  
+2. Kokia epidemija Viduramžiais pražudė daugiau nei 100 milijonų žmonių, tai yra 30-60 proc. 
+Europos gyventojų? 
+A) Maras, vadinamas „Juodoji mirtis. 
+B) Tuberkuliozė, vadinama „Baltoji mirtis“. 
+C) Sifilio epidemija. 
+D) Gripo epidemija. 
+  
+3. Iki universitetinio farmacijos mokslo atsiradimo Lietuvos Didžiosios kunigaikštystės 
+vaistininkai buvo ruošiami.  
+A) Miestų magistratuose. 
+B) Vaistinėse. 
+C) Gildijose. 
+D) Mokydavosi savarankiškai. 
+  
+4. Penkiatomis Avicenos medicinos Kanonas Europos medicinoje išskirtinę vietą užėmė beveik 
+700 metų. Kokia 
+kalba rašė šis įžymus iš Persijos kilęs gydytojas? 
+A) Arabų. 
+B) Lotynų. 
+C) Graikų. 
+D) Anglų. 
+  
+5. Kas nustatė, kad rusmenė Digitalis gydo širdies ligas? 
+A) Harvey. 
+B) Pasteur. 
+C) Withering. 
+D) Anton Van Leeuwenhoek. 
+  
+6. Kuria sritimi rūpinosi Florence Nightingale? 
+A) Slauga. 
+B) Farmacijos studijų kūrimu. 
+C) Chirurgija. 
+D) Medicinos draugijų kūrimu. 
+ 
+7. Materia medica XVIII a. farmakopėjose buvo skirstoms į šias grupes: 
+A) Mineralai, augalai ir gyvūnai. 
+B) Žemė, ugnis, oras ir vanduo. 
+C) Šarmai ir rūgštys. 
+D) Skysčiai, dujos ir kietieji kūnai. 
+  
+8. Ką 1928 m. atrado Aleksandras Flemmingas Alexander Fleming? 
+A) Insuliną. 
+B) Peniciliną. 
+C) Kokainą. 
+D) Tuberkuliozės sukėlėjus. 
+9. Kas gavo Nobelio premiją už insulino atradimą? 
+A) Banting ir Best. 
+B) Banting ir MacLeod. 
+C) Florence Nightingale 
+D) Collip ir Fleming. 
+10. Kas 1953 m. atskleidė DNR sandarą ? 
+A) Alexander Fleming. 
+B) James Watson ir Francis Crick. 
+C) Tom Edison. 
+D) Marie Curie. 
+11. Kas atrado pirmą efektyvų vaistą sifiliui gydyti ir tapo Nobelio premijos lauretu? 
+A) Paul Ehrlich. 
+B) Tom Edison. 
+C) Alexander Fleming. 
+D) Felix Hoffmann. 
+12. Kada pradėta dėstyti farmacijos kursą Vilniaus universitete ir kas buvo pirmasis dėstytojas? 
+A) 1785 m. italas Jozefas Sartorijus Sartorius. 
+B) 1781 m. Johanas Frydrichas Volfgangas Wolfgang. 
+C) 1863 m. Liudvikas Zeidleris Zeidler. 
+D) 1918 m. Petras Raudonikis. 
+13. XIX a. pradžioje vokiečių vaistininkas F.V.Sertiurneris Friedrich Wilhelm Sertürner išskyrė 
+pirmąjį 
+alkaloidą, kuris naudojamas medicinoje iki šių dienų. Kaip jis vadinasi? 
+A) Nikotinas. 
+B) Digoksinas. 
+C) Morfinas. 
+D) Kodeinas. 
+14. Kuris laikotarpis vadinamas “Farmacijos aukso amžiumi” 
+A) Alchemijos klestėjimo laikotarpis Europoje (XV –XVI a.). 
+B) Veikliųjų medžiagų išskyrimai ir kiti atradimai atlikti vaistinėse (XVIII –XIXa.).  
+C) Antibiotikų atradimų (XX a. pirma pusė). 
+D) Arabų farmacijos klestėjimo (IX – X a.). 
+15. Nepriklausomoje Lietuvos Respublikoje (1918-1940) buvo leidžiama steigti vaistines gavus 
+Sveikatos 
+departamento leidimą. Vaistinių skaičius buvo: 
+A) Neribojamas. 
+B) Priklausė nuo gyventojų skaičiaus. 
+C) Priklausė nuo receptų skaičiaus. 
+D) Priklausė nuo atstumo. Neleidžiama steigti naujos vaistinės arčiau nei už 10 km. nuo jau 
+veikiančios vaistinės. 
+Atsakymai: 1.C; 2.A; 3.B; 4.A; 5.C; 6.A; 7.A; 8.B; 9.B; 10.B; 11.A; 12.A; 13.C; 14.B; 15.B. 
+"""
+
+body4 = """
+4. Farmacijos fakulteto įsteigimu Vilniaus universitete 
+A – teisingi 1,2 ir 3 
+4 
+5 
+ 
+ B – teisingi 1 ir 3 
+ C – teisingi 2 ir 4 
+"""
+
+body5 = """
+1. Pirmoji farmacininkų profesinė organizacija Vilniaus medicinos draugijos Farmacijos skyrius 
+įkurtas 1819 m. Kuo rūpinosi ši organizacija? 
+1. Vietinių augalų pritaikymu medicinos praktikoje 
+2. Profesinio periodinio leidinio Pamiętnik Farmaceutyczny Wileński leidyba (1820-1822m.) 
+3. Kova su vaistų falsifikatoriais 
+4. Farmacijos fakulteto įsteigimu Vilniaus universitete 
+4 
+5 
+ 
+2. Kas Lietuvos Didžiojoje Kunigaikštystėje išduodavo leidimus steigti vaistines? 
+ 1. Miesto magistratas 
+ 2. Lenkijos karalius Lietuvos didysis kunigaikštis 
+ 3. Miestų savininkai 
+ 4. Leidimo steigti vaistines nereikėjo 
+ 
+ 
+3. Kur įkurtos pirmosios lietuvių farmacininkų organizacijos XX a. pradžioje? 
+ 1.Vilniuje 
+ 2. Peterburge 
+ 3. Berlyne 
+ 4. Maskvoje 
+ 
+ 
+ 4. Kur buvo galima legaliai nusipirkti vaistų Tarpukario Lietuvoje? 
+ 1. Turguje 
+ 2. Vaistų krautuvėse 
+ 3. Specialiuose maisto parduotuvių skyriuose 
+ 4. Vaistinėse 
+ 
+ 
+ 5. Nurodykite teisingus teiginius. Lietuvos farmakopėja: 
+ 1. Tokios nebuvo 
+ 2. Išleista 1938 m. 
+ 3. Buvo išleisti keli Lietuvos farmakopėjos tomai, pirmasis 1899 m., antrasis 1925 m. 
+ 4. Lietuvos farmakopėja išversta iš rusų kalbos 
+ 
+ 
+6. Prof. Johanas Frydrichas Volfgangas (1775-1859) buvo pirmasis Vilniaus universiteto 
+Farmakologijos ir farmacijos katedros vedėjas. Jis: 
+ 1. Turėjo filosofijos daktaro laipsnį 
+ 2. Buvo universiteto vaistinės vedėjas 
+ 3. Vienas iš Vilniaus medicinos draugijos steigėjų 
+ 4. Vokietijos mokslų akademijos garbės narys 
+ 
+6 
+ 
+ 
+7. Paracelsas: 
+1. Renesanso epochos gydytojas, jo tikrasis vardas Philippus Aureolus Theophrastus Bombastus 
+von Hohenheim 
+ 2. Pradėjo gydymui tinkamų cheminių medžiagų paiešką ir diegė jas į medicinos praktiką 
+ 3. Jo knygos buvo dingusios ir atrastos bei įvertintos tik XX a. 
+ 4. Pabrėžė medžiagų dozavimo svarbą, nurodė kad dozė lemia skirtumą tarp vaisto nuo nuodo 
+ 
+ 
+8. Kurie iš šių žymių žmonių dirbo vaistinėje? 
+ 1. Dantė Aligjeris, poetas 
+ 2. Agata Kristi, detektyvų rašytoja 
+ 3. Antanas Vienuolis Žukauskas, rašytojas 
+ 4. Antanas Juozapavičius, nepriklausomybės kovų didvyris 
+ 
+ 
+Atsakymai: 1.A; 2.A; 3.C; 4.C; 5.C; 6.E; 7.F; 8.E.
 """

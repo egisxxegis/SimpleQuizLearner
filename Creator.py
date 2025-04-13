@@ -124,6 +124,8 @@ def loop_create_questions():
 if __name__ == "__main__":
     if input("legacy? ").lower() not in ["n", "no", "0"]:
         loop_create_questions()
+    else:
+        v2.loop_create()
 
 else:
     print("yellow")
