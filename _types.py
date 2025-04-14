@@ -47,3 +47,9 @@ class SimpleOption(pydantic.BaseModel):
 class SimplePage(pydantic.BaseModel):
     raw: str
     page_num: int
+
+
+class SimpleTask(pydantic.BaseModel):
+    answer: SimpleAnswer
+    question: SimpleQuestion
+    options: list[SimpleOption]

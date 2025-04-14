@@ -186,6 +186,26 @@ def get_questions(raw: str, answers: list[_types.SimpleAnswer]):
     return questions
 
 
+def check_tasks_well_scanned(_raw: str, tasks: list[_types.SimpleTask]):
+    tasks = sorted(tasks, key=lambda x: x.question.question_num)
+    raw = _remove_pages(_cut_answers(_raw, [task.answer for task in tasks]))
+    items: list[str] = []
+    for task in tasks:
+        items.append(task.question.raw)
+        for option in task.options:
+            items.append(option.raw)
+    raw2 = "\n".join(items)
+    pattern = r"\s*?".join([re.escape(item) for item in items]) + r"\s*?"
+    if not re.match(pattern, raw, re.DOTALL):
+        if not os.path.exists("_debug"):
+            os.mkdir("_debug")
+        with open("_debug/_clipboard.txt", "w", encoding="utf-8") as f_org:
+            with open("_debug/_derived.txt", "w", encoding="utf-8") as f_new:
+                f_org.write(raw)
+                f_new.write(raw2)
+        raise ValueError("Tasks not well scanned. See _debug folder for comparison.")
+
+
 def get_tasks(
     raw: str,
     questions: list[_types.SimpleQuestion],
@@ -198,8 +218,10 @@ def get_tasks(
     C) γ-aminosviesto rūgšties (GABA) analogams
     D) Benzodiazepinams
     """
-    raw = _remove_pages(_cut_answers(raw, answers))
+    _raw = raw
+    raw = _remove_pages(_cut_answers(_raw, answers))
     tasks: list[_types.TaskV2] = []
+    tasks_simple: list[_types.SimpleTask] = []
     for question_high in questions[::-1]:
         answer_high = [
             answer
@@ -251,7 +273,13 @@ def get_tasks(
                 original_num=answer_high.question_num,
             )
         )
+        tasks_simple.append(
+            _types.SimpleTask(
+                answer=answer_high, question=question_high, options=options
+            )
+        )
     tasks = sorted(tasks, key=lambda x: x.number)
+    check_tasks_well_scanned(_raw, tasks_simple)
     return tasks
 
 
