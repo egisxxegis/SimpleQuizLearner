@@ -146,7 +146,7 @@ def get_questions(raw: str, answers: list[_types.SimpleAnswer]):
     for big_num in sorted([answer.question_num for answer in answers], reverse=True):
         pattern = (
             P_UNPREFIXED
-            + f"({big_num}"
+            + rf"({big_num}\."
             + r".{5,}?"
             + P_UNPREFIXED
             + r")[A1]\s*[\.\-–\)]"
