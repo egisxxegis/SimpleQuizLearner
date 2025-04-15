@@ -189,13 +189,42 @@ def get_questions(raw: str, answers: list[_types.SimpleAnswer]):
 def check_tasks_well_scanned(_raw: str, tasks: list[_types.SimpleTask]):
     tasks = sorted(tasks, key=lambda x: x.question.question_num)
     raw = _remove_pages(_cut_answers(_raw, [task.answer for task in tasks]))
+    raw_sub = raw
+
+    make_pattern = (
+        lambda _items: r"\s*"
+        + r"\s*?".join([re.escape(str(item).strip()) for item in _items])
+        + r"\s*?"
+    )
+
+    errors = []
+    iterative_error_str = (
+        "Iterative tasks not well scanned. See _debug folder for comparison."
+    )
+
     items: list[str] = []
     for task in tasks:
-        items.append(task.question.raw)
+        task_items: list[str] = []
+        task_items.append(task.question.raw)
         for option in task.options:
-            items.append(option.raw)
-    raw2 = "\n".join(items)
-    pattern = r"\s*?".join([re.escape(item) for item in items]) + r"\s*?"
+            task_items.append(option.raw)
+        items.extend(task_items)
+        if iterative_error_str in errors:
+            continue
+        pattern = make_pattern(task_items)
+        found = re.search(pattern, raw_sub, re.DOTALL)
+        if not found or found.start() != 0:
+            with open("_debug/_sub_clipboard.txt", "w", encoding="utf-8") as f_sub:
+                with open("_debug/_sub_pattern.txt", "w", encoding="utf-8") as f_pat:
+                    with open("_debug/_sub_raw.txt", "w", encoding="utf-8") as f_raw:
+                        f_sub.write(raw_sub)
+                        f_pat.write(pattern)
+                        f_raw.write("\n".join(task_items))
+            errors.append(iterative_error_str)
+            continue
+        raw_sub = raw_sub[found.end(0) :]
+    raw2 = "\n".join(items + ["\n"])
+    pattern = make_pattern(items)
     if not re.match(pattern, raw, re.DOTALL):
         if not os.path.exists("_debug"):
             os.mkdir("_debug")
@@ -203,7 +232,10 @@ def check_tasks_well_scanned(_raw: str, tasks: list[_types.SimpleTask]):
             with open("_debug/_derived.txt", "w", encoding="utf-8") as f_new:
                 f_org.write(raw)
                 f_new.write(raw2)
-        raise ValueError("Tasks not well scanned. See _debug folder for comparison.")
+        errors.append("Tasks not well scanned. See _debug folder for comparison.")
+
+    if len(errors) > 0:
+        raise ValueError("\n".join(errors))
 
 
 def get_tasks(
@@ -234,8 +266,8 @@ def get_tasks(
         options_str = "\n" + parts[1] + "\n"
         p_id = r"[1-9A-F]\s*[\.\-–\)]"
         p_base = r"\n\s*(" + f"{p_id}" + r")(.*?)"
-        p_not_last = p_base + r"\n\s*" + p_id
-        p_last = p_base + "$"
+        p_not_last = p_base + r"(\n\s*" + p_id + ")"
+        p_last = p_base + "()$"
         options: list[_types.SimpleOption] = []
         while True:
             found1 = re.search(p_not_last, options_str, re.DOTALL)
@@ -245,7 +277,7 @@ def get_tasks(
                 break
             options_str = options_str[found.end(2) :]
             option = _types.SimpleOption(
-                raw=found.group(0).rsplit("\n", 1)[0],
+                raw=found.group(0).removesuffix(found.group(3)),
                 option_id=found.group(1),
                 option_num=0,
                 option=found.group(2)

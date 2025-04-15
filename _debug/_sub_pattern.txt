@@ -1,0 +1,3 @@
+\s*1\.\ Kokia\ farmacine\ forma\ \(ir\ stiprumu\)\ vartojamas\ Ksilometazolinas\?\s*?A\)\ Nosies\ purškalas,\ tirpalas\ 1\ mg/ml\ f\s*?B\)\ Injekcinis\ tirpalas\ 0,5\ mg/ml\ f\s*?C\)\ Nosies\ lašai,\ tirpalas\ 0,5\ g/ml\ f\s*?D\)\ Kramtomosios\ tabletės\ 1\ mg\ \
+\ \ \
+f\s*?
