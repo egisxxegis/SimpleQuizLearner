@@ -259,6 +259,15 @@ def _do_test():
     )
     # --------------- Tasks (question + answer)
 
+    # --------------- chems
+    body = """
+    NH4+, Hg2+
+    A) H2C2O4·2H2O,
+    """
+    chems = _creatorv2.get_chems(body)
+    test(len(chems), 4)
+    test([x.chem_unscripted for x in chems], ["NH4+", "Hg2+", "H2C2O4", "2H2O"])
+
     print("All tests passed.")
 
 

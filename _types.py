@@ -53,3 +53,8 @@ class SimpleTask(pydantic.BaseModel):
     answer: SimpleAnswer
     question: SimpleQuestion
     options: list[SimpleOption]
+
+
+class SimpleChem(pydantic.BaseModel):
+    raw: str
+    chem_unscripted: str

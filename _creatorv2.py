@@ -6,6 +6,7 @@ from typing import Literal
 import _types
 
 P_UNPREFIXED = r"[^0-9a-zA-ZąčęėįšųūžĄČĘĖĮŠŲŪŽ#\.\-–\?\:\=]"
+P_UN_LETTER_NUM = r"[^0-9a-zA-ZąčęėįšųūžĄČĘĖĮŠŲŪŽ]"
 
 
 def _assert_deltas(nums: list[int], place: str):
@@ -130,6 +131,23 @@ def _remove_pages(raw: str):
     for page in pages:
         raw = raw.replace(page.raw, "\n")
     return raw
+
+
+def get_chems(raw: str):
+    """
+    NH4+, Hg2+
+    A) H2C2O4·2H2O,
+    """
+    pattern = (
+        P_UN_LETTER_NUM + r"(([0-9]*[A-Z][a-z]*[0-9]*[\\+\\-]*)+)" + P_UN_LETTER_NUM
+    )
+    findings = _re_finditer_overlapping(pattern, raw)
+    chems: list[_types.SimpleChem] = [
+        _types.SimpleChem(raw=x.group(0), chem_unscripted=x.group(1))
+        for x in findings
+        if not re.match(r"\s*[A-F][\.\–\)\s*]", x.group(0))
+    ]
+    return chems
 
 
 def get_questions(raw: str, answers: list[_types.SimpleAnswer]):

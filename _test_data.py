@@ -825,3 +825,33 @@ von Hohenheim
  
 Atsakymai: 1.A; 2.A; 3.C; 4.C; 5.C; 6.E; 7.F; 8.E.
 """
+
+chems_raw = """
+ 2. Į tiriamą tirpalą įpylus KMnO4 ir H2SO4 tirpalų mišinio, kalio permanganato spalva išbluko. 
+Kokią išvadą galime padaryti? 
+1. Tirpale yra anijonų reduktorių 
+2. Tirpale yra PO4- 
+3. Tirpale yra S2O32- 
+4. Tirpale yra NH4+ 
+5. Kodėl NO2- ir NO3- yra priskiriami ir prie oksidacinių ir prie redukcinių anijonų? 
+1. Rūgščioje aplinkoje reaguoja su I2 
+2. Rūgščioje aplinkoje reaguoja su KMnO4 
+17 
+ 
+3. Rūgščioje aplinkoje nereaguoja nei su KMnO4 nei su KI 
+4. Rūgščioje aplinkoje reaguoja su KI 
+ 
+6. Kokiu atveju sumaišius Ag+ ir Cl- jonus susidarys AgCl nuosėdos? 
+1. Jeigu jonų koncentracijų sandauga bus lygi arba viršys tirpumo sandaugą, [Ag+] · [Cl-] ≥ L 
+2. Jeigu jonų koncentracijų sandauga bus lygi tirpumo sandaugąi, [Ag+] · [Cl-] = L 
+3. Jeigu jonų koncentracijų sandauga viršys tirpumo sandaugą, [Ag+] · [Cl-] ≥ L 
+4. Jeigu jonų koncentracijų sandauga bus mažesnė už tirpumo sandaugą, [Ag+] · [Cl-] ≥ L
+1. Ar galima naudojant H2SO4 atskirti Ba2+, Sr2+ ir Ca2+ jonus? 
+A) TAIP 
+B) NE 
+ 
+2. Tirpale yra NH4+, Hg2+ ir Sn2+ druskų. Ar galima Neslerio reagento pagalba mišinyje 
+identifikuoti NH4+ joną? 
+A) TAIP 
+B) NE 
+"""

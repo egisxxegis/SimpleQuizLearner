@@ -1,0 +1,122 @@
+[
+    {
+        "number": 1,
+        "question": "Iki XIX a. galvota, kad žmogaus organizmas sudarytas iš keturių skysčių: juodoji tulžis, geltonoji tulžis, kraujas ir gleivės. Jei sutrinka šių skysčių pusiausvyra žmogus suserga. Gydytojai, norėdami pašalinti perteklinį skystį „humorą“ nuleisdavo kraują, skyrė vimdomuosius, laisvinamuosius vaistus.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "XIX a. gimdyvės dažnai mirdavo. To priežastis - pogimdyvinė infekcija, kuri buvo vadinama karštine. Vienos klinikoje (Austrija) dirbęs jaunas vengrų kilmės gydytojas Ignaz Semmelweis pastebėjo, kad užkratas pernešamas neplaunamomis gydytojų rankomis. Tai pastebėjęs Semmelweis pareikalavo, kad prieš gimdyvių apžiūrą gydytojai plautų rankas. Kolegos nepripažino jo teorijos ir piktinosi jo reikalavimu.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Amerikietis dantų gydytojas William T.G. Morton (1819-1868 m.) išpopuliarino eterio naudojimą anestezijai. Anestezija „nugalėjo skausmą“ ir iš esmės pakeitė chirurgijos istoriją. 1846 m. Morton pademonstravo sėkmingą eterio veikimą operacijos metu. Ar jis vienintelis pripažintas anestezijos pradininku pasaulyje.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Didžiosios Britanijos provincijoje dirbęs gydytojas Edward Jenner atrado būdą, kaip sustabdyti raupų epidemiją. Šis būdas pavadintas vakcinacija. Jo atradimo dėka likviduota viena iš pavojingiausių gyvybei ligų raupai.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Manoma, kad apie 7 proc. pasaulio gyventojų kenčia nuo cukrinio diabeto. Liga buvo žinoma nuo seniausių laikų, tačiau iki XX a. nebuvo vaistų šiai ligai gydyti. Kanados mokslininkų išskirtas ir išgrynintas insulinas tapo efektyviu vaistu. Prie šio atradimo prisidėjo Kaune gimęs Vokietijoje dirbęs patofiziologas Oskaras Minkovskis 1889 m. atskleidęs cukraligės priežastį.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "1950-aisiais ir 60-taisiais metais vaistas Thalidomide buvo parduodamas nėščioms moterims kaip veiksmingas vaistas nuo rytinio pykinimo. Maždaug pusė \"Thalidomido kūdikių\" mirė, dalis gimė pažeistomis rankomis ir kojomis.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Vokiečių mokslininkas Paul Ehrlich (1854-1915) siekė sukurti \"stebuklingą kulką\", kuri sunaikintų ligos sukėlėjus žmogaus organizme nepakenkiant pacientui. 606 bandymas buvo sėkmingas ir Ehrlich atrado pirmą efektyvų vaistą sifiliui gydyti Salvarsaną.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Laudanum buvo vienas iš dažniausiai vartojamų vaistų XIX a. Jį išrašydavo gydytojai receptuose, taip pat jis buvo sudėtinė patentinių vaistų dalis. Laudanum buvo skiriamas nuo skausmo, kosulio, karščiuojant, peršalus, priklausomai nuo dozės ir kaip raminamasis, ir kaip stimuliuojantis vaistas. Ar tiesa, kad vaistas sukeldavo priklausomybę, nes buvo spiritinis opijaus tirpalas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

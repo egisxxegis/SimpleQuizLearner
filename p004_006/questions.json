@@ -1,0 +1,153 @@
+[
+    {
+        "number": 1,
+        "question": "Pirmoji farmacininkų profesinė organizacija Vilniaus medicinos draugijos Farmacijos skyrius įkurtas 1819 m. Kuo rūpinosi ši organizacija?",
+        "choices": [
+            "Vietinių augalų pritaikymu medicinos praktikoje",
+            "Profesinio periodinio leidinio Pamiętnik Farmaceutyczny Wileński leidyba (1820-1822m.)",
+            "Kova su vaistų falsifikatoriais",
+            "Farmacijos fakulteto įsteigimu Vilniaus universitete"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kas Lietuvos Didžiojoje Kunigaikštystėje išduodavo leidimus steigti vaistines?",
+        "choices": [
+            "Miesto magistratas",
+            "Lenkijos karalius Lietuvos didysis kunigaikštis",
+            "Miestų savininkai",
+            "Leidimo steigti vaistines nereikėjo"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kur įkurtos pirmosios lietuvių farmacininkų organizacijos XX a. pradžioje?",
+        "choices": [
+            "Vilniuje",
+            "Peterburge",
+            "Berlyne",
+            "Maskvoje"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kur buvo galima legaliai nusipirkti vaistų Tarpukario Lietuvoje?",
+        "choices": [
+            "Turguje",
+            "Vaistų krautuvėse",
+            "Specialiuose maisto parduotuvių skyriuose",
+            "Vaistinėse"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Nurodykite teisingus teiginius. Lietuvos farmakopėja:",
+        "choices": [
+            "Tokios nebuvo",
+            "Išleista 1938 m.",
+            "Buvo išleisti keli Lietuvos farmakopėjos tomai, pirmasis 1899 m., antrasis 1925 m.",
+            "Lietuvos farmakopėja išversta iš rusų kalbos"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Prof. Johanas Frydrichas Volfgangas (1775-1859) buvo pirmasis Vilniaus universiteto Farmakologijos ir farmacijos katedros vedėjas. Jis:",
+        "choices": [
+            "Turėjo filosofijos daktaro laipsnį",
+            "Buvo universiteto vaistinės vedėjas",
+            "Vienas iš Vilniaus medicinos draugijos steigėjų",
+            "Vokietijos mokslų akademijos garbės narys"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Paracelsas:",
+        "choices": [
+            "Renesanso epochos gydytojas, jo tikrasis vardas Philippus Aureolus Theophrastus Bombastus von Hohenheim",
+            "Pradėjo gydymui tinkamų cheminių medžiagų paiešką ir diegė jas į medicinos praktiką",
+            "Jo knygos buvo dingusios ir atrastos bei įvertintos tik XX a.",
+            "Pabrėžė medžiagų dozavimo svarbą, nurodė kad dozė lemia skirtumą tarp vaisto nuo nuodo"
+        ],
+        "answers_num": [
+            1,
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kurie iš šių žymių žmonių dirbo vaistinėje?",
+        "choices": [
+            "Dantė Aligjeris, poetas",
+            "Agata Kristi, detektyvų rašytoja",
+            "Antanas Vienuolis Žukauskas, rašytojas",
+            "Antanas Juozapavičius, nepriklausomybės kovų didvyris"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    }
+]
