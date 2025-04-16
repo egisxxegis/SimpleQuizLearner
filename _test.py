@@ -291,6 +291,43 @@ def _do_test():
         "H3BO3",
     )
 
+    # --------------- Answers
+    body = _test_data.body7
+    answers = _creatorv2.get_answers(body)
+    count = 15
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, count)
+    test(answer_high.answer, "B")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [30, 31])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    test(len(questions), count)
+    test(questions[-1].question_num, count)
+    test(
+        questions[-1].question,
+        "Kurie iš pateiktų teiginių apie chloramfenikolį yra neteisingi:",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="MULTI", conversions=_test_data.conversion2
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), count)
+    test(task_high.original_num, count)
+    test(task_high.option_type, "MULTI")
+    test(
+        _answers(task_high),
+        [
+            "Jo molekulėje yra fenolinė ir alkoholinė hidroksilo grupės",
+            "Abu jo molekulėje esantys N atomai pasižymi bazinėmis savybėmis",
+        ],
+    )
+
     # --------------- chems
     body = """
     NH4+, Hg2+

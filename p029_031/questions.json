@@ -1,0 +1,279 @@
+[
+    {
+        "number": 1,
+        "question": "Nurodykite metodus, taikomus atliekant kiekybinę vandenilio peroksido analizę:",
+        "choices": [
+            "Jodometrija",
+            "Cerimetrija",
+            "Permanganatometrija",
+            "Alkalimetrija"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kurios cheminės savybės yra būdingos L-askorbo rūgščiai:",
+        "choices": [
+            "Oksidacinės",
+            "Redukcinės",
+            "Rūgštinės",
+            "Amfoterinės"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kurie iš pateiktų teiginių apie morfiną yra neteisingi:",
+        "choices": [
+            "Morfino struktūroje yra laisva fenolinė hidroksigrupė",
+            "Morfino struktūroje yra antrinis N atomas",
+            "Morfino struktūroje yra net keletas stereogeninių centrų",
+            "Į morfino struktūrą įeina tetrahidropirano žiedas"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kurie iš pateiktų teiginių apie acetilsalicilo rūgštį yra teisingi:",
+        "choices": [
+            "Pradinė jos sintezės medžiaga yra salicilo rūgštis",
+            "Jos hidrolizės profilis nesiskiria nuo tipinių kitų esterių hidrolizės metu vykstančių procesų",
+            "Ji biologinėse sistemose geba funkcionuoti kaip acilinantis agentas, o tai yra svarbu terapiniam acetilsalicilo rūgšties poveikiui",
+            "Jos vandeniai tirpalai yra gana stabilūs plačiame pH reikšmių diapazone",
+            "Ištirpinus ji iškarto gali būti kiekybiškai nustatoma bromatometrijos metodu"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kurie iš pateiktų teiginių apie penicilinų grupės farmacines substancijas yra teisingi:",
+        "choices": [
+            "Įprastai jie yra atsparūs hidrolitinėms degradacijos reakcijoms",
+            "Bazinis jų skeletas sudarytas iš aminorūgščių L-cisteino bei D-valino",
+            "Jų struktūroje sutinkamas S heteroatomą turintis tiazino žiedas",
+            "Jų struktūrai yra būdingas azetidin-2-ono žiedas",
+            "Jie pasižymi rūgštinėmis savybėmis dėl amidinio ryšio buvimo jų struktūroje"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kurie iš pateiktų teiginių apie paracetamolį yra teisingi:",
+        "choices": [
+            "Ištirpinus išgrynintame vandenyje jį iš karto galima kiekybiškai nustatyti cerimetrijos metodu",
+            "p-aminofenolis yra pradinė paracetamolio sintezės medžiaga",
+            "Jam yra būdingi antipiretinis, analgetinis ir priešuždegiminis poveikiai",
+            "Veikiant su K₂Cr₂O₇ yra gaunamas violetinės spalvos indofenolinis dažiklis"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kurie iš pateiktų teiginių apie proparacetamolį yra neteisingi:",
+        "choices": [
+            "Kiekybiškai jį galima nustatyti titravimo bevandenėje terpėje metodu",
+            "p-aminofenolis yra pradinė proparacetamolio sintezės medžiaga",
+            "Pagrindinis jo degradacijos produktas yra p-aminofenolis",
+            "Ištirpinus jį vandenyje ir veikiant su geležies (III) chloridu yra gaunama mėlynai violetinė spalva"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kurios cheminės savybės NĖRA būdingos fenolių grupės farmacinėms substancijoms:",
+        "choices": [
+            "Silpnai rūgštinės",
+            "Lengvai redukuojasi",
+            "Lengvai oksiduojasi",
+            "Stiprios bazinės"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Sulfanilamidų grupei priklausančias farmacines substancijas galima atskirti:",
+        "choices": [
+            "Iš susidariusių nuosėdų spalvos su vario sulfato tirpalu",
+            "Atliekant azodažiklių susidarymo reakciją",
+            "Iš junginio pirolizės metu susidariusio lydinio spalvos bei išsiskiriančių lakių produktų",
+            "Iš susidariusių nuosėdų spalvos su sidabro nitrato tirpalu"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kurie metodai taikomi paracetamolio kiekiui nustatyti:",
+        "choices": [
+            "Bromatometrijos metodas",
+            "Nitritometrijos metodas",
+            "Cerimetrijos metodas",
+            "Alkalimetrijos metodas"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kurios cheminės savybės yra būdingos vandenilio peroksidui:",
+        "choices": [
+            "Oksidacinės",
+            "Rūgštinės",
+            "Redukcinės",
+            "Amfoterinės",
+            "Bazinės"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kurie iš pateiktų teiginių apie sulfanilamidų grupei priklausančias farmacines substancijas yra teisingi:",
+        "choices": [
+            "Jų struktūroje paprastai yra pirminė alifatinė amino grupė",
+            "Jų struktūros pagrindą sudaro sulfanilšlapalo fragmentas",
+            "Bazinės jų savybės yra stipresnės už rūgštines",
+            "Joms yra būdingos amfoterinės savybės"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kurie iš pateiktų teiginių apie cefalosporinų grupės farmacines substancijas yra teisingi:",
+        "choices": [
+            "Jų molekulės neturi chiralinių centrų",
+            "3-dezacetoksi cefalosporinai gali būti gaunami iš penicilinų cheminės transformacijos pagalba",
+            "Jų struktūroje sutinkamas tiazolidino žiedas",
+            "Jie paprastai pasižymi didesniu stabilumu nei penicilinai"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kurios tapatumo reakcijos tinka visiems 6-aminopenicilano rūgšties dariniams nustatyti:",
+        "choices": [
+            "Nesimetrinių polimetininių dažiklių (merocianinų) susidarymo reakcija",
+            "Reakcija endociklinei sierai nustatyti",
+            "Arilmetaninių dažiklių susidarymo reakcija",
+            "Hidroksaminė reakcija"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kurie iš pateiktų teiginių apie chloramfenikolį yra neteisingi:",
+        "choices": [
+            "Jo molekulėje yra fenolinė ir alkoholinė hidroksilo grupės",
+            "Jo struktūroje yra du stereogeniniai centrai",
+            "Abu jo molekulėje esantys N atomai pasižymi bazinėmis savybėmis",
+            "Jam yra būdingas labai kartus skonis",
+            "Tai yra geminalinis dihalogeninis junginys"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

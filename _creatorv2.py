@@ -101,8 +101,10 @@ def get_answers(raw: str, lowest_num: int = 1):
 
 def _cut_answers(raw: str, answers: list[_types.SimpleAnswer]):
     assert len(answers) >= 2, "Not enough answers to parse questions."
-    pattern_answers_start = answers[0].raw + r".{0,11}?" + answers[1].raw
-    parts = re.split(pattern_answers_start, raw, 1)
+    pattern_answers_start = (
+        re.escape(answers[0].raw) + r".{0,11}?" + re.escape(answers[1].raw)
+    )
+    parts = re.split(pattern_answers_start, raw, 1, re.DOTALL)
     assert len(parts) == 2, "Cannot split questions and answers."
     pattern = r"[^\n]{0,20}atsak.{1,10}$"
     body = re.split(pattern, parts[0], 0, re.IGNORECASE)[0]

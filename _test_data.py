@@ -878,3 +878,120 @@ I lygio klausimų atsakymai
 69. B 
 70. E
 """
+
+body7 = """
+1. Nurodykite metodus, taikomus atliekant kiekybinę vandenilio peroksido analizę: 
+1. Jodometrija 
+2. Cerimetrija 
+3. Permanganatometrija  
+4. Alkalimetrija 
+ 
+2. Kurios cheminės savybės yra būdingos L-askorbo rūgščiai: 
+1. Oksidacinės 
+2. Redukcinės 
+3. Rūgštinės 
+4. Amfoterinės 
+ 
+3. Kurie iš pateiktų teiginių apie morfiną yra neteisingi: 
+1. Morfino struktūroje yra laisva fenolinė hidroksigrupė 
+2. Morfino struktūroje yra antrinis N atomas  
+3. Morfino struktūroje yra net keletas stereogeninių centrų 
+4. Į morfino struktūrą įeina tetrahidropirano žiedas 
+ 
+4. Kurie iš pateiktų teiginių apie acetilsalicilo rūgštį yra teisingi: 
+1. Pradinė jos sintezės medžiaga yra salicilo rūgštis  
+2. Jos hidrolizės profilis nesiskiria nuo tipinių kitų esterių hidrolizės metu vykstančių procesų 
+3. Ji biologinėse sistemose geba funkcionuoti kaip acilinantis agentas, o tai yra svarbu terapiniam 
+acetilsalicilo rūgšties poveikiui 
+4. Jos vandeniai tirpalai yra gana stabilūs plačiame pH reikšmių diapazone 
+5. Ištirpinus ji iškarto gali būti kiekybiškai nustatoma bromatometrijos metodu 
+ 
+5. Kurie iš pateiktų teiginių apie penicilinų grupės farmacines substancijas yra teisingi: 
+1. Įprastai jie yra atsparūs hidrolitinėms degradacijos reakcijoms 
+2. Bazinis jų skeletas sudarytas iš aminorūgščių L-cisteino bei D-valino 
+3. Jų struktūroje sutinkamas S heteroatomą turintis tiazino žiedas 
+4. Jų struktūrai yra būdingas azetidin-2-ono žiedas 
+5. Jie pasižymi rūgštinėmis savybėmis dėl amidinio ryšio buvimo jų struktūroje 
+ 
+6. Kurie iš pateiktų teiginių apie paracetamolį yra teisingi: 
+1. Ištirpinus išgrynintame vandenyje jį iš karto galima kiekybiškai nustatyti cerimetrijos metodu 
+2. p-aminofenolis yra pradinė paracetamolio sintezės medžiaga 
+3. Jam yra būdingi antipiretinis, analgetinis ir priešuždegiminis poveikiai 
+30 
+ 
+4. Veikiant su K₂Cr₂O₇ yra gaunamas violetinės spalvos indofenolinis dažiklis 
+ 
+7. Kurie iš pateiktų teiginių apie proparacetamolį yra neteisingi: 
+1. Kiekybiškai jį galima nustatyti titravimo bevandenėje terpėje metodu 
+2. p-aminofenolis yra pradinė proparacetamolio sintezės medžiaga 
+3. Pagrindinis jo degradacijos produktas yra p-aminofenolis 
+4. Ištirpinus jį vandenyje ir veikiant su geležies (III) chloridu yra gaunama mėlynai violetinė spalva 
+ 
+8. Kurios cheminės savybės NĖRA būdingos fenolių grupės farmacinėms substancijoms: 
+1. Silpnai rūgštinės 
+2. Lengvai redukuojasi 
+3. Lengvai oksiduojasi 
+4. Stiprios bazinės 
+ 
+9. Sulfanilamidų grupei priklausančias farmacines substancijas galima atskirti: 
+1. Iš susidariusių nuosėdų spalvos su vario sulfato tirpalu 
+2. Atliekant azodažiklių susidarymo reakciją 
+3. Iš junginio pirolizės metu susidariusio lydinio spalvos bei išsiskiriančių lakių produktų 
+4. Iš susidariusių nuosėdų spalvos su sidabro nitrato tirpalu 
+ 
+10. Kurie metodai taikomi paracetamolio kiekiui nustatyti: 
+1. Bromatometrijos metodas 
+2. Nitritometrijos metodas 
+3. Cerimetrijos metodas  
+4. Alkalimetrijos metodas 
+ 
+11. Kurios cheminės savybės yra būdingos vandenilio peroksidui: 
+1. Oksidacinės 
+2. Rūgštinės  
+3. Redukcinės  
+4. Amfoterinės 
+5. Bazinės 
+ 
+12. Kurie iš pateiktų teiginių apie sulfanilamidų grupei priklausančias farmacines substancijas yra 
+teisingi: 
+1. Jų struktūroje paprastai yra pirminė alifatinė amino grupė 
+2. Jų struktūros pagrindą sudaro sulfanilšlapalo fragmentas 
+3. Bazinės jų savybės yra stipresnės už rūgštines 
+4. Joms yra būdingos amfoterinės savybės 
+ 
+13. Kurie iš pateiktų teiginių apie cefalosporinų grupės farmacines substancijas yra teisingi: 
+1. Jų molekulės neturi chiralinių centrų  
+2. 3-dezacetoksi cefalosporinai gali būti gaunami iš penicilinų cheminės transformacijos pagalba 
+3. Jų struktūroje sutinkamas tiazolidino žiedas 
+4. Jie paprastai pasižymi didesniu stabilumu nei penicilinai 
+ 
+14. Kurios tapatumo reakcijos tinka visiems 6-aminopenicilano rūgšties dariniams nustatyti: 
+1. Nesimetrinių polimetininių dažiklių (merocianinų) susidarymo reakcija 
+2. Reakcija endociklinei sierai nustatyti  
+3. Arilmetaninių dažiklių susidarymo reakcija 
+4. Hidroksaminė reakcija 
+ 
+15. Kurie iš pateiktų teiginių apie chloramfenikolį yra neteisingi: 
+1. Jo molekulėje yra fenolinė ir alkoholinė hidroksilo grupės 
+2. Jo struktūroje yra du stereogeniniai centrai 
+3. Abu jo molekulėje esantys N atomai pasižymi bazinėmis savybėmis 
+4. Jam yra būdingas labai kartus skonis 
+5. Tai yra geminalinis dihalogeninis junginys 
+ 
+1. A 11. A 
+31 
+ 
+2. A 
+3. C 
+4. B 
+5. C 
+6. C 
+7. C 
+8. C 
+9. B 
+10. A 
+12. D 
+13. C 
+14. C 
+15. B
+"""
