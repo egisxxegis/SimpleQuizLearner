@@ -1,0 +1,299 @@
+[
+    {
+        "number": 1,
+        "question": "Koks NaOH poveikis į IV ir V grupių katijonus?",
+        "choices": [
+            "Su šarmais, 4 grupės katijonai sudaro hidroksidus, tirpius reagento pertekliuje, o 5 grupės katijonai sudaro hidroksidus, netirpius šarmų tirpaluose.",
+            "Su šarmų pertekliumi, 4 katijonų grupė sudaro kompleksinius anijonus.",
+            "4 grupės katijonų hidroksidai tirpsta šarmų pertekliuje sudarydami kompleksinius anijonus, tai įrodo rūgštines hidroksidų savybes.",
+            "Su šarmais, 5 grupės katijonai sudaro hidroksidus, tirpius reagento pertekliuje, o 4 grupės katijonai sudaro hidroksidus, netirpius šarmų tirpaluose."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Į tiriamą tirpalą įpylus KMnO₄ ir H₂SO₄ tirpalų mišinio, kalio permanganato spalva išbluko. Kokią išvadą galime padaryti?",
+        "choices": [
+            "Tirpale yra anijonų reduktorių",
+            "Tirpale yra PO₄⁻",
+            "Tirpale yra S₂O₃²⁻",
+            "Tirpale yra NH₄⁺"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kokios anijonų savybės lemia jų skirstymą į analizines grupes?",
+        "choices": [
+            "Bario druskų tirpumą vandenyje ir rūgštyse",
+            "Oksidacines – redukcines anijonų savybės",
+            "Sidabro druskų tirpumą vandenyje ir rūgštyse",
+            "Anijonų krūvis"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokiais būdais galima padidinti junginio tirpumą?",
+        "choices": [
+            "Keliant temperatūrą",
+            "Pridedant cheminių medžiagų kurios sudaro kompleksus arba suriša vieną iš jonų",
+            "Pridedant pašalinių jonų",
+            "Mažinant temperatūrą ir didinant slėgį"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kodėl NO₂⁻ ir NO₃⁻ yra priskiriami ir prie oksidacinių ir prie redukcinių anijonų?",
+        "choices": [
+            "Rūgščioje aplinkoje reaguoja su I₂",
+            "Rūgščioje aplinkoje reaguoja su KMnO₄",
+            "Rūgščioje aplinkoje nereaguoja nei su KMnO₄ nei su KI",
+            "Rūgščioje aplinkoje reaguoja su KI"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kokiu atveju sumaišius Ag⁺ ir Cl⁻ jonus susidarys AgCl nuosėdos?",
+        "choices": [
+            "Jeigu jonų koncentracijų sandauga bus lygi arba viršys tirpumo sandaugą, [Ag⁺] · [Cl⁻] ≥ L",
+            "Jeigu jonų koncentracijų sandauga bus lygi tirpumo sandaugąi, [Ag⁺] · [Cl⁻] = L",
+            "Jeigu jonų koncentracijų sandauga viršys tirpumo sandaugą, [Ag⁺] · [Cl⁻] ≥ L",
+            "Jeigu jonų koncentracijų sandauga bus mažesnė už tirpumo sandaugą, [Ag⁺] · [Cl⁻] ≥ L"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kas vyksta skiedžiant buferinį tirpalą?",
+        "choices": [
+            "Nekinta Cr/Cdr santykis",
+            "Kinta tirpalo elektrinis laidis",
+            "Praktinis tirpalo pH nesikeičia",
+            "Kinta jonizacijos konstanta"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Koks buferinio tirpalo vaidmuo atliekant analizę?",
+        "choices": [
+            "Trukdančių jonų pašalinimui",
+            "Stipri rūgštis paverčiama silpna rūgštimi",
+            "Stipri bazė paverčiama silpna druska",
+            "Palaikomas pastovus tirpalo pH"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kokie yra cheminiai medžiagų atskyrimo būdai?",
+        "choices": [
+            "Nuosėdų susidarymas ir tirpimas",
+            "Tirpalo filtravimas",
+            "Oksidacijos- redukcijos reakcijos",
+            "Koloidinių dalelių susidarymas"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kokios yra pagrindinės kompleksonometrinio titravimo sąlygos?",
+        "choices": [
+            "Pastovus terpės pH palaikymas buferinių tirpalų pagalba",
+            "Patvarūs kompleksai su kompleksonais",
+            "Nepatvarūs ir lengvai suyrantys katijonų kompleksai su indikatoriais",
+            "Katijonų kompleksai su indikatoriais turi sudaryti patvarias nuosėdas"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Pagal ką yra parenkami indikatoriai rūgštiniame-baziniame titravime?",
+        "choices": [
+            "Atsiželgiant į titravimo kreives, vaizduojančias titruojamo tirpalo pH pokytį.",
+            "Indikatoriaus perėjimo intervalas Δ pH turi būti titravimo šuolio",
+            "Atsiželgiant į titravimo kreivės šuolį",
+            "Atsiželgiant į titravimo kreives, vaizduojančias titruojamo tirpalo spalvos pokytį"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kokiu tikslu taikoma hidrolizė analizėje?",
+        "choices": [
+            "Jonų identifikavimui",
+            "Cheminių reakcijų metu susidariusių produktų elimnavimui",
+            "pH pakeitimui",
+            "Kliudančių jonų surišimui"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Nuo ko priklauso mažai tirpių junginių tirpumas?",
+        "choices": [
+            "Terpės pH",
+            "Temperatūros",
+            "Tirpale esančių pašalinių jonų",
+            "Susidariusių nuosėdų spalvos"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kokiu tikslu taikomos oksidacijos- redukcijos reakcijos analizėje?",
+        "choices": [
+            "Jonų atskyrimui ir tapatybės nustatymui",
+            "Junginių tirpinimmui",
+            "Trukdančių jonų pašalinimui",
+            "Jonizacijos konstantai nustatyti"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kokiais atvejais analizėje taikomas kompleksinių junginių susidarymas?",
+        "choices": [
+            "Kliudančių jonų surišimui",
+            "Rūgštinių-bazinių, oksidacių-redukcinių savybių pakeitimui",
+            "Mažai tirpių nuosėdų tirpinimui",
+            "Pastoviam tirpalo pH palaikymui"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Ką parodo gradavimo grafikas?",
+        "choices": [
+            "Optinio tankio priklausomybę nuo koncentracijos",
+            "Optinio tankio priklausomybę nuo bangos ilgio",
+            "Lūžio rodiklio priklausomybę nuo koncentracijos",
+            "Optinio tankio priklausomybę nuo laiko"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

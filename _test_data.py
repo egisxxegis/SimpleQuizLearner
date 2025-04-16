@@ -855,3 +855,26 @@ identifikuoti NH4+ joną?
 A) TAIP 
 B) NE 
 """
+
+body6 = """
+69. Kuri iš pateiktų sulfaguanidino tapatybės nustatymo reakcijų yra atliekama guanidino fragmento 
+atpažinimui: 
+A. Su nitrito rūgštimi 
+B. Sakaguchi reakcija 
+C. Fujiwara reakcija 
+D. Vitali - Morino reakcija 
+ 
+70. Kurios farmacinės substancijos, pasižyminčios rūgštinėmis savybėmis, negalima tiesiogiai 
+nutitruoti NaOH: 
+A. Salsalato 
+B. Diflunisalio 
+C. Acetilsalicilo rūgšties 
+29 
+ 
+D. Askorbo rūgšties 
+E. H3BO3 
+ 
+I lygio klausimų atsakymai 
+69. B 
+70. E
+"""

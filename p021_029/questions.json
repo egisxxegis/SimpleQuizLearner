@@ -1,0 +1,1219 @@
+[
+    {
+        "number": 1,
+        "question": "Titruojant farmacines substancijas, antrinių arilaminų darinius, nitritometrijos metodu reakcijos metu susidaro:",
+        "choices": [
+            "Azodažikliai",
+            "Alkildiazonio druskos",
+            "N-nitrozo dariniai",
+            "Arildiazonio druskos"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kuris iš nurodytųjų tirpiklių naudojamas titruojant rūgštinio pobūdžio farmacines substancijas bevandenėje terpėje:",
+        "choices": [
+            "Benzenas",
+            "Trichlormetanas",
+            "Ledinė acto rūgštis",
+            "Dimetilformamidas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kuriame iš nurodytų tirpalų tirpsta visi sidabro halogenidai:",
+        "choices": [
+            "Amonio karbonato tirpale",
+            "Prask. nitrato rūgštyje",
+            "Amoniako tirpale",
+            "Natrio tiosulfato tirpale"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Specifikuotų acetilsalicilo rūgšties priemaišų - acetilsalicilo rūgšties anhidrido ir acetilsalicilosalicilo rūgšties - nustatymui yra atliekama reakcija:",
+        "choices": [
+            "Veikiant tetrabutilamoniohidroksidu izopropilo alkoholyje",
+            "Veikiant 2,6-dichlorchinonchlorimidu",
+            "Veikiant 2,4-dinitrochlorbenzenu",
+            "Veikiant dicikloheksilkarbodiimidu"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kuris kiekybinio nustatymo metodas gali būti taikomas abiejų pateiktų substancijų – bazinio bismuto nitrato ir bismuto subsalicilato - kiekybiniam įvertinimui:",
+        "choices": [
+            "Kompleksonometrijos metodas indikatoriumi naudojant eriochromą juodajį T",
+            "Kompleksonometrijos metodas indikatoriumi naudojant pirokatecholio violetinį",
+            "Bromatometrijos metodas",
+            "Alkalimetrijos metodas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kurios iš pateiktų substancijų kiekiui nustatyti gali būti taikomas titravimo bevandenėje terpėje metodas, dėl jos struktūroje esančios fenolinės grupės rūgštinių savybių:",
+        "choices": [
+            "Paracetamolio",
+            "Fenolio",
+            "Salsalato",
+            "Natrio salicilato",
+            "Salicilamido"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kurie iš pateiktų p-aminobenzoinės rūgšties darinių neduoda teigiamos hidroksaminės reakcijos:",
+        "choices": [
+            "Chloroprokainas",
+            "Prokainamidas",
+            "Benzokainas",
+            "Prokainas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kuris iš pateiktų teiginių apie fenilbutazoną yra neteisingas:",
+        "choices": [
+            "Fenilbutazono struktūroje yra stereogeninis centras C-4 padėtyje",
+            "Fenilbutazonui būdingos rūgštinės savybės",
+            "Fenilbutazono struktūros pagrindą sudaro pirazolidino žiedas",
+            "Pradinė fenilbutazono sintezės medžiaga yra butilmalono rūgšties etilo esteris"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kaip yra atliekamas gipso tapatumo nustatymas:",
+        "choices": [
+            "Junginį ištirpinus konc. vandenilio chlorido rūgštyje",
+            "Junginį ištirpinus etanolyje",
+            "Junginį sulydžius tiglyje su karbonatais",
+            "Junginį ištirpinus konc. natrio hidrokside",
+            "Junginį ištirpinus konc. sulfato rūgštyje"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kuri iš pateiktų farmacinių substancijų nėra vartojama išoriškai kaip antiseptikas:",
+        "choices": [
+            "Chloroksilenolis",
+            "Benzoinė rūgštis",
+            "Rezorcinolis",
+            "Propofolis"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kurios iš pateiktų farmacinių substancijų identifikavimui gali būti atliekama fluoresceino susidarymo reakcija:",
+        "choices": [
+            "Prokaino hidrochloridui",
+            "Ftalilsulfatiazolui",
+            "Bupivakaino hidrochloridui",
+            "Chloramfenikolio natrio sukcinatui",
+            "Diklofenako natrio druskai"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Atliekant oksibuprokaino kiekybinį nustatymą bromatometrijos metodu vyksta:",
+        "choices": [
+            "Elektrofilinė pakeitimo (substitucijos) reakcija",
+            "Nukleofilinė pakeitimo (substitucijos) reakcija",
+            "Elektrofilinė jungimosi (adicijos) reakcija",
+            "Nukleofilinė jungimosi (adicijos) reakcija"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kuri iš pateiktų farmacinių substancijų sunkiai tirpsta vandenyje:",
+        "choices": [
+            "Sulfacetamido natrio druska",
+            "Diklofenako natrio druska",
+            "Chloramfenikolio natrio sukcinatas",
+            "Visos išvardintos substancijos lengvai tirpsta vandenyje"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kurios farmacinės substancijos tapatybės nustatymui norint atlikti azodažiklių susidarymo reakciją yra reikalingas redukcijos žingsnis?",
+        "choices": [
+            "Chloroprokaino HCl",
+            "Bupivakaino HCl",
+            "Chloramfenikolio palmitatui",
+            "Sulfadimidinui"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kurios farmacinės substancijos gali sudaryti azodažiklius:",
+        "choices": [
+            "Sulfatiazolas",
+            "Heksilrezorcinolis",
+            "Morfinas",
+            "Visos nurodytos"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kuriam heterociklui nustatyti atliekama Pauli reakcija:",
+        "choices": [
+            "Pirazolo",
+            "Imidazolo",
+            "Pirimidino",
+            "Piridino"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Dėl kokios cheminės savybės fenazono identifikavimui galima atlikti Zimerman'o reakciją:",
+        "choices": [
+            "Dėl gebėjimo dalyvauti elektrofilinėse pakaitų reakcijose",
+            "Gebėjimo įgauti cviterjono formą",
+            "Gebėjimo redukuotis",
+            "CH rūgštingumo",
+            "Gebėjimo oksiduotis"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kurios iš pateiktų farmacinių substancijų identifikavimui yra atliekamas Winkler'io testas:",
+        "choices": [
+            "Etilmorfino HCl",
+            "Fenilbutazono",
+            "Nitrofurantoino",
+            "Cefalotino Na druskos",
+            "Teofilino"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kuris iš nurodytų metodų negali būti taikomas acetilsalicilo rūgšties kiekiui nustatyti:",
+        "choices": [
+            "Alkalimetrijos, indikatoriumi naudojant fenolftaleiną",
+            "Alkalimetrijos, indikatoriumi naudojant timolftaleiną",
+            "Atvirkštinės neutralizacijos metodas",
+            "Bromatometrijos metodas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kuri farmacinė susbtancija nereaguoja su jodu natrio hidroksido aplinkoje susidarant jodoformui:",
+        "choices": [
+            "Etilmorfinas",
+            "Benzokainas",
+            "Piperacilinas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Atliekant sulfanilamido pirolizės reakciją:",
+        "choices": [
+            "Jaučiamas anilino kvapas",
+            "Jaučiamas amoniako kvapas",
+            "Jaučiamas amoniako, anilino kvapas ir gaunamas mėlynai violetinės spalvos lydinys",
+            "Atsiranda mėlynai violetinė spalva"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kurios iš pateiktų farmacinių substancijų struktūroje yra azo grupė:",
+        "choices": [
+            "Sulfasalazino",
+            "Bupivakaino HCl",
+            "Flufenamo rūgšties",
+            "Diflunisalio",
+            "Kodeino"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Benzoato anijonas nustatomas:",
+        "choices": [
+            "Įpylus geležies (III) chlorido tirpalo, susidaro raudonai violetinės spalvos nuosėdos, o su vario sulfato tirpalu - žalios spalvos nuosėdos",
+            "Atliekant azodažiklių susidarymo reakciją bei veikiant brominimo mišiniu",
+            "Įpylus geležies (III) chlorido tirpalo, susidaro gelsvai rusvos spalvos nuosėdos, o su vario sulfato tirpalu - mėlynos spalvos nuosėdos",
+            "Įpylus geležies (III) chlorido tirpalo, susidaro raudonai violetinės spalvos nuosėdos, o su vario sulfato tirpalu - žalios spalvos nuosėdos"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Kuri iš pateiktų farmacinių substancijų neduoda teigiamos hidroksaminės reakcijos:",
+        "choices": [
+            "Diklofenako Na druska",
+            "Chloramfenikolis",
+            "Prokainamidas",
+            "Benzilpenicilinas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kuriai iš pateiktų farmacinių substancijų identifikuoti yra atliekama mureksidinė reakcija:",
+        "choices": [
+            "Teofilinui",
+            "Kodeino fosfatui",
+            "Tikarcilino dinatrio druskai",
+            "Furazolidonui",
+            "Fenilbutazonui"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kuri iš pateiktų reakcijų yra taikoma individualių penicilinų atskyrimui:",
+        "choices": [
+            "Jodo-azido reakcija",
+            "Hidroksaminė reakcija",
+            "Šarminė hidrolizė susidarant atitinkamai peniciloino rūgščiai",
+            "Po junginio fragmentacijos konc. sulfato rūgšties aplinkoje atliekama reakcija su chromatropo rūgštimi"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kuriuo metodu racionaliausia atlikti kiekybinę penicilinų grupės farmacinių substancijų analizę:",
+        "choices": [
+            "Jodometrijos po šarminės hidrolizės",
+            "Ceiselio metodu",
+            "Titravimo bevandenėje terpėje",
+            "Acidimetrijos"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kuriam iš pateiktų cefalosporinų grupės antibiotikų yra būdinga bazių katalizuojama izomerizacija į neaktyvų Δ²- cefalosporinų izomerą:",
+        "choices": [
+            "Cefoksitino natrio druskai",
+            "Cefalotino natrio druskai",
+            "Cefaleksinui",
+            "Cefotaksimo natrio druskai",
+            "Cefuroksimo aksetiliui"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Kurios farmacinės substancijos kiekybiniam nustatymui titravimo bevandenėje terpėje metodu nėra reikalingas gyvsidabrio acetatas:",
+        "choices": [
+            "Kodeino fosfato",
+            "Morfino hidrochlorido",
+            "Chloroprokaino hidrochlorido",
+            "Tiamino hidrochlorido",
+            "Lidokaino hidrochlorido"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kurį iš nurodytųjų metodų taikant nustatomas fenolių grupės farmacinių substancijų kiekis:",
+        "choices": [
+            "Titanometrijos metodą",
+            "Bromatometrijos metodą",
+            "Permanganatometrijos metodą",
+            "Alkalimetrijos metodą"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kuriai iš pateiktų farmacinių substancijų identifikuoti yra atliekama Pauli reakcija:",
+        "choices": [
+            "Etilmorfino HCl",
+            "Teofilinui",
+            "Fenazonui",
+            "Askorbo rūgščiai",
+            "Amoksicilinui"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kurios farmacinės substancijos gali sudaryti azodažiklius:",
+        "choices": [
+            "Chloramfenikolis",
+            "Prokainamido HCl",
+            "Sulfadiazinas",
+            "Visos nurodytos"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kaip galima nustatyti aromatinę amino grupę paracetamolyje:",
+        "choices": [
+            "Po hidrolizės atliekant azodažiklių susidarymo reakciją",
+            "Atliekant arilizocianido susidarymo reakciją",
+            "Atliekant reakciją su bromo vandeniu",
+            "Atliekant reakciją su geležies (III) chloridu"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kuris argentometrinio titravimo metodas yra atvirkštinis:",
+        "choices": [
+            "Moro",
+            "Fajanso",
+            "Folhardo"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kurie iš nurodytų metodų gali būti taikomi prokaino hidrochlorido kiekiui nustatyti:",
+        "choices": [
+            "Neutralizacijos metodas",
+            "Nitritometrijos metodas",
+            "Titravimo bevandenėje terpėje metodas",
+            "Argentometrijos metodas",
+            "Gali būti taikomi visi nurodytieji metodai"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kuriai iš pateiktų farmacinių substancijų identifikuoti yra atliekama reakcija su šarminiu piridinu (Fujiwara'os reakcija):",
+        "choices": [
+            "Chloramfenikoliui",
+            "Sulfaguanidinui",
+            "Lidokaino hidrochloridui",
+            "Morfino hidrochloridui",
+            "Acetilsalicilo rūgščiai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kurios iš pateiktų substancijų kiekiui nustatyti negali būti taikomas cerimetrijos metodas:",
+        "choices": [
+            "Paracetamolio",
+            "Fenolio",
+            "Rezorcinolio",
+            "Fenilsalicilato",
+            "Askorbo rūgšties"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kuri reakcija nėra atliekama nitrofurano grupės farmacinių substancijų tapatumui nustatyti:",
+        "choices": [
+            "Reakcija su sunkiųjų metalų druskomis",
+            "Reakcija su baziniais tirpikliais",
+            "Azodažiklių susidarymo reakcija",
+            "Reakcija su vandeniniu natrio hidroksido tirpalu"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Kuriais cheminės analizės metodais galima nustatyti L-askorbo rūgšties kiekį:",
+        "choices": [
+            "Alkalimetrijos",
+            "Jodometrijos",
+            "Jodomonochloridometrijos",
+            "Jodatometrijos",
+            "Visais nurodytais"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Kurios iš šių farmacinių substancijų tirpsta vandeniniuose šarmų tirpaluose:",
+        "choices": [
+            "Propofolis",
+            "Morfinas",
+            "Paracetamolis",
+            "Cinko oksidas",
+            "Visos nurodytos"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Kuris iš pateiktų teiginių apie L-askorbo rūgštį yra neteisingas:",
+        "choices": [
+            "Abi jos struktūroje esančios enolinės hidroksigrupės pasižymi vienodomis rūgštinėmis savybėmis",
+            "Iš keturių vitamerų, tik L-askorbo rūgštis pasižymi antiskorbutiniu aktyvumu",
+            "Tapatumo ir kiekybiniam nustatymui yra panaudojamos rūgštinės jos savybės",
+            "Ji lengvai oksiduojasi paveikus net silpnais oksidatoriais"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kuriuo metodu racionaliausia atlikti kiekybinę cefalosporinų grupės farmacinių substancijų analizę:",
+        "choices": [
+            "Įvertinant biologinį aktyvumą",
+            "Jodometrijos po šarminės hidrolizės",
+            "Titravimo bevandenėje terpėje",
+            "Acidimetrijos"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Kuris iš pateiktų cheminės analizės metodų taikomas metamizolo kiekiui nustatyti:",
+        "choices": [
+            "Alkalimetrijos metodas",
+            "Cerimetrijos metodas",
+            "Jodometrijos metodas",
+            "Nitritometrijos metodas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Kokia cheminė savybė yra būdinga pateiktoms farmacinėms substancijoms: tiaminui ir fenazonui (antipirinui)?",
+        "choices": [
+            "CH rūgštingumas",
+            "OH rūgštingumas",
+            "NH rūgštingumas",
+            "Oksidacinės ir redukcinės savybės"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Kokia specifinė tapatumo nustatymo reakcija yra charakteringa šioms farmacinėms substancijoms: prokaino HCl, tetrakaino HCl ir lidokaino HCl:",
+        "choices": [
+            "Sakaguchi reakcija",
+            "Chen-Kao reakcija",
+            "Emersono reakcija",
+            "Vitali-Morino reakcija",
+            "Merocianinų susidarymo reakcija"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Kuris iš pateiktų cefalosporinų grupės antibiotikų yra 3-dezacetoksi-7-aminocefalosporano rūgšties darinys:",
+        "choices": [
+            "Cefaleksinas",
+            "Cefoksitino natrio druska",
+            "Cefalotino natrio druska",
+            "Cefotaksimo natrio druska",
+            "Cefuroksimo aksetilis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 47,
+        "question": "Kuri iš pateiktų farmacinių substancijų pasižymi bazinėmis savybėmis:",
+        "choices": [
+            "L-Askorbo rūgštis",
+            "Nitrofurantoinas",
+            "Kodeinas",
+            "Fenilbutazonas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 47,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 48,
+        "question": "Dėl kurių nurodytų funkcinių grupių ar savybių chloramfenikolio kiekį galima nustatyti nitritometrijos metodu:",
+        "choices": [
+            "Dėl kovalentiškai su C sujungto Cl",
+            "Dėl aromatinės nitrogrupės",
+            "Dėl gebėjimo sudaryti kompleksinį junginį su vario sulfatu",
+            "Dėl amidinės grupės buvimo junginio struktūroje"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 48,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 49,
+        "question": "Kurie iš nurodytų metodų gali būti taikomi tetrakaino hidrochlorido kiekiui nustatyti:",
+        "choices": [
+            "Alkalimetrijos metodas",
+            "Nitritometrijos metodas",
+            "Titravimo bevandenėje terpėje metodas",
+            "Jodomonochloridometrijos metodas",
+            "Gali būti taikomi visi nurodytieji metodai"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 49,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 50,
+        "question": "Kuri iš pateiktų farmacinių substancijų gali būti gaunama iš gamtinių šaltinių:",
+        "choices": [
+            "Mefenamo rūgštis",
+            "Benzokainas",
+            "Chloramfenikolis",
+            "Sulfanilamidas",
+            "Lidokaino HCl"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 50,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 51,
+        "question": "Kuris iš nurodytųjų metodų negali būti taikomas nustatant flufenamo rūgšties kiekį:",
+        "choices": [
+            "Titravimo bevandenėje terpėje, ištirpinus dimetilformamide ir titruojant NaOH metanolyje",
+            "Alkalimetrijos metodu, ištirpinus etanolyje ir titruojant NaOH",
+            "Oksiduojant N-bromsukcinimidu (NBS), o jo perteklių nustatant jodometriškai",
+            "Titravimo bevandenėje terpėje, ištirpinus ledinėje acto rūgštyje ir titruojant perchlorato rūgštimi"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Kuri iš pateiktų reakcijų yra specifinė sulfasalazino identifikavimo reakcija:",
+        "choices": [
+            "Azodažiklių susidarymo reakcija",
+            "Reakcija su bromo vandeniu",
+            "Lignino reakcija",
+            "Sakaguchi rekacija",
+            "Hidrinimo reakcija"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Kuri iš pateiktų reakcijų yra specifinė prokaino HCl identifikavimo reakcija:",
+        "choices": [
+            "Rūgštinėje terpėje atliekama reakcija su jodo tirpalu",
+            "Azodažiklių susidarymo reakcija",
+            "Arilizocianidų susidarymo reakcija",
+            "Hidroksaminė reakcija",
+            "Visos išvardintos reakcijos yra specifinės prokaino HCl atpažinti"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Kurios iš pateiktų farmacinių substancijų struktūroje nėra amidinės grupės:",
+        "choices": [
+            "Prokainamido hidrochlorido",
+            "Ftalilsulfatiazolo",
+            "Diklofenako Na druskos",
+            "Chloramfenikolio palmitato",
+            "Lidokaino hidrochlorido"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Kurios iš pateiktų farmacinių substancijų struktūroje nėra esterinės grupės:",
+        "choices": [
+            "Chloramfenikolio palmitato",
+            "Sulfadiazino",
+            "Benzokaino",
+            "Prokaino hidrochlorido"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Kurios iš pateiktų farmacinių substancijų tapatumui nustatyti negali būti atliekama reakcija su vario sulfatu:",
+        "choices": [
+            "Flufenamo rūgščiai",
+            "Sulfametoksazolui",
+            "Lidokaino hidrochloridui",
+            "Prokainamido hidrochloridui",
+            "Chloramfenikoliui"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 57,
+        "question": "Kuris iš pateiktų teiginių yra neteisingas:",
+        "choices": [
+            "K₄[Fe(CN)₆] yra reagentas Mg katijonų atpažinimui",
+            "K₄[Fe(CN)₆] yra reagentas Fe (II) katijonų atpažinimui",
+            "K₄[Fe(CN)₆] yra reagentas Ca katijonų atpažinimui",
+            "K₄[Fe(CN)₆] yra reagentas Zn katijonų atpažinimui"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 57,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 58,
+        "question": "Kuris kiekybinio nustatymo metodas gali būti taikomas visų pateiktų substancijų - magnio sulfato, cinko sulfato ir geležies sulfato - kiekybiniam įvertinimui:",
+        "choices": [
+            "Argentometrijos",
+            "Jodometrijos",
+            "Gravimetrijos",
+            "Neutralizacijos",
+            "Permanganatometrijos"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 58,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 59,
+        "question": "Salicilato anijonas nustatomas:",
+        "choices": [
+            "Įpylus geležies (II) chlorido tirpalo, susidaro raudonai violetinės spalvos nuosėdos, o su vario sulfato tirpalu - žalios spalvos nuosėdos",
+            "Įpylus geležies (III) chlorido tirpalo, susidaro gelsvai rusvos spalvos nuosėdos, o su vario sulfato tirpalu - mėlynos spalvos nuosėdos",
+            "Atliekant azodažiklių susidarymo reakciją bei veikiant brominimo mišiniu",
+            "Įpylus geležies (III) chlorido tirpalo, susidaro raudonai violetinės spalvos nuosėdos, o su vario sulfato tirpalu - baltos spalvos nuosėdos"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 59,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 60,
+        "question": "Kurios iš pateiktų substancijų kiekiui nustatyti negali būti taikomas bromatometrijos metodas:",
+        "choices": [
+            "Benzoinės rūgšties",
+            "Chloroksilenolio",
+            "Magnio salicilato",
+            "Acetilsalicilo rūgšties",
+            "Salsalato"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 60,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 61,
+        "question": "Kuri iš pateiktų substancijų netirpsta vandeniniame natrio karbonato tirpale:",
+        "choices": [
+            "Diflunisalis",
+            "Salicilo rūgštis",
+            "Fenilsalicilatas",
+            "Salsalatas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 61,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 62,
+        "question": "Kurios farmacinės substancijos struktūroje yra esterinė grupė:",
+        "choices": [
+            "Etilmorfino HCl",
+            "Cefaleksino",
+            "Metamizolo natrio druskos",
+            "Benzilpenicilino prokaino druskos"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 62,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 63,
+        "question": "Kurios farmacinės substancijos struktūroje nėra halogeno atomų:",
+        "choices": [
+            "Cefuroksimo aksetilio",
+            "Chloramfenikolio",
+            "Diklofenako Na druskos",
+            "Dikloksacilino Na druskos"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 63,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 64,
+        "question": "Kurios iš pateiktų farmacinių substancijų identifikavimui yra atliekama tiochromo susidarymo reakcija:",
+        "choices": [
+            "Fenoksimetilpenicilino",
+            "Tiamino HCl",
+            "Proparacetamolio",
+            "Morfino HCl",
+            "Propofolio"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 64,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 65,
+        "question": "Kuri iš pateiktų farmacinių substancijų pasižymi amfoterinėmis savybėmis:",
+        "choices": [
+            "Kodeinas",
+            "Fenazonas",
+            "Morfinas",
+            "Nitrofurantoinas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 65,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 66,
+        "question": "Kuri iš pateiktų neorganinių farmacinių substancijų yra praktiškai netirpi vandenyje:",
+        "choices": [
+            "BaSO₄",
+            "KI",
+            "NaNO₂",
+            "Na₂B₄O₇",
+            "FeSO₄"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 66,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 67,
+        "question": "Kuris iš pateiktų chloramfenikolio stereoizomerų pasižymi dideliu antibakteriniu aktyvumu:",
+        "choices": [
+            "L-(+)-eritro",
+            "D-(-)-eritro",
+            "L-(+)-treo",
+            "D-(-)-treo"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 67,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 68,
+        "question": "Kurios farmacinės substancijos identifikavimui yra atliekama nitrozinimo reakcija:",
+        "choices": [
+            "Chloramfenikoliui",
+            "Paracetamoliui",
+            "Tetrakaino hidrochloridui",
+            "Prilokaino hidrochloridui",
+            "Nitrofuraliui"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 68,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 69,
+        "question": "Kuri iš pateiktų sulfaguanidino tapatybės nustatymo reakcijų yra atliekama guanidino fragmento atpažinimui:",
+        "choices": [
+            "Su nitrito rūgštimi",
+            "Sakaguchi reakcija",
+            "Fujiwara reakcija",
+            "Vitali - Morino reakcija"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 69,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 70,
+        "question": "Kurios farmacinės substancijos, pasižyminčios rūgštinėmis savybėmis, negalima tiesiogiai nutitruoti NaOH:",
+        "choices": [
+            "Salsalato",
+            "Diflunisalio",
+            "Acetilsalicilo rūgšties",
+            "Askorbo rūgšties",
+            "H₃BO₃"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 70,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

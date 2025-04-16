@@ -260,6 +260,37 @@ def _do_test():
     )
     # --------------- Tasks (question + answer)
 
+    # --------------- Answers
+    body = _test_data.body6
+    answers = _creatorv2.get_answers(body, lowest_num=69)
+    answer_high = answers[-1]
+    test(len(answers), 2)
+    test(answer_high.question_num, 70)
+    test(answer_high.answer, "E")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [29])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    test(len(questions), 2)
+    test(questions[-1].question_num, 70)
+    test(
+        questions[-1].question,
+        "Kurios farmacinės substancijos, pasižyminčios rūgštinėmis savybėmis, negalima tiesiogiai nutitruoti NaOH:",
+    )
+    converter = _creatorv2.get_answer_converter(mode="AB")
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), 2)
+    test(task_high.original_num, 70)
+    test(task_high.option_type, "AB")
+    test(
+        task_high.choices[task_high.answers_num[0] - 1],
+        "H3BO3",
+    )
+
     # --------------- chems
     body = """
     NH4+, Hg2+

@@ -104,7 +104,8 @@ def _cut_answers(raw: str, answers: list[_types.SimpleAnswer]):
     pattern_answers_start = answers[0].raw + r".{0,11}?" + answers[1].raw
     parts = re.split(pattern_answers_start, raw, 1)
     assert len(parts) == 2, "Cannot split questions and answers."
-    body = re.split(r"atsak.{1,10}$", parts[0], 0, re.IGNORECASE)[0]
+    pattern = r"[^\n]{0,20}atsak.{1,10}$"
+    body = re.split(pattern, parts[0], 0, re.IGNORECASE)[0]
     return body
 
 

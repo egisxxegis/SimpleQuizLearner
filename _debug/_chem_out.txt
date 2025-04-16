@@ -1,121 +1,114 @@
-1. Koks NaOH poveikis į IV ir V grupių katijonus? 
-1. Su šarmais, 4 grupės katijonai sudaro hidroksidus, tirpius reagento pertekliuje, o 5 grupės 
-katijonai sudaro hidroksidus, netirpius šarmų tirpaluose. 
-2. Su šarmų pertekliumi, 4 katijonų grupė sudaro kompleksinius anijonus. 
-3. 4 grupės katijonų hidroksidai tirpsta šarmų pertekliuje sudarydami kompleksinius anijonus, tai 
-įrodo rūgštines hidroksidų savybes. 
-4. Su šarmais, 5 grupės katijonai sudaro hidroksidus, tirpius reagento pertekliuje, o 4 grupės 
-katijonai sudaro hidroksidus, netirpius šarmų tirpaluose. 
+1. Nurodykite metodus, taikomus atliekant kiekybinę vandenilio peroksido analizę: 
+1. Jodometrija 
+2. Cerimetrija 
+3. Permanganatometrija  
+4. Alkalimetrija 
  
-2. Į tiriamą tirpalą įpylus KMnO₄ ir H₂SO₄ tirpalų mišinio, kalio permanganato spalva išbluko. 
-Kokią išvadą galime padaryti? 
-1. Tirpale yra anijonų reduktorių 
-2. Tirpale yra PO₄⁻ 
-3. Tirpale yra S₂O₃²⁻ 
-4. Tirpale yra NH₄⁺ 
+2. Kurios cheminės savybės yra būdingos L-askorbo rūgščiai: 
+1. Oksidacinės 
+2. Redukcinės 
+3. Rūgštinės 
+4. Amfoterinės 
  
-3. Kokios anijonų savybės lemia jų skirstymą į analizines grupes? 
-1. Bario druskų tirpumą vandenyje ir rūgštyse 
-2. Oksidacines – redukcines anijonų savybės 
-3. Sidabro druskų tirpumą vandenyje ir rūgštyse 
-4. Anijonų krūvis 
+3. Kurie iš pateiktų teiginių apie morfiną yra neteisingi: 
+1. Morfino struktūroje yra laisva fenolinė hidroksigrupė 
+2. Morfino struktūroje yra antrinis N atomas  
+3. Morfino struktūroje yra net keletas stereogeninių centrų 
+4. Į morfino struktūrą įeina tetrahidropirano žiedas 
  
-4. Kokiais būdais galima padidinti junginio tirpumą? 
-1. Keliant temperatūrą 
-2. Pridedant cheminių medžiagų kurios sudaro kompleksus arba suriša vieną iš jonų 
-3. Pridedant pašalinių jonų 
-4. Mažinant temperatūrą ir didinant slėgį 
+4. Kurie iš pateiktų teiginių apie acetilsalicilo rūgštį yra teisingi: 
+1. Pradinė jos sintezės medžiaga yra salicilo rūgštis  
+2. Jos hidrolizės profilis nesiskiria nuo tipinių kitų esterių hidrolizės metu vykstančių procesų 
+3. Ji biologinėse sistemose geba funkcionuoti kaip acilinantis agentas, o tai yra svarbu terapiniam 
+acetilsalicilo rūgšties poveikiui 
+4. Jos vandeniai tirpalai yra gana stabilūs plačiame pH reikšmių diapazone 
+5. Ištirpinus ji iškarto gali būti kiekybiškai nustatoma bromatometrijos metodu 
  
-5. Kodėl NO₂⁻ ir NO₃⁻ yra priskiriami ir prie oksidacinių ir prie redukcinių anijonų? 
-1. Rūgščioje aplinkoje reaguoja su I₂ 
-2. Rūgščioje aplinkoje reaguoja su KMnO₄ 
-17 
+5. Kurie iš pateiktų teiginių apie penicilinų grupės farmacines substancijas yra teisingi: 
+1. Įprastai jie yra atsparūs hidrolitinėms degradacijos reakcijoms 
+2. Bazinis jų skeletas sudarytas iš aminorūgščių L-cisteino bei D-valino 
+3. Jų struktūroje sutinkamas S heteroatomą turintis tiazino žiedas 
+4. Jų struktūrai yra būdingas azetidin-2-ono žiedas 
+5. Jie pasižymi rūgštinėmis savybėmis dėl amidinio ryšio buvimo jų struktūroje 
  
-3. Rūgščioje aplinkoje nereaguoja nei su KMnO₄ nei su KI 
-4. Rūgščioje aplinkoje reaguoja su KI 
+6. Kurie iš pateiktų teiginių apie paracetamolį yra teisingi: 
+1. Ištirpinus išgrynintame vandenyje jį iš karto galima kiekybiškai nustatyti cerimetrijos metodu 
+2. p-aminofenolis yra pradinė paracetamolio sintezės medžiaga 
+3. Jam yra būdingi antipiretinis, analgetinis ir priešuždegiminis poveikiai 
+30 
  
-6. Kokiu atveju sumaišius Ag⁺ ir Cl⁻ jonus susidarys AgCl nuosėdos? 
-1. Jeigu jonų koncentracijų sandauga bus lygi arba viršys tirpumo sandaugą, [Ag⁺] · [Cl⁻] ≥ L 
-2. Jeigu jonų koncentracijų sandauga bus lygi tirpumo sandaugąi, [Ag⁺] · [Cl⁻] = L 
-3. Jeigu jonų koncentracijų sandauga viršys tirpumo sandaugą, [Ag⁺] · [Cl⁻] ≥ L 
-4. Jeigu jonų koncentracijų sandauga bus mažesnė už tirpumo sandaugą, [Ag⁺] · [Cl⁻] ≥ L 
+4. Veikiant su K₂Cr₂O₇ yra gaunamas violetinės spalvos indofenolinis dažiklis 
  
-7. Kas vyksta skiedžiant buferinį tirpalą? 
-1. Nekinta Cr/Cdr santykis 
-2. Kinta tirpalo elektrinis laidis 
-3. Praktinis tirpalo pH nesikeičia 
-4. Kinta jonizacijos konstanta 
+7. Kurie iš pateiktų teiginių apie proparacetamolį yra neteisingi: 
+1. Kiekybiškai jį galima nustatyti titravimo bevandenėje terpėje metodu 
+2. p-aminofenolis yra pradinė proparacetamolio sintezės medžiaga 
+3. Pagrindinis jo degradacijos produktas yra p-aminofenolis 
+4. Ištirpinus jį vandenyje ir veikiant su geležies (III) chloridu yra gaunama mėlynai violetinė spalva 
  
-8. Koks buferinio tirpalo vaidmuo atliekant analizę? 
-1. Trukdančių jonų pašalinimui 
-2. Stipri rūgštis paverčiama silpna rūgštimi 
-3. Stipri bazė paverčiama silpna druska 
-4. Palaikomas pastovus tirpalo pH 
+8. Kurios cheminės savybės NĖRA būdingos fenolių grupės farmacinėms substancijoms: 
+1. Silpnai rūgštinės 
+2. Lengvai redukuojasi 
+3. Lengvai oksiduojasi 
+4. Stiprios bazinės 
  
-9. Kokie yra cheminiai medžiagų atskyrimo būdai? 
-1. Nuosėdų susidarymas ir tirpimas 
-2. Tirpalo filtravimas 
-3. Oksidacijos- redukcijos reakcijos 
-4. Koloidinių dalelių susidarymas 
+9. Sulfanilamidų grupei priklausančias farmacines substancijas galima atskirti: 
+1. Iš susidariusių nuosėdų spalvos su vario sulfato tirpalu 
+2. Atliekant azodažiklių susidarymo reakciją 
+3. Iš junginio pirolizės metu susidariusio lydinio spalvos bei išsiskiriančių lakių produktų 
+4. Iš susidariusių nuosėdų spalvos su sidabro nitrato tirpalu 
  
-10. Kokios yra pagrindinės kompleksonometrinio titravimo sąlygos? 
-1. Pastovus terpės pH palaikymas buferinių tirpalų pagalba 
-2. Patvarūs kompleksai su kompleksonais 
-3. Nepatvarūs ir lengvai suyrantys katijonų kompleksai su indikatoriais 
-4. Katijonų kompleksai su indikatoriais turi sudaryti patvarias nuosėdas 
+10. Kurie metodai taikomi paracetamolio kiekiui nustatyti: 
+1. Bromatometrijos metodas 
+2. Nitritometrijos metodas 
+3. Cerimetrijos metodas  
+4. Alkalimetrijos metodas 
  
-11. Pagal ką yra parenkami indikatoriai rūgštiniame-baziniame titravime? 
-1. Atsiželgiant į titravimo kreives, vaizduojančias titruojamo tirpalo pH pokytį. 
-2. Indikatoriaus perėjimo intervalas Δ pH turi būti titravimo šuolio 
-3. Atsiželgiant į titravimo kreivės šuolį 
-4. Atsiželgiant į titravimo kreives, vaizduojančias titruojamo tirpalo spalvos pokytį 
+11. Kurios cheminės savybės yra būdingos vandenilio peroksidui: 
+1. Oksidacinės 
+2. Rūgštinės  
+3. Redukcinės  
+4. Amfoterinės 
+5. Bazinės 
  
-12. Kokiu tikslu taikoma hidrolizė analizėje? 
-1. Jonų identifikavimui 
-2. Cheminių reakcijų metu susidariusių produktų elimnavimui 
-3. pH pakeitimui 
-4. Kliudančių jonų surišimui 
+12. Kurie iš pateiktų teiginių apie sulfanilamidų grupei priklausančias farmacines substancijas yra 
+teisingi: 
+1. Jų struktūroje paprastai yra pirminė alifatinė amino grupė 
+2. Jų struktūros pagrindą sudaro sulfanilšlapalo fragmentas 
+3. Bazinės jų savybės yra stipresnės už rūgštines 
+4. Joms yra būdingos amfoterinės savybės 
  
-13. Nuo ko priklauso mažai tirpių junginių tirpumas? 
-1. Terpės pH 
-2. Temperatūros 
-3. Tirpale esančių pašalinių jonų 
-4. Susidariusių nuosėdų spalvos 
+13. Kurie iš pateiktų teiginių apie cefalosporinų grupės farmacines substancijas yra teisingi: 
+1. Jų molekulės neturi chiralinių centrų  
+2. 3-dezacetoksi cefalosporinai gali būti gaunami iš penicilinų cheminės transformacijos pagalba 
+3. Jų struktūroje sutinkamas tiazolidino žiedas 
+4. Jie paprastai pasižymi didesniu stabilumu nei penicilinai 
  
-14. Kokiu tikslu taikomos oksidacijos- redukcijos reakcijos analizėje? 
-1. Jonų atskyrimui ir tapatybės nustatymui 
-2. Junginių tirpinimmui 
-3. Trukdančių jonų pašalinimui 
-4. Jonizacijos konstantai nustatyti 
+14. Kurios tapatumo reakcijos tinka visiems 6-aminopenicilano rūgšties dariniams nustatyti: 
+1. Nesimetrinių polimetininių dažiklių (merocianinų) susidarymo reakcija 
+2. Reakcija endociklinei sierai nustatyti  
+3. Arilmetaninių dažiklių susidarymo reakcija 
+4. Hidroksaminė reakcija 
  
-15. Kokiais atvejais analizėje taikomas kompleksinių junginių susidarymas? 
-1. Kliudančių jonų surišimui 
-2. Rūgštinių-bazinių, oksidacių-redukcinių savybių pakeitimui 
-18 
+15. Kurie iš pateiktų teiginių apie chloramfenikolį yra neteisingi: 
+1. Jo molekulėje yra fenolinė ir alkoholinė hidroksilo grupės 
+2. Jo struktūroje yra du stereogeniniai centrai 
+3. Abu jo molekulėje esantys N atomai pasižymi bazinėmis savybėmis 
+4. Jam yra būdingas labai kartus skonis 
+5. Tai yra geminalinis dihalogeninis junginys 
  
-3. Mažai tirpių nuosėdų tirpinimui 
-4. Pastoviam tirpalo pH palaikymui 
+1. A 11. A 
+31 
  
-16. Ką parodo gradavimo grafikas? 
-1. Optinio tankio priklausomybę nuo koncentracijos 
-2. Optinio tankio priklausomybę nuo bangos ilgio 
-3. Lūžio rodiklio priklausomybę nuo koncentracijos 
-4. Optinio tankio priklausomybę nuo laiko 
- 
-Atsakymai: 
-1. A 
-2. B 
-3. A 
-4. A 
+2. A 
+3. C 
+4. B 
 5. C 
-6. A 
-7. B 
+6. C 
+7. C 
 8. C 
 9. B 
 10. A 
-11. A 
-12. B 
-13. A 
-14. A 
-15. A 
-16. B
+12. D 
+13. C 
+14. C 
+15. B
