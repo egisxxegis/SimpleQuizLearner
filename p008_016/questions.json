@@ -455,7 +455,7 @@
         ],
         "option_type": "AB",
         "original_num": 27,
-        "random_picture_from": null,
+        "random_picture_from": ["kreive.png"],
         "comment": null
     },
     {
