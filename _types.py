@@ -58,3 +58,7 @@ class SimpleTask(pydantic.BaseModel):
 class SimpleChem(pydantic.BaseModel):
     raw: str
     chem_unscripted: str
+    elements_unscripted: list[str]
+    chem: str
+    chem_in_raw: str
+    "raw + chem"

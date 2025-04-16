@@ -1,6 +1,7 @@
 import _test_data
 import _creatorv2
 import _types
+import _chem
 
 
 def test(val1, val2):
@@ -262,11 +263,15 @@ def _do_test():
     # --------------- chems
     body = """
     NH4+, Hg2+
-    A) H2C2O4·2H2O,
+    A) H2C2O4·2H2O, PO43-
     """
-    chems = _creatorv2.get_chems(body)
-    test(len(chems), 4)
-    test([x.chem_unscripted for x in chems], ["NH4+", "Hg2+", "H2C2O4", "2H2O"])
+    chems = _chem.get_chems_partial(body)
+    test(len(chems), 5)
+    test(
+        [x.chem_unscripted for x in chems], ["NH4+", "Hg2+", "H2C2O4", "2H2O", "PO43-"]
+    )
+    chems = _chem.get_chems_full(chems)
+    test([x.chem for x in chems], ["NH₄⁺", "Hg²⁺", "H₂C₂O₄", "2H₂O", "PO₄³⁻"])
 
     print("All tests passed.")
 

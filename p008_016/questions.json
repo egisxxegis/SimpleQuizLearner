@@ -1,0 +1,1141 @@
+[
+    {
+        "number": 1,
+        "question": "Tirpale yra NH₄SO₄ ir CuSO₄ druskos. Kokių reakcijų pagalba galime atskirti šias druskas?",
+        "choices": [
+            "Reakcija su BaCl₂ ir CaCl₂",
+            "Reakcija su Neslerio reagentu ir reakcija su K₄[Fe(CN)₆]",
+            "Reakcija su Bi(NO₃)₃ ir su Hg(NO₃)₂",
+            "Reakcija su Na₂HPO₄"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kaip atskirti PbCl₂ nuo kitų antros katijonų grupės chloridų?",
+        "choices": [
+            "Pagal tirpumą karštame vandenyje- PbCl₂ nuosėdos tirpsta, o kitų tos grupės chloridų nuosėdos netirps",
+            "Pagal nuosėdų spalvą, gautą paveikus grupiniu reagentu",
+            "Paveikus KI, susidaro žalios spalvos nuosėdos",
+            "Paveikus K₂CrO₄, susidaro raudonos nuosėdos"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "VI analizinės katijonų grupės grupinis reagentas yra:",
+        "choices": [
+            "NaOH perteklius",
+            "NH₄OH trūkumas",
+            "NH₄OH perteklius ir KOH",
+            "NH₄OH perteklius"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Į liepsną įnešus analizuojamos druskos kristalų, bespalvė liepsna nusidažė plytų raudonumo spalva ir atsirado trumpi žybtelėjimai. Kokio katijono buvimą įrodo gauti rezultatai?",
+        "choices": [
+            "Na⁺",
+            "Ca²⁺",
+            "Ba²⁺",
+            "Co²⁺"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "CaSO₄ nuosėdų susidarymo pagreitinimui į tirpalą yra pilama:",
+        "choices": [
+            "Rūgšties",
+            "Šarmo",
+            "Etanolio",
+            "Trichlormetano"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kokiu tikslu atliekamas III katijonų grupės sulfatų pervedimas į karbonatus?",
+        "choices": [
+            "Mažai tirpūs sulfatai yra pervedami į karbonatus gerai tirpstančius rūgštyse",
+            "Gerai tirpūs sulfatai yra pervedami į karbonatus blogai tirpstančius rūgštyse",
+            "Tirpalo pH pakeitimui",
+            "Reakcijai trukdančių jonų pašalinimui"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kokiu tikslu atliekant IV katijonų grupės sisteminę analizę, tyrimo pradžioje į tiriamąjį tirpalą yra pilamas H₂O₂?",
+        "choices": [
+            "Cr³⁺ jonų oksidacijai",
+            "Mn²⁺ jonų oksidacijai",
+            "Cr³⁺ jonų redukcijai",
+            "Mn²⁺ jonų redukcijai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kaip galima pašalinti Pb²⁺ jonus juos nusodinus grupiniu reagentu?",
+        "choices": [
+            "Tirpalą centrifuguojant",
+            "Atliekant dekantavimą",
+            "Atliekant ekstrakciją",
+            "Nuosėdas plaunant karštu vandeniu"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Veikiant tiriamąjį tirpalą praskiesta H₂SO₄ rūgštimi skiriasi dujos. Kokio anijono buvimą įrodo  išsiskyrusios dujos?",
+        "choices": [
+            "CH₃COO⁻",
+            "SCN⁻",
+            "Br⁻",
+            "CO₃²⁻"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Tiriama medžiaga yra gerai tirpi vandenyje. Atlikus tirpalo analizę buvo identifikuotas Ba²⁺ jonas. Kokių anijonų buvimą druskoje galime atmesti?",
+        "choices": [
+            "NO₃⁻",
+            "Cl⁻",
+            "CH₃COO⁻",
+            "SO₄²⁻"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Nustatomas minimumas (m) tai:",
+        "choices": [
+            "Mažiausias medžiagos kiekis μg 1 ml tirpalo, kurį dar galima rasti duotod reakcijos pagalba",
+            "Didžiausias praskiedimas tirpalo, turinčio 1 g medžiagos, kai reakcija su duotu reagentu dar teigiama",
+            "Mažiausias tirpalo tūris, kuriame yra 1g medžiagos ir reakcija su duotu reagentu dar teigiama",
+            "Mažiausias medžiagos kiekis μg minimaliame tirpalo tūryje, kurį dar galima rasti duotod reakcijos pagalba"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kaip išreiškiamas tirpumas?",
+        "choices": [
+            "Tirpumas išreiškiamas ištirpusios medžiagos molių kiekiu viename sotaus tirpalo litre",
+            "Tirpumas išreiškiamas ištirpusios medžiagos molių kiekiu viename nesotaus tirpalo litre",
+            "Tirpumas išreiškiamas neištirpusios medžiagos molių kiekiu viename sotaus tirpalo mililitre",
+            "Tirpumas išreiškiamas neištirpusios medžiagos molių kiekiu viename nesotaus tirpalo litre"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kokios reakcijos vadinamos specifinėmis?",
+        "choices": [
+            "Kai analitinis požymis būdingas tik vienam jonui ar junginiui",
+            "Kai analitis požymis būdingas panašių savybių jonų grupei",
+            "Kai analitinis požymis būdingas keliems jonams ar junginiams",
+            "Kai analitinis požymis būdingas skirtingų savybių jonų grupei"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Nuosėdų plovimas tai:",
+        "choices": [
+            "Nuosėdų tirpinimas",
+            "Nuosėdų ekstrahavimas",
+            "Tirpių priemaišų pašalinimas nuo nuosėdų",
+            "Skysčio nupylimas nuo nuosėdų"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Koks procesas vyksta dekantavimo metu?",
+        "choices": [
+            "Skysčio nupylimas nuo nuosėdų",
+            "Nuosėdų susidarymas",
+            "Nuosėdų plovimas nuo priemaišų",
+            "Nuosėdų filtravimas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Sisteminė analizė tai:",
+        "choices": [
+            "Pilna jonų mišinio analizė",
+            "Chromatografinė analizė",
+            "Jonų reakcijos su grupiniais reagentais",
+            "Jonų reakcijos su specifiniais reagentais"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Pridėjus į fostafinį buferinį tirpalą (H₃PO₄ + NaH₂PO₄) stiprios bazės, reakcijoje dalyvaus:",
+        "choices": [
+            "H₃PO₄",
+            "NaH₂PO₄",
+            "H₂PO₄⁻",
+            "PO₄³⁻"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kuri druska hidrolizuoja?",
+        "choices": [
+            "K₂SO₄",
+            "K₂CO₃",
+            "NaCl",
+            "NaNO₃"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kokią terpę įgaus tirpalas, tirpinant vandenyje FeCl₃?",
+        "choices": [
+            "Šarminę",
+            "Neutralią",
+            "Rūgščią",
+            "Terpė nesikeis"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kuria kryptimi vyksta oksidacijos - redukcijos reakcijos ?",
+        "choices": [
+            "Silpnesnių oksidatorių ir silpnesnių reduktorių susidarymo kryptimi",
+            "Oksidatoriaus ir reduktoriaus koncentracijų mažėjimo kryptimi",
+            "Oksidacijos - redukcijos potencialo mažėjimo kryptimi",
+            "Stipresnių oksidatorių ir silpnesnių reduktorių susidarymo kryptimi"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Koks kiekybinis oksidatorių ir reduktorių stiprumo bei aktyvumo matas?",
+        "choices": [
+            "Oksidacijos - redukcijos standartinio potencialo dydis",
+            "Elektronų perėjimo iš reduktoriaus į oksidatorių greitis",
+            "Reakcijoje dalyvaujančių elektronų skaičius",
+            "Reakcijoje dalyvaujančių medžiagų koncentracijų dydis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kuris iš šių reikalavimų netinka titrimetriniams nustatymams?",
+        "choices": [
+            "Reakcijos turi vykti iki galo ir greitai",
+            "Nusodinamoji forma turi kiekybiškai virsti gravimetrine forma",
+            "Ekvivalentinis taškas turi būti lengvai ir tiksliai nustatomas",
+            "Reakcijos turi būti stechiometrinės"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Kam naudojami indikatorių mišiniai?",
+        "choices": [
+            "Tam, kad rūgštinės ir bazinės formos spalvos būtų skirtingos",
+            "Tam, kad sumažinti indikatoriaus spalvos perėjimo intervalą",
+            "Tam, kad indikatoriaus spalvos pasikeitimas būtų kontrastingesnis",
+            "Tam, kad nusodinamoji forma kiekybiškai virstų gravimetrine forma"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Kurios iš šių medžiagų netinka standartinio tirpalo gaminimui?",
+        "choices": [
+            "Na₂B₄O₇",
+            "Na₂CO₃",
+            "NaOH",
+            "KIO₃"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kokiais tūriniais santykiais tarpusavyje reaguoja to paties normalingumo tirpalai?",
+        "choices": [
+            "Vienodo normalingumo tirpalai reaguoja vienodais tūriais",
+            "Vienodo normalingumo tirpalai reaguoja skirtingais tūriais",
+            "Vienodo normalingumo tirpalai reaguoja atvirkščiai proporcingais tūriais",
+            "Vienodo normalingumo tirpalai reaguoja tūrio santykiu 1:2"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kaip apskaičiuojamas titras pagal nustatomą medžiagą (TA/B)?",
+        "choices": [
+            "CA·EA/1000",
+            "CA·EB/1000",
+            "CB·EA/1000",
+            "CB·EB/1000"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Pateikta rūgštinio - bazinio titravimo kreivė vaizduoja, kad:",
+        "choices": [
+            "Silpna rūgštis titruojama stipria baze",
+            "Silpna rūgštis titruojama silpna baze",
+            "Stipri rūgštis titruojama stipria baze",
+            "Stipri rūgštis yra titruojama silpna baze"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kada taikomas beindikatorinis oksidacinis- redukcinis titravimo metodas?",
+        "choices": [
+            "Kai titruojant susidaro mažai tirpus junginys",
+            "Kai titruojant susidaro koloidinės dalelės",
+            "Kai standartiniai oksidatorių ar reduktorių tirpalai yra spalvoti",
+            "Kai yra didelis oksidacijos - redukcijos potencialas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Nurodykite, kuris iš pateiktų junginių priklauso kompleksonams.",
+        "choices": [
+            "EDTA dinatrio druska- Trilonas B",
+            "Mureksidas",
+            "Eriochromo juodasis T",
+            "Trietanolaminas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Tiesioginio titravimo esmė?",
+        "choices": [
+            "Titruojamas reakcijos metu išsiskyręs ekvivalentinis medžiagos kiekis",
+            "Titruojamas reagento perteklius",
+            "Titruojama rūgšrinėmis savybėmis pasižyminčiomis medžiagomis",
+            "Analizuojama medžiaga titruojama žinomos koncentracijos titrantu"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kokie indikatoriai taikomi nusodinamojo titravimo metode?",
+        "choices": [
+            "Kompleksus sudarantieji",
+            "Difenilaminas",
+            "Metiloranžas",
+            "Indikatoriai nenaudojami"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kuri iš šių medžiagų tinka standartinio tirpalo gaminimui?",
+        "choices": [
+            "H₂C₂O₄·2H₂O,",
+            "KMnO₄",
+            "HCl",
+            "NaOH"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kaip apskaičiuojamas oksalo rūgšties ekvivalentas permanganatometrijoje.",
+        "choices": [
+            "E= M/2",
+            "E= M",
+            "E= M/5",
+            "E= M/3"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kodėl jodometriškai nustatant oksidatorius, reakcijos mišinį laikome tamsoje?",
+        "choices": [
+            "Jodas šviesoje skyla",
+            "Šviesa greitina jodido oksidaciją iki jodo",
+            "Šviesoje oksidatoriaus reakcija su jodidu lėtėja",
+            "Šviesoje jodas disproporcijonuoja"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Iš kokių medžiagų ir kaip gaminami titruoti tirpalai?",
+        "choices": [
+            "Iš nepatvarių apytikriai sveriant ar matuojant",
+            "Iš netirpių vandenyje medžiagų",
+            "Iš kristalinių medžiagų, jas tiksliai sveriant",
+            "Iš fiksanalų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Ką rodo titravimo kreivė rūgštiniame- baziniame titravime?",
+        "choices": [
+            "Indikatorių spalvos pasikeitimą titruojant",
+            "pH kitimą titruojant",
+            "Rūgšties ir bazės koncentracijų kitimą titruojant",
+            "Oksidatoriaus (ar reduktoriaus) kitimą titruojant"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kodėl keičiasi indikatorių spalva?",
+        "choices": [
+            "Dėl struktūros pasikeitimo",
+            "Dėl chromoforinių grupių atsiradimo ar išnykimo",
+            "Dėl indikatorių rūgštinių – bazinių savybių",
+            "Dėl mažai tirpių junginių susidarymo"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Nustatant HCl normalingumą, žinomos koncentracijos Na₂B₄O₇ tirpalas titruojamas HCl tirpalu. Koks tai titravimo būdas?",
+        "choices": [
+            "Reversinis",
+            "Atvirkštinis",
+            "Pakaitinis",
+            "Tiesioginis"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Kokios reakcijos taikomos nusodinamajame titravime?",
+        "choices": [
+            "Chelatų susidarymo",
+            "Nuosėdų susidarymo",
+            "Nusėdimo ir tirpimo",
+            "Kompleksų susidarymo"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Kokie titrantai naudojami Moro metode?",
+        "choices": [
+            "Titruoti AgNO₃ ir K₂CrO₄",
+            "Titruotas AgNO₃ ir standartinis NaCl",
+            "Standartinis AgNO₃ tirpalas",
+            "Standartinis HCl tirpalas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Ultravioletinio spektro elektromagnetinės spinduliuotės optinis diapazonas yra:",
+        "choices": [
+            "520-760 nm",
+            "10-380 nm",
+            "860-1000 nm",
+            "380-780 nm"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kas tai yra chromoforai?",
+        "choices": [
+            "Atomai ar atomų grupės kuriose vyksta elektronų šuoliai",
+            "Atomai ar atomų grupės kuriose nevyksta elektronų šuoliai",
+            "Atomai ar atomų grupės kuriose vyksta elektronų poslinkis ilgesnių bangų kryptimi",
+            "Atomai ar atomų grupės kuriose nevyksta elektronų poslinkis trumpesnių bangų kryptimi"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Ką nusako Bugero, Lamberto ir Bero dėsnis?",
+        "choices": [
+            "Tirpalo optinis tankis yra tiesiogiai proporcingas šviesą absorbuojančios medžiagos koncentracijai",
+            "Tirpalo optinis tankis nepriklauso nuo šviesą absorbuojančios medžiagos koncentracijos",
+            "Tirpalo optinis tankis priklauso nuo šviesą absorbuojančios medžiagos struktūros",
+            "Tirpalo optinis tankis nepriklauso nuo šviesą išspinduliuojančios medžiagos tankio"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Pagal ką yra atliekamas nustatomų medžiagų frakcionavimas gel chromatografijoje?",
+        "choices": [
+            "Pagal nustatomos medžiagos krūvį",
+            "Pagal nustatomos medžiagos cheminę sudėtį",
+            "Pagal nustatomos medžiagos molekulinę masę",
+            "Pagal nustatomos medžiagos tūrį"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Kaip identifikuojamos medžiagos fluorescencinėje analizėje?",
+        "choices": [
+            "Pagal medžiagos švytėjimo spalvą UV šviesoje ir fluorescencijos spektrą",
+            "Pagal medžiagos švytėjimo spalvą Vis šviesoje",
+            "Pagal medžiagos švytėjimo spalvą Vis ir UV šviesoje",
+            "Pagal medžiagos švytėjimo spalvą IR šviesoje"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Nustatant medžiagas spektrofotometriškai matuojama:",
+        "choices": [
+            "Medžiagos išbarstytos šviesos intensyvumas",
+            "Medžiagos išspinduliuojamos šviesos intensyvumas",
+            "Medžiagos spinduliavimo absorbcija",
+            "Medžiagos optinis sukimas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 47,
+        "question": "Ką nusako Stokso dėsnis?",
+        "choices": [
+            "Fluorescuojančios medžiagos bangos ilgis turi būti didesnis už sužadinančios fluorescenciją šviesos bangos ilgį",
+            "Fluorescuojančios medžiagos bangos ilgis turi būti mažesnis už sužadinančios fluorescenciją šviesos bangos ilgį",
+            "Fluorescencijos šviesos kvantų energija (Efl) visada didesnė už sužadinančios šviesos kvantų energiją (Esuž.)",
+            "Fluorescuojančios medžiagos bangos ilgis turi būti mažesnis, o Efl didesnė už sužadinančios fluorescenciją šviesos bangos ilgį"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 47,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 48,
+        "question": "Kokia spinduliuotė sužadina fluorescenciją regimojoje šviesoje?",
+        "choices": [
+            "UV ir Vis spinduliuotė",
+            "Vis spinduliuotė",
+            "IR spinduliuotė",
+            "UV spinduliuotė"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 48,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 49,
+        "question": "Pagal ką identifikuojamos medžiagos plonasluoksnėje chromatografijoje?",
+        "choices": [
+            "Pagal sulaikymo trukmę (tR)",
+            "Pagal sulaikymo rodiklį (Rf)",
+            "Pagal sulaikymo rodiklį ir sulaikymo trukmę",
+            "Pagal medžiagos sudėtį"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 49,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 50,
+        "question": "Kaip polichromatizuojama šviesa fotokolorimetruose?",
+        "choices": [
+            "Naudojant šviesos filtrus",
+            "Naudojant prizmes",
+            "Naudojant difrakcines gardeles",
+            "Naudojant lazerius"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 50,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 51,
+        "question": "Kokiems tyrimams taikoma plonasluoksnė chromatografija?",
+        "choices": [
+            "Kokybiniam ir kiekybiniam medžiagų įvertinimui",
+            "Tik kiekybiniam medžiagų įvertinimui",
+            "Tik kokybiniam medžiagų įvertinimui",
+            "Medžiagos tūrio įvertinimui"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Kas tai yra chromatografinės sistemos skiriamoji geba (R)?",
+        "choices": [
+            "Chromatografinio vyksmo veiksmingumo matas",
+            "Kolonėlės veiksmingumo matas",
+            "Kiekybinio medžiagų įvertinimo matas",
+            "Dviejų tiriamųjų medžiagų atskyrimo matas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Ką nusako teorinių lėkštelių teorija (N)?",
+        "choices": [
+            "Skiriamąją gebą",
+            "Kolonėlės veiksmingumą",
+            "Sulaikymo tūrį",
+            "Sulaikymo trukmę"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Kokia yra fotoelemento paskirtis spektrofotometrijoje?",
+        "choices": [
+            "Šviesos energiją paversti elektros energija",
+            "Elektros energiją paversti šviesos energija",
+            "Absorbuoti UV elektromagnetinę spinduliuotę",
+            "Absorbuoti Vis elektromagnetinę spinduliuotę"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Iš ko yra sudaryti jonitai?",
+        "choices": [
+            "Iš netirpios medžiagos, paviršiuje turinčios jonogeninių grupių",
+            "Iš tirpios medžiagos, paviršiuje turinčios jonogeninių grupių",
+            "Iš tirpios medžiagos, paviršiuje turinčios neigiamo krūvio jonų",
+            "Iš tirpios medžiagos, paviršiuje turinčios teigiamo krūvio jonų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Aptikimo riba tai yra:",
+        "choices": [
+            "Vidutinė koncentracija kurią galima aptikti",
+            "Mažiausia koncentracija kurią galima aptikti",
+            "Didžiausia koncentracija kurią galima aptikti",
+            "Nėra teisingo atsakymo"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 57,
+        "question": "Metodo sugebėjimas gauti rezultatus, kurie būtų tiesiogiai proporcingi analitės koncentracijai tiriamam koncentracijos spektre vadinamas",
+        "choices": [
+            "Nustatymo riba",
+            "Specifiškumu",
+            "Tiesiškumu",
+            "Jautrumu"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 57,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 58,
+        "question": "Preciziškumas vertinamas pagal:",
+        "choices": [
+            "Sulaikymo laiką",
+            "Piko plotą",
+            "Sulaikymo laiką ir piko plotą",
+            "Sulaikomos medžiagos koncentraciją"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 58,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 59,
+        "question": "Kaip vadinamas procesas kai atomams suteikiamas krūvis:",
+        "choices": [
+            "Skaldymas",
+            "Sklidimas",
+            "Jonizacija",
+            "Kondensacija"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 59,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 60,
+        "question": "Ko neregistruoja spektrometro detektorius:",
+        "choices": [
+            "Skeveldrinių jonų",
+            "Molekulinių jonų",
+            "Laisvųjų radikalų",
+            "Teisingas A ir B"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 60,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 61,
+        "question": "m/z tai yra:",
+        "choices": [
+            "Masės ir medžiagos santykis",
+            "Masės ir elektronų santykis",
+            "Masės ir krūvio santykis",
+            "Svorio ir krūvio santykis"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 61,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 62,
+        "question": "Dujų chromatografijoje naudojami detektoriai:",
+        "choices": [
+            "Liepsnos jonizacinis ir UV",
+            "Liepsnos jonizacinis ir MS",
+            "Spektrofotometrinis",
+            "MS ir Refraktometrinis"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 62,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 63,
+        "question": "Dujų chromatografija skirta:",
+        "choices": [
+            "Lakių junginių analizei",
+            "Nelakių junginių analizei",
+            "Lakių ir nelakiųjų junginių analizei",
+            "Nėra teisingo atsakymo"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 63,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 64,
+        "question": "Kokios dujų chromatografo sudedamosios dalys yra laikomos temperatūriniuose rėžimuose?",
+        "choices": [
+            "Kolonėlė",
+            "Injektorius ir detektorius",
+            "Detektorius",
+            "Injektorius, detektorius ir kolonėlė"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 64,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 65,
+        "question": "Kaip kinta lūžio rodiklis, kai matavimai atliekami  25 laipsnių temperatūroje ?",
+        "choices": [
+            "Lūžio rodiklis nekinta",
+            "Lūžio rodiklis didėja",
+            "Lūžio rodiklis staigiai didėja, po to palaipsniui mažėja",
+            "Lūžio rodiklis mažėja"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 65,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 66,
+        "question": "Kokie elektrodai naudojami konduktometrinėje analizėje?",
+        "choices": [
+            "Stiklo",
+            "Vario",
+            "Sidabro chlorido",
+            "Platinos"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 66,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 67,
+        "question": "Didinant tirpalo koncentraciją savitasis elektrinis laidis iš pradžių:",
+        "choices": [
+            "Nekinta",
+            "Didėja",
+            "Mažėja",
+            "Iš pradžių mažėja, o pasiekus ekvivalentinį tašką ima didėti"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 67,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

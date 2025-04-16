@@ -1,0 +1,121 @@
+1. Koks NaOH poveikis į IV ir V grupių katijonus? 
+1. Su šarmais, 4 grupės katijonai sudaro hidroksidus, tirpius reagento pertekliuje, o 5 grupės 
+katijonai sudaro hidroksidus, netirpius šarmų tirpaluose. 
+2. Su šarmų pertekliumi, 4 katijonų grupė sudaro kompleksinius anijonus. 
+3. 4 grupės katijonų hidroksidai tirpsta šarmų pertekliuje sudarydami kompleksinius anijonus, tai 
+įrodo rūgštines hidroksidų savybes. 
+4. Su šarmais, 5 grupės katijonai sudaro hidroksidus, tirpius reagento pertekliuje, o 4 grupės 
+katijonai sudaro hidroksidus, netirpius šarmų tirpaluose. 
+ 
+2. Į tiriamą tirpalą įpylus KMnO4 ir H2SO4 tirpalų mišinio, kalio permanganato spalva išbluko. 
+Kokią išvadą galime padaryti? 
+1. Tirpale yra anijonų reduktorių 
+2. Tirpale yra PO4- 
+3. Tirpale yra S2O32- 
+4. Tirpale yra NH4+ 
+ 
+3. Kokios anijonų savybės lemia jų skirstymą į analizines grupes? 
+1. Bario druskų tirpumą vandenyje ir rūgštyse 
+2. Oksidacines – redukcines anijonų savybės 
+3. Sidabro druskų tirpumą vandenyje ir rūgštyse 
+4. Anijonų krūvis 
+ 
+4. Kokiais būdais galima padidinti junginio tirpumą? 
+1. Keliant temperatūrą 
+2. Pridedant cheminių medžiagų kurios sudaro kompleksus arba suriša vieną iš jonų 
+3. Pridedant pašalinių jonų 
+4. Mažinant temperatūrą ir didinant slėgį 
+ 
+5. Kodėl NO2- ir NO3- yra priskiriami ir prie oksidacinių ir prie redukcinių anijonų? 
+1. Rūgščioje aplinkoje reaguoja su I2 
+2. Rūgščioje aplinkoje reaguoja su KMnO4 
+17 
+ 
+3. Rūgščioje aplinkoje nereaguoja nei su KMnO4 nei su KI 
+4. Rūgščioje aplinkoje reaguoja su KI 
+ 
+6. Kokiu atveju sumaišius Ag+ ir Cl- jonus susidarys AgCl nuosėdos? 
+1. Jeigu jonų koncentracijų sandauga bus lygi arba viršys tirpumo sandaugą, [Ag+] · [Cl-] ≥ L 
+2. Jeigu jonų koncentracijų sandauga bus lygi tirpumo sandaugąi, [Ag+] · [Cl-] = L 
+3. Jeigu jonų koncentracijų sandauga viršys tirpumo sandaugą, [Ag+] · [Cl-] ≥ L 
+4. Jeigu jonų koncentracijų sandauga bus mažesnė už tirpumo sandaugą, [Ag+] · [Cl-] ≥ L 
+ 
+7. Kas vyksta skiedžiant buferinį tirpalą? 
+1. Nekinta Cr/Cdr santykis 
+2. Kinta tirpalo elektrinis laidis 
+3. Praktinis tirpalo pH nesikeičia 
+4. Kinta jonizacijos konstanta 
+ 
+8. Koks buferinio tirpalo vaidmuo atliekant analizę? 
+1. Trukdančių jonų pašalinimui 
+2. Stipri rūgštis paverčiama silpna rūgštimi 
+3. Stipri bazė paverčiama silpna druska 
+4. Palaikomas pastovus tirpalo pH 
+ 
+9. Kokie yra cheminiai medžiagų atskyrimo būdai? 
+1. Nuosėdų susidarymas ir tirpimas 
+2. Tirpalo filtravimas 
+3. Oksidacijos- redukcijos reakcijos 
+4. Koloidinių dalelių susidarymas 
+ 
+10. Kokios yra pagrindinės kompleksonometrinio titravimo sąlygos? 
+1. Pastovus terpės pH palaikymas buferinių tirpalų pagalba 
+2. Patvarūs kompleksai su kompleksonais 
+3. Nepatvarūs ir lengvai suyrantys katijonų kompleksai su indikatoriais 
+4. Katijonų kompleksai su indikatoriais turi sudaryti patvarias nuosėdas 
+ 
+11. Pagal ką yra parenkami indikatoriai rūgštiniame-baziniame titravime? 
+1. Atsiželgiant į titravimo kreives, vaizduojančias titruojamo tirpalo pH pokytį. 
+2. Indikatoriaus perėjimo intervalas Δ pH turi būti titravimo šuolio 
+3. Atsiželgiant į titravimo kreivės šuolį 
+4. Atsiželgiant į titravimo kreives, vaizduojančias titruojamo tirpalo spalvos pokytį 
+ 
+12. Kokiu tikslu taikoma hidrolizė analizėje? 
+1. Jonų identifikavimui 
+2. Cheminių reakcijų metu susidariusių produktų elimnavimui 
+3. pH pakeitimui 
+4. Kliudančių jonų surišimui 
+ 
+13. Nuo ko priklauso mažai tirpių junginių tirpumas? 
+1. Terpės pH 
+2. Temperatūros 
+3. Tirpale esančių pašalinių jonų 
+4. Susidariusių nuosėdų spalvos 
+ 
+14. Kokiu tikslu taikomos oksidacijos- redukcijos reakcijos analizėje? 
+1. Jonų atskyrimui ir tapatybės nustatymui 
+2. Junginių tirpinimmui 
+3. Trukdančių jonų pašalinimui 
+4. Jonizacijos konstantai nustatyti 
+ 
+15. Kokiais atvejais analizėje taikomas kompleksinių junginių susidarymas? 
+1. Kliudančių jonų surišimui 
+2. Rūgštinių-bazinių, oksidacių-redukcinių savybių pakeitimui 
+18 
+ 
+3. Mažai tirpių nuosėdų tirpinimui 
+4. Pastoviam tirpalo pH palaikymui 
+ 
+16. Ką parodo gradavimo grafikas? 
+1. Optinio tankio priklausomybę nuo koncentracijos 
+2. Optinio tankio priklausomybę nuo bangos ilgio 
+3. Lūžio rodiklio priklausomybę nuo koncentracijos 
+4. Optinio tankio priklausomybę nuo laiko 
+ 
+Atsakymai: 
+1. A 
+2. B 
+3. A 
+4. A 
+5. C 
+6. A 
+7. B 
+8. C 
+9. B 
+10. A 
+11. A 
+12. B 
+13. A 
+14. A 
+15. A 
+16. B

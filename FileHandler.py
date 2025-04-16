@@ -102,5 +102,6 @@ def get_all_valid_folders():
         if f.name != ".git"
         if f.name != ".ignore"
         if f.name != ".venv"
+        if f.name != "_debug"
         if f.name != "__pycache__"
     ]
