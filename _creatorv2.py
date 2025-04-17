@@ -137,7 +137,7 @@ def _remove_pages(raw: str):
 
 
 def get_questions(raw: str, answers: list[_types.SimpleAnswer]):
-    body = " " + _remove_pages(_cut_answers(raw, answers))
+    body = "\n\n " + _remove_pages(_cut_answers(raw, answers))
 
     """
     2. Kokie yra mėlynių vaisių ekstrakto poveikiai? 
@@ -149,15 +149,13 @@ def get_questions(raw: str, answers: list[_types.SimpleAnswer]):
     questions: list[_types.SimpleQuestion] = []
     for big_num in sorted([answer.question_num for answer in answers], reverse=True):
         pattern = (
-            P_UNPREFIXED
-            + rf"({big_num}\."
-            + r".{5,}?"
-            + P_UNPREFIXED
-            + r")[A1]\s*[\.\-–\)]"
+            r"\s{2}" + rf"({big_num}\s?\." + r".{5,}?\s*\n\s*" + r")[Aa1]\s*[\.\-–\)]"
         )
         findings = [
             found for found in _re_finditer_overlapping(pattern, body, re.DOTALL)
         ]
+        if len(findings) == 0:
+            raise ValueError(f"Cant find question {big_num}.")
         qsearch = findings[-1]  # for AB
         for finding in findings[::-1]:
             _pattern = P_UNPREFIXED + f"{big_num+1}" + r"\s*[\.\-–\)]"
@@ -268,7 +266,7 @@ def get_tasks(
         assert len(parts) == 2, parts
         raw = parts[0]
         options_str = "\n" + parts[1] + "\n"
-        p_id = r"[1-9A-F]\s*[\.\-–\)]"
+        p_id = r"[1-9a-fA-F]\s*[\.\-–\)]"
         p_base = r"\n\s*(" + f"{p_id}" + r")(.*?)"
         p_not_last = p_base + r"(\n\s*" + p_id + ")"
         p_last = p_base + "()$"
@@ -414,7 +412,7 @@ def get_answer_converter(
     mode = mode or ask_mode()
     if mode == "AB":
         converter: _types.TypeAnswerConverter = lambda answer, options_count: [
-            _types.LETTERS.index(answer) + 1
+            _types.LETTERS.index(str(answer).upper()) + 1
         ]
         return converter
     elif mode == "MULTI":

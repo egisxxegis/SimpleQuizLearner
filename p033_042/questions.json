@@ -1,0 +1,1362 @@
+[
+    {
+        "number": 1,
+        "question": "Kokios pagrindinės dalys yra vaistinių medžiagų monografijose Europos farmakopėjoje?",
+        "choices": [
+            "Apibūdinimas, tapatybės nustatymas, kiekybinis nustatymas, priemaišos.",
+            "Apibūdinimas, tapatybės nustatymas, kokybės tyrimai, kiekybinis nustatymas.",
+            "Apibūdinimas, kokybės tyrimai, kiekybinis nustatymas, laikymas.",
+            "Apibūdinimas, kokybės tyrimai, kiekybinis nustatymas, priemaišos, laikymas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kuri „ekstemporalaus preparato“ apibrėžtis teisingiausia?",
+        "choices": [
+            "Gamybinėje vaistinėje pagamintas vaistinis preparatas.",
+            "Vaistinėje gaminamas vaistinis preparatas pavieniam pacientui.",
+            "Vaistinėje pagal gydytojo receptą pagamintas vaistinis preparatas pavieniam pacientui.",
+            "Pagal vaistinio preparato aprašą pagamintas vaistinis preparatas pavieniam pacientui."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kas turi būti tiksliai nurodyta ekstemporalaus recepto dalyje – gydytojo kreipimesi (Rp.)?",
+        "choices": [
+            "Vaisto pavadinimas, dozuočių skaičius, vartojimo būdas, vartojimo dažnis, vartojimo laikas.",
+            "Vaisto forma ir kiekis, vartojimo būdas ir dažnumas.",
+            "Sudedamosios dalys ir jų kiekiai, vaisto forma, vartojimo dažnumas.",
+            "Vaisto pavadinimas, stiprumas, vartojimo būdas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokią informaciją vaistininkas turi įvertinti prieš ekstemporalaus vaistinio preparato gamybą?",
+        "choices": [
+            "Vaistinio preparato sudėtį pagal vaistinių medžiagų suderinamumą ir vartojimo dozes.",
+            "Vaistinio preparato stipriai veikiančių medžiagų vartojimo dozes.",
+            "Ar suderintos veikliosios ir pagalbinės medžiagos.",
+            "Ar vaistinės medžiagos aprašytos Europos farmakopėjoje."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kuri „vaistinių medžiagų“ apibrėžtis teisingiausia?",
+        "choices": [
+            "Tai medžiagos pasižyminčios farmakologiniu veikimu ir yra aprašytos Europos farmakopėjoje.",
+            "Tai įvairios kilmės medžiagos ir yra naudojamos vaistų gamybai.",
+            "Tai medžiagos pasižyminčios farmakologiniu, imuniniu ar metaboliniu veikimu ir yra naudojamos vaistų gamybai.",
+            "Tai vaistų gamybai naudojamos medžiagos, kurių kokybė atitinka standartus."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kokio vaistinio preparato veiklioji medžiaga yra arba augalinė medžiaga, arba augalinis ruošinys, arba tokios augalinės medžiagos ir tokio augalinio ruošinio mišinys?",
+        "choices": [
+            "Homeopatinis vaistinis preparatas.",
+            "Biologinis vaistinis preparatas.",
+            "Ekstrakcinis vaistinis preparatas.",
+            "Augalinis vaistinis preparatas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kurių pagalbinių medžiagų paskirtis yra stabilizuoti dispersines sistemas, didinant jų patvarumą ir mažinant paviršiaus įtampą fazių susilietimo vietose ?",
+        "choices": [
+            "Stabilizuojančių medžiagų.",
+            "Paviršinio aktyvumo medžiagų.",
+            "Izotonizuojančių medžiagų.",
+            "Buferinių medžiagų."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kada vandens kiekis apskaičiuojamas naudojant tūrio padidėjimo koeficientą (TPK) ?",
+        "choices": [
+            "Priklauso nuo tirpiklio prigimties.",
+            "Kai tirpalo bendras tūris 100 ml.",
+            "Kai tirpinamų medžiagų koncentracija 10 %.",
+            "Kai tirpinamų medžiagų koncentracija 5 % ir didesnė."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kurios fizikinės savybės būdingos tikriesiems tirpalams?",
+        "choices": [
+            "Klampa, pH, tankis, osmosinis slėgis.",
+            "Koncentracija, pH, tankis.",
+            "Klampa, pH, tankis.",
+            "Klampa, tankis, osmosinis slėgis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kokio osmosinio slėgio vaistiniai preparatai gali būti gaminami ir naudojami gydymui?",
+        "choices": [
+            "Izotoniniai ir hipertoniniai.",
+            "Izotoniniai ir hipotoniniai.",
+            "Hipertoniniai ir hipotoniniai.",
+            "Tik izotoniniai."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kaip galima išlaikyti farmacinių tirpalų pH reikšmę?",
+        "choices": [
+            "Pridėti paviršinio aktyvumo medžiagų.",
+            "Pridėti buferinių tirpalų.",
+            "Pridėti rūgštinių medžiagų.",
+            "Pridėti natrio chlorido."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kokio tipo emulsijas stabilizuoja hidrofiliniai emulsikliai?",
+        "choices": [
+            "Vanduo aliejuje (v/a) tipo emulsijas.",
+            "Aliejus vandenyje (a/v) tipo emulsijas.",
+            "Trinares a/v/a emulsijas.",
+            "Visų tipų emulsijas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kokio tipo emulsijas stabilizuoja hidrofobiniai emulsikliai?",
+        "choices": [
+            "Vanduo aliejuje (v/a) tipo emulsijas.",
+            "Aliejus vandenyje (a/v) tipo emulsijas.",
+            "Trinares a/v/a emulsijas.",
+            "Visų tipų emulsijas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kokie veiksniai daro įtaką emulsijų stabilumui?",
+        "choices": [
+            "Klampa, lašelių dydis, skysčių tankis ir temperatūra.",
+            "Klampa ir dalelių dydis.",
+            "Klampa, aliejaus prigimtis, emulsiklio kiekis.",
+            "Klampa, emulsijos tipas ir temperatūra."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Koks agregatinio nestabilumo reiškinys gali įvykti emulsijose?",
+        "choices": [
+            "Flokuliacija – lašelių sukibimas ir susliejimas į stambius telkinius.",
+            "Flokuliacija – lašelių sedimentacija.",
+            "Koalescencija – dispersinės fazės lašelių sukibimas.",
+            "Koalescencija – dispersinės fazės lašelių susiliejimas į stambesnius lašelius."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kuris teiginys apie emulsiklių funkcionalumą teisingiausias?",
+        "choices": [
+            "HLB – hidrofilinių ir hidrofobinių molekulės grupių santykis, nurodantis kokio tipo emulsija susiformuos.",
+            "HLB – hidrofilinių ir hidrofobinių molekulės grupių santykis, apibūdinantis bet kokio emulsiklio efektyvumą.",
+            "HLB – hidrofilinių ir hidrofobinių molekulės grupių santykis, nurodantis reikalingą emulsiklio kiekį.",
+            "HLB – hidrofilinių ir hidrofobinių molekulės grupių santykis, apibūdinantis emulsijos stabilumą."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kokia gali būti suspensijų dispersijos terpė?",
+        "choices": [
+            "Tik skysta.",
+            "Tik pusiau kieta.",
+            "Tik kietas lydinys.",
+            "Skysta, pusiau kieta ir kietas lydinys."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kokie veiksniai daro įtaką suspensijų stabilumui?",
+        "choices": [
+            "Klampa, dalelių skersmuo ir tankis.",
+            "Hidrofiliškumas ir dalelių dydis.",
+            "Hidrofobiškumas ir klampa.",
+            "Tik kietųjų dalelių dydis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kodėl pastos pasižymi agregatiniu stabilumu?",
+        "choices": [
+            "Dėl pagalbinių medžiagų naudojimo.",
+            "Jose nevyksta sedimentacija.",
+            "Dėl didelės dispersijos fazės koncentracijos.",
+            "Jose nėra laisvos skystos dispersijos terpės, turi didelį klampumą, neturi takumo."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kuris vaistinių putų dispersijos apibūdinimas teisingiausias?",
+        "choices": [
+            "Dispersinė fazė – skystis, dispersijos terpė – dujos.",
+            "Dispersinė fazė – dujos, dispersijos terpė – puskietė.",
+            "Labai koncentruotos sistemos, kuriose dispersinės fazės dujų burbuliukai atskirti vienas nuo kito labai plona dispersijos terpės - skysčio plėvele.",
+            "Mažai koncentruotos sistemos, kuriose dispersinės fazės dujų burbuliukai atskirti vienas nuo kito labai plona dispersijos terpės solvatacine plėvele."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Kurios heterogeninės sistemos yra laisvo dispersiškumo (dispersinė terpė yra dujos, dispersinė fazė gali būti kieta medžiaga arba skystis)?",
+        "choices": [
+            "Tirpalai.",
+            "Aerozoliai.",
+            "Putos.",
+            "Koloidai."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kurios vaistų formos priskiriamos pusiau kietiems preparatams?",
+        "choices": [
+            "Tepalas, kremas gelis, pasta, pleistras.",
+            "Tepalas, kremas, gelis, minkšta kapsulė, žvakutė.",
+            "Tepalas, kremas, gelis, pasta.",
+            "Tepalas, kremas, gelis, pasta, šuteklis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Kurios iš šių farmacinių formų yra parenteralinės?",
+        "choices": [
+            "Burnoje disperguojamosios plėvelės.",
+            "Kapsulės.",
+            "Injekcinis gelis.",
+            "Skystos geriamųjų lašų formos."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Kokia forma yra šnypščioji tabletė?",
+        "choices": [
+            "Kieta.",
+            "Skysta.",
+            "Pusiau kieta.",
+            "Dujinė."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kas apibūdina modifikuoto atpalaidavimo tabletę?",
+        "choices": [
+            "Greitas veikliosios medžiagos atpalaidavimas.",
+            "Modifikuotas veikliosios medžiagos atpalaidavimo greitis, vieta ir laikas.",
+            "Pailgintas veikliosios medžiagos atpalaidavimas tik skrandžio sultyse.",
+            "Veiklioji medžiaga nesuyra virškinimo sistemoje."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kokia yra fazių perskyrimo metodų klasifikacija atsižvelgiant į proceso metu veikiančias jėgas?",
+        "choices": [
+            "Nusodinimas, garinimas, kristalizacija.",
+            "Nusodinimas, filtracija, šlapiasis dujų valymas.",
+            "Nusodinimas, filtracija, garinimas.",
+            "Nusodinimas, kristalizacija, šlapiasis dujų valymas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kas yra šilumos perdavimo būdas – kondukcija?",
+        "choices": [
+            "Šilumos laidumas.",
+            "Šilumos atidavimas.",
+            "Šilumos spinduliavimas.",
+            "Šilumos perdavimas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kas vyksta kondensacijos metu?",
+        "choices": [
+            "Susidaro dujos.",
+            "Skystis virsta garais.",
+            "Garai virsta skysčiu.",
+            "Susidaro dulkės."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Kas vyksta paskutinio ekstrakcijos etapo metu?",
+        "choices": [
+            "Ekstrahento pašalinimas iš ekstrakto.",
+            "Ekstrahento pašalinimas iš pradinio tirpalo tirpiklio.",
+            "Ekstrahento pašalinimas iš ekstraktyvo.",
+            "Ekstrahento šaldymas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kaip skirstomi kondensatoriai atsižvelgiant į aušinimo būdą?",
+        "choices": [
+            "Giluminiai ir paviršiniai.",
+            "Maišymosi ir paviršiniai.",
+            "Vienkartiniai ir daugkartiniai.",
+            "Maišymosi ir giluminiai."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kokie yra šildymo dujomis privalumai?",
+        "choices": [
+            "Mažas šilumos atidavimo koeficientas.",
+            "Galima pasiekti aukštą temperatūrą (800-1000 °C).",
+            "Reikia mažai įrangos.",
+            "Labai pigus šildymo būdas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kokiais metodais gali būti pašalinama medžiagose esanti drėgmė?",
+        "choices": [
+            "Mechaniniais, fizikiniais ir cheminiais, šiluminiais.",
+            "Mechaniniais ir cheminiais.",
+            "Cheminiais ir fizikiniais.",
+            "Tik mechaniniais."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Koks procesas vyksta medžiagai džiūstant?",
+        "choices": [
+            "Difuzinis.",
+            "Adhezinis.",
+            "Rekuperacinis.",
+            "Sublimacinis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kuriems technologiniams procesams priskiriama ekstrakcija?",
+        "choices": [
+            "Šilumos mainų procesams.",
+            "Masės mainų procesams.",
+            "Hidromechaniniams procesams.",
+            "Mechaniniams procesams."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kuriems technologiniams procesams priskiriama rektifikacija?",
+        "choices": [
+            "Šilumos mainų procesams.",
+            "Hidromechaniniams procesams.",
+            "Masės mainų procesams.",
+            "Mechaniniams procesams."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kuriems technologiniams procesams priskiriama filtracija?",
+        "choices": [
+            "Šilumos mainų procesams.",
+            "Hidromechaniniams procesams.",
+            "Masės mainų procesams.",
+            "Mechaniniams procesams."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kuriems technologiniams procesams priskiriama kristalizacija?",
+        "choices": [
+            "Šilumos mainų procesams.",
+            "Hidromechaniniams procesams.",
+            "Masės mainų procesams.",
+            "Mechaniniams procesams."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kuriems technologiniams procesams priskiriamas smulkinimas?",
+        "choices": [
+            "Šilumos mainų procesams.",
+            "Hidromechaniniams procesams.",
+            "Masės mainų procesams.",
+            "Mechaniniams procesams."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Kokie yra svarbiausi smulkinimo aparatų techniniai-ekonominiai rodikliai?",
+        "choices": [
+            "Smulkinimo laipsnis ir energijos sąnaudos (produkcijos vienetui), aparato našumas.",
+            "Smulkinimo laipsnis, aparato dydis.",
+            "Energijos sąnaudos, papildomi priedai, transportabilumas.",
+            "Energijos sąnaudos (produkcijos vienetui) ir smulkinimo laipsnis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Iki kokios temperatūros aušinamos medžiagos?",
+        "choices": [
+            "Iki 20° C temperatūros.",
+            "Iki 25° C temperatūros.",
+            "Iki aplinkos temperatūros.",
+            "Iki stabilios temperatūros."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Kaip įvedama nuodinga medžiaga gaminant miltelius, jei visiems milteliams jos išrašyta mažiau kaip 50 mg ?",
+        "choices": [
+            "Ištirpinama mažiausiame ją tirpinančio skysčio kiekyje ir pridedama prie kitų birių medžiagų.",
+            "Naudojama trituracijos pavidalu.",
+            "Sveriama analitinėmis svarstyklėmis trijų skaičių po kablelio tikslumu.",
+            "Naudojama trituraciją santykiu 1:10."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kokias pakuotes reikia naudoti pakuojant vaistažolių mišinius, kurių sudėtyje yra lakiųjų medžiagų?",
+        "choices": [
+            "Paprasto popieriaus maišelius.",
+            "Kartonines dėžutes.",
+            "Parafinuoto popieriaus maišelius.",
+            "Pergamentinio popieriaus maišelius."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Kokia filtravimo medžiaga tinkamiausia filtruojant pagamintus sidabro nitrato ir kalio permanganato tirpalus?",
+        "choices": [
+            "Marlė ir vata.",
+            "Stiklo filtras.",
+            "Membraninis filtras.",
+            "Popieriaus filtras."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Kurios savybės charakterizuoja skystąjį parafiną (Parafinum liquidum)?",
+        "choices": [
+            "Angliavandenis, naftos produktas, maišosi su augaliniais aliejais, būdingo kvapo, klampus skystis.",
+            "Angliavandenilių nuo C10 H22 iki C15H32 mišinys, naftos produktas, bekvapis, beskonis, bespalvis, klampus skystis maišosi su augaliniais aliejais išskyrus ricinų.",
+            "Riebalai, naftos produktas, bekvapis, beskonis, bespalvis, klampios konsistencijos, maišosi su, augaliniais aliejais.",
+            "Panašus į riebalus, naftos produktas, bekvapis, beskonis, bespalvis, klampus skystis, maišosi su vandeniu ir augaliniais aliejais."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Kada gaminant mikstūras yra įpilami etanoliniai augaliniai ekstraktai ir tinktūros?",
+        "choices": [
+            "Pirmiausia į išdavimo buteliuką.",
+            "Pamatavus vandenį.",
+            "Paskiausiai, ištirpinus sausąsias medžiagas, perkošus ir įpylus vandeninius tirpalus.",
+            "Ištirpinus sausąsias medžiagas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Kokia tvarka gaminama mikstūra į kurios sudėtį įeina pepsinas?",
+        "choices": [
+            "Išgrynintame vandenyje pirmiausiai tirpinamas pepsinas.",
+            "Pepsinas tirpinamas 10 proc. vandenilio chlorido rūgštyje, paskui pilamas vanduo.",
+            "Pepsinas tirpinamas išgryninto vandens ir vandenilio chlorido rūgšties tirpale.",
+            "Pepsinas tirpinamas skiestoje vandenilio chlorido rūgštyje (1:10)."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 47,
+        "question": "Kokiu santykiu gaminama vandeninė ištrauka, jeigu recepte nenurodytas alkaloidus kaupiančios žaliavos kiekis?",
+        "choices": [
+            "1:100.",
+            "1:30.",
+            "1:400.",
+            "1:50."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 47,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 48,
+        "question": "Kaip gaminamas protargolio vandeninis tirpalas?",
+        "choices": [
+            "Tirpinamas pašildytame iki 90°C vandenyje.",
+            "Susmulkinamas grūstuvėje su dalimi vandens.",
+            "Užbarstoma ant vandens paviršiaus porceliano lėkštelėje ir paliekama pastovėti kol ištirps.",
+            "Tirpinama tik šaltame vandenyje (ne aukštesnės kaip 4–5°C temperatūros)."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 48,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 49,
+        "question": "Kokia yra pirminės pulpos technologija, gaminant sieros suspensiją, pagal šį receptą? Rp.: Sulfur ad usum externum 1,5 Glyceroli 4,0 Aq. purificatae 130 ml M. D. S. Tepti bėrimus",
+        "choices": [
+            "Siera grūstuvėje disperguojama su 0,75 ml išgryninto vandens, lašinamas glicerolis ir piestele trinama iki vienalytės pulpos susidarymo.",
+            "Glicerolis grūstuvėje sumaišomas su 4 ml vandens ir pamažu dedama siera. Piestele trinama iki vienalytės pulpos susidarymo.",
+            "Siera grūstuvėje disperguojama su 4,0 g glicerolio. Piestele trinama iki vienalytės pulpos susidarymo.",
+            "Siera grūstuvėje disperguojama su 0,75–1,0 g glicerolio. Piestele trinama iki vienalytės pulpos susidarymo."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 49,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 50,
+        "question": "Kaip skiedžiama pirminė pulpa pagal šį receptą? Rp.: Mentholi 3,0 Camphorae 1,5 Natrii chloridi 2,0 Aq. purificatae 120 ml M. D. S. Tvarsčiams",
+        "choices": [
+            "Išgrynintu vandeniu.",
+            "Mentolio, kamparo ir natrio chlorido vandeniniu tirpalu.",
+            "Natrio chloridas ištirpinamas išgrynintame vandenyje ir šiuo tirpalu skiedžiama pirminė pulpa.",
+            "Mentolio ir kamparo vandeniniu tirpalu."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 50,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 51,
+        "question": "Kaip įterpiamas cukraus sirupas pagal šį receptą? Rp.: Emulsi ol. Ricini 120,0 Phenylii salicylatis 1,0 Sirupi sacchari 15 ml M. D. S. Gerti po valgomąjį šaukštą 2 kartus per dieną",
+        "choices": [
+            "Pilamas tiesiai į talpyklę ir sumaišomas su pagamintu preparatu.",
+            "Pilamas į pagamintą emulsiją.",
+            "Pagaminama pirminė emulsija, ji praskiedžiama cukraus sirupo ir vandens mišiniu.",
+            "Sutrinama su fenilsalicilatu ir sumaišoma su išgrynintu vandeniu, skirtu pirminei emulsijai praskiesti."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Kuriuo metodu vaistinėje gaminamos emulsijos?",
+        "choices": [
+            "Masės-tūrio.",
+            "Masės.",
+            "Tūrio.",
+            "Ekstrahavimo."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Kaip reikia perkošti pagamintą emulsiją?",
+        "choices": [
+            "Emulsija filtruojama pro popieriaus filtrą .",
+            "Emulsija košiama pro vatos tamponą.",
+            "Emulsija filtruojama pro stiklo filtrą.",
+            "Emulsija košiama pro dvigubą marlės sluoksnį."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Kuriais atvejais skiriami tiesiosios žarnos preparatai?",
+        "choices": [
+            "Siekiant sukelti sisteminį poveikį.",
+            "Siekiant sukelti vietinį poveikį.",
+            "Siekiant sukelti sisteminį arba vietinį poveikį ir diagnostikos tikslams.",
+            "Siekiant sukelti sisteminį arba vietinį poveikį."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Kiek reikės atsverti boro rūgšties ir gliukozės pagal šį receptą? Rp.: Ac. borici Glucosae aa 0,5 Massae gelatinosae q. s. ut fiat supp. D. t. d. N. 5 S. Po 1 žvakutę 1 kartą per dieną į išangę. 1/E = 0,625 (boro); 1/E = 0,81 (gliukozės). Liejimo formos lizdo talpa 2,0 g",
+        "choices": [
+            "1,56 g ir 2,0 g.",
+            "Po 2,5 g.",
+            "Po 0,5 g.",
+            "4,0 g ir 3,1 g."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Kurie metodai netaikomi nustatant emulsijos tipą?",
+        "choices": [
+            "Parafino plokštelės.",
+            "Skiedimo.",
+            "Dažymo.",
+            "Plovimo."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 57,
+        "question": "Kokios yra poliakrilo rūgšties, naudojamos gelių gamyboje, funkcijos?",
+        "choices": [
+            "pH reikšmės modifikatorius.",
+            "pH reikšmės ir klampos modifikatoriai.",
+            "pH reikšmės ir klampos modifikatoriai, stabilizatorius, veikliųjų medžiagų pernašos sistema.",
+            "Klampos modifikatorius ir veikliųjų medžiagų pernašos sistema."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 57,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 58,
+        "question": "Kokios medžiagos gali būti naudojamos gelių pagrindo formavimui?",
+        "choices": [
+            "Natrio vandenilio karbonatas, poliakrilo rūgštis, chitozanas.",
+            "Hipromeliozė, chitozanas, poliakrilo rūgštis, cinko sulfatas.",
+            "Karbomerai, chitozanas, hipromeliozė, bevandenis koloidinis silicio dioksidas.",
+            "Magnio sulfatas, bevandenis koloidinis silicio dioksidas, bentonitas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 58,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 59,
+        "question": "Kokios medžiagos yra naudojamos gelinių sistemų, gaminamų su karbomerais, neutralizavimui?",
+        "choices": [
+            "Natrio vandenilio karbonatas, poliakrilo rūgštis, chitozanas.",
+            "Natrio hidroksidas, kalio hidroksidas, cinko sulfatas.",
+            "Trietanolaminas, natrio hidroksidas, kalio hidroksidas, aminometilpropanolis.",
+            "Trietanolaminas, trometaminas, natrio chloridas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 59,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 60,
+        "question": "Kokios medžiagos formuoja lipofilinių gelių pagrindus?",
+        "choices": [
+            "Poliakrilo rūgštis, chitozanas, aliuminio muilas.",
+            "Kalio hidroksidas, cinko sulfatas, skystasis parafinas, aliejai.",
+            "Trietanolaminas, natrio hidroksidas, kalio hidroksidas.",
+            "Skystasis parafinas mišiniuose su polietilenu arba riebaliniais aliejais, koloidinis bevandenis silicio dioksidas, aliuminio muilas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 60,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 61,
+        "question": "Kokie eterinių aliejų, naudojamų linimentų gamyboje, privalumai?",
+        "choices": [
+            "Juslinių savybių korektoriai, antimikrobiniai konservantai, antioksidantai.",
+            "Juslinių savybių korektoriai, antimikrobiniai konservantai, antioksidantai, farmakologinį efektą turinčios medžiagos.",
+            "Antioksidantai.",
+            "Antimikrobiniai konservantai."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 61,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 62,
+        "question": "Kaip į dermatologinius tepalus yra dedami rezorcinolis, pirogalolis ir cinko sulfatas?",
+        "choices": [
+            "Sutrinti su riebalų aliejais ar jų pakaitalais.",
+            "Ištirpinti vandenyje.",
+            "Ištirpinti parūgštintame vandenyje.",
+            "Sausų miltelių pavidalu, disperguojant su dalimi pagrindo arba sutrinti su riebalų aliejais ar jų pakaitalais."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 62,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 63,
+        "question": "Kurio pagrindo lydymosi temperatūra žemiausia?",
+        "choices": [
+            "Bičių vaško.",
+            "Parafino.",
+            "Vazelino.",
+            "Spermaceto."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 63,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 64,
+        "question": "Kokie yra homeopatinių vaistų potenciavimo etapai?",
+        "choices": [
+            "Maišymas ir praskiedimas.",
+            "Maišymas ir dinamizacija.",
+            "Praskiedimas ir dinamizacija.",
+            "Daugkartinis praskiedimas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 64,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 65,
+        "question": "Koks vanduo naudojamas injekcinių tirpalų gamybai?",
+        "choices": [
+            "Injekcinis.",
+            "Išgrynintasis.",
+            "Distiliuotas.",
+            "Demineralizuotas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 65,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 66,
+        "question": "Ką sterilizuojame autoklavuose?",
+        "choices": [
+            "Vaistų gamybai naudojamus indus.",
+            "Pagamintus tirpalus, skirtus pareneteriniam naudojimui.",
+            "Miltelius, naudojamus vaistų gamybai.",
+            "Tepalus."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 66,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 67,
+        "question": "Kurios iš šių vaistų formų turi būti sterilios?",
+        "choices": [
+            "Vandeniniai tirpalai.",
+            "Mikstūros.",
+            "Tinktūros.",
+            "Akių lašai."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 67,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 68,
+        "question": "Koks turi būti steriliam filtravimui naudojamo membraninio filtro porų skersmuo?",
+        "choices": [
+            "Ne didesnis kaip 0,05 μm.",
+            "Ne didesnis kaip 0,1 μm.",
+            "0,1-0,3 μm.",
+            "0,4 μm ir didesnis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 68,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 69,
+        "question": "Kuris iš nurodytų tirpiklių negali būti naudojamas injekcinių tirpalų gamybai?",
+        "choices": [
+            "Persikų aliejus.",
+            "Saulėgrąžų aliejus.",
+            "Injekcinis vanduo.",
+            "Vazelino aliejus."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 69,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 70,
+        "question": "Kuris konservantas naudojamas injekciniams gliukozės tirpalams stabilizuoti?",
+        "choices": [
+            "Natrio sulfitas.",
+            "Veibelio stabilizatorius.",
+            "EDTA (etilen-diamino-tetra-acto rūgštis)",
+            "0,1N vandenilio chlorido rūgšties tirpalas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 70,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 71,
+        "question": "Kokios koncentracijos reikia išduoti vandenilio peroksidą jei recepte koncentracija nenurodyta?",
+        "choices": [
+            "30 proc. tirpalą",
+            "3 proc. tirpalą",
+            "Mažesnės nei 5 proc. koncentracijos tirpalą",
+            "Kreiptis į gydytoją, kad patikslintų receptą."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 71,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 72,
+        "question": "Koks tepalo pagrindas naudojamas pagal pateiktą receptą? Rp.: Ung. Ac. Borici 5% - 20,0 D.S. Apatiniams akių vokams tepti.",
+        "choices": [
+            "Lydinys iš vienos dalies vilnų riebalų ir 9 dalių minkštojo balto parafino.",
+            "Vaselinum optimus pro oculus.",
+            "Minkštas baltas parafinas arba avių vilnų riebalai.",
+            "Sterilus lydinys iš vienos dalies vilnų riebalų ir 9 dalių akių tepalams skirto minkštojo balto parafino."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 72,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 73,
+        "question": "Kokiu metodu gaminamas preparatas pagal pateiktą receptą? Rp.: Sol. Glucosi 25% - 100 ml",
+        "choices": [
+            "Masės metodu",
+            "Tūrio metodu",
+            "Masės metodu, apskaičiuojant tikslų išgryninto vandens kiekį.",
+            "Masės - tūrio metodu."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 73,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 74,
+        "question": "Kaip įterpiamas ichtamolis į kakavos sviestą gaminant žvakutes ritinimo būdu?",
+        "choices": [
+            "Kakavos sviestas išlydomas ir suamišomas su ichtamoliu.",
+            "Kakavos sviestas ir ichtamolis minkomi grūstuvėje iki vienalytės masės.",
+            "Kakavos sviestas, ichtamolis ir vilnų riebalai minkomi grūstuvėje iki vienalytės masės.",
+            "Grūstuvėje ichtamolis sumaišomas su vilnų riebalais dalimis pilamas pašildytas kakavos sviestas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 74,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 75,
+        "question": "Gaminant hidrofilinius gelius kaip yra brinkinamas Karbopolis 940?",
+        "choices": [
+            "Sumaišomas su gliceroliu ir vandeniu",
+            "Atsargiai užbarstomas plonu sluoksniu ant vandens paviršiaus ir laukiama, kol išbrinks.",
+            "Atsargiai užbarstomas plonu sluoksniu ant glicerolio paviršiaus ir laukiama, kol išbrinks.",
+            "Karbopolio brinkinti nereikia, jis gerai tirpsta natrio hidroksido tirpale."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 75,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 76,
+        "question": "Chloroformas priskiriamas:",
+        "choices": [
+            "Dažančioms  medžiagoms",
+            "Lakioms medžiagoms",
+            "Stabilizuojančioms medžiagoms",
+            "Klampą didinančioms medžiagoms"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 76,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 77,
+        "question": "Gaminant dozuotus miltelius pagal ekstemporalų receptą etiketėje nurodoma sudėtis:",
+        "choices": [
+            "Vieno miltelio sudėtis ir pažymimas dozių skaičius",
+            "Vieno miltelio sudėtis ir visų miltelių masė",
+            "Visų miltelių sudėtis ir dozių skaičius",
+            "Visų miltelių sudėtis ir visų miltelių masė"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 77,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 78,
+        "question": "Gaminama suspensija su siera. Koks stabilizatorius naudojamas?",
+        "choices": [
+            "Polisorbatas 80",
+            "Karpobolis 940",
+            "Medicininis muilas",
+            "Bičių vaškas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 78,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 79,
+        "question": "Kurios DMM medžiagos yra ribotai brankios?",
+        "choices": [
+            "Želatina, krakmolas, pepsinas, akacijų sakai",
+            "Želatina, krakmolas, metilceliuliozė",
+            "Saldymedžių ekstraktas, akacijų sakai, pepsinas",
+            "Tragakantas, Karboksimetil celiuliozės druska"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 79,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 80,
+        "question": "Gaminama emulsija ir recepte nenurodytas, koks turi būti naudojamas aliejus. Kokį aliejų naudosite?",
+        "choices": [
+            "Ricinų aliejų",
+            "Skystą parafiną",
+            "Abrikosų kauliukų aliejų",
+            "Alyvuogių aliejų"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 80,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

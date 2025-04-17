@@ -1,0 +1,302 @@
+[
+    {
+        "number": 1,
+        "question": "Ekstemporalių vaistų sudedamosios dalys receptuose rašomos lotyniškai.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Skysčių tankis priklauso nuo temperatūros.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Vaistinių medžiagų tirpumas yra nekintanti reikšmė, o tirpimas – kintanti.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Emulsijų fazių inversija įvyksta padidinus dispersinės fazės koncentraciją iki 50%.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Vaginalinė žvakutė priskiriama kietų vaistų formų kategorijai.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Nusodinimas elektros lauke ir šlapiasis dujų valymas taikomi tik dujinėms nevienalytėms sistemoms.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Pneumatinis maišymas yra toks maišymo būdas kai medžiaga maišoma specialiais aparatais – maišytuvais.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Didėjant temperatūrai daugumos skysčių šiluminis laidumas mažėja (išimtis vanduo ir glicerolis).",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Medžiaga, kuri atiduoda šilumą vadinama šildomuoju agentu, o ta, kuri perima šilumą – šildančiuoju agentu.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Aušinimas, tai procesas kai medžiagos temperatūra mažinama ne daugiau kaip iki aplinkos temperatūros.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Nevandeniniai nelakūs tirpikliai matuojami tūriu.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Vaistinių medžiagų mišinio hidroskopiškumas yra mažesnis nei mišinį sudarančių pavienių sudedamųjų dalių.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Geriamieji, ausų ar nosies lašai gali būti tik tikrieji tirpalai.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Geriamieji lašai gali būti sudėtinės dispersinės sistemos.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kristalinio jodo tirpumas vandenyje yra 1:5000, todėl jodo vandeniniai tirpalai negali būti gaminami.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Žvakučių liejimo formos lizdai, kai žvakučių pagrindas yra hidrofilinis, tepami skystuoju parafinu.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Ol. Cacao tankis yra 0,95.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Skystasis parafinas (vazelino aliejus) nesimaišo su ricinos aliejumi.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Glicerolis lengvai maišosi su augaliniais aliejais ir gyvūninės kilmės riebalais.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Emulsiklis, kurio HLB skaičius mažesnis už 10, sudarys V/A sistemą.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

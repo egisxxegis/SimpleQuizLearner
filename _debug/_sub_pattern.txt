@@ -1,3 +1,1 @@
-\s*1\.\ Kokia\ farmacine\ forma\ \(ir\ stiprumu\)\ vartojamas\ Ksilometazolinas\?\s*?A\)\ Nosies\ purškalas,\ tirpalas\ 1\ mg/ml\ f\s*?B\)\ Injekcinis\ tirpalas\ 0,5\ mg/ml\ f\s*?C\)\ Nosies\ lašai,\ tirpalas\ 0,5\ g/ml\ f\s*?D\)\ Kramtomosios\ tabletės\ 1\ mg\ \
-\ \ \
-f\s*?
+\s*13\.\ Hetacilinas\ yra\ Ampicilino\ provaisto\ form\s*?A\)\ Padidinamos\ lipofilines\ savybės,\ todėl\ geriau\ rezorbuojamas\ žarnyne\s*?B\)\ Padidėja\ tirpumas\ vandenyje,\ todėl\ gali\ būti\ vartojama\ injekcinė\ forma\s*?C\)\ Padidinamos\ lipofilines\ savybės,\ todėl\ geriau\ praeina\ akies\ audinių\ membraną\s*?D\)\ Pašalinamas\ nemalonus\ skonis\s*?

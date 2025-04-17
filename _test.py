@@ -328,6 +328,77 @@ def _do_test():
         ],
     )
 
+    # --------------- Answers
+    body = _test_data.body8
+    answers = _creatorv2.get_answers(body)
+    count = 20
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, count)
+    test(answer_high.answer, "B")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [43, 45])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    test(len(questions), count)
+    test(questions[-1].question_num, count)
+    test(
+        questions[-1].question,
+        "Kaip išsidėsto PAM emulsiklio molekulės emulsijose?",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="MULTI", conversions=_test_data.conversion2
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), count)
+    test(task_high.original_num, count)
+    test(task_high.option_type, "MULTI")
+    test(
+        _answers(task_high),
+        [
+            "Hidrofilinės emulsiklio molekulių dalys panirusios į vandeninę emulsijos fazę",
+            "Hidrofobinės emulsiklio molekulių dalys pasiskirsčiusios aliejinėje fazėje",
+        ],
+    )
+
+    # --------------- Answers
+    body = _test_data.body9
+    answers = _creatorv2.get_answers(body)
+    count = 67
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, count)
+    test(answer_high.answer, "A")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [49, 50, 51, 52, 53, 54, 55, 56])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    test(len(questions), count)
+    test(questions[-1].question_num, count)
+    test(
+        questions[-1].question,
+        "Preparatų nuo jūros ligos gamybai naudojamas:",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="AB", conversions=_test_data.conversion2
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), count)
+    test(task_high.original_num, count)
+    test(task_high.option_type, "AB")
+    test(
+        _answers(task_high),
+        ["Skopolaminas"],
+    )
+
     # --------------- chems
     body = """
     NH4+, Hg2+

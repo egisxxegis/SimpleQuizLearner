@@ -1,0 +1,1135 @@
+[
+    {
+        "number": 1,
+        "question": "Kuris iš pateiktų farmakognozijos disciplinos apibrėžimų tiksliausias:",
+        "choices": [
+            "Farmakognozija yra mokslas apie vaistinius augalus, vaistines augalines žaliavas ir gyvulinės kilmės produktus.",
+            "Farmakognozija yra mokslas apie vaistinius augalus ir vaistines augalines žaliavas.",
+            "Farmakognozija yra mokslas apie vaistines augalines žaliavas ir gyvulinės kilmės produktus.",
+            "Farmakognozija yra mokslas apie vaistinių augalinių žaliavų prekinę analizę."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kaip sudarytas augalo pavadinimas:",
+        "choices": [
+            "Tik iš genties pavadinimo.",
+            "Tik iš rūšies pavadinimo.",
+            "Genties ir rūšies pavadinimo.",
+            "Rūšies ir veislės pavadinimo."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kurie iš nurodytų junginių priklauso homopolisacharidams:",
+        "choices": [
+            "Amilozė",
+            "Sakai",
+            "Pektininės medžiagos",
+            "Urono rugštys"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kurios iš nurodytų linų sėklų terapinės indikacijos tikslios:",
+        "choices": [
+            "Užpilai vartojami, kaip virškinamojo trakto gleivinę padengianti priemonė.  Susmulkintos ir vandenyje išmirkytos sėklos vartojamos kaip vidurius laisvinanti priemonė.",
+            "Užpilai vartojami stipriems pilvo skausmams slopinti.",
+            "Apetitui gerinti.",
+            "Stimuluoja CNS ir naudojama darbingumui gerinti."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kuri iš pateiktų svilarožių šaknų cheminė sudėtis tiksliausia:",
+        "choices": [
+            "Žaliava kaupia polisacharidus iki 10 proc., krakmolą, flavonoidus, pektinus.",
+            "Žaliava augalas kaupia polisacharidus iki 50 proc., cimarozę, flavonoidus, pektinus, kumarinus, agarozę.",
+            "Žaliava kaupia polisacharidus iki 1 proc., krakmolą, flavonoidus, pektinus, cianogeninius gliozidus, antocianinus.",
+            "Žaliava kaupia alkaloidus, iki 15 proc. krakmolo, amilozės, pektininių medžiagų."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kuri iš nurodytų vaistažolių arbatų sudėtyje yra plačialapių gysločių lapų:",
+        "choices": [
+            "Vidurius laisvinančių.",
+            "Atsikosėjima gerinančių.",
+            "Tulžies išsiskyrimą skatinančių.",
+            "Širdies veiklą gerinančių."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kurie iš nurodytų augalų teikia maną:",
+        "choices": [
+            "Fraxinus ornus L.",
+            "Fraxinus exelsior L.",
+            "Fraxinus chinensis Roxb.",
+            "Comarum palustre L."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kuri iš pateiktų juodosios drignės augalinės žaliavos cheminė sudėtis yra tiksliausia:",
+        "choices": [
+            "Lapai turi 0,05–0,1 proc. alkaloidų (hiosciamino, atropino, skopolamino), taip pat nustatoma kalcio oksalato",
+            "Nustatoma apie 3 proc. alkaloidų (platifilino), taip pat yra inulino, krakmolo ir mineralinių junginių, antraceno darinių",
+            "Yra flavonoidų, raugų, polisacharidų,  kartumynų ir saponinų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kuris iš pateiktų pavadinimų  atitinka paprastosios durnaropės pavadinimą:",
+        "choices": [
+            "Scopolia carniolicae Jacq.",
+            "Hyoscyamus niger L.",
+            "Datura stramonium L.",
+            "Atropa belladonnae L."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Koks vienmečių paprikų vaisių preparatų vartojimas medicinoje",
+        "choices": [
+            "Radikulitams, artritams, neuralgijoms gydyti. Apetitui ir virškinimui gerinti",
+            "Veikia vidurius laisvinančiai",
+            "Atsikosėjimui gerinti",
+            "Skatina prakaitavimą ir diurezę"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kuri iš pateiktų asiūklinių efedrų žolės cheminė sudėtis yra tiksliausia:",
+        "choices": [
+            "Nustatoma 0,5–3 proc. alkaloidų (efedrino, pseudoefedrino ir metilefedrino), taip pat yra iki 10 proc. raugų",
+            "Yra iki 15 proc. raugų, organinių rūgščių, baltymų",
+            "Nustatoma apie 3 proc. eterinių aliejų, karotinoidų, riebalų aliejų",
+            "Kaupia flavanoidus ir antocianinus"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kuri iš pateiktų opijaus cheminė sudėtis yra tiksliausia:",
+        "choices": [
+            "Nustatoma iki 20–30 proc. alkaloidų. Pagrindiniai alkaloidai yra morfinas, narkotinas, papaverinas, kodeinas, tebainas; taip pat yra sakų, gleivių, dervų, mineralinių medžiagų, riebalų, organinių rūgščių",
+            "Nustatoma iki 5 proc. alkaloidų. Pagrindinis augalo alkaloidas yra emetinas; taip pat yra kumarinų, organinių rūgščių, saponinų, baltymų, raugų",
+            "Nustatoma apie 8 proc. fenolinių junginių, karotenoidų, kumarinų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kuri iš pateiktų didžiųjų ugniažolių žolės cheminė sudėtis yra tiksliausia:",
+        "choices": [
+            "Nustatoma iki 7 proc. alkaloidų (morfino), taip pat yra flavonoidų, organinių rūgščių, antraceno darinių, baltymų, raugų",
+            "Nustatoma iki 2 proc. alkaloidų (chelidonino, cheleritrino, sangvinarino, berberino, koptizino, protopino). Flavonoidai, karotinoidai, askorbo rūgštis, organinės rūgštys",
+            "Nustatoma iki 12 proc. alkaloidų (atropino, hiosciamino, nikotino, anabazino). Flavonoidai, karotinoidai, askorbo rūgštis, organinės rūgštys"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kuri iš nurodytų senų vaisių cheminė sudėtis yra tiksliausia:",
+        "choices": [
+            "Rauginės medžiagos, cianogeniniai glikozidai, antraceno darinių 0,1 proc.",
+            "Antraceno darinių 3 proc. (reinas, aloe-emodinas, senozidai A,B,C ir kt.)",
+            "Antraceno darinių 0,1 proc.(reinas, aloe-emodinas, hipericinas ir kt.)"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kuri iš nurodytų senų lapų ir vaisių vaistinių preparatų terapinė indikacija yra tiksliausia:",
+        "choices": [
+            "Skatina bronchų sekreciją",
+            "Stimulioja CNS",
+            "Mažina vidurių užkietėjimą"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kiek laiko be gydytojo paskyrimo galima vartoti rabarbarų šaknies vaistinius preparatus:",
+        "choices": [
+            "Vieną dieną",
+            "Dvi savaites",
+            "Neribojama",
+            "Du mėnesius"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Pagrindinė sudedamoji eterinio eukaliptų aliejaus dalis yra:",
+        "choices": [
+            "1,8-cineolis ir 1,4-cineolis",
+            "Mentolas ir timolis",
+            "Cimenas",
+            "Pinenas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kuri iš nurodytų vaistinių šalavijų augalinių žaliavų vartojama medicinoje:",
+        "choices": [
+            "Herba Salviae.",
+            "Folium Salviae",
+            "Radix Salviae.",
+            "Flos Salviae."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Tikrųjų levandų žiedų vaistiniai preparatai vartojami medicinoje:",
+        "choices": [
+            "Žiedai - sudedamoji raminamųjų arbatų dalis. Užpilai vartojami esant nerimui, nerviniam pervargimui, miego sutrikimams gydyti.",
+            "Užpilai - apetitą gerinantis vaistas.",
+            "Sudedamoji vidurius laisvinančių arbatų dalis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kuri iš nurodytų melisų augalinių žaliavų vartojama medicinoje:",
+        "choices": [
+            "Flos Melissae.",
+            "Herba Melissae",
+            "Folium Melissae.",
+            "Radix Melissae."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Kuri iš nurodytų kmynų vaisių cheminė sudėtis yra tiksliausia:",
+        "choices": [
+            "3-7 proc. eterinio aliejaus (karvonas, limonenas), 10-20 proc. riebalų aliejaus, baltymų, sacharidų, flavonoidų.",
+            "17 proc. eterinio aliejaus (cineolas, mentolis, borneolis), 1-2 proc. riebalų aliejaus, baltymų, sacharidų, širdies glikozidų.",
+            "1-3 proc. eterinio aliejaus (linaliolis, geraniolis), rauginės medžiagos, saponinai."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kuri tiksliausia yra kmynų vaisių terapinė indikacija:",
+        "choices": [
+            "Užpilai - virškinimą gerinanti priemonė, dujoms susikaupus žarnyne.",
+            "Užpilai - atsikosėjimą gerinanti žaliava.",
+            "Nuovirai − vidurius laisvinanti  priemonė"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Kuri iš nurodytų vaistinių valerijonų žaliavos cheminė sudėtis yra tiksliausia:",
+        "choices": [
+            "15 proc. eterinio aliejaus, cianogeninių  glikozidų, cukrų, rauginių medžiagų, alkaloidų.",
+            "20 proc. eterinio aliejaus, cianogeninių  glikozidų, cukrų, antracenų, alkaloidų.",
+            "0,2-3,5 proc. eterinio aliejaus, valopatriatų, cukrų, rauginių medžiagų, alkaloidų"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Pažymėkite, kuri vaistinių valerijonų žaliavos vaistinių preparatų terapinė indikacija yra tiksliausia:",
+        "choices": [
+            "Valerijonų šaknų preparatai veikia raminamai.",
+            "Valerijonų šaknų preparatai lengvina kosulį.",
+            "Valerijonų šaknų preparatai aktyvina CNS"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kuri iš nurodytų anyžinių ožiažolių augalinės žaliavos cheminė sudėtis yra tiksliausia:",
+        "choices": [
+            "Eterinio aliejaus 2-6 proc. (anetolas, izoanetolas, anyžiaus aldehidas) kumarinai, flavonoidai, riebalų aliejus.",
+            "Eterinio aliejaus 12-16 proc. (mentolis, izomentolis, mentolio aldehidas) kumarinai, flavonoidai, riebalų aliejus.",
+            "Eterinio aliejaus 15-20 proc., karotenoidų, flavnoidų, cukrų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kuri iš nurodytų paprastųjų rapontikų augalinių žaliavų vartojama medicinoje:",
+        "choices": [
+            "Rhizoma cum radicibus Rhapontici",
+            "Folium Rhapontici",
+            "Herba Rhapontici",
+            "Flos Rhapontici"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kuri formulė atitinka mentoną:",
+        "choices": [
+            " ",
+            " ",
+            " "
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": ["mp.png", "ma.png", "mt.png"],
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kuri tiksliausia mėlynųjų polemonų vaistinės augalinės žaliavos indikacija tiksliausia:",
+        "choices": [
+            "Gerina bronchų sekreciją, skystina sekretą",
+            "Mažina vidurių pūtimą",
+            "Gerina virškinimą"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Kokia yra tiksliausia juodauogių šeivamedžių žiedų cheminė sudėtis:",
+        "choices": [
+            "Steroidiniai saponinai, vitaminas C, antrachinono dariniai, kumarinai",
+            "Širdies glikozidai, inulinas, karotinas, rauginės medžiagos, organinės rūgštys",
+            "Triterpeniniai saponinai, 1-2 proc., flavonoidai, eterinis aliejus, fenolkarboksirūgštys, gleivės, rauginės medžiagos, organinės rūgštys"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kuris iš nurodytų veikimo mechanizmų būdingas senų lapų ir vaisių vaistiniams preparatams:",
+        "choices": [
+            "Antraglikozidai nesirezorbuoja plonosiose žarnose, jie susikaupia storojoje žarnoje, skatina jos peristaltiką ir mažina skysčių absorbciją",
+            "Antraglikozidai rezorbuojasi tik plonosiose žarnose",
+            "Antraglikozidai rezorbuojasi plonosiose žarnose, didina skysčių absorbciją"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kuri iš nurodytų tūbių augalinių žaliavų vartojama medicinoje:",
+        "choices": [
+            "Rhizoma Verbasci",
+            "Flos Verbascci",
+            "Herba Verbasci",
+            "Fructus Verbasci"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Antraglikozidai – tai:",
+        "choices": [
+            "Glikozidai, kurių aglikonas yra fenolio žiedas",
+            "Glikozidai, kurių aglikonas yra gliukozės žiedas",
+            "Glikozidai, kurių aglikonas yra antraceno žiedas",
+            "Glikozidai, kurių aglikonas yra γ- pirono žiedas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Antraceno dariniai, kurių molekulėse dvi hidroksigrupės yra α padėties (1,8), vadinami:",
+        "choices": [
+            "Chrizino dariniais",
+            "Emodinais",
+            "Chrizofanoliais",
+            "Aloe-emodinais"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kuri iš nurodytų paprastųjų kadagių žaliavos cheminė sudėtis yra tiksliausia:",
+        "choices": [
+            "0,2−2 proc. eterinio aliejaus (pinenas, kamfenas, kadinenas ir kt.) dervų cukrų, organinių rūgščių, antocianinų, pektininių medžiagų, flavonoidų",
+            "10 proc. eterinio aliejaus (limonenas, kamfenas, matrikarinas ir kt.) dervų cukrų, organinių rūgščių, antocianinų, steroidinių saponinų, flavonoidų",
+            "20 proc. eterinio aliejaus (mentolis, timolis, matricinas ir kt.) dervų cukrų, širdies glikozidų, antocianinų pektininių medžiagų, flavonoidų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kokia yra tiksliausia kraujažolių žolės cheminė sudėtis:",
+        "choices": [
+            "Eterinio aliejaus, į kurio sudėtį įeina mentolis, timolis, karvonas, seskviterpeniniai kartumynai achilicinas, milefinas",
+            "5 proc. eterinio aliejaus, į kurio sudėtį įeina chamazulenas, kamfora, borneolis, seskviterpeniniai kartumynai achilicinas, millefinas",
+            "0,8 proc.  eterinio aliejaus, į kurio sudėtį įeina chamazulenas, kamfora, borneolis, seskviterpeniniai kartumynai achilicinas, milefinas, prochamazulenas, achilicinas, rauginės medžiagos, flavonoidai, vitaminai K ir C, karotenoidai, organinės rūgštys."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Polisacharidai pagal savo cheminę struktūrą yra:",
+        "choices": [
+            "O-glikozidai",
+            "S-glikozidai",
+            "C-glikozidai",
+            "N-glikozidai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Amilopektiną sudaro gliukozės molekulės, sujungtos glikozidine jungtimi:",
+        "choices": [
+            "α-1,4 ir α-1,6",
+            "β-1,4",
+            "α-1,6",
+            "α-1,4"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kokio vaistinio augalo žaliavos aprašymas pateiktas žemiau: Šaknys yra beveik cilindro formos arba išilgai supjaustytos į 2–4 dalis, 10–35 cm ilgio ir iki 2 cm storio, paviršius išilgai raukšlėtas. Lūžis centre yra gruoblėtas, plaušėtas išorėje. Paviršius pilkai rudas, lūžyje - pilkšvai baltas. Kvapas silpnas, savitas, skonis saldokas, gleivėtas.",
+        "choices": [
+            "Didžioji varnalėša",
+            "Didysis debesylas",
+            "Vaistinė svilarožė",
+            "Ankstyvasis šalpusnis"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Nurodykite, kokiu tikslu medicinoje vartojamos didžiųjų debesylų (Inula helenium L.) šaknys",
+        "choices": [
+            "Atsikosėjimui lengvinti",
+            "Odos ligoms gydyti",
+            "Šlapimo kiekiui padidinti, siekiant išvalyti šlapimo takus",
+            "Nedidelių žaizdų ir nedidelių  šunvočių (furunkulų) gydymui"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Nurodykite, kokiu tikslu medicinoje vartojama trikerčių žvaginių (Capsella bursa-pastoris (L.) Medik.) žolė",
+        "choices": [
+            "Šlapimo kiekiui padidinti, siekiant išvalyti šlapimo takus",
+            "Sunkaus menstruacinio kraujavimo mažinimui moterims",
+            "Kaip gleivinę aptraukiantis vaistas burnos ar ryklės sudirginimo ir sauso kosulio simptominiam gydymui.",
+            "Odos pleiskanojimo gydymui"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Nurodykite vaistinę augalinę žaliavą, kurios sudėtyje yra eterinio aliejaus (iki 0,4%) pineno (pagrindinio komponento), limoneno, borneolio, bornilo acetato, dervų, taninų, vitamino C.",
+        "choices": [
+            "Eucalypti folium",
+            "Pini gemmae",
+            "Menthae piperitae folium",
+            "Coriandri fructus",
+            "Salviae folium"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kaip vadinamas eterinių aliejų gavimo metodas, kai iš žaliavos išsiskyręs eterinis aliejus yra absorbuojamas adsorbentais:",
+        "choices": [
+            "Amfleražas",
+            "Distiliacija vandens garais",
+            "Ekstrakcija",
+            "Ditiliacija vandeniu",
+            "Presavimas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Nurodykite, kurios vaistinės augalinės žaliavos eteriniame aliejuje randama šio junginio formulė:",
+        "choices": [
+            "Valerijonų šaknų",
+            "Kmynų vaisių",
+            "Pankolių vaisių",
+            "Ramunėlių žiedų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": ["43.png"],
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Nurodykite, kokiai junginių grupei priklauso pateikta formulė:",
+        "choices": [
+            "Aromatinių terpenų",
+            "Biciklinių monoterpenų",
+            "Monociklinių seskviterpenų",
+            "Monociklinių monoterpenų",
+            "Biciklinių seskviterpenų"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": ["44.png"],
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Nurodykite, kokiu tikslu medicinoje vartojamas iš kvapniųjų gvazdikmedžių (Syzygium aromaticum L.) neišsiskleidusių žiedų išskirtas eterinis aliejus:",
+        "choices": [
+            "Burnos ertmės ar gerklės uždegimo simptominiam gydymui.",
+            "Šlapimo kiekiui padidinti, siekiant išvalyti šlapimo takus.",
+            "Peršalimo sukelto kosulio lengvinimui.",
+            "Virškinimo trakto sutrikimo simptominiam gydymui."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Nurodykit eterinių aliejų fizines - chemines savybes:",
+        "choices": [
+            "Amorfinės medžiagos, lengvai tirpios šaltame ir karštame vandenyje ir beveik netirpios organiniuose tirpikliuose.",
+            "Skystos, azoto turinčios medžiagos, pasižyminčios stipriu nemaloniu kvapu, galinčios distiliuoti vandens garais.",
+            "Lakūs, kvapnūs, skaidrūs skysčiai, beveik netirpūs vandenyje, lengvai tirpūs organiniuose tirpikliuose.",
+            "Kristalinės medžiagos, lengvai tirpios vandenyje, su šarmais sudaro spalvotus tirpalus.",
+            "Kristalinės medžiagos, gerai tirpios organiniuose tirpikliuose ir netirpios vandenyje."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 47,
+        "question": "Kuriam saponinų tipui priskiriamas šis junginys?",
+        "choices": [
+            "Oleano",
+            "Damarano",
+            "Ursano",
+            "Lupano"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 47,
+        "random_picture_from": ["47.png"],
+        "comment": null
+    },
+    {
+        "number": 48,
+        "question": "Kokios vaistinės augalinės žaliavos cheminė sudėtis nurodyta žemiau? • 5 proc. triterpeninio saponino ekvizetonino, • 10-20 proc. mineralų, iš kurių apie  66 proc. yra silicio rūgštis ir silikatai, • 0,3-1 proc. flavonoidų (kvercetino glikozidai), • fenolinės rūgštys.",
+        "choices": [
+            "Pavasarinių raktažolių šaknų",
+            "Arbatinių inkstažolių lapų",
+            "Gebenių lipikių lapų",
+            "Asiūklių žolės"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 48,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 49,
+        "question": "Širdies glikozidų steroidiniam žiedui nustatyti taikoma viena iš nurodytų tapatybės reakcijų:",
+        "choices": [
+            "Libermano ir Burchardo",
+            "Balje",
+            "Keler-Kiliani",
+            "Legalio"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 49,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 50,
+        "question": "Steroidinius saponinus nuo triterpeninių galima atskirti šios reakcijos pagalba:",
+        "choices": [
+            "Nusodinimo su magnio hidroksidu",
+            "Libermano-Burchardo",
+            "Lafono",
+            "Putų susidarymo"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 50,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 51,
+        "question": "Kuri iš šių struktūrinių savybių yra būdinga saponinams?",
+        "choices": [
+            "Heteroglikozidai, kurių aglikonai sudaryti iš pentaciklinių ar tetraciklinių triterpenoidų",
+            "Tai heterociklinės molekulės, turinčios sieros",
+            "Jie yra glikozidai su aromatiniais žiedais",
+            "Jų skeletas gali būti sudarytas iš 10, 15 arba 20 anglies atomų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Kaštonų vaisių vaistiniai preparatai medicinoje vartojami:",
+        "choices": [
+            "Simptominiam kognityvinių sutrikimų gydymui",
+            "Kraujosruvų simptomų, tokių kaip vietinė edema ir hematomos, lengvinimui",
+            "Nuovargio ir silpnumo pojūčio lengvinimui",
+            "Kraujagyslinės kilmės galvos svaigimo gretutiniam gydymui"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Kurie iš minėtų junginių priklauso kartumynų grupei?",
+        "choices": [
+            "Timolis",
+            "Salidrozidas",
+            "Matricinas",
+            "Gitoksigeninas",
+            "Genciopikrinas"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Pagrindinės šlaitinių dirvenių šaknų biologiškai aktyvios medžiagos yra:",
+        "choices": [
+            "Flavonoidai",
+            "Pektinai",
+            "Eteriniai aliejai",
+            "Fenoliniai glikozidai",
+            "Antracenų dariniai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Kokiai cheminių junginių grupei priklauso metilarbutinas?",
+        "choices": [
+            "Fenoliniams glikozidams",
+            "Fenoliams",
+            "Flavonoidams",
+            "Fenolinėms rūgštims"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Pagal Europos Bendrijos Helichrysum arenarium (L.) Moench, flos monografiją smiltyninių šlamučių žiedų vartojimas medicinoje yra:",
+        "choices": [
+            "Cukraus kiekį kraujyje mažinantis poveikis.",
+            "Simptominiam lengvų spazmų, susijusių su menstruacijomis, lengvinimui.",
+            "Esant virškinimo sutrikimams, lydimiems pilnumo pojūčio ir pilvo pūtimo.",
+            "Laikinam streso simptomų, tokių kaip nuovargis ir silpnumas, lengvinimui."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 57,
+        "question": "P vitamininiu poveikiu pasižyminčius junginius kaupia:",
+        "choices": [
+            "Sėjamųjų grikių žolė",
+            "Bruknių lapai",
+            "Paprastųjų šaltekšnių žievė",
+            "Paprastųjų britkrėslių žiedai",
+            "Baikalinių kalpokių šaknys"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 57,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 58,
+        "question": "Pagal Europos Bendrijos Viola tricolor L. ir (arba) Viola arvensis Murray(Gaud) ir Viola vulgaris Koch (Oborny),  herba cum flore monografiją nurodykite našlaičių žolės su žiedais vartojimą medicinoje:",
+        "choices": [
+            "Lengvų virškinimo trakto sutrikimų lengvinimui",
+            "Mažų paviršinių žaizdų gydymui",
+            "Lengvo burnos gleivinės uždegimo gydymui",
+            "Lengvo odos pleiskanojimo gydymui"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 58,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 59,
+        "question": "Kuri vaistinė augalinė žaliava naudojama pramoninei taninų gamybai?",
+        "choices": [
+            "Cortex Quercus",
+            "Fructus Alni",
+            "Rhizoma Bergeniae",
+            "Folium Cotini coggygriae"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 59,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 60,
+        "question": "Skalsių skleročiai kaupia didelį kiekį indolo grupės alkaloidų, kurie yra dariniai:",
+        "choices": [
+            "Cinamono rūgšties",
+            "Benzenkarboksirūgšties",
+            "Mekono rūgšties",
+            "Lizergo rūgšties"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 60,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 61,
+        "question": "Kuris iš šių nurodytų alkaloidų priklauso purino dariniams?",
+        "choices": [
+            "Strichninas",
+            "Vinblastinas",
+            "Teobrominas",
+            "Efedrinas",
+            "Skopolaminas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 61,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 62,
+        "question": "Kuris iš šių reagentų yra naudojamas alkaloidų tapatybei nustatyti?",
+        "choices": [
+            "Dikalio tetrajodomerkuratas",
+            "Dimetilaminobenzaldehido tirpalas",
+            "Kalio hidroksido tirpalas",
+            "2,4-Dinitrofenilhidrazinas",
+            "Geležies (III) chloridas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 62,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 63,
+        "question": "Pabaikite pradėtą sakinį. Kondensuoti raugai, veikiami fermentų arba praskiestų rūgščių......",
+        "choices": [
+            "skyla sudarydami D-gliukozę ir galo rūgštį",
+            "suskyla į nesudėtingos struktūros fenolinius junginius",
+            "dar labiau kondensuojasi",
+            "hidrolizuojasi iki elago rūšties"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 63,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 64,
+        "question": "Kurios reakcijos pagalba galima identifikuoti ar ekstraktuose yra hidrolizuojami ar kondensuoti raugai?",
+        "choices": [
+            "Reakcija su alkaloidų druskomis",
+            "Reakcija su želatina",
+            "Reakcija su indigosulfonrūšties tirpalu",
+            "Reakcija su geležies druskomis"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 64,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 65,
+        "question": "Pagal Europos Bendrijos Hamamelis virginiana L, folium monografiją hamamelio lapų viena iš terapinių indikacijų yra:",
+        "choices": [
+            "Simptominis lengvų spazmų, susijusių su menstruacijomis, lengvinimas",
+            "Lengvo virškinimo trakto diskomforto simptominis lengvinimas",
+            "Tulžies sekrecijos skatinimas",
+            "Vartojamas kaip burnos ploviklis ar gargalas lengvo burnos ertmės gleivinių uždegimo lengvinimui.",
+            "Vartojamas laikinam apetitui gerinti"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 65,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 66,
+        "question": "Kuriais iš šių būdų galima ekstrahuoti tretinius alkaloidus druskų pavidalu?",
+        "choices": [
+            "Virinant vandeniniu amoniako tirpalu",
+            "Pašarmintais organiniais tirpikliais",
+            "Šildant su švino acetatu ir vandeniu",
+            "Su organiniu tirpikliu chloroformu",
+            "Parūgštintu vandeniniu tirpalu"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 66,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 67,
+        "question": "Preparatų nuo jūros ligos gamybai naudojamas:",
+        "choices": [
+            "Skopolaminas",
+            "Atropinas",
+            "Hiosciaminas",
+            "Beladoninas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 67,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

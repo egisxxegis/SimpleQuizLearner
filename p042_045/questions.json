@@ -1,0 +1,367 @@
+[
+    {
+        "number": 1,
+        "question": "Kurie dokumentai reglamentuoja ekstemporalių vaistų kokybę?",
+        "choices": [
+            "Europos farmakopėja",
+            "Farmacijos įstatymas",
+            "Gera vaistinių praktika",
+            "Gera gamybos praktika"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kuriose receptų formose gali būti išrašomas ekstemporalus vaistinis preparatas?",
+        "choices": [
+            "1 receptų formose",
+            "2 receptų formose",
+            "3 receptų formose",
+            "Elektroniniame recepte"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kokiu veikimu pasižyminčios vaistinės medžiagos naudojamos vaistų gamybai?",
+        "choices": [
+            "Farmakologiniu",
+            "Imuniniu",
+            "Metaboliniu",
+            "Holistiniu"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokias funkcijas gali atlikti paviršinio aktyvumo medžiagos (PAM) ?",
+        "choices": [
+            "Ilginti vaistų laikymo trukmę (stabilizatoriai)",
+            "Gerinti vaistų tirpimą (soliubilizatoriai)",
+            "Ilginti vaisto veikimą (prolongatoriai)",
+            "Sudaryti vaisto formą"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kokie būdai taikomi injekcinių tirpalų izotoninių koncentracijų koregavimui?",
+        "choices": [
+            "Van’t Hofo dėsnis",
+            "Raulio dėsnis",
+            "Naudojami natrio chlorido izotoniniai ekvivalentai",
+            "Naudojamos farmakopėjinės lentelės"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kokios yra filtrų rūšys pagal sudaromą slėgį?",
+        "choices": [
+            "Hidrostatinio slėgio",
+            "Vakuuminiai",
+            "Filtrpresai",
+            "Popieriniai"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Koks procesas yra rektifikacija?",
+        "choices": [
+            "Tai procesas, kai dujas arba garus (absorbtyvą) selektyviai sugeria skystis (absorbentas)",
+            "Tai procesas, kai skystyje ištirpusiai medžiagai išgauti vartojamas kitas skystis",
+            "Tai procesas, kai dujas, garus ar tirpale ištirpusias medžiagas (adsorbtyvą) selektyviai sugeria puri kietoji medžiaga (adsorbentas)",
+            "Tai komponentų išskyrimas iš tirpalų, kai tarp priešpriešinių (dažniausiai) skysčio ir garų srautų vyksta daugkartiniai komponentų mainai"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kokie yra specialūs distiliacijos ir rektifikacijos būdai?",
+        "choices": [
+            "Distiliacija vandens garais",
+            "Rektifikacija vandens garais",
+            "Molekulinė distiliacija",
+            "Azeotropinė ir ekstrakcinė rektifikacija"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kokios yra jonų mainų proceso stadijos?",
+        "choices": [
+            "Tirpalo leidimo pro jonitus ir kristalizavimo",
+            "Tirpalo leidimo pro jonitus ir išgarinimo",
+            "Tirpalo leidimo pro jonitus ir jonitų plovimo",
+            "Tirpalo leidimo pro jonitus, regeneravimo, jonitų plovimo"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kokie yra agento šildymo būdai?",
+        "choices": [
+            "Garais",
+            "Aukštos temperatūros skysčiais",
+            "Karštomis dujomis",
+            "Elektros srove"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kurie veiksniai turi įtaką ekstemporaliai pagamintų miltelių atidrėkimui?",
+        "choices": [
+            "Milteliuose esanti drėgmė, aplinkos temperatūra, miltelių sumaišymo greitis ir pakuotė",
+            "Milteliuose esanti drėgmė, santykinė patalpos oro drėgmė, temperatūra ir pakuotė",
+            "Miltelių sumaišymo greitis ir pakuotė",
+            "Miltelių sudedamosios dalys, juose esanti drėgmė, santykinė patalpos oro temperatūra ir drėgmė, miltelių sumaišymo greitis ir parinkta pakuotė"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kurie tirpikliai naudojami skystiesiems vaistams gaminti, priskiriami lakiesiems?",
+        "choices": [
+            "Etanolis",
+            "Glicerolis",
+            "Trichlormetanas",
+            "Dimetilsulfoksidas"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kiek trunka šildymo ir aušinimo procesas gaminant nuovirus ir užpilus iš augalinės žaliavos?",
+        "choices": [
+            "10 ir 40 min.",
+            "30 ir 10 min.",
+            "15 ir 30 min.",
+            "15 ir 45 min."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kuriuose tirpikliuose galima ištirpinti ichtamolį?",
+        "choices": [
+            "Išgrynintame vandenyje",
+            "Chloroforme",
+            "Glicerolyje",
+            "Eteryje"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kurie veiksniai gali iššaukti koaguliaciją kolargolio tirpaluose?",
+        "choices": [
+            "Didelė elektrolitų koncentracija",
+            "Šviesa, spinduliuotė, ilgas saugojimo laikas",
+            "Vandenį atimančios medžiagos",
+            "pH reikšmė apytikriai 6,0"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kokios masės (gramais) gaminamos išangės žvakutės, jeigu nenurodyta recepte?",
+        "choices": [
+            "3,5",
+            "4,0",
+            "4,5",
+            "3,0"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kokiai preparatų grupei priskiriamos tabletės, skirtos makšties tirpalams ir suspensijoms ruošti?",
+        "choices": [
+            "Daugiadoziai preparatai, tirpinami prieš vartojimą",
+            "Daugiadoziai preparatai, tirpinami arba disperguojami prieš pat vartojimą",
+            "Vienadoziai preparatai, kurie vartojami neištirpinus",
+            "Vienadoziai preparatai, tirpinami arba disperguojami prieš pat vartojimą"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kada naudojamas viskozimetras?",
+        "choices": [
+            "Nustatant tankį",
+            "Nustatant pH reikšmę",
+            "Nustatant osmosinį slėgį",
+            "Nustatant klampą"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kuriose vaistų formose nustatomas kietųjų dalelių dydis?",
+        "choices": [
+            "Homogeniniuose tepaluose",
+            "Suspensiniuose tepaluose",
+            "Makšties emulsijose",
+            "Suspensiniuose geliuose"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kaip išsidėsto PAM emulsiklio molekulės emulsijose?",
+        "choices": [
+            "Hidrofilinės emulsiklio molekulių dalys panirusios į vandeninę emulsijos fazę",
+            "Hidrofilinės emulsiklio molekulių dalys panirusios į aliejinę emulsijos fazę",
+            "Hidrofobinės emulsiklio molekulių dalys pasiskirsčiusios aliejinėje fazėje",
+            "Hidrofobinės emulsiklio molekulių dalys pasiskirsčiusios vandeninėje fazėje"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    }
+]
