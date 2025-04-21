@@ -148,20 +148,24 @@ def get_questions(raw: str, answers: list[_types.SimpleAnswer]):
     """
     questions: list[_types.SimpleQuestion] = []
     for big_num in sorted([answer.question_num for answer in answers], reverse=True):
-        pattern = (
-            r"\s{2}" + rf"({big_num}\s?\." + r".{5,}?\s*\n\s*" + r")[Aa1]\s*[\.\-–\)]"
-        )
+        number_dot = r"(?:(?:\s{2})|\n)" + rf"({big_num}\s?\."
+        number_nodot = r"\s{2}" + rf"({big_num}\s"
+        question_body = r".{5,}?\s*\n\s*)"
+        answer_start = r"[Aa1]\s*[\.\-–\)]"
+        pattern = f"(?:{number_dot}{question_body}{answer_start})|(?:{number_nodot}{question_body}{answer_start})"
         findings = [
             found for found in _re_finditer_overlapping(pattern, body, re.DOTALL)
         ]
         if len(findings) == 0:
             raise ValueError(f"Cant find question {big_num}.")
         qsearch = findings[-1]  # for AB
+        get_found_question = lambda re_match: re_match.group(1) or re_match.group(2)
         for finding in findings[::-1]:
+            found_question = get_found_question(finding)
             _pattern = P_UNPREFIXED + f"{big_num+1}" + r"\s*[\.\-–\)]"
             if re.search(
                 _pattern,
-                finding.group(1),
+                found_question,
             ):
                 # question 2. starts with option 3. ? suspicious
                 continue
@@ -172,11 +176,12 @@ def get_questions(raw: str, answers: list[_types.SimpleAnswer]):
         # qsearch = [found for found in re.finditer(pattern, body, re.DOTALL)][-1]
         assert qsearch, big_num
         body = body[: qsearch.start()]
+        found_question = get_found_question(qsearch)
         question = _types.SimpleQuestion(
-            raw=qsearch.group(1),
+            raw=found_question,
             question_num=big_num,
             question=re.sub(
-                f"{big_num}" + r"\s*[.\-–:]", "", qsearch.group(1), 1, re.DOTALL
+                f"{big_num}" + r"\s*[.\-–:]?", "", found_question, 1, re.DOTALL
             )
             .replace("\n", "")
             .replace("\r", "")

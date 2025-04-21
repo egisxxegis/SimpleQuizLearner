@@ -21,7 +21,9 @@ def get_chems_partial(raw: str):
     findings = _re_finditer_overlapping(pattern, raw)
     chems: list[_types.SimpleChem] = []
     for finding in findings:
-        if re.match(r"\s*[A-F][\.\–\)\s*]", finding.group(0)):
+        if re.match(r"\s*[A-F][\.\–\)\s*]", finding.group(0)) or re.match(
+            r"\s*CYP[0-9]{3}\s*", finding.group(0)
+        ):
             continue
         chem_unscripted = finding.group(0)[1:-1]
         elements = re.findall(f"({pattern_element})", chem_unscripted)

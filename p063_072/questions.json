@@ -1,0 +1,1185 @@
+[
+    {
+        "number": 1,
+        "question": "Kurie receptoriai turi tik hidrofobinius ligandus?",
+        "choices": [
+            "Su G baltymu susiję receptoriai",
+            "Atsarginiai receptoriai",
+            "Su fermentais susiję receptoriai",
+            "Viduląsteliniai receptoriai",
+            "Ligandų valdomi jonų kanalai"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kurie farmakologiniai antagonistai sudaro negrįžtamas kovalentines jungtis agonisto prisijungimo prie receptoriais vietose?",
+        "choices": [
+            "Nekonkuruojantys antagonistai",
+            "Gryni antagonistai",
+            "Daliniai antagonistai",
+            "Alosteriniai moduliatoriai",
+            "Atvirkštiniai agonistai",
+            "Konkuruojantys antagonistai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kur dažniausiai pasireiškia vaistų sąveika?",
+        "choices": [
+            "Inkstuose",
+            "Kepenyse",
+            "Virškinimo trakte",
+            "Plaučiuose",
+            "Kraujyje"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Jeigu ligandas sukelia maksimalų poveikį prisijungęs prie ne visų receptorių, tai reiškia, kad kai kurie receptoriai yra:",
+        "choices": [
+            "Internalizuoti ar sekvestruoti (angl. down-regulation)",
+            "Atsarginiai (angl. spare)",
+            "Susiję su G baltymu",
+            "Ligandų valdomi jonų kanalai",
+            "Viduląsteliniai",
+            "Susiję su fermentais"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Vaistinio preparato veikliosios medžiagos pasiskirstymas specifiniame audinyje:",
+        "choices": [
+            "Nepriklauso nuo organo kraujotakos",
+            "Nepriklauso nuo veikliosios medžiagos tirpumo tame audinyje",
+            "Priklauso nuo neprisijungusios veikliosios medžiagos koncentracijos kraujyje ir audinyje skirtumo",
+            "Yra didesnis veikliosioms medžiagoms, kurios stipriai prisijungę prie plazmos baltymų",
+            "Nedaro įtakos vaisto pusinio gyvavimo periodui"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Tinkamiausiais bendrinis terminas, apibūdinantis aktyvios veikliosios medžiagos mažėjimą organizme po jos absorbcijos į sisteminę kraujotaką yra:",
+        "choices": [
+            "Pasiskirstymas",
+            "Eliminacija",
+            "Tiesinė eliminacija",
+            "Metabolizmas",
+            "Farmakokinetika"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Heparinas veikia antitrombiną-III ir slopina koaguliacijos kaskadą. Protamino sulfatas neveikia antitrombino-III, bet prijungia hepariną ir padaro jį neaktyviu. Kokia sąveika pasireiškia tarp heparino ir protamino sulfato?",
+        "choices": [
+            "Fizinis ar cheminis antagonizmas",
+            "Farmakologinis antagonizmas",
+            "Alosterinis moduliavimas",
+            "Farmakologinis agonizmas",
+            "Fiziologinis agonizmas",
+            "Fiziologinis antagonizmas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Koks terminas tinkamiausiais epinefrino (veikiančio alfa adrenoreceptorius) poveikiui apibūdinti, jeigu jis pašalina histamino H1 receptorių dirginimo sukeltą bronchų spazmą.",
+        "choices": [
+            "Farmakologinis antagonistas",
+            "Dalinis agonistas",
+            "Fiziologinis antagonistas",
+            "Cheminis antagonistas",
+            "Nekonkurencinis antagonistas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Koks nepageidaujamos reakcijos virškinimo traktui dažnis, jeigu iš 10000 klinikiniame tyrime dalyvavusių pacientų 20-iai nustatytas su vaisto vartojimu susijęs viduriavimas?",
+        "choices": [
+            "Reta",
+            "Dažna",
+            "Nedažna",
+            "Labai reta",
+            "Dažnis nežinomas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Veikliosios medžiagos biotransformacijos metu dažniausiai suformuojami metabolitai, kurie, palyginti su nemetabolizuota veikliąja medžiaga, yra:",
+        "choices": [
+            "Lengviau absorbuojami inkstų kanalėliuose",
+            "Mažiau tirpūs vandenyje",
+            "Mažiau tirpūs lipiduose",
+            "Lengviau prasiskverbia į ląsteles",
+            "Labiau tirpūs lipiduose"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kuris beta  adrenoreceptorių agonistas yra neselektyvus?",
+        "choices": [
+            "Terbutalinas",
+            "Salbutamolis",
+            "Fenoterolis",
+            "Izoproterenolis",
+            "Salmeterolis"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kuri vaistų grupė geriausiai tinka bronchų astmos priepuolio šalinimui?",
+        "choices": [
+            "Trumpo ir greito poveikio beta2  adrenoreceptorių agonistai",
+            "Ilgo poveikio beta2  adrenoreceptorių agonistai",
+            "Kromolino natrio druska",
+            "Inhaliuojamieji gliukokortikoidai",
+            "Leukotrienų receptorių antagonistai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Šalinant ūminį bronchų spazmą vaistais, visų pirma reikia:",
+        "choices": [
+            "Blokuoti leukotrienų receptorius",
+            "Blokuoti nikotininius cholinoreceptorius",
+            "Blokuoti muskarininius cholinoreceptorius",
+            "Aktyvuoti beta 1 adrenoreceptorius",
+            "Aktyvuoti beta 2 adrenoreceptorius"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kuris iš žemiau pateiktų veikimo mechanizmų geriausiai apibūdina antacidinių vaistų mechanizmą?",
+        "choices": [
+            "Reakcija su druskos rūgštimi skrandžio ertmėje",
+            "Pepsino ir druskos rūgšties sekrecijos slopinimas",
+            "Bikarbonato sekrecijos stimuliavimas epitelio ląstelėse",
+            "Susijungimas su nekroziniu opos audiniu",
+            "Reakcija su pepsinu skrandžio ertmėje"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Skrandžio opai gydyti taikomi visi toliau išvardyti vaistiniais preparatai. Kuris iš jų blokuoja H2 receptorius?",
+        "choices": [
+            "sukralfatas",
+            "ranitidinas",
+            "metoklopramidas",
+            "omeprazolas",
+            "mizoprostolis"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Pacientas, kuriam yra prieširdžių virpėjimas, trombozės profilaktikai vartoja dabigatrano. Kuris iš išvardintų molekulinio slopinimo mechanizmų yra būdingas šiam vaistiniam preparatui?",
+        "choices": [
+            "Protrombino sintezės slopinimas.",
+            "Tromboksano A2 aktyvumo slopinimas",
+            "Trombino aktyvumo slopinimas",
+            "Plazminogeno sintezės slopinimas",
+            "Antitrombino III aktyvumo slopinimas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Krešulių atsiradimo ilgalaikei profilaktikai tinka:",
+        "choices": [
+            "Aminokaprono rūgštis",
+            "Heparinas",
+            "Klopidogrelis",
+            "Mažo molekulinio svorio heparinas",
+            "Alteplazė"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Dėl kokios rizikos priešvėžiniais vaistais gydomam pacientui skiriama profilaktiškai filgrastimo (granulocitų makrofagų kolonijas stimuliuojančio faktoriaus):",
+        "choices": [
+            "alerginių reakcijų",
+            "vėžio atkryčio",
+            "kraujavimo",
+            "sisteminės infekcijos"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Širdies aritmijos atveju chinidinas sukelia visus išvardytus pokyčius, IŠSKYRUS vieną jų, kurį?",
+        "choices": [
+            "pailgina efektyvų refrakterinį periodą",
+            "mažina laidumą",
+            "slopina impulso kilimą ektopiniuose dirginimo židiniuose",
+            "sukelia teigiamą inotropinį poveikį",
+            "didesnė dozė atpalaiduoja periferinių kraujagyslių lygiuosius raumenis"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kuris teiginys apie širdį veikiančius vaistus teisingas?",
+        "choices": [
+            "digoksinas slopina Na⁺ ir K⁺ ATF siurblį",
+            "dobutaminas blokuoja troponiną I",
+            "amrinonas blokuoja troponiną I",
+            "dopaminas blokuoja troponiną I",
+            "izoproterenolis blokuoja beta1 ir beta2 adrenoreceptorius"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Ilgalaikis vieno iš žemiau nurodytų antiaritminių vaistinių preparatų vartojimas gali sukelti negrįžtamą plaučių audinio fibrozę. Kuris tai vaistinis preparatas?",
+        "choices": [
+            "Metoprololis",
+            "Chinidinas",
+            "Flekainidas",
+            "Amjodaronas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kuris vaistinis preparatas, selektyvus beta1 adrenoreceptorių agonistas, vartojamas gydant ūminį širdies funkcijos nepakankamumą?",
+        "choices": [
+            "Atenololis",
+            "Dobutaminas",
+            "Esmololis",
+            "Digitoksinas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Kuris iš žemiau pateiktų vaistų yra kontraindikuotinas esant hiperkalemijai?",
+        "choices": [
+            "Spironolaktonas",
+            "Acetazolamidas",
+            "Hidrochlorotiazidas",
+            "Eprosartanas",
+            "Chlortalidonas",
+            "Torazemidas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Glicerilio trinitratas yra paprastai vartojamas:",
+        "choices": [
+            "Po liežuviu",
+            "Į veną",
+            "Po oda",
+            "Į akis",
+            "Į raumenis",
+            "Intratekaliai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kokio poveikio nesukelia AKF inhibitoriai?",
+        "choices": [
+            "Kraujospūdžio sumažėjimo",
+            "Bradikinino koncentracijos padidėjimo",
+            "Aldosterono sekrecijos sumažėjmo",
+            "Renino sekrecijos sumažėjimo"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kodėl gali pasireikšti tachikardija vartojant nitroglicerino?",
+        "choices": [
+            "Dėl tiesioginio teigiamo chronotropinio poveikio į miokardą",
+            "Refleksiškai per simpatinę nervų sistemą sumažėjus arteriniam kraujo spaudimui",
+            "Dėl nitroglicerino gebėjimo išlaisvinti norepinefriną",
+            "Dėl intrakranialinio slėgio sumažėjimo"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kokio poveikio nesukelia organiniai nitratai?",
+        "choices": [
+            "Refleksinės tachikardijos",
+            "Skilvelių apimties mažėjimo",
+            "Širdies pokrūvio padidėjimo",
+            "Periferinio venų išsiplėtimo",
+            "Sistolinio kraujospūdžio sumažėjimo"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kokio poveikio nesukelia kaptoprilis?",
+        "choices": [
+            "Hiperkalemijos",
+            "Arterinio kraujo spaudimo mažėjimo",
+            "Širdies nepakankamumo blogėjimo",
+            "Sauso kosulio",
+            "Kreatinino kiekio plazmoje didėjimo"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Kokiai vaistų grupei priskiriamas amlodipinas?",
+        "choices": [
+            "AKF inhibitorius",
+            "Kalcio kanalų blokatorius",
+            "Angiotenzino II receptorių blokatorius",
+            "Beta adrenoreceptorių blokatorius",
+            "Alfa receptorių blokatorius"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kokios grupės diuretikai paprastai vartojami ilgalaikiam padidėjusio kraujo spaudimo gydymui?",
+        "choices": [
+            "Tiazidiniai diuretikai",
+            "Osmosiniai diuretikai",
+            "Henlės kilpoje veikiantys diuretikai",
+            "Karboanhidrazės inhibitoriai",
+            "Aldosterono antagonistai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Koks vaistas nevartojamas cukrinio diabeto gydymui?",
+        "choices": [
+            "Progesteronas",
+            "Insulinas",
+            "Glibenklamidas",
+            "Metforminas",
+            "Gliklazidas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kokio nepageidaujamo poveikio nesukelia insulinas?",
+        "choices": [
+            "Hiperglikemijos",
+            "Atsparumo insulinui",
+            "Lipodistrofijos vaisto suleidimo vietoje",
+            "Tachikardijos",
+            "Alergijos"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Mažina kasos salelių betą ląstelių kalio kanalų laidumą, veikia nuo 6-12 val. iki 60 val.:",
+        "choices": [
+            "Biguanidai",
+            "Meglitinidai",
+            "Alfa gliukozidazės inhibitoriai",
+            "Sulfonilkarbamidai"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kokio nepageidaujamo poveikio nesukelia geriamieji kontraceptikai?",
+        "choices": [
+            "Tromboembolijos",
+            "Gerybinės kepenų adenomos",
+            "Augimo sulėtėjimo",
+            "Chloazmos (ribotos pigmentinės dėmės atsiradimo)",
+            "Svorio padidėjimo"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kuris nesteroidinis vaistas nuo uždegimo selektyviai slopina ciklooksigenazę 2 (COX-2)?",
+        "choices": [
+            "Diklofenakas",
+            "Indometacinas",
+            "Celekoksibas",
+            "Ibuprofenas",
+            "Naproksenas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kuris iš nurodytų vaistų labiausiai gali sutrikdyti gebėjimą vairuoti automobilį?",
+        "choices": [
+            "Difenhidraminas",
+            "Acetilsalicilo rūgštis",
+            "Deksametazonas",
+            "Loratadinas",
+            "Natrio kromoglikatas",
+            "Paracetamolis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kuris iš teiginių apie paracetamolį (acetaminofeną) yra NETEISINGAS?",
+        "choices": [
+            "Paracetamolis yra fenacetino veiklusis metabolitas",
+            "Suaugusiems žmonėms vartojant didesnę kaip 8 g paros dozę, gali būti pažeistos kepenys",
+            "Apsinuodijus paracetamoliu, gali pasireikšti inkstų nepakankamumas",
+            "Ambroksolis yra paracetamolio priešnuodis",
+            "Paracetamolis gali sukelti kepenų nekrozę"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kuris vaistas skiriamas kaip priešnuodis apsinuodijimo paracetamoliu atveju?",
+        "choices": [
+            "Metadonas",
+            "Flumazenilis",
+            "Naloksonas",
+            "Acetilsalicilo rūgštis",
+            "Acetilcisteinas",
+            "Protamino sulfatas"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Pacientas nuo kvėpavimo takų infekcijos buvo ilgai gydomas antibiotiku ir jam pasireiškė klausos ir inkstų funkcijos sutrikimas. Kitų vaistų nevartojo. Kokiu antibiotiku galėjo būti gydomas pacientas?",
+        "choices": [
+            "Doksiciklinas",
+            "Tobramicinas",
+            "Cefuroksimas",
+            "Tetraciklinas",
+            "Ampicilinas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Daugelis fenotiazinų grupės neuroleptikų sukelia nurodytą poveikį, IŠSKYRUS:",
+        "choices": [
+            "Autonominės nervų sistemos sutrikimai",
+            "Anestezija",
+            "Ekstrapiramidiniai sutrikimai",
+            "Poveikis psichikai",
+            "Vėmimo slopinimas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Organų sistemos, kurias veikia antipsichoziniai preparatai terapinėmis dozėmis, yra šios, IŠSKYRUS:",
+        "choices": [
+            "CNS",
+            "Autonominė nervų sistema",
+            "Širdies ir kraujagyslių sistema",
+            "Endokrininė sistema",
+            "Kvėpavimo sistema"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kuris teiginys apie benzodiazepinų veikimo mechanizmą yra TEISINGAS?",
+        "choices": [
+            "Tiesiogiai atidaro chloro jonų kanalus",
+            "Slopina GASR poveikį receptoriams",
+            "Slopina GASR transaminazę ir padidina GASR koncentraciją sinapsėje",
+            "Jungiasi prie GASR-B receptorių ir sustiprina GASR slopinamąjį poveikį",
+            "Dažnina chloro jonų kanalų atsidarymą"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Kuris prieštuberkuliozinis vaistas labiausiai galėtų mažinti geriamųjų kontraceptikų veiksmingumą?",
+        "choices": [
+            "Amikacinas",
+            "Etambutolis",
+            "Izoniazidas",
+            "Rifampicinas",
+            "Pirazinamidas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Kuriam iš nurodytų benzodiazepinų yra būdinga trumpiausia veikimo trukmė?",
+        "choices": [
+            "Alprazolamas",
+            "Diazepamas",
+            "Chlordiazepoksidas",
+            "Medazepamas",
+            "Oksazepamas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Išrinkite NETEISINGĄ lokalaus poveikio anestetikų apibūdinimą:",
+        "choices": [
+            "Poveikis sukeliamas slopinant Na⁺ jonų kanalų pralaidumą",
+            "Na⁺ kanalų pralaidumas sumažėja dėl pasikartojančios depoliarizacjos",
+            "Pirmiau pasireiškia poveikis plonoms nervinėms skaiduloms nei storesnėms",
+            "Visos nervų funkcijos paveikiamos jau pačioje anestezijos pradžioje",
+            "Vazokonstrikcija prailgina veikimo trukmę"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Kokio poveikio morfinas nesukelia?",
+        "choices": [
+            "Elgesio pokyčio",
+            "Miozės",
+            "Kvėpavimo slopinimo",
+            "Viduriavimo",
+            "Ortostatinės hipotenzijos"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 47,
+        "question": "Kurį nepageidaujamą poveikį gali sukelti morfinas?",
+        "choices": [
+            "Skeleto raumenų atsipalaidavimą",
+            "Krešėjimo sutrikimą",
+            "Intrakranijinio spaudimo padidėjimą",
+            "Šlapimo nelaikymą"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 47,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 48,
+        "question": "Kuriais atvejais negalima skirti opioidinių analgetikų?",
+        "choices": [
+            "Galvos trauma",
+            "Plaučių edema",
+            "Miokardo infarktas",
+            "Viduriavimas",
+            "Šlaunikaulio lūžis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 48,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 49,
+        "question": "Kuris teiginys apie naloksoną yra TEISINGAS?",
+        "choices": [
+            "Yra miu receptorių agonistas",
+            "Skausmą malšina taip pat veiksmingai kaip kodeinas",
+            "Veiksmingai slopina viduriavimą",
+            "Nesukelia poveikio, jei organizme nėra kito opioido"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 49,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 50,
+        "question": "Antibiotikų veikimo intensyvumą nusako:",
+        "choices": [
+            "Terapinis indeksas",
+            "Minimali slopinamoji koncentracija",
+            "Antibiotiko poveikio platuma",
+            "Antimikrobinio veikimo pobūdis"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 50,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 51,
+        "question": "Kurios veikliosios medžiagos indukuoja vaistinių preparatų metabolizmą kepenyse?",
+        "choices": [
+            "Klaritromicinas",
+            "Eritromicinas",
+            "Ketokonazolas",
+            "Rifampicinas",
+            "Ritonaviras"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Pseudomembraninio kolito atveju alergiškam metronidazolui pacientui geriausiai tinka:",
+        "choices": [
+            "Ampicilinas",
+            "Chloramfenikolis",
+            "Klindamicinas",
+            "Doksiciklinas",
+            "Vankomicinas"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Kas dažniausiai gydoma rifampicinu?",
+        "choices": [
+            "Cholera",
+            "Vidurių šiltinė",
+            "Tuberkuliozė",
+            "Riketsijų sukeltos ligos",
+            "Pseudomonų sukeltos ligos"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Kuri antibiotikų klasė slopina baltymų sintezę ir sukelia šalutinį poveikį, susijusį su vaistų sąveika dėl CYP450 slopinimo, ir QT intervalo pailgėjimą:",
+        "choices": [
+            "Cefalosporinai",
+            "Makrolidai",
+            "Tetraciklinai",
+            "Penicilinai",
+            "Aminoglikozidai",
+            "Amfenikoliai"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Kuris antibiotikas kontraindikuotinas asmenims, sergantiems aritmijomis?",
+        "choices": [
+            "Moksifloksacinas",
+            "Doksiciklinas",
+            "Ciprofloksacinas",
+            "Chloramfenikolis",
+            "Vankomicinas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Kuris priešgrybelinis vaistas gali sukelti fototoksinę reakciją?",
+        "choices": [
+            "Grizeofulvinas",
+            "Flucitozinas",
+            "Amfotericinas B",
+            "Kaspofunginas",
+            "Flukonazolas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 57,
+        "question": "Tazobaktamas, vartojamas kartu su piperacilinu:",
+        "choices": [
+            "Sumažina piperacilino išskyrimą per inkstus",
+            "Padidina piperacilino antibakterinį aktyvumą",
+            "Sumažina piperacilino metabolizmą",
+            "Padidina piperacilino absorbciją"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 57,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 58,
+        "question": "Kuris antibakterinis vaistas gali sukelti Stiveno-Džonsono sindromą (sunkią alerginę reakciją)?",
+        "choices": [
+            "Sulfametoksazolas",
+            "Doksiciklinas",
+            "Neomicinas",
+            "Eritromicinas",
+            "Klaritromicinas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 58,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 59,
+        "question": "Kuris(-ie) antibiotikas(-ai) gali sukelti “pilkojo kūdikio” sindromą”?",
+        "choices": [
+            "Chloramfenikolis",
+            "Trečios kartos cefalosporinai",
+            "Aminopenicilinai",
+            "Doksiciklinas",
+            "Azitromicinas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 59,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 60,
+        "question": "Kodėl geriamuosius bifosfonatus rekomenduojama gerti su grynu vandeniu, mažiausiai 30 min. prieš pusryčius?",
+        "choices": [
+            "Siekiama sumažinti viduriavimo riziką",
+            "Siekiama sumažinti pilvo skausmo riziką",
+            "Siekiama sumažinti ezofagito ir stemplės opų atsiradimo riziką",
+            "Siekiama sumažinti apatinio žandikaulio nekrozės riziką",
+            "Siekiama sumažinti maisto įtaką jų absorbcijai virškinamajame trakte"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 60,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 61,
+        "question": "Kuris metabolitas(ai) / vitamino D analogas(ai) yra vartojami antrinei hiperparatirozei gydyti pacientams, sergantiems inkstų nepakankamumu?",
+        "choices": [
+            "Vitaminas D3 (cholekalciferolis)",
+            "Vitaminas D2 (ergokalciferolis)",
+            "1-hidroksivitaminas D3 (alfakalcidolis)",
+            "25-hidroksivitaminas D3 (kalcifediolis)"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 61,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 62,
+        "question": "Salmeterolis netinka ūminiam bronchų spazmui gydyti, nes:",
+        "choices": [
+            "Jo veikimo pradžia yra uždelsta",
+            "Jis sumažina beta adrenoreceptorių jautrumą",
+            "Jis lėtai metabolizuojamas",
+            "Jis sukelia neigiamą poveikį širdžiai",
+            "Jis sąveikauja su daugeliu kitų vaistų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 62,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 63,
+        "question": "Antihiperlipideminiai vaistai dažniausiai sukelia šį nepageidaujamą poveikį:",
+        "choices": [
+            "Padidėjusį kraujo spaudimą",
+            "Neurologines problemas",
+            "Virškinamojo trakto sutrikimus",
+            "Širdies permušimus",
+            "Migreninius galvos skausmus"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 63,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 64,
+        "question": "Kuriam priešvėžiniam vaistui būdingas nepageidaujamas poveikis yra kardiotoksiškumas, raudonas šlapimas?",
+        "choices": [
+            "Ciklofosfamidas",
+            "Fluorouracilas",
+            "Gemcitabinas",
+            "Doksorubicinas",
+            "Trastuzumabas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 64,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 65,
+        "question": "Kuris teiginys apie gyvybei pavojingą vėžio chemoterapijai vartojamų vaistų toksinį poveikį yra teisingas?",
+        "choices": [
+            "Yra priimtinas, kai chemoterapijos tikslas - išgydyti ligą",
+            "Yra nepriimtinas visais atvejais",
+            "Yra priimtinas taikant paliatyvinį gydymą",
+            "Dažniausiai pasireiškia vartojant monokloninių antikūnų"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 65,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 66,
+        "question": "Hipertiroidizmas gali būti gydomas:",
+        "choices": [
+            "Trijodtironinu",
+            "Pakaitine estrogenų terapija",
+            "Metimazolu",
+            "Medroksiprogesteronu"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 66,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

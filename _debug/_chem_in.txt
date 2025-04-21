@@ -1,96 +1,182 @@
+67. Kuris teiginys apie vaistų pasiskirtymą yra KLAIDINGAS? 
+1. 
+Vaisto pusinis pasiskirstymo periodas gali skirsti nuo pusinio eliminacijos periodo. 
+2. 
+Pasiskirstymas priklauso nuo prisijungimo prie baltymų. 
+3. 
+Patekimas yra tam tikrą audinį priklauso nuo to audinio kraujotakos. 
+4. 
+Jonizuotos molekulės lengvai patenka į ląsteles. 
+5. 
+Patekimas yra tam tikrą audinį priklauso nuo prie baltymų neprisijungusio vaisto 
+koncentracijos tarp plazmos ir to audinio gradiento. 
 
-1. Acetilsalicilo rūgšties hidrolizės profilis skiriasi nuo bendrų, kitų karboksirūgščių esterių 
-hidrolizės metu vykstančių, rūgštinės-bazinės katalizės procesų. 
-A)TAIP 
-B)NE 
  
-2. Fenolių ir alkoholių grupėms priklausančios farmacinės substancijos pasižymi antiseptinėmis 
-savybėmis, kurias apsprendžia jų gebėjimas sudaryti vandenilinius ryšius. 
-A)TAIP 
-B)NE 
+  
+68. Kuris iš teiginių apie autonominę nervų sistemą yra teisingas? 
+1. pagrindinis simpatinės nervų sistemos neuromediatorius yra norepinefrinas; 
+2. parasimpatinės nervų sistemos yra ilgos preganglinės ir trumpos postganglinės nervinės 
+skaidulos; 
+3. pagrindinis parasimpatinės n.s. neuromediatorius yra acetilcholinas; 
+4. acetilcholinas stimuliuoja antinksčių meduliarinėje dalyje esančius receptorius. 
+  
+
  
-3. Fenolio kiekis imunoserumuose ir vakcinose nustatomas šarminėje terpėje veikiant kalio 
-heksacianoferatu (III) ir 4-aminofenazonu, susidarant merocianinams. 
-A)TAIP 
-B)NE 
+  
+69. Kurie vaistiniais preparatai plečia bronchus: 
+1. beta2 adrenoreceptorių agonistai  
+2. metilksantinai 
+3. muskarino receptorių antagonistai 
+4. muskarino receptorių agonistai 
+5. monokloniniai antikūnai 
+  
+
+  
+  
+70. Kurių farmakologinių grupių vaistiniai preparatai paprastai vartojami skrandžio ir 
+dvylikapirštės žarnos opaligei gydyti? 
+1. M cholinoreceptorių blokatoriai 
+2. protonų siurblio inhibitoriai 
+3. antacidiniai vaistai 
+4. prostaglandinai 
+  
+
+  
+  
+71. Kokie vaistiniai preparatai blokuoja trombocito membranos adenozindifosfato (ADF) 
+receptorius, todėl mažina trombocitų agregaciją? 
+A. klopidogrelis 
+B. prednizolonas 
+C. tiklopidinas 
+D. dipiridamolis 
+E. acetilsalicilo rūgštis 
+74 
  
-4. Fenoliai yra OH rūgščių atstovai, todėl kiekybiniam šios grupės farmacinių substancijų 
-nustatymui galima taikyti alkalimetrijos metodą. 
-A)TAIP 
-B)NE 
+  
+
+  
+  
+72. Nurodykite, kurių grupių vaistai vartojami arterinės hipertenzijos gydymui? 
+1. alfa adrenomimetikai 
+2. beta adrenoblokatoriai 
+3. beta adrenomimetikai 
+4. kalcio kanalų blokatoriai 
+5. širdį veikiantys glikozidai 
+  
+
+  
+  
+73. HMG KoA inhibitorius lovastatinas: 
+1. slopina mevalonato sintezę 
+2. mažina laisvų riebalų rūgščių sintezę 
+3. didina MTL receptorių skaičių kepenų ląstelėse 
+4. mažina cholesterolio rezorbciją žarnyne 
+  
+
+  
+  
+74. Vartojant rusmenės vaistinių preparatų gali pasireikšti pavojingos aritmijos. Dėl kokių jonų 
+stokos jos paprastai pasireiškia?  
+1. Na+ 
+2. K+ 
+3. Cl- 
+4. Mg++ 
+5. Fe++ 
+  
+
+  
+  
+75 
  
-5. p-Aminofenolis yra pradinė paracetamolio sintezės medžiaga bei pagrindinis jo degradacijos 
-produktas, o šios priemaišos nustatymui atliekama reakcija su Na2[Fe(CN)5NO]. 
-A)TAIP 
-B)NE 
+75. Kuris (-ie) iš žemiau pateiktų vaistų slopina elektrinio impulso sklidimą atrioventrikuliniame 
+mazge veikdamas L-tipo kalcio kanalus? 
+1. adenozinas 
+2. amjodaronas 
+3. esmololis 
+4. diltiazemas 
+5. flekainidas  
+6. lidokainas 
+7. meksiletinas  
+  
+
+  
+  
+76. Biguanidų grupės geriamieji antidiabetiniai vaistiniai preparatai: 
+1. Dažnai sukelia hipoglikemiją 
+2. Gali sukelti gyvybei pavojingą laktatinę acidozę 
+3. Veikia PPARγ receptorius ir didina jautrumą insulinui 
+4. Mažina insulino poreikį organizme 
+  
+
+  
+  
+77. Kurie teiginiai apie farmakologines acetilsalicilo rūgšties savybes yra teisingi? 
+1. Acetilsalicilo rūgštis slopina prostaglandinų sintezę. 
+2. Didelė acetilsalicilo rūgšties dozė (didesnė nei 5 g per parą) sumažina šlapimo rūgšties 
+koncentraciją kraujo serume. 
+3. Kitaip nei kitų nesteroidinių vaistų nuo uždegimo, acetilsalicilo rūgšties poveikis trombocitų 
+agregacijai yra negrįžtamas. 
+4. Išgėręs per didelę acetilsalicilo rūgšties dozę, žmogus gali mirti. Tokiu atveju gali padėti 
+priešnuodis - acetilcisteinas. 
+  
+
+  
+  
+78. Kurie teiginiai apie tramadolio veikimo mechanizmą yra TEISINGI? 
+1. Sužadina miu opioidinius receptorius 
+2. Slopina miu opioidinius receptorius 
+3. Slopina serotonino ir norepinefrino reabsorbciją į presinapsinį neuroną 
+4. Sužadina norepinefrino receptorius 
+76 
  
-6. Tetrakaino kiekybiniam nustatymui galima taikyti nitritometrijos metodą, nors jis yra antrinių 
-aminų atstovas. 
-A)TAIP 
-B)NE 
- 
-7. Vietinių anestetikų tokių kaip prokaino, tetrakaino ir bupivakaino tapatybės nustatymui yra 
-atliekama Vitali-Morino reakcija su acetonu. 
-A)TAIP 
-B)NE 
- 
-8. Diklofenako ir chloramfenikolio tapatumo nustatymui galima atlikti hidroksaminės rūgšties 
-susidarymo reakciją, kadangi jie yra esterių atstovai. 
-A)TAIP 
-B)NE 
- 
- 
-9. 2,3-endiolinis (dienolinis) L-askorbo rūgšties fragmentas apsprendžia rūgštines šio junginio 
-savybes, o abiejų enolinių OH grupių pKa skaitinės reikšmės yra panašios. 
-A)TAIP 
-B)NE 
- 
-10. Penicilinų β-laktamo žiedas yra ženkliai jautresnis nukleofilų atakoms lyginant su tipiniais 
-pakeistaisiais amidais, nes N atomo laisvoji elektronų pora negali sąveikauti su dvigubojo C=O ryšio 
-π-elektronais (p,π-konjugacija nėra galima). 
-A)TAIP 
-32 
- 
-B)NE 
- 
-11. Rūgštinėje terpėje vyksta penicilinų degradacija skylant β-laktamo žiedo amidiniam ryšiui, o 
-tolimesnis molekulių fragmentacijos pobūdis priklauso nuo terpės pH susidarant penilo arba 
-penicileno rūgščių dariniams. 
-A)TAIP 
-B)NE 
- 
-12. Kadangi cefalosporinų ir penicilinų struktūroje yra azetidin-2-ono žiedas, todėl šių grupių 
-farmacinių substancijų tapatumo nustatymui yra atliekama hidroksaminė reakcija. 
-A)TAIP 
-B)NE 
- 
-13. Kiekybinio lidokaino HCl, mepivakaino HCl ir bupivakaino HCl nustatymo bevandenio 
-titravimo metodu metu yra protonizuojamas tretinis, o ne amidinio ryšio N atomas. 
-A)TAIP 
-B)NE 
- 
-14. Ar visos išvardintos farmacinės substancijos (morfino HCl, askorbo rūgštis, metamizolo natrio 
-druska) dalyvauja oksidacijos redukcijos reakcijose? 
-A)TAIP 
-B)NE 
- 
-15. Ar visos išvardintos farmacinės substancijos (acetilsalicilo rūgštis, proparacetamolio HCl, 
-metamizolo natrio druska, chloramfenikolio natrio sukcinatas) yra provaistai? 
-A)TAIP 
-B)NE 
- 
-1. A 
-2. A 
-3. A 
-4. B 
-5. A 
-6. A 
-7. B 
-8. B 
-9. B 
-10. A 
-11. A 
-12. A 
-13. A 
-14. A 
-15. A 
+5. Sužadina serotonino receptorius 
+  
+
+  
+  
+79. Kokie simptomai pasireiškia, apsinuodijus opioidiniais analgetikais? 
+1. siauri vyzdžiai 
+2. retas kvėpavimas 
+3. koma 
+4. traukuliai 
+  
+
+  
+  
+80. Kurie teiginiai, apibūdinantys penicilinus, yra NETEISINGI? 
+1. Veikia bakteriostatiškai, pasižymi postantibiotiniu poveikiu, yra bakterijų ląstelių citoplazmos 
+baltymų sintezės inhibitoriai. 
+2. Veikia baktericidiškai, yra beta laktaminiai antibiotikai, slopina bakterijų ląstelės sienelės 
+sintezę.  
+3. Sukelia kancerogeninį, teratogeninį ir embriotoksinį poveikį. 
+4. Gali sukelti alergines reakcijas. 
+5. Jungiasi su peniciliną rišančiais baltymais, slopina peptidoglikano grandinės formavimąsi, 
+skatina autolizinų gamybą 
+  
+
+  
+  
+81. Kurie antibiotikai yra kontraindikuotini nėštumo metu? 
+1. Eritromicinas 
+2. Streptomicinas 
+3. Cefadroksilis 
+4. Tetraciklinas 
+  
+
+  
+82. Į vaistinę atėjo 55 metų moteris, kuriai šeimos gydytojas paskyrė vartoti tetraciklino. Prieš 
+išduodamas(-a) vaistą, jūs įspėsite moterį, kad vartodama šį vaistą, ji: 
+1. 
+Prieš pat vartojimą ir po vartojimo negertų pieno 
+2. 
+Vengtų kartu su preparatu vartoti geležies tablečių 
+3. 
+Vengtų ilgai būti saulėje 
+4. 
+Gertų kuo daugiau šarminio (mineralinio) vandens 
+5. 
+Vengtų intensyvesnio fizinio krūvio, nes gali sukelti sausgyslių trūkius 
+
+  
+83. Kurie teiginiai apie sulfanilamidus yra teisingi? 
+Atsakymai: 67. D; 68. E; 69. A; 70. E; 71. B; 72. C; 73. B; 74. C; 75. D; 76. C; 77. B; 78. B; 79. E; 

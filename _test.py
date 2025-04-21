@@ -399,6 +399,45 @@ def _do_test():
         ["Skopolaminas"],
     )
 
+    # --------------- Answers
+    body = _test_data.body10
+    answers = _creatorv2.get_answers(body)
+    count = 66
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, count)
+    test(answer_high.answer, "C")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [64, 65, 66, 67, 68, 69, 70, 71])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    question_z = questions[8]
+    test(len(questions), count)
+    test(questions[-1].question_num, count)
+    test(
+        questions[-1].question,
+        "Hipertiroidizmas gali būti gydomas:",
+    )
+    test(
+        question_z.question,
+        "Koks nepageidaujamos reakcijos virškinimo traktui dažnis, jeigu iš 10000 klinikiniame tyrime dalyvavusių pacientų 20-iai nustatytas su vaisto vartojimu susijęs viduriavimas?",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="AB", conversions=_test_data.conversion2
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), count)
+    test(task_high.original_num, count)
+    test(task_high.option_type, "AB")
+    test(
+        _answers(task_high),
+        ["Metimazolu"],
+    )
+
     # --------------- chems
     body = """
     NH4+, Hg2+
