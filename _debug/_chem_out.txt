@@ -1,182 +1,308 @@
-67. Kuris teiginys apie vaistų pasiskirtymą yra KLAIDINGAS? 
-1. 
-Vaisto pusinis pasiskirstymo periodas gali skirsti nuo pusinio eliminacijos periodo. 
-2. 
-Pasiskirstymas priklauso nuo prisijungimo prie baltymų. 
-3. 
-Patekimas yra tam tikrą audinį priklauso nuo to audinio kraujotakos. 
-4. 
-Jonizuotos molekulės lengvai patenka į ląsteles. 
-5. 
-Patekimas yra tam tikrą audinį priklauso nuo prie baltymų neprisijungusio vaisto 
-koncentracijos tarp plazmos ir to audinio gradiento. 
-
+1. Koks yra pagrindinis veikliųjų medžiagų kompleksas Raphanus niger (juodųjų ridikų) 
+šaknyse? 
+A) Flavonoidai. 
+B) Silimarinas. 
+C) Gliukozinolatai. 
+D) Eterinis aliejus. 
+E) Cinarinas. 
  
-  
-68. Kuris iš teiginių apie autonominę nervų sistemą yra teisingas? 
-1. pagrindinis simpatinės nervų sistemos neuromediatorius yra norepinefrinas; 
-2. parasimpatinės nervų sistemos yra ilgos preganglinės ir trumpos postganglinės nervinės 
-skaidulos; 
-3. pagrindinis parasimpatinės n.s. neuromediatorius yra acetilcholinas; 
-4. acetilcholinas stimuliuoja antinksčių meduliarinėje dalyje esančius receptorius. 
-  
-
+2. Kuris iš šių augalų yra kontraindikuotinas esant estrogenų pertekliui ir nuo estrogenų 
+priklausantiems piktybiniams navikams? 
+A) Salvia officinalis. 
+B) Juglans regia. 
+D) Agrimonia eupatoria. 
+E) Plantago major. 
  
-  
-69. Kurie vaistiniais preparatai plečia bronchus: 
-1. beta2 adrenoreceptorių agonistai  
-2. metilksantinai 
-3. muskarino receptorių antagonistai 
-4. muskarino receptorių agonistai 
-5. monokloniniai antikūnai 
-  
-
-  
-  
-70. Kurių farmakologinių grupių vaistiniai preparatai paprastai vartojami skrandžio ir 
-dvylikapirštės žarnos opaligei gydyti? 
-1. M cholinoreceptorių blokatoriai 
-2. protonų siurblio inhibitoriai 
-3. antacidiniai vaistai 
-4. prostaglandinai 
-  
-
-  
-  
-71. Kokie vaistiniai preparatai blokuoja trombocito membranos adenozindifosfato (ADF) 
-receptorius, todėl mažina trombocitų agregaciją? 
-A. klopidogrelis 
-B. prednizolonas 
-C. tiklopidinas 
-D. dipiridamolis 
-E. acetilsalicilo rūgštis 
-74 
+3. Kas yra augalinis vaistinis preparatas? 
+A) Bet koks augalinis produktas. 
+B) Maisto papildas su augalinėmis sudėtinėmis dalimis. 
+C) Vaistinis preparatas, kurio veiklioji medžiaga yra augalinė medžiaga arba augalinis 
+ruošinys. 
+D) Homeopatinis preparatas. 
  
-  
-
-  
-  
-72. Nurodykite, kurių grupių vaistai vartojami arterinės hipertenzijos gydymui? 
-1. alfa adrenomimetikai 
-2. beta adrenoblokatoriai 
-3. beta adrenomimetikai 
-4. kalcio kanalų blokatoriai 
-5. širdį veikiantys glikozidai 
-  
-
-  
-  
-73. HMG KoA inhibitorius lovastatinas: 
-1. slopina mevalonato sintezę 
-2. mažina laisvų riebalų rūgščių sintezę 
-3. didina MTL receptorių skaičių kepenų ląstelėse 
-4. mažina cholesterolio rezorbciją žarnyne 
-  
-
-  
-  
-74. Vartojant rusmenės vaistinių preparatų gali pasireikšti pavojingos aritmijos. Dėl kokių jonų 
-stokos jos paprastai pasireiškia?  
-1. Na⁺ 
-2. K⁺ 
-3. Cl⁻ 
-4. Mg⁺⁺ 
-5. Fe⁺⁺ 
-  
-
-  
-  
-75 
+4. Kiek metų turi būti vartojamas tradicinis augalinis vaistinis preparatas medicinoje prieš 
+registraciją? 
+A) 10 metų. 
+B) 20 metų. 
+C) 30 metų, iš kurių bent 15 metų Europos Sąjungoje. 
+D) 50 metų. 
  
-75. Kuris (-ie) iš žemiau pateiktų vaistų slopina elektrinio impulso sklidimą atrioventrikuliniame 
-mazge veikdamas L-tipo kalcio kanalus? 
-1. adenozinas 
-2. amjodaronas 
-3. esmololis 
-4. diltiazemas 
-5. flekainidas  
-6. lidokainas 
-7. meksiletinas  
-  
-
-  
-  
-76. Biguanidų grupės geriamieji antidiabetiniai vaistiniai preparatai: 
-1. Dažnai sukelia hipoglikemiją 
-2. Gali sukelti gyvybei pavojingą laktatinę acidozę 
-3. Veikia PPARγ receptorius ir didina jautrumą insulinui 
-4. Mažina insulino poreikį organizme 
-  
-
-  
-  
-77. Kurie teiginiai apie farmakologines acetilsalicilo rūgšties savybes yra teisingi? 
-1. Acetilsalicilo rūgštis slopina prostaglandinų sintezę. 
-2. Didelė acetilsalicilo rūgšties dozė (didesnė nei 5 g per parą) sumažina šlapimo rūgšties 
-koncentraciją kraujo serume. 
-3. Kitaip nei kitų nesteroidinių vaistų nuo uždegimo, acetilsalicilo rūgšties poveikis trombocitų 
-agregacijai yra negrįžtamas. 
-4. Išgėręs per didelę acetilsalicilo rūgšties dozę, žmogus gali mirti. Tokiu atveju gali padėti 
-priešnuodis - acetilcisteinas. 
-  
-
-  
-  
-78. Kurie teiginiai apie tramadolio veikimo mechanizmą yra TEISINGI? 
-1. Sužadina miu opioidinius receptorius 
-2. Slopina miu opioidinius receptorius 
-3. Slopina serotonino ir norepinefrino reabsorbciją į presinapsinį neuroną 
-4. Sužadina norepinefrino receptorius 
-76 
+5. Koks junginys vaistiniuose preparatuose su dviskiaučių ginkmedžių lapų ekstraktu turi būti 
+griežtai ribojamas dėl nepageidaujamo poveikio? 
+A) Flavonai. 
+B) Terpenai. 
+C) Ginkgolidai. 
+D) Ginkolio rūgštis.  
  
-5. Sužadina serotonino receptorius 
-  
-
-  
-  
-79. Kokie simptomai pasireiškia, apsinuodijus opioidiniais analgetikais? 
-1. siauri vyzdžiai 
-2. retas kvėpavimas 
-3. koma 
-4. traukuliai 
-  
-
-  
-  
-80. Kurie teiginiai, apibūdinantys penicilinus, yra NETEISINGI? 
-1. Veikia bakteriostatiškai, pasižymi postantibiotiniu poveikiu, yra bakterijų ląstelių citoplazmos 
-baltymų sintezės inhibitoriai. 
-2. Veikia baktericidiškai, yra beta laktaminiai antibiotikai, slopina bakterijų ląstelės sienelės 
-sintezę.  
-3. Sukelia kancerogeninį, teratogeninį ir embriotoksinį poveikį. 
-4. Gali sukelti alergines reakcijas. 
-5. Jungiasi su peniciliną rišančiais baltymais, slopina peptidoglikano grandinės formavimąsi, 
-skatina autolizinų gamybą 
-  
-
-  
-  
-81. Kurie antibiotikai yra kontraindikuotini nėštumo metu? 
-1. Eritromicinas 
-2. Streptomicinas 
-3. Cefadroksilis 
-4. Tetraciklinas 
-  
-
-  
-82. Į vaistinę atėjo 55 metų moteris, kuriai šeimos gydytojas paskyrė vartoti tetraciklino. Prieš 
-išduodamas(-a) vaistą, jūs įspėsite moterį, kad vartodama šį vaistą, ji: 
-1. 
-Prieš pat vartojimą ir po vartojimo negertų pieno 
-2. 
-Vengtų kartu su preparatu vartoti geležies tablečių 
-3. 
-Vengtų ilgai būti saulėje 
-4. 
-Gertų kuo daugiau šarminio (mineralinio) vandens 
-5. 
-Vengtų intensyvesnio fizinio krūvio, nes gali sukelti sausgyslių trūkius 
-
-  
-83. Kurie teiginiai apie sulfanilamidus yra teisingi? 
-Atsakymai: 67. D; 68. E; 69. A; 70. E; 71. B; 72. C; 73. B; 74. C; 75. D; 76. C; 77. B; 78. B; 79. E; 
+6. Kokia institucija rengia Bendrijos augalų monografijas? 
+A) Europos vaistų agentūra. 
+B) Augalinių vaistinių preparatų komitetas. 
+C) Valstybinė vaistų kontrolės tarnyba. 
+D) Europos Komisija. 
+ 
+7. Koks yra pagrindinis silimarino poveikis kepenims? 
+A) Skatina tulžies gamybą. 
+B) Apsaugo kepenų parenchimos audinį. 
+C) Mažina cholesterolio kiekį kraujyje. 
+D) Aktyvina žarnyno peristaltiką. 
+ 
+8. Koks yra pagrindinis alginatų veikimo mechanizmas gydant gastroezofaginio refliukso ligą 
+(GERL)? 
+A) Mažina skrandžio rūgštingumą. 
+B) Formuoja barjerą – plūdurą skrandžio sulčių paviršiuje. 
+C) Stimuliuoja skrandžio motorinę funkciją. 
+113 
+ 
+D) Slopina Helicobacter pylori. 
+ 
+9. Koks yra pagrindinis daržovinio artišoko (Cynara scolymus L.) poveikis? 
+A) Antihepatotoksinis ir kepenų funkcijos gerinimas. 
+B) Skrandžio rūgštingumo mažinimas. 
+C) Žarnyno peristaltikos skatinimas. 
+D) Priešuždegiminis poveikis žarnyne. 
+ 
+10. Kuris augalas yra rekomenduojamas vartoti sergant lėtiniu hepatitu ir kepenų ciroze? 
+A) Paprastoji jonažolė. 
+B) Vaistinė ramunė. 
+C) Tikrųjų margainių vaisių ekstraktas. 
+D) Paprastasis kmynas. 
+ 
+11. Kuris iš šių augalų specifiškai veikia Helicobacter pylori? 
+A) Vaistinis valerijonas. 
+B) Paprastasis saldymedis.  
+C) Dviskiautis ginkmedis. 
+D) Vaistinė melisa. 
+ 
+12. Koks yra pagrindinis kurkuminoidų poveikis? 
+A) Priešuždegiminis. 
+B) Sedatyvinis. 
+C) Vidurius laisvinantis. 
+D) Kraujospūdį mažinantis. 
+ 
+13. Koks yra pagrindinis bromelainų ir papainų poveikis? 
+A) Skatina navikinių ląstelių augimą. 
+B) Slopina imuninį atsaką. 
+C) Moduliuoja proteolizę ir dalyvauja šalinant audinių irimo produktus. 
+D) Didina trombozės riziką. 
+ 
+14. Kuris iš šių augalų ekstraktų gali sumažinti cisplatinos sukeltus nefrotoksinius poveikius? 
+A) Paprastojo saldymedžio ekstraktas. 
+B) Sojų vaisių ekstraktas. 
+C) Dviskiaučių ginkmedžių lapų ekstraktas. 
+D) Rausvažiedės ežiuolės ekstraktas. 
+ 
+15. Kurie iš šių junginių gali būti vartojamas chemoterapijos ir spindulinio gydymo metu? 
+A) Flavonoidai. 
+B) Karotenoidai. 
+C) Polisacharidai. 
+D) Resveratrolis. 
+ 
+16. Koks yra pagrindinis lektinų veikimo mechanizmas prieš navikines ląsteles? 
+A) Oksidacinis stresas. 
+B) Apoptozės indukcija. 
+C) Angiogenezės slopinimas. 
+D) Telomerazės aktyvumo didinimas. 
+ 
+17. Kuris iš šių augalų ekstraktų pasižymi priešuždegiminiu poveikiu ir yra naudojamas 
+osteoartrito gydymui? 
+A) Pipirinių mėtų. 
+B) Vaistinių ramunių. 
+C) Boswellia serrata. 
+D) Valgomųjų česnakų. 
+ 
+18. Kuris iš šių fermentų yra išgaunamas iš ananasų ir pasižymi priešuždegiminiu poveikiu? 
+A) Papainas. 
+B) Tripsinas. 
+114 
+ 
+C) Bromelainas. 
+D) Pepsinas. 
+ 
+19. Koks yra pagrindinis salicino, esančio gluosnių žievėje, metabolitas, pasižymintis 
+priešuždegiminiu poveikiu? 
+A) Acetilsalicilo rūgštis. 
+B) Salicilo rūgštis. 
+C) Saligeninas. 
+D) Fenolis. 
+ 
+20. Kuris iš šių augalų ekstraktų yra naudojamas podagros gydymui dėl jo diuretinio poveikio? 
+A) Imbierų. 
+B) Ciberžolių. 
+C) Beržų. 
+D) Nakvišų. 
+ 
+21. Kurio augalo žaliavų preparatai gali būti taikomi depresinių būklių ir neuralgijų gydymui? 
+A) Hypericum perforatum 
+B) Humulus lupulus 
+C) Passiflora incarnata 
+D) Calluna vulgaris 
+ 
+22. Kurio augalo preparatai gali būti taikomi nemigos gydymui? 
+A) Paullinia cupana 
+B) Humulus lupulus 
+C) Viburnum opulus 
+D) Betula pendula 
+ 
+23.Kokiu pagrindiniu veikimo mechanizmu pasižymi valerijonų šaknų preparatai? 
+A) Slopina fermentą aromatazę. 
+B) Blokuoja fermentą acetilcholinesterazę 
+C) Veikia GABA (γ-aminosviesto rūgšties) apytaką. 
+D) Stimuliuoja α1-adrenoreceptorius 
+ 
+24.Koks yra pagrindinis augalinių adaptogenų veikimo mechanizmas? 
+A) Ca²⁺ jonų koncentracijos serume padidinimas 
+B) Tiesioginė adrenoreceptorių stimuliacija 
+C) Slopina ląstelių membranos natrio-kalio (Na⁺⁻K⁺) siurblį 
+D) Pogumburio-hipofizės-antinksčių ašies (PHA) aktyvavimas ir HSP₇₂ kiekio serume 
+padidinimas. 
+ 
+25.Kokio augalo preparatai gali būti vartojami esant smegenų kraujotakos sutrikimams? 
+A) Ginkgo biloba 
+B) Plantago major 
+C) Citrus sinensis 
+D) Glycine max 
+ 
+26.Kurie flavonoidai naudojami lengvinti ūminio hemorojaus simptomams? 
+A) Diosminas ir hesperidinas 
+B) Liuteolinas ir apigeninas 
+C) Kvercetinas ir kemferolis 
+D) Chrizinas ir vogoninas 
+ 
+27.Kurio augalo preparatai priskiriami stimuliuojančių refleksinių atsikosėjimą skatinančių 
+preparatų grupei? 
+A) Thymus zygis 
+B) Primula veris 
+C) Sideritis raeserii 
+D) Marubium vulgare 
+ 
+115 
+ 
+28.Kurio augalo preparatai nepasižymi imuninę sistemą moduliuojančiu poveikiu? 
+A) Echinacea purpurea 
+B) Astragalus membranaceus 
+C) Eletherococcus sentocosus 
+D) Taraxacum officinale. 
+ 
+29.Iš kurių monoterpeninių junginių sudarytas standartizuotas fitoterapinis ekstraktas mirtolis? 
+A) Kopaenas, limonenas ir karvakrolis 
+B) Linalolis, geraniolis ir timolis 
+C) Pinenas, limonenas ir cineolis 
+D) Terpineolis, mircenas ir ledolis.  
+ 
+30.Kurio augalo preparatai pasižymi antivirusiniu poveikiu prieš Herpes simplex? 
+A) Aragana spinosa 
+B) Centella asiatica 
+C) Ginkgo biloba 
+D) Melissa officinalis 
+ 
+31.Kurio augalo eterinio aliejaus preparatai labiausiai tinka grybelinių odos infekcijų 
+gydymui? 
+A) Pražangialapių mirtenių 
+B) Vaistinių ramunių 
+C) Kvapiųjų bazilikų 
+D) Juodųjų pipirų.  
+ 
+32.Kokio augalo preparatai yra pirmo pasirinkimo preparatai PMS (priešmenstruacinio) 
+sindromo valdymui? 
+A) Peonia alba 
+B) Urtica dioica 
+C) Vitex agnus castus 
+D) Withania somnifera 
+ 
+33.Kokio augalo preparatai pasižymi gimdos spazmolitiniu aktyvumu ir mažina 
+prostaglandinų gamybą? 
+A) Rubus idaeus lapai 
+B) Cucurbita pepo vaisiai 
+C) Vaccinium myrtillus vaisiai 
+D) Hepatica nobilis sėklos 
+ 
+34.Kurio augalo preparatai pasižymi ovuliaciją skatinančiu poveikiu? 
+A) Solidago virgaurea 
+B) Angelica chinensis 
+C) Withania somnifera 
+D) Centella asiatica 
+ 
+35.Kurio augalo preparatai naudojami vyrų vaisingumo gerinimui? 
+A) Vitex agnus castus 
+B) Foeniculum vulgare 
+C) Daucus carrota 
+D) Panax ginseng 
+ 
+36.Kurių augalų preparatai didina testosterono kiekį vyrams? 
+A) Eurycoma longifolia ir Withania somnifera  
+B) Helichrysum arenarium ir Allium sativum 
+C) Foeniculum vulgare ir Anethum graveolens 
+D) Curcuma longa ir Zingiber officinalis 
+ 
+37.Kurio augalo preparatai taikomi gerybinės prostatos hiperplazijos gydymui? 
+A) Marrubium vulgare 
+B) Serenoa repens 
+116 
+ 
+C) Solanum dulcamara 
+D) Petroselinum crispum 
+ 
+38.Kokiais poveikiais pasižymi miltinių meškauogių preparatai? 
+A) Žaizdų gijimą skatinančiu poveikiu 
+B) Antinksčius stimuliuojančiu poveikiu 
+C) Antibakteriniu ir priešuždegiminiu poveikiu urogenitaliniam traktui 
+D) Seksualinę funkciją gerinančiu poveikiu. 
+ 
+39.Kokios yra stambiauogių spanguolių ekstraktų su proantocianidinais indikacijos? 
+A) Lengvų pasikartojančių apatinių šlapimo takų infekcijų simptomams palengvinti. 
+B) Lengvų gastritų ir hepatitų gydymui 
+C) Hemorojaus simptomų palengvinimui 
+D) Ūmių inkstų infekcijų gydymui.  
+ 
+40.Kuris augalinių preparatų derinys taikomas šlapimo nelaikymo gydymui? 
+A) Turnera diffusa, Picea abies, Dryopteris filix mas 
+B) Betula pendula, Taraxacum officinale, Solidago virgaurea 
+C) Agrimonia eupatoria, Quercus robur, Gallium odoratum 
+D) Crateva nurvala, Equisetum arvense, Lindera aggregate 
+ 
+ 
+ 
+ 
+Atsakymai: 
+1. C 
+2. A 
+3. C 
+4. C 
+5. D 
+6. B 
+7. B 
+8. B 
+9. A 
+10. C 
+11. B 
+12. A 
+13. C 
+14. C 
+15. C 
+16. B 
+17. C 
+18. C 
+19. B 
+20. C 
+21.A 
+22.B 
+23.C 
+24.D 
+25.A 
+26.A 
+27.B 
+28.D 
+29.C 
+30.D 
+31.A 
+32.C 
+33.A 
+34.B 
+35.D 
+117 
+ 
+36.A 
+37.B 
+38.C 
+39.A 
+40.D 

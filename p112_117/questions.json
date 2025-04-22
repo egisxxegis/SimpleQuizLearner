@@ -1,0 +1,683 @@
+[
+    {
+        "number": 1,
+        "question": "Koks yra pagrindinis veikliųjų medžiagų kompleksas Raphanus niger (juodųjų ridikų) šaknyse?",
+        "choices": [
+            "Flavonoidai.",
+            "Silimarinas.",
+            "Gliukozinolatai.",
+            "Eterinis aliejus.",
+            "Cinarinas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kuris iš šių augalų yra kontraindikuotinas esant estrogenų pertekliui ir nuo estrogenų priklausantiems piktybiniams navikams?",
+        "choices": [
+            "Salvia officinalis.",
+            "Juglans regia.",
+            "Agrimonia eupatoria.",
+            "Plantago major."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kas yra augalinis vaistinis preparatas?",
+        "choices": [
+            "Bet koks augalinis produktas.",
+            "Maisto papildas su augalinėmis sudėtinėmis dalimis.",
+            "Vaistinis preparatas, kurio veiklioji medžiaga yra augalinė medžiaga arba augalinis ruošinys.",
+            "Homeopatinis preparatas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kiek metų turi būti vartojamas tradicinis augalinis vaistinis preparatas medicinoje prieš registraciją?",
+        "choices": [
+            "10 metų.",
+            "20 metų.",
+            "30 metų, iš kurių bent 15 metų Europos Sąjungoje.",
+            "50 metų."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Koks junginys vaistiniuose preparatuose su dviskiaučių ginkmedžių lapų ekstraktu turi būti griežtai ribojamas dėl nepageidaujamo poveikio?",
+        "choices": [
+            "Flavonai.",
+            "Terpenai.",
+            "Ginkgolidai.",
+            "Ginkolio rūgštis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kokia institucija rengia Bendrijos augalų monografijas?",
+        "choices": [
+            "Europos vaistų agentūra.",
+            "Augalinių vaistinių preparatų komitetas.",
+            "Valstybinė vaistų kontrolės tarnyba.",
+            "Europos Komisija."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Koks yra pagrindinis silimarino poveikis kepenims?",
+        "choices": [
+            "Skatina tulžies gamybą.",
+            "Apsaugo kepenų parenchimos audinį.",
+            "Mažina cholesterolio kiekį kraujyje.",
+            "Aktyvina žarnyno peristaltiką."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Koks yra pagrindinis alginatų veikimo mechanizmas gydant gastroezofaginio refliukso ligą (GERL)?",
+        "choices": [
+            "Mažina skrandžio rūgštingumą.",
+            "Formuoja barjerą – plūdurą skrandžio sulčių paviršiuje.",
+            "Stimuliuoja skrandžio motorinę funkciją.",
+            "Slopina Helicobacter pylori."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Koks yra pagrindinis daržovinio artišoko (Cynara scolymus L.) poveikis?",
+        "choices": [
+            "Antihepatotoksinis ir kepenų funkcijos gerinimas.",
+            "Skrandžio rūgštingumo mažinimas.",
+            "Žarnyno peristaltikos skatinimas.",
+            "Priešuždegiminis poveikis žarnyne."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kuris augalas yra rekomenduojamas vartoti sergant lėtiniu hepatitu ir kepenų ciroze?",
+        "choices": [
+            "Paprastoji jonažolė.",
+            "Vaistinė ramunė.",
+            "Tikrųjų margainių vaisių ekstraktas.",
+            "Paprastasis kmynas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kuris iš šių augalų specifiškai veikia Helicobacter pylori?",
+        "choices": [
+            "Vaistinis valerijonas.",
+            "Paprastasis saldymedis.",
+            "Dviskiautis ginkmedis.",
+            "Vaistinė melisa."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Koks yra pagrindinis kurkuminoidų poveikis?",
+        "choices": [
+            "Priešuždegiminis.",
+            "Sedatyvinis.",
+            "Vidurius laisvinantis.",
+            "Kraujospūdį mažinantis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Koks yra pagrindinis bromelainų ir papainų poveikis?",
+        "choices": [
+            "Skatina navikinių ląstelių augimą.",
+            "Slopina imuninį atsaką.",
+            "Moduliuoja proteolizę ir dalyvauja šalinant audinių irimo produktus.",
+            "Didina trombozės riziką."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kuris iš šių augalų ekstraktų gali sumažinti cisplatinos sukeltus nefrotoksinius poveikius?",
+        "choices": [
+            "Paprastojo saldymedžio ekstraktas.",
+            "Sojų vaisių ekstraktas.",
+            "Dviskiaučių ginkmedžių lapų ekstraktas.",
+            "Rausvažiedės ežiuolės ekstraktas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kurie iš šių junginių gali būti vartojamas chemoterapijos ir spindulinio gydymo metu?",
+        "choices": [
+            "Flavonoidai.",
+            "Karotenoidai.",
+            "Polisacharidai.",
+            "Resveratrolis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Koks yra pagrindinis lektinų veikimo mechanizmas prieš navikines ląsteles?",
+        "choices": [
+            "Oksidacinis stresas.",
+            "Apoptozės indukcija.",
+            "Angiogenezės slopinimas.",
+            "Telomerazės aktyvumo didinimas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kuris iš šių augalų ekstraktų pasižymi priešuždegiminiu poveikiu ir yra naudojamas osteoartrito gydymui?",
+        "choices": [
+            "Pipirinių mėtų.",
+            "Vaistinių ramunių.",
+            "Boswellia serrata.",
+            "Valgomųjų česnakų."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kuris iš šių fermentų yra išgaunamas iš ananasų ir pasižymi priešuždegiminiu poveikiu?",
+        "choices": [
+            "Papainas.",
+            "Tripsinas.",
+            "Bromelainas.",
+            "Pepsinas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Koks yra pagrindinis salicino, esančio gluosnių žievėje, metabolitas, pasižymintis priešuždegiminiu poveikiu?",
+        "choices": [
+            "Acetilsalicilo rūgštis.",
+            "Salicilo rūgštis.",
+            "Saligeninas.",
+            "Fenolis."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kuris iš šių augalų ekstraktų yra naudojamas podagros gydymui dėl jo diuretinio poveikio?",
+        "choices": [
+            "Imbierų.",
+            "Ciberžolių.",
+            "Beržų.",
+            "Nakvišų."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Kurio augalo žaliavų preparatai gali būti taikomi depresinių būklių ir neuralgijų gydymui?",
+        "choices": [
+            "Hypericum perforatum",
+            "Humulus lupulus",
+            "Passiflora incarnata",
+            "Calluna vulgaris"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kurio augalo preparatai gali būti taikomi nemigos gydymui?",
+        "choices": [
+            "Paullinia cupana",
+            "Humulus lupulus",
+            "Viburnum opulus",
+            "Betula pendula"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Kokiu pagrindiniu veikimo mechanizmu pasižymi valerijonų šaknų preparatai?",
+        "choices": [
+            "Slopina fermentą aromatazę.",
+            "Blokuoja fermentą acetilcholinesterazę",
+            "Veikia GABA (γ-aminosviesto rūgšties) apytaką.",
+            "Stimuliuoja α1-adrenoreceptorius"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Koks yra pagrindinis augalinių adaptogenų veikimo mechanizmas?",
+        "choices": [
+            "Ca²⁺ jonų koncentracijos serume padidinimas",
+            "Tiesioginė adrenoreceptorių stimuliacija",
+            "Slopina ląstelių membranos natrio-kalio (Na⁺⁻K⁺) siurblį",
+            "Pogumburio-hipofizės-antinksčių ašies (PHA) aktyvavimas ir HSP72 kiekio serume padidinimas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kokio augalo preparatai gali būti vartojami esant smegenų kraujotakos sutrikimams?",
+        "choices": [
+            "Ginkgo biloba",
+            "Plantago major",
+            "Citrus sinensis",
+            "Glycine max"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kurie flavonoidai naudojami lengvinti ūminio hemorojaus simptomams?",
+        "choices": [
+            "Diosminas ir hesperidinas",
+            "Liuteolinas ir apigeninas",
+            "Kvercetinas ir kemferolis",
+            "Chrizinas ir vogoninas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kurio augalo preparatai priskiriami stimuliuojančių refleksinių atsikosėjimą skatinančių preparatų grupei?",
+        "choices": [
+            "Thymus zygis",
+            "Primula veris",
+            "Sideritis raeserii",
+            "Marubium vulgare"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kurio augalo preparatai nepasižymi imuninę sistemą moduliuojančiu poveikiu?",
+        "choices": [
+            "Echinacea purpurea",
+            "Astragalus membranaceus",
+            "Eletherococcus sentocosus",
+            "Taraxacum officinale."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Iš kurių monoterpeninių junginių sudarytas standartizuotas fitoterapinis ekstraktas mirtolis?",
+        "choices": [
+            "Kopaenas, limonenas ir karvakrolis",
+            "Linalolis, geraniolis ir timolis",
+            "Pinenas, limonenas ir cineolis",
+            "Terpineolis, mircenas ir ledolis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kurio augalo preparatai pasižymi antivirusiniu poveikiu prieš Herpes simplex?",
+        "choices": [
+            "Aragana spinosa",
+            "Centella asiatica",
+            "Ginkgo biloba",
+            "Melissa officinalis"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kurio augalo eterinio aliejaus preparatai labiausiai tinka grybelinių odos infekcijų gydymui?",
+        "choices": [
+            "Pražangialapių mirtenių",
+            "Vaistinių ramunių",
+            "Kvapiųjų bazilikų",
+            "Juodųjų pipirų."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kokio augalo preparatai yra pirmo pasirinkimo preparatai PMS (priešmenstruacinio) sindromo valdymui?",
+        "choices": [
+            "Peonia alba",
+            "Urtica dioica",
+            "Vitex agnus castus",
+            "Withania somnifera"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kokio augalo preparatai pasižymi gimdos spazmolitiniu aktyvumu ir mažina prostaglandinų gamybą?",
+        "choices": [
+            "Rubus idaeus lapai",
+            "Cucurbita pepo vaisiai",
+            "Vaccinium myrtillus vaisiai",
+            "Hepatica nobilis sėklos"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kurio augalo preparatai pasižymi ovuliaciją skatinančiu poveikiu?",
+        "choices": [
+            "Solidago virgaurea",
+            "Angelica chinensis",
+            "Withania somnifera",
+            "Centella asiatica"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kurio augalo preparatai naudojami vyrų vaisingumo gerinimui?",
+        "choices": [
+            "Vitex agnus castus",
+            "Foeniculum vulgare",
+            "Daucus carrota",
+            "Panax ginseng"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kurių augalų preparatai didina testosterono kiekį vyrams?",
+        "choices": [
+            "Eurycoma longifolia ir Withania somnifera",
+            "Helichrysum arenarium ir Allium sativum",
+            "Foeniculum vulgare ir Anethum graveolens",
+            "Curcuma longa ir Zingiber officinalis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kurio augalo preparatai taikomi gerybinės prostatos hiperplazijos gydymui?",
+        "choices": [
+            "Marrubium vulgare",
+            "Serenoa repens",
+            "Solanum dulcamara",
+            "Petroselinum crispum"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kokiais poveikiais pasižymi miltinių meškauogių preparatai?",
+        "choices": [
+            "Žaizdų gijimą skatinančiu poveikiu",
+            "Antinksčius stimuliuojančiu poveikiu",
+            "Antibakteriniu ir priešuždegiminiu poveikiu urogenitaliniam traktui",
+            "Seksualinę funkciją gerinančiu poveikiu."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Kokios yra stambiauogių spanguolių ekstraktų su proantocianidinais indikacijos?",
+        "choices": [
+            "Lengvų pasikartojančių apatinių šlapimo takų infekcijų simptomams palengvinti.",
+            "Lengvų gastritų ir hepatitų gydymui",
+            "Hemorojaus simptomų palengvinimui",
+            "Ūmių inkstų infekcijų gydymui."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Kuris augalinių preparatų derinys taikomas šlapimo nelaikymo gydymui?",
+        "choices": [
+            "Turnera diffusa, Picea abies, Dryopteris filix mas",
+            "Betula pendula, Taraxacum officinale, Solidago virgaurea",
+            "Agrimonia eupatoria, Quercus robur, Gallium odoratum",
+            "Crateva nurvala, Equisetum arvense, Lindera aggregate"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "number": 1,
+        "question": "Ežiuolių preparatai gali būti vartojami šalinant sintetinių tirostatinių vaistų sukeltą nepageidaujamą poveikį – leukocitopeniją.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Tikrųjų imbierų preparatai aktyvina antinksčių veiklą.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Ar Ginkgo biloba lapų ekstraktas pagerina acetilcholino transportą?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Ar Eleutherococcus senticosus šaknų ir šakniastiebių ekstraktas mažina bendrą limfocitų skaičių?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Ar imbierų (Zingiber officinale) preparatų vartojimas yra saugus nėštumo metu bet kokiomis dozėmis?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Ar gali būti skiriami apynių preparatai pacientams sergantiems depresija?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Ar ežiuolių preparatai gali būti skiriami nėštumo metu?.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Ar Angelica sinensis preparatai gali būti naudojami nėštumo metu?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Ar Turnera diffusa preparatai turi poveikį fermentui aromatazei?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Ar Eupatorium purpureum šaknų preparatai mažina šlapimo rūgšties akmenų susidarymą?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

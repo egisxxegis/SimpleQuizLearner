@@ -1,0 +1,96 @@
+[
+    {
+        "number": 1,
+        "question": "Kokie metodai gali būti naudojami genų variantų tyrimams molekulinės biologijos laboratorijoje?",
+        "choices": [
+            "polimerazės grandininė reakcija",
+            "tikro laiko polimerazės grandininė reakcija",
+            "sekoskaita",
+            "baltymų elektroforezė",
+            "masių spektrometrija"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kokie yra genų sekoskaitos metodai?",
+        "choices": [
+            "skaitmeninė sekoskaita",
+            "Sanger sekoskaita",
+            "tikro laiko sekoskaita",
+            "naujos kartos sekoskaita"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kurie yra pagrindiniai CYP2C19 variantai, nulemiantys fermento, neturinčio funkcinio aktyvumo, gamybą?",
+        "choices": [
+            "*2",
+            "*4",
+            "*3",
+            "*5",
+            "*17"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kurie iš teiginių apie mikrosomas yra teisingi?",
+        "choices": [
+            "Mikrosomos yra endoplazminio tinklo fragmentai",
+            "Mikrosomos yra kepenų homogenato frakcija, kuri turi lygųjį endoplazminį tinklą",
+            "Mikrosomų preparatai oksiduoja NADPH ir NADH",
+            "Mikrosomų fermentų veikimui deguonis nereikalingas"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kurie iš teiginių apie biotransformacijos reakciją yra teisingas?",
+        "choices": [
+            "Tai alkeno hidroksilinimas.",
+            "Tai alifatinis hidroksilinimas.",
+            "Reakcijos produktas yra epoksidas.",
+            "Tai antros fazės biotransformacijos reakcija"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": "5.png",
+        "comment": null
+    }
+]
