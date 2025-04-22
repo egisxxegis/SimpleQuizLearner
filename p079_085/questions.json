@@ -1,0 +1,784 @@
+[
+    {
+        "number": 1,
+        "question": "In vitro veikliosios medžiagos atpalaidavimo iš pusiau kietų vaistų formų tyrimuose naudojami prietaisai:",
+        "choices": [
+            "Krepšelinis prietaisas.",
+            "Mentinis prietaisas.",
+            "Pratakios kameros prietaisas.",
+            "Difuzinės celės."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Tinkamos akceptorinės terpės parinkimą in vitro atpalaidavimo tyrimams lemia:",
+        "choices": [
+            "Veikliųjų medžiagų tirpumas.",
+            "Veikliųjų medžiagų molekulinė masė.",
+            "Terpės pH.",
+            "Terpės laidumas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Reglamentuotas nedengtų tablečių suirimo laikas:",
+        "choices": [
+            "Turi suirti ne ilgiau kaip per 5 minutes.",
+            "Turi suirti ne ilgiau kaip per 15 minučių.",
+            "Turi suirti ne ilgiau kaip per 30 minučių.",
+            "Turi suirti ne ilgiau kaip per 45 minutes."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Suirimo testas netaikomas:",
+        "choices": [
+            "Tirpioms tabletėms.",
+            "Burnoje disperguojamoms tabletėms.",
+            "Šnypščiančioms tabletėms.",
+            "Kramtomoms tabletėms."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Prailginto atpalaidavimo tablečių kokybė atliekant in vitro tirpimo testą patvirtinima, jei:",
+        "choices": [
+            "Per 45 minutes išsiskiria ne mažiau kaip 75 proc. veikliosios medžiagos.",
+            "Per 15 minučių išsiskiria ne mažiau kaip 75 proc. veikliosios medžiagos.",
+            "Pirmame tyrimo taške atpalaiduota 20–30 proc. veikliosios medžiagos.",
+            "Pirmame tyrimo taške atpalaiduota ne mažiau kaip 20–30 proc. veikliosios medžiagos, antrame tyrimo taške – ne mažiau kaip 50 proc., o trečiame – ne mažiau kaip 80 proc. veikliosios medžiagos."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Reglamentuotas plėvele dengtų tablečių suirimo laikas:",
+        "choices": [
+            "turi suirti ne ilgiau kaip per 15 minučių.",
+            "Turi suirti ne ilgiau kaip per 30 minučių.",
+            "Turi suirti ne ilgiau kaip per 45 minutes.",
+            "Turi suirti ne ilgiau kaip per 60 minučių."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Rektalinėms žvakutėms suirimo testas:",
+        "choices": [
+            "Netaikomas.",
+            "Taikomas.",
+            "Žvakutės su riebalų pagrindu vertinamos po 30 min., o su vandenyje tirpiu pagrindu – po 60 min., jei nenurodyta kitaip.",
+            "Žvakutės su riebalų pagrindu vertinamos po 60 min., o su vandenyje tirpiu pagrindu – po 30 min., jei nenurodyta kitaip."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Vaisto biologinis pasisavinimas:",
+        "choices": [
+            "Parodo, kokia vaisto dozės dalis patenka į sisteminę kraujotaką ir, kokiu greičiu vyksta šis procesas po vaisto pavartojimo.",
+            "Tai dalis vaisto, kuri patenka į kraujotakos sistemą, įvedus vaistą per os.",
+            "Tai vaisto farmacinis pasisavinimas.",
+            "Tai skirtingų kategorijų vaisto formų terapinio ekvivalentiškumo vertinimas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Biofarmacijos mokslo vystymąsi įtakojo:",
+        "choices": [
+            "Nevienodas vaistinių medžiagų smulkumo laipsnis.",
+            "Nepagristas vaistinių medžiagų parinkimas.",
+            "Vaisto formų stabilumo problemos.",
+            "Terapinis neekvivalentiškumas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Farmacinis pasisavinimas:",
+        "choices": [
+            "Tai iš vaisto formos išsiskirianti vaistinės medžiagos frakciją.",
+            "Farmacinių veiksnių įtaką farmakokinetikai ir farmakodinamikai.",
+            "Farmacinių ir biologinių veiksnių įtaką farmakodinamikai.",
+            "Tai iš vaisto formos išsiskirianti vaistinės medžiagos frakcija bei šio proceso greitis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Absoliutus biologinis pasisavinimas yra 100 procentų ( F=1):",
+        "choices": [
+            "Kai vaistas vartojamas injekcijomis.",
+            "Kai vaistas švirkščiamas į veną.",
+            "Kai vaistas vartojamas ant odos.",
+            "Kai vaistas švirkščiamas į raumenis."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kai vaistinės medžiagos tirpalo sušvirkštinimo į veną galimybės yra ribotos nustatomas:",
+        "choices": [
+            "Absoliutus biologinis pasisavinimas.",
+            "Santykinis biologinis pasisavinimas.",
+            "Absoliutus ir santykinis biologinis pasisavinimas.",
+            "Vertinti biologinį pasisavinimą nėra galimybių."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Būdai sunkiai tirpstančių medžiagų tirpumui pagerinti:",
+        "choices": [
+            "kosolvencija, kompleksų sudarymas, soliubilizacija, cheminė modifikacija, dalelių dydžio kontrolė, pH reikšmės reguliavimas;",
+            "sąveika tarp gerai tirpių vaistinių medžiagų ir tirpių medžiagų, kurių metu susifomuoja tirpūs intramolekuliniai kompleksai – makromolekulės;",
+            "soliubilizacija;",
+            "lakių tirpiklių iterpimas į tirpiklio sistemą, pritaikant papildomai maišymą tirpimo proceso metu"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Vaistinių medžiagų prasiskverbimą svarbiausias ribojantis veiksnys yra:",
+        "choices": [
+            "Difuzija pro membranos baltymus.",
+            "Difuzija pro membranos lipidus.",
+            "Difuzija pro membranos poras.",
+            "Baltymų pasiskirstymas membranoje."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Plotas po farmakokinetine kreive (AUC) tai:",
+        "choices": [
+            "Vaistinės medžiagos koncentracijos kraujo plazmoje priklausomumas nuo laiko, praėjusio po vaisto pavartojimo.",
+            "Vaistinės medžiagos koncentracija atitinkamame laiko taške.",
+            "Didžiausia vaistinės medžiagos koncentracija plazmoje atitinkamame laiko taške.",
+            "Tai terapinis vaisto intervalas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Geriamąsias vaisto formas pagal veikliosios medžiagos išsiskyrimo laipsnį ir geriausią biologinį pasisavinimą galimą išdėstyti sekančia tvarka:",
+        "choices": [
+            "emulsijos-ultraheterogeninės struktūros-suspensijos-milteliai-granulės-tabletės;",
+            "tirpalai-emulsijos-suspensijos-milteliai-granulės-tabletės;",
+            "tirpalai-linimentai - emulsijos-suspensijos-milteliai-granulės-tabletės;",
+            "vaisto forma įtakos nedaro, todėl eiliškumas nėra galimas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Vaistinių medžiagų, vartojamų emulsijų ir suspensijų forma per os, absorbcija pagrinde vyksta:",
+        "choices": [
+            "Skrandyje.",
+            "Dvylikapirštėje žarnoje.",
+            "Vaistinių medžiagų savybės užtikrina jų absorbciją, bet kurioje virškinamojo kanalo dalyje.",
+            "Stemplėje."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Modifikuoto atpalaidavimo tabletės yra:",
+        "choices": [
+            "Dengtos ar nedengtos tabletės, turinčios pagalbinių medžiagų ar pagamintos taikant technologijas, dėl kurių pakeičiama vaistinės medžiagos atpalaidavimo vieta, laikas ar greitis.",
+            "Dengtos ar nedengtos tabletės, turinčios pagalbinių medžiagų ar pagamintos taikant technologijas, dėl kurių pakeičiama vaistinės medžiagos atpalaidavimo vieta, laikas ar greitis. Suirimo laikas ne ilgiau 30 min, jei nenurodyta kitaip.",
+            "Skrandžio sultims atsparios tabletės, kurios neturi suirti rūgštinėje terpėje 2 val; laikotarpyje.",
+            "Plėvele dengtos tabletės, kurios suyra ne ilgiau kaip per 30 minučių."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Skrandžio turinys daro mažesnę įtaką, vaistinės medžiagos pasisavinimui, kai vartojama:",
+        "choices": [
+            "Plėvele dengtų tablečių formoje.",
+            "Tirpalų formoje.",
+            "Tablečių formoje.",
+            "Kietų kapsulių formoje."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Vaistinių medžiagų išsiskyrimas iš hidrofilinių pagrindų, vartojant pro išangę, vyksta:",
+        "choices": [
+            "Greitai, nes pagrindas greitai ištirpsta išangės skysčiuose.",
+            "Medžiagos pasisavinimas neturi sąsajų su pagrindo tirpimu ir tai priklauso tik nuo vaistinės medžiagos savybių.",
+            "Lėtai, nes pagrindas lėtai tirpsta išangės skysčiuose.",
+            "Išsiskiria 5-10 minučių laikotarpyje."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Cheminio ekvivalentiškumo kriterijai ir nustatymo metodai yra šie:",
+        "choices": [
+            "Ta pati vaistinė medžiaga, vienoda koncentracija, kokybės ir kiekybės nustatymas.",
+            "Vienodas vaistinės medžiagos kiekis (koncentracija); kiekybės nustatymas.",
+            "Tie patys technologiniai procesai ir jų parametrų apskaita.",
+            "Vienoda išeiga; materialinis balansas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Terminas „farmacinis ekvivalentiškumas“ nurodo, kad:",
+        "choices": [
+            "lyginami vaistai turi tą pačią vaisto formą, tą pačią vaistinę medžiagą ir jos koncentraciją.",
+            "lyginami vaistai turi tą pačią vaisto formą, tą pačią vaistinę medžiagą, bet skirtingas koncentracijas.",
+            "lyginami vaistai turi skirtingas vaisto formas, bet tą pačią vaistinę medžiagą ir jos koncentraciją.",
+            "farmacinis ekvivalentiškumas tai yra vaisto dalinis biologinis pasisavinimas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Farmaciškai ekvivalentiški preparatai gali skirtis tokiomis charakteristikomis:",
+        "choices": [
+            "Vaistine medžiaga, išvaizda, vaistinės medžiagos atpalaidavimo mechanizmu ir vartojimo keliu.",
+            "Išvaizda, vaistinės medžiagos atpalaidavimo mechanizmu, gamybos būdu, pagalbinėmis medžiagomis, įpakavimu ir žymėjimu, galiojimo trukme.",
+            "Cheminiu ekvivalentiškumu, vaistinės medžiagos atpalaidavimo mechanizmu, gamybos būdu; pagalbinėmis medžiagomis; įpakavimu ir žymėjimu, galiojimo trukme.",
+            "Farmacine forma, gamybos būdu; pagalbinėmis medžiagomis; įpakavimu ir žymėjimu, galiojimo trukme."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Nustatant bioekvivalentiškumą yra lyginamas bendras nepakitęs vaistinės medžiagos kiekis, kuris absorbuojamas:",
+        "choices": [
+            "Iš dviejų standartinių vaistų į sisteminę kraujotaką.",
+            "Iš tiriamo ir iš standartinio vaisto į sisteminę kraujotaką.",
+            "Iš tiriamo ir iš standartinio vaisto į virškinamąjį traktą.",
+            "Iš standartinio ir palyginamojo vaisto į sisteminę kraujotaką."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Nustačius tokį patį absorbcijos greitį ir apimtį, t. y. biologinį pasisavinimą yra patvirtinamas:",
+        "choices": [
+            "biologinis ekvivalentiškumas.",
+            "terapinis ekvivalentiškumas.",
+            "klinikinis ekvivalentiškumas.",
+            "Farmacinis ekvivalentiškumas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Vaistiniai preparatai laikomi bioekvivalentiškais, jei:",
+        "choices": [
+            "Tarp parametrų maksimalios plazmos koncentracijos (Cmax), laiko, kai yra pasiektas koncentracijos pikas (Tmax), ir ploto po plazmos koncentracija/laikas kreivėmis (AUC) nėra jokio skirtumo.",
+            "Nėra reikšmingo skirtumo tarp parametrų maksimalios plazmos koncentracijos (Cmax), laiko, kai yra pasiektas koncentracijos pikas (Tmax), ir ploto po plazmos koncentracija/laikas kreivėmis (AUC).",
+            "Jei parametrų maksimalios plazmos koncentracijos (Cmax), laiko, kai yra pasiektas koncentracijos pikas (Tmax), ir ploto po plazmos koncentracija/laikas kreivėmis (AUC) pasikliautiniojo intervalo ribos 80-125 proc. (90-111 proc. siauro terapinio indekso vaistams), esant 90 proc. tikimybei.",
+            "Yra reikšmingas skirtumas tarp parametrų maksimalios plazmos koncentracijos (Cmax), laiko, kai yra pasiektas koncentracijos pikas (Tmax), ir ploto po plazmos koncentracija/laikas kreivėmis (AUC)."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Biofarmaciniu ir farmakokinetiniu požiūriu vaistinis preparatas turės būtiną biologinį pasisavinimą tik tuo atveju, jei vaistinė medžiaga bus pateikta tinkamiausia būsena absorbcijai t.y.:",
+        "choices": [
+            "Jonine ar molekuline dispersine forma.",
+            "Ultramikroheterogenine forma, kurios homogeniškumas priklauso nuo tam tikrų sąlygų, t. y. temperatūros, slėgio, tirpiklių, ph reikšmių ir kt..",
+            "Stambiadispersine forma.",
+            "Fizikocheminės modifikacijos forma."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Polimorfizmas – vaistinės medžiagos savybė sudaryti įvairiomis kristalizacijos sąlygomis:",
+        "choices": [
+            "Chemines modifikacijas.",
+            "Kristalus.",
+            "Solvatus.",
+            "Agregatus."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Paprasta cheminė modifikacija - tai toks farmacinis veiksnys, kai:",
+        "choices": [
+            "Viena ir ta pati vaistinė medžiaga gali būti skirtingomis kristalinėmis modifikacijomis, kuriose visiškai išsaugojama atsakinga už farmakologinį veikimą molekulės dalis.",
+            "Viena ir ta pati vaistinė medžiaga gali būti skirtingais cheminiais junginiais (druska, bazė, rūgštis, esteris, kompleksinis junginys ir kt.), kuriuose visiškai išsaugojama atsakinga už farmakologinį veikimą molekulės dalis.",
+            "Viena ir ta pati vaistinė medžiaga gali būti skirtingais polimorfiniais junginiais, kuriuose visiškai išsaugojama atsakinga už farmakologinį veikimą molekulės dalis.",
+            "Viena ir ta pati vaistinė medžiaga gali būti skirtingais fizikiniais junginiais, kuriuose visiškai išsaugojama atsakinga už farmakologinį veikimą molekulės dalis."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Cheminės modifikacijos pagalba netirpi ar mažai tirpi vaistinė medžiaga paverčiama tirpia vandenyje, t.y.:",
+        "choices": [
+            "Netirpi bazė ar rūgštis pervedama į labiau tirpią ar tirpią druską.",
+            "Tirpi bazė ar rūgštis pervedama į mažiau tirpią ar tirpią druską.",
+            "Netirpi bazė ar rūgštis pervedama į netirpią druską.",
+            "Netirpi druska ar rūgštis pervedama į netirpų esterį."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Paviršinio aktyvumo medžiagos gali:",
+        "choices": [
+            "potencialiai suardyti membranos vientisumą ir funkciją, taip sumažindamos vaistinės medžiagos prasiskverbimą ir tuo pačiu absorbciją per VT-o barjerą;",
+            "apsaugo membranos vientisumą ir funkciją, taip padidindamos vaistinės medžiagos prasiskverbimą ir tuo pačiu absorbciją per VT-o barjerą;",
+            "potencialiai suardyti membranos vientisumą ir funkciją, taip padidindamos vaistinės medžiagos prasiskverbimą ir tuo pačiu absorbciją per VT-o barjerą.",
+            "palaiko optimalų vaistinės medžiagos koncentracijos lygį organizme."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Vaistinės medžiagos dalelių dydis turi būti optimalus ir reglamentuojamas, nes kai kurios vaistinės medžiagos susmulkintos gali būti:",
+        "choices": [
+            "Inaktyvuojamos, greitai pašalinamos iš organizmo, gali iššaukti nepageidaujamus toksinius reiškinius.",
+            "Gali kauptis organizme.",
+            "Kaupiasi organizme, lėtai šalinamos, todėl iššaukia nepageidaujamus reiškinius.",
+            "Lėtai šalinamos, todėl inaktyvuojamos."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Veiksniai, kurie nepaveikia arba mažai paveikia vaistinių medžiagų absorbciją iš žvakučių:",
+        "choices": [
+            "Vaistinių medžiagų fizikinės-cheminės savybės.",
+            "Pagalbinių medžiagų fizikinės-cheminės savybės.",
+            "Gamybos technologija.",
+            "Anatominiai ir fiziologiniai veiksniai, t.y. plonojo žarnyno motorika ir fermentai."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kuris teiginys yra teisingas apie vaistus vartojamus inhaliaciniu būdu:",
+        "choices": [
+            "Į periferinius kvėpavimo takus patenka didesnės kaip 5μm dalelės.",
+            "Dalelės didesnės kaip 10 μm nusėda apatiniuose kvėpavimo takuose gilaus kvėpavimo metu.",
+            "Dalelės, kurių didesnis kaip 3 μm, nusėda apatiniuose takuose, nes veikia brauno difuzija.",
+            "Dalelės, kurių dydžiai nuo 1 iki 5 μm, nusėda, vyraujant gravitacinio nusėdimo mechanizmui, apatiniuose kvėpavimo takuose ypač lėto ir gilaus kvėpavimo metu."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kietų vaistų formų in vitro tirpimo testui naudojamą krepšelinį prietaisą sudaro:",
+        "choices": [
+            "Cilindrinis indas iš borosilikatinio stiklo ar kitos skaidrios medžiagos su pusrutuliniu dugnu ir 1000 ml nominalia talpykla.",
+            "Maišiklis, turintis vertikalų veleną, ant kurio apatinio galo pritvirtinta mentė, turinti dviejų lygiagrečių stygų išpjautos apskritimo dalies formą.",
+            "Vandens vonia, kuri palaiko tirpimo terpės temperatūrą 37 ± 0,5ºC ir vertikalus velenas, ant kurio apatinio galo pritvirtinta mentė.",
+            "Maišiklis, sudarytas iš vertikalaus veleno, prie kurio apatinės dalies pritvirtintas cilindrinis krepšelis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Medžiagų skvarbai į/pro odą ex vivo eksperimentuose įtakos nedaro:",
+        "choices": [
+            "Odos kilmė.",
+            "Odos storis.",
+            "Pasirinktos akceptorinės terpės sudėtis.",
+            "Tyrimo trukmė (ne trumpiau 6 val.)."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Norint sukurti skystą vaistų formą, pasižyminčią optimaliomis savybėmis, būtina gerai ištirti:",
+        "choices": [
+            "Vaistinių medžiagų fizikines-chemines savybes",
+            "Vaistinių medžiagų gamybos procesą;",
+            "Vaistinės medžiagos tirpinimo procesą ir tirpalų gamybą;",
+            "Vaistinių medžiagų tirpalų savybes."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Vietinė absorbcija, vartojant vaistus rektaliniu būdu, vyksta:",
+        "choices": [
+            "Tiesiosios žarnos apatinėje dalyje.",
+            "Tiesiosios žarnos viršutinėje dalyje.",
+            "Difuziniu būdu plonajame žarnyne.",
+            "Vietinė absorbcija negali vykti žarnyne."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Vaistinių medžiagų absorbciją lemia:",
+        "choices": [
+            "Tirpumas riebaluose ir vandenyje, struktūra, jonizacijos konstanta, molekulinė masė, vaisto forma, sudėtis, pagalbinių medžiagų savybės, technologija.",
+            "Tirpumas riebaluose, struktūra, jonizacijos konstanta, molekulinė masė.",
+            "Vaisto forma, sudėtis, pagalbinių medžiagų savybės, technologija.",
+            "Endogeniniai ir egzogeniniai veiksniai."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Skirtingai nei farmakologija, biofarmacija nenagrinėja vaistų veikimo mechanizmo, bet analizuoja:",
+        "choices": [
+            "Veiksnių įtaka vaisto farmakokinetikai.",
+            "Aplinkos įtaką vaisto farmakokinetikai.",
+            "Termodinaminių procesų įtaką vaisto farmakokinetikai.",
+            "Virškinamojo trakto anatominių ir fiziologinių ypatumų įtaką vaisto farmakokinetikai."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Kai vaistinė medžiaga pasižymi geru tirpumu ir geru pasisavinimu koreliacija tarp tyrimų in vitro ir in vivo yra:",
+        "choices": [
+            "Šie kriterijai nedaro įtakos tyrimų koreliacijai",
+            "Galima",
+            "Negalima",
+            "Galima koreliacija, jei pagalbinės medžiagos  pagerina vaistinės medžiagos tirpumą"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Į kiek klasių vaistinės medžiagos skirstomos pagal biofarmacinę vaistų klasifikacijos sistemą?",
+        "choices": [
+            "5 klasės",
+            "3 klasės",
+            "4 klasės",
+            "2 klasės"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Pagal biofarmacinę vaistų klasifikacijos sistemą IV klasės vaistinės medžiagos pasižymi:",
+        "choices": [
+            "Blogu tirpumu ir blogu praeinamumu.",
+            "Blogu  tirpumu ir geru praeinamumu.",
+            "Geru tirpumu ir geru praeinamumu.",
+            "Geru tirpumu ir blogu praeinamumu"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Pagal biofarmacinę vaistų klasifikacijos sistemą I klasės vaistinės medžiagos pasižymi:",
+        "choices": [
+            "Blogu tirpumu ir blogu praeinamumu.",
+            "Blogu  tirpumu ir geru praeinamumu.",
+            "Geru tirpumu ir geru praeinamumu.",
+            "Geru tirpumu ir blogu praeinamumu"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Skystos dispersinės terpės klampos padidinimas pagalbinėmis medžiagomis yra taikomas prailginto veikimo skystiems vaistams. Koks tai metodas?:",
+        "choices": [
+            "cheminis",
+            "fiziologinis",
+            "technologinis",
+            "mišrus"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Nurodykite, vertinant biologinį dviejų preparatų ekvivalentiškumą yra lyginami:",
+        "choices": [
+            "Vaistinės medžiagos tapatybė ir koncentracija.",
+            "Farmacinė forma, kategorijos.",
+            "Terapinis poveikis.",
+            "Biologinis pasisavinimas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

@@ -1,1 +1,1 @@
-\s*13\.\ Hetacilinas\ yra\ Ampicilino\ provaisto\ form\s*?A\)\ Padidinamos\ lipofilines\ savybės,\ todėl\ geriau\ rezorbuojamas\ žarnyne\s*?B\)\ Padidėja\ tirpumas\ vandenyje,\ todėl\ gali\ būti\ vartojama\ injekcinė\ forma\s*?C\)\ Padidinamos\ lipofilines\ savybės,\ todėl\ geriau\ praeina\ akies\ audinių\ membraną\s*?D\)\ Pašalinamas\ nemalonus\ skonis\s*?
+\s*2\.\ Biofarmacijos\ mokslas\ išsivystė\ 17\ amžiaus\ viduryje\.\s*?A\)\ TAIP\s*?B\)\ NE\s*?

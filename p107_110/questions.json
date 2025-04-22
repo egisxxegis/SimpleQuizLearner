@@ -1,0 +1,343 @@
+[
+    {
+        "number": 1,
+        "question": "Kokie žmogaus genomo pokyčiai dažniausiai nustatomi tiriant genus?",
+        "choices": [
+            "vieno nukleotido polimorfizmas arba VNP",
+            "sinoniminiai pokyčiai (SNP)",
+            "nesinoniminiai pokyčiai (NSP)",
+            "varianto nukleotido polimorfizmas (VNP)",
+            "kopijų skaičiaus variacijos (CNV)."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kokie genai sudaro CYP2C klasterį, kurio dydis 500 kbp?",
+        "choices": [
+            "CYP2C8-CYP2C9-CYP2C19-CYP2C18",
+            "CYP2C19-CYP3A4-CYP2C5-CYP2C3",
+            "CYP2C8-CYP2C9-CYP2C19",
+            "CYP2C19-CYP2C18"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kuris geno variantas nulemia Gilbert`o (Žilibero) sindromą bei atsakingas už irinotekano toksiškumą?",
+        "choices": [
+            "UGT1A1*28",
+            "UGT1A1*5",
+            "UGT1A1*56",
+            "UGT1A1*82"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokiu atveju žinoma, jog pacientui pasireiškia autosominis dominantinis paveldėjimas?",
+        "choices": [
+            "liga pasireiškia, jei pacientas turi bent vieną mutaciją, nulemiančią ligą.",
+            "liga nepasireiškia, jei pacientas turi vieną mutaciją, nulemiančią ligą",
+            "ligos paveikti asmenys turi 2 geno kopijas su mutacijomis juose",
+            "moterys dažniau paveikiamos šios ligos, nei vyrai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kaip vadinami vaistus metabolizuojantys fermentai, nepriklausantys citochromams, nuo kurių priklauso II fazės vaistų metabolizmo reakcijos?",
+        "choices": [
+            "UDP-gliukuronoziltransferazės (angl. santrump. UGT)",
+            "SLC šeimos fermentai",
+            "CYP šeimos fermentai",
+            "Vaistų nešikliai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kurie genų variantai nulemia aukštas hidroksichlorokvino ir chlorokvino koncentracijas?",
+        "choices": [
+            "CYP2D6*4 ir CYP2D6*10",
+            "CYP2D6*4 ir CYP2D6*8",
+            "CYP2D6*8 ir CYP2D6*12",
+            "CYP2C5*4 ir CYP2B6*10"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Genų sekos gali turėti specifines žymes, kurios žymimos Rs ir skaičiumi. Kas yra Rs?",
+        "choices": [
+            "unikalus VNP identifikatorius genetinėje sekoje",
+            "geno numeris",
+            "recesyvinis skaičius",
+            "chromosomos numeris"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kas yra farmakogenomika?",
+        "choices": [
+            "mokslas apie genus ir jų nulemtą atsaką į gydymą vaistais",
+            "mokslas apie genus",
+            "mokslas apie vaistus",
+            "mokslas apie vaistus ir jų poveikį gyvam organizmui (farmakokinetika ir farmakodinamika)"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Koks VKORC1 variantas dažniausiai atsakingas už varfarino dozės pokyčius?",
+        "choices": [
+            "−1639G>A",
+            "3730G>A",
+            "1542G>A",
+            "2255C>T"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kaip apibūdinamas jungties disbalansas genetikoje?",
+        "choices": [
+            "kuomet du ar daugiau VNP paveldimi kartu dažniau, nei būtų galima tikėtis remiantis vien atsitiktinumu",
+            "kuomet du ar daugiau VNP paveldimi kartu rečiau, nei būtų galima tikėtis remiantis vien atsitiktinumu",
+            "kuomet du ar daugiau VNP paveldimi kartu labai retai",
+            "tai nėra genetikoje vartojamas terminas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kur vaistų metabolizmas vyksta aktyviausiai?",
+        "choices": [
+            "Inkstai",
+            "Kepenys",
+            "Kraujo plazma",
+            "Smegenys"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kuris komponentas yra Citochromo P450 aktyviąjame centre ?",
+        "choices": [
+            "Hemas",
+            "NADPH",
+            "NADPH-P450 reduktazė",
+            "Fosfolipidai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Nurodykite vaisto Tolbutamido oksidacijos tipą:",
+        "choices": [
+            "Tai alifatinis hidroksilinimas.",
+            "Tai aromatinis hidroksilinimas",
+            "Tai aromatinės metilo grupės oksidacija.",
+            "Tai alkilo šoninės grandinės ω-1 tipo oksidacija."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": "13.png",
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Nurodykite, koks žemiau vykstančios reakcijos biotransformacijos tipas:",
+        "choices": [
+            "Alkenų epoksidacija",
+            "N-dealkilinimas",
+            "Oksidacinis deamininimas",
+            "Redukcija"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": "14.png",
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Nustatykite aspirino biotransformacijos fermento tipą:",
+        "choices": [
+            "Hidrolazė",
+            "Sulfotransferazė",
+            "N-acetiltransferazė",
+            "Azoreduktazė"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": "15.png",
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kuri biotransformacijos reakcija yra hidrolizės reakcija?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": ["16_s.png", "16_l.png", "16_o.png", "16_i.png"],
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kuri iš nurodytų reakcijų NĖRA konjugacijos reakcija?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": ["17_s.png", "17_a.png", "17_kk.png", "17_kp.png"],
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Atpažinkite, kuri reakcija yra gliukurono rūgšties konjugacijos reakcija?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": ["18_q.png", "18_w.png", "18_e.png", "18_r.png"],
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kuris iš teiginių apie CYP450 ir geriamųjų vaistų biopasisavinimą yra NETEISINGAS?",
+        "choices": [
+            "Biopasisavinimas  yra bendros vaisto dozės, kuri pasiekia sisteminę kraujotaką, dalis.",
+            "Biopasisavinimas nepriklauso nuo P-glikoproteino transporto",
+            "Vaistai gali būti metabolizuojami žarnyne esančių CYP450 ir dėl to turi įtaką biopasisavinimui",
+            "Vaistai gali būti metabolizuojami kepenyse esančių CYP450 ir dėl to turi įtaką biopasisavinimui"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kuris teiginys apie vaistų konjugaciją yra NETEISINGAS?",
+        "choices": [
+            "Konjugacijos būdas priklauso nuo audinio/organo tipo",
+            "II fazės reakcijų metu metabolizuojami vaistai išsiskiria per inkstus ar tulžį.",
+            "Konjugacijos reakcijoms reikalinga energija (ATP)",
+            "Konjugacijos reakcijos sumažina vaisto tirpumą vandenyje"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

@@ -2420,3 +2420,112 @@ Turi labai siaurą veikimo spektrą
 Atsakymai:  67. D; 68. E; 69. A; 70. E; 71. B; 72. C; 73. B; 74. C; 75. D; 76. C; 77. B; 78. B; 79. E; 
 80. B; 81. C; 82. A; 83. B. 
 """
+
+conversion12 = ["1.2.3", "13", "24", "4;", " * ", "14", "23"]
+body12 = """1. Kokios rėmimo veiksmų grupės sudaro rėmimo kompleksą? 
+ 1.Reklama 
+ 2. Pardavimų skatinimas 
+ 3.Ryšiai su visuomene 
+ 4.Asmeninis pardavimas 
+
+ 
+ 
+2. Kas geriausiai apibūdina jėgas, kurios priverčia rinkos kainas didėti arba mažėti? 
+1. Konkurencija tarp pirkėjų; 
+2. Konkurencija tarp pardavėjų; 
+3. Ekonominė krizė; 
+4. Konkurencija tarp pardavėjų ir pirkėjų; 
+
+ 
+ 
+3. Nuo ko priklauso rėmimo komplekso elementų pasirinkimas?  
+1. Įmonės finansinių rodiklių 
+2. Įmonės veiklos pobūdžio 
+3. Konkurentų veiksmų 
+4. Prekės paskirties (gamybinė ar vartojimo prekė) 
+
+ 
+ 
+4. Kokios yra ilgalaikio lojalumo siekiančios pardavimo skatinimo priemonės? 
+1.`Prekių pavyzdžiai 
+2.`Konkursai ir loterijos 
+3.`Lojalumo planai (schemos) 
+4.`Nuolaidos 
+
+ 
+ 
+5. Kokios yra rėmimo strategijos? 
+1. Perdavimo strategija 
+102 
+ 
+2. Stūmimo strategija 
+3. Reklama 
+4. Traukimo strategija 
+
+ 
+ 
+6. Kas yra traukimo strategija? 
+1. Rėmimo strategija, kuria siekiama suinteresuoti prekių įsigijimu 
+artimiausius prekių pateikimo kanalo dalyvius 
+2. Veiksmai, kuriais informacijos siuntėjas siekia paveikti jos gavėją ir 
+sukelti pageidaujamą jo reakciją 
+3. Procesas, kurio metu informacijai suteikiama tokia forma, kuria ją 
+galima perduoti gavėjui 
+4. Rėmimo strategija, skatinanti galutinio vartotojo poreikius 
+
+ 
+ 
+7. Kuris rėmimo komplekso elementas yra svarbiausias priimant sprendimą įsigyti 
+asmeninio vartojimo prekes? 
+1. Pardavimų skatinimas 
+2. Asmeninis pardavimas 
+3.  Ryšiai su visuomene 
+4.  Reklama 
+
+ 
+ 
+8. Kas yra ryšiai su visuomene? 
+1. Tai visuma į pirkėjus nukreiptų skatinamojo pobūdžio veiksmų, 
+sudarančių palankias sąlygas prekei įsigyti 
+2. Tai asmeniškas bendravimas siekiant įtikinti potencialų pirkėją nupirkti 
+siūlomą prekę 
+3. Tai abstrakti visos visuomenės ar tam tikrų visuomenės grupių nuomonė 
+apie įmonę 
+4. Tai veikla, kuria siekiama visuomenėje ar tam tikrose jos grupėse 
+suformuoti teigiamą įmonės įvaizdį ir sukurti pasitikėjimo bei supratimo 
+atmosferą 
+
+ 
+9.     Kam gali būti taikomi rinkodaros principai? 
+1.   prekėms; 
+2.   paslaugoms; 
+3   žmonėms; 
+4   idėjoms; 
+
+ 
+104 
+ 
+ 
+10. Kokios strategijos naudojamos produkto brandos stadijoje ? 
+1. Rinkos modifikavimo. 
+2. Lėto įsiskverbimo. 
+3. Lėto nugriebimo. 
+4. Prekės modifikavimo. 
+
+ 
+11. Kokios strategijos naudojamos produkto įvedimo stadijoje ? 
+1. Rinkos modifikavimo. 
+2. Lėto įsiskverbimo. 
+3. Lėto nugriebimo. 
+4. Prekės modifikavimo. 
+
+ 
+12. Kokie BNP skaičiavimo metodai yra naudojami? 
+1. Pajamų metodas 
+2. Išlaidų metodas 
+3. Gamybos metodas 
+4. Okuno metodas. 
+
+ 
+Atsakymai: 
+1.E; 2.A; 3.D; 4.A; 5.C; 6.D; 7.D; 8.D. 9. E. 10. F 11. G 12.A """

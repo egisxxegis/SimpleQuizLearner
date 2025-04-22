@@ -1,0 +1,799 @@
+[
+    {
+        "number": 1,
+        "question": "Išrinkite teiginį, kuris geriausiai apibūdina rinkodaros esmę:",
+        "choices": [
+            "Tai veikla, kurios tikslas  vartotojų poreikių tenkinimas.",
+            "Tai valdymo funkcija, kuri yra orientuota į įmonės aplinkos pažinimą.",
+            "Tai svarbiausia valdymo funkcija.",
+            "Tai veikla, kurios esmė - vartotojų poreikių tenkinimas norint gauti pelno."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kokiems rinkodaros komplekso elementams skiriama daugiausia dėmesio rengiant rinkodaros planą?",
+        "choices": [
+            "Produktui, kainai, pelnui ir vartotojui.",
+            "Kainai, pardavimų rėmimui, pelnui ir platinimo tinklui.",
+            "Produktui, kainai, paskirstymui, rėmimui.",
+            "Produktui, logistikai, rėmimui, vartotojams."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Produkto koncepcijos šalininkai mano, jog verslo sėkmės garantas yra:",
+        "choices": [
+            "technologinis pranašumas;",
+            "puikus produktas;",
+            "intensyvi reklama;",
+            "visi atsakymai teisingi;",
+            "nėra teisingo atsakymo."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Gamybos koncepcijos šalininkai mano, jog verslo sėkmės garantas yra:",
+        "choices": [
+            "technologinis pranašumas;",
+            "puikus produktas;",
+            "intensyvi reklama;",
+            "visi atsakymai teisingi;",
+            "nėra teisingo atsakymo."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Pardavimo koncepcijos šalininkai mano, jog verslo sėkmės garantas yra:",
+        "choices": [
+            "technologinis pranašumas;",
+            "puikus produktas;",
+            "intensyvi reklama;",
+            "visi atsakymai teisingi;",
+            "nėra teisingo atsakymo."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kiek dalių sudaro tradicinį rinkodaros kompleksą?",
+        "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kiek dalių sudaro inovatyvų rinkodaros kompleksą?",
+        "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Rinkodaros  komplekso  elementas,  apimantis  sprendimus  ir  veiksmus,  kuriais numatytos asmenų grupės informuojamos ir skatinamos pirkti:",
+        "choices": [
+            "Prekė",
+            "Kaina",
+            "Paskirstymas",
+            "Rėmimas",
+            "Darbuotojai;",
+            "Procesas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Rinkodaros komplekso elementas, susijęs su prekių judėjimu nuo gamintojo iki vartotojų grupių:",
+        "choices": [
+            "Prekė",
+            "Kaina",
+            "Paskirstymas",
+            "Rėmimas",
+            "Darbuotojai;",
+            "Procesas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": "Atsakymų lentoje nurodytas Rėmimas, bet Paskirstymas - tai sprendimų ir veiksmų visuma, kuri apsprendžia prekių judėjimą nuo gamintojo iki vartotojo"
+    },
+    {
+        "number": 10,
+        "question": "Pažymėkite, kuris iš išvardytų tikslų gali būti laikomas rinkodaros tikslu?",
+        "choices": [
+            "Įmonės tikslas - per metus padidinti savo rinkos dalį.",
+            "Įmonės tikslas - padidinti klientų skaičių 2 kartus.",
+            "Įmonės tikslas - didinti pelną.",
+            "Įmonės tikslas - iki metų pabaigos padidinti veiklos pelningumą dviem procentais."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kas yra rinkos segmentas?",
+        "choices": [
+            "Rinkoje parduotų prekių kiekis.",
+            "Rinkos dalyviai.",
+            "Vartotojų grupė, galinti vienodai (panašiai) reaguoti į rinkodaros veiksmus.",
+            "Visi vartotojai.",
+            "Pardavėjų grupė."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kuri rinka didesnė?",
+        "choices": [
+            "Realioji.",
+            "Potencialioji.",
+            "Jos abi lygios.",
+            "Pageidautina, jog realioji būtų didesnė.",
+            "Galimi įvairūs variantai."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Rinkodaros strategija, kai įmonė stengiasi sutelkti visas pastangas  tik  į  vieną  tikslinę  rinką  ir  jai  užvaldyti  naudoja  specialiai  pritaikytą  rinkodaros kompleksą",
+        "choices": [
+            "Nediferencijuotosios rinkodaros strategija.",
+            "Diferencijuotosios rinkodaros strategija.",
+            "Koncentruotosios rinkodaros strategija.",
+            "Kita"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Rinkodaros  strategija,  kai  įmonė  tikslinėms  rinkoms užvaldyti naudoja skirtingus, specialiai joms pritaikytus rinkodaros kompleksus.",
+        "choices": [
+            "Nediferencijuotosios rinkodaros strategija.",
+            "Diferencijuotosios rinkodaros strategija.",
+            "Koncentruotosios rinkodaros strategija.",
+            "Kita"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Rrinkodaros strategija, kai įmonė visai rinkai užvaldyti naudoja vieną universalų rinkodaros kompleksą.",
+        "choices": [
+            "Nediferencijuotosios rinkodaros strategija.",
+            "Diferencijuotosios rinkodaros strategija.",
+            "Koncentruotosios rinkodaros strategija.",
+            "Kita"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Vartotojai į grupes gali būti skirstomi pagal pajamas. Koks segmentavimo požymis tai yra?",
+        "choices": [
+            "Geografinio segmentavimo požymis.",
+            "Demografinio segmentavimo požymis.",
+            "Psichografinio segmentavimo požymis.",
+            "Vartotojo elgsenos segmentavimo požymis."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Vartotojai į grupes gali būti skirstomi pagal lojalumą prekės ženklui Koks segmentavimo požymis tai yra?",
+        "choices": [
+            "Geografinio segmentavimo požymis.",
+            "Demografinio segmentavimo požymis.",
+            "Psichografinio segmentavimo požymis.",
+            "Vartotojo elgsenos segmentavimo požymis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Vartotojai į grupes gali būti skirstomi pagal asmenybės tipą. Koks segmentavimo požymis tai yra?",
+        "choices": [
+            "Geografinio segmentavimo požymis.",
+            "Demografinio segmentavimo požymis.",
+            "Psichografinio segmentavimo požymis.",
+            "Vartotojo elgsenos segmentavimo požymis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kas yra inovacija?",
+        "choices": [
+            "Visiškai nauja prekė.",
+            "Jau seniai žinomos prekės savybių pakeitimas prieš pateikiant šias prekes rinkai.",
+            "Vartotojams nauja prekė, kuri jau seniai buvo žinoma įmonei.",
+            "Prekė, atitinkanti vartotojų lūkesčius."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kas yra modifikacija?",
+        "choices": [
+            "Visiškai nauja prekė.",
+            "Jau seniau žinomos prekės dalinis savybių pakeitimas.",
+            "Vartotojams nauja prekė, kuri jau seniau buvo žinoma įmonei.",
+            "Prekė, atitinkanti vartotojų lūkesčius."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Ką numato lėto įsiskverbimo strategija?",
+        "choices": [
+            "Didelę prekės kainą ir mažas rėmimo išlaidas.",
+            "Mažą prekės kainą ir dideles rėmimo išlaidas.",
+            "Didelę prekės kainą ir dideles rėmimo išlaidas.",
+            "Mažą prekės kainą ir mažas rėmimo išlaidas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Ką numato greito įsiskverbimo strategija?",
+        "choices": [
+            "Didelę prekės kainą ir mažas rėmimo išlaidas.",
+            "Mažą prekės kainą ir dideles rėmimo išlaidas.",
+            "Didelę prekės kainą ir dideles rėmimo išlaidas.",
+            "Mažą prekės kainą ir mažas rėmimo išlaidas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Ką numato lėto nugriebimo strategija?",
+        "choices": [
+            "Didelę prekės kainą ir mažas rėmimo išlaidas.",
+            "Mažą prekės kainą ir dideles rėmimo išlaidas.",
+            "Didelę prekės kainą ir dideles rėmimo išlaidas.",
+            "Mažą prekės kainą ir mažas rėmimo išlaidas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Ką numato greito nugriebimo strategija?",
+        "choices": [
+            "Didelę prekės kainą ir mažas rėmimo išlaidas.",
+            "Mažą prekės kainą ir dideles rėmimo išlaidas.",
+            "Didelę prekės kainą ir dideles rėmimo išlaidas.",
+            "Mažą prekės kainą ir mažas rėmimo išlaidas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kokios strategijos naudojamos produkto smukimo stadijoje ?",
+        "choices": [
+            "Rinkos modifikavimo.",
+            "Lėto įsiskverbimo.",
+            "Lėto nugriebimo.",
+            "Prekės modifikavimo.",
+            "Rinkodaros priemonių modifikavimo.",
+            "Jokios strategijos netaikomos."
+        ],
+        "answers_num": [
+            6
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kuri prekės gyvavimo ciklo stadija yra pelningiausia?",
+        "choices": [
+            "Įvedimas",
+            "Augimas",
+            "Branda",
+            "Smukimas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kuri prekės gyvavimo ciklo stadija yra nuostolingiausia?",
+        "choices": [
+            "Įvedimas",
+            "Augimas",
+            "Branda",
+            "Smukimas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Prekės gyvavimo ciklo stadija, kai rinkoje pasirodžiusios naujos prekės pardavimai po truputį didėja:",
+        "choices": [
+            "Įvedimas",
+            "Augimas",
+            "Branda",
+            "Smukimas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Prekės gyvavimo ciklo stadija, kai prekės pardavimai stabilizuojasi ir ima po truputį mažėti:",
+        "choices": [
+            "Įvedimas",
+            "Augimas",
+            "Branda",
+            "Smukimas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Prekės gyvavimo ciklo stadija, kai prekės pardavimai nuolat mažėja:",
+        "choices": [
+            "Įvedimas",
+            "Augimas",
+            "Branda",
+            "Smukimas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kas yra prekių asortimento plotis?",
+        "choices": [
+            "prekių liniją sudarančių inovacijų skaičius;",
+            "asortimento prekių linijų skaičius;",
+            "panašios paskirties prekių rinkinys;",
+            "prekių liniją sudarančių prekių modifikacijų skaičius."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kas yra prekių asortimento gylis?",
+        "choices": [
+            "prekių liniją sudarančių inovacijų skaičius;",
+            "asortimento prekių linijų skaičius;",
+            "panašios paskirties prekių rinkinys;",
+            "prekių liniją sudarančių prekių modifikacijų skaičius."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kas yra prekės gyvavimo ciklas?",
+        "choices": [
+            "visos rinkoje esančios prekės;",
+            "laikas nuo prekybos centro atsidarymo iki užsidarymo;",
+            "laikas nuo prekės pasirodymo rinkoje iki išnykimo iš rinkos;",
+            "laikas nuo prekės sukūrimo idėjos iki jos pasirodymo rinkoje;",
+            "pelningiausia prekės buvimo rinkoje stadija."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kelios stadijos sudaro prekės gyvavimo ciklą?",
+        "choices": [
+            "2;",
+            "3;",
+            "4;",
+            "5."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kas tai yra prekės ženklas?",
+        "choices": [
+            "prekė;",
+            "paslauga;",
+            "kitokios formos intelektinė nuosavybė;",
+            "daiktas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kas yra reklama?",
+        "choices": [
+            "tai  rinkodaros  komplekso  elementas,  apimantis  sprendimus  ir  veiksmus,  kuriais numatytos asmenų grupės informuojamos ir skatinamos pirkti;",
+            "tai visuma į pirkėjus nukreiptų skatinamojo pobūdžio veiksmų, sudarančių palankias sąlygas prekei įsigyti;",
+            "tai veikla, kuria siekiama visuomenėje ar tam tikrose jos grupėse suformuoti teigiamą įmonės įvaizdį ir sukurti pasitikėjimo bei supratimo atmosferą;",
+            "tai užsakovo apmokamas neasmeniškos informacijos apie prekes, paslaugas ar idėjas skleidimas pasirinktai auditorijai siekiant užsakovo numatytų tikslų."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kas yra vaistinės?",
+        "choices": [
+            "Didmeninės prekybos įmonės.",
+            "Mažmeninės prekybos įmonės.",
+            "Individualios prekybos įmonės.",
+            "Gamintojų atstovai."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kaip vadinama paskirstymo strategija, kai gamintojas stengiasi savo prekes pateikti vartotojui per kuo  didesnį prekybos tarpininkų skaičių?",
+        "choices": [
+            "Atrankiniu paskirstymu.",
+            "Intensyviu paskirstymu.",
+            "Išskirtiniu paskirstymu.",
+            "Individualiu paskirstymu.",
+            "Grupiniu paskirstymu."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Kaip vadinama paskirstymo strategija, kai gamintojas tam tikrame regione suteikia teisę prekiauti savo  produkcija tik vienam prekybos tarpininkui?",
+        "choices": [
+            "Atrankiniu paskirstymu.",
+            "Intensyviu paskirstymu.",
+            "Išskirtiniu paskirstymu.",
+            "Individualiu paskirstymu.",
+            "Grupiniu paskirstymu."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Kaip vadinama paskirstymo strategija, kai gamintojas pagal tam tikrus kokybinius kriterijus apriboja prekybos tarpininkų, kuriems parduoda savo prekes skaičių?",
+        "choices": [
+            "Atrankiniu paskirstymu.",
+            "Intensyviu paskirstymu.",
+            "Išskirtiniu paskirstymu.",
+            "Individualiu paskirstymu.",
+            "Grupiniu paskirstymu."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Kuo skiriasi BVP ir BNP?",
+        "choices": [
+            "BVP visuomet didesnis;",
+            "BNP visuomet didesnis;",
+            "nėra pakankamai duomenų atsakyti į šį klausimą;",
+            "tai tapačios sąvokos."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kuris iš šių rodiklių parodo valstybės pragyvenimo lygį?",
+        "choices": [
+            "BNP;",
+            "BVP;",
+            "BVP per capita;",
+            "GNP."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Vidutinio kainų lygio sumažėjimas vadinamas",
+        "choices": [
+            "linfliacija",
+            "Defliacija;",
+            "Stagfliacija;",
+            "Hiperinfliacija."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Pažymėkite teisingą teiginį:",
+        "choices": [
+            "Nedarbo lygis Šiaurės ir Centrinės Europos šalyse yra žemesnis nei Pietų Europos šalyse;",
+            "Nedarbo lygis Šiaurės ir Centrinės Europos šalyse yra aukštesnis nei Pietų Europos šalyse;",
+            "Nedarbo lygis Šiaurės ir Centrinės Europos šalyse yra panašus;",
+            "Nėra teisingo atsakymo."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Jaunas specialistas, baigęs farmacijos studijas ir dar neturintis praktikos, ieško darbo. Kaip vadinama ši nedarbo rūšis?",
+        "choices": [
+            "frikciniu nedarbu;",
+            "struktūriniu nedarbu;",
+            "cikliniu nedarbu;",
+            "sezoniniu nedarbu."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Specialistas,  netekęs darbo dėl ekonominės krizės, ieško darbo. Kaip vadinama ši nedarbo rūšis?",
+        "choices": [
+            "frikciniu nedarbu;",
+            "struktūriniu nedarbu;",
+            "cikliniu nedarbu;",
+            "sezoniniu nedarbu."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

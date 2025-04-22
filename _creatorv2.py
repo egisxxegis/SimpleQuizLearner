@@ -58,8 +58,10 @@ def get_answers(raw: str, lowest_num: int = None):
     """
     lowest_num = lowest_num or get_answer_lowest_suggestion(raw)
     pattern_num = r"\d+"
+    letters = "".join(_types.LETTERS)
+    letters = letters.lower() + letters.upper()
     pattern_answer = (
-        r"[abcdefABCDEF]+"  # supplying '+' to prevent parsing '4. Define' as '4. D'
+        rf"[{letters}]+"  # supplying '+' to prevent parsing '4. Define' as '4. D'
     )
     pattern_separator = r"[.\-–:]?"
     pattern = r"\s*".join(
@@ -70,6 +72,8 @@ def get_answers(raw: str, lowest_num: int = None):
     for finding in findings:
         num = re.search(pattern_num, finding).group()
         answer = re.search(pattern_answer, finding).group()
+        if len(answer) > 1:
+            continue  # not D, but a whole word
         try:
             answers.append(
                 _types.SimpleAnswer(
@@ -281,7 +285,8 @@ def get_tasks(
         assert len(parts) == 2, parts
         raw = parts[0]
         options_str = "\n" + parts[1] + "\n"
-        p_id = r"[1-9a-fA-F]\s*[\.\-–\)]"
+        letter_range = f"{_types.LETTERS[0]}-{_types.LETTERS[-1]}"
+        p_id = rf"[1-9{letter_range.lower(),letter_range.upper()}]\s*[\.\-–\)]"
         p_base = r"\n\s*(" + f"{p_id}" + r")(.*?)"
         p_not_last = p_base + r"(\n\s*" + p_id + ")"
         p_last = p_base + "()$"

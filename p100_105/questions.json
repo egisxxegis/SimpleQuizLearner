@@ -1,0 +1,221 @@
+[
+    {
+        "number": 1,
+        "question": "Kokios rėmimo veiksmų grupės sudaro rėmimo kompleksą?",
+        "choices": [
+            "Reklama",
+            "Pardavimų skatinimas",
+            "Ryšiai su visuomene",
+            "Asmeninis pardavimas"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kas geriausiai apibūdina jėgas, kurios priverčia rinkos kainas didėti arba mažėti?",
+        "choices": [
+            "Konkurencija tarp pirkėjų;",
+            "Konkurencija tarp pardavėjų;",
+            "Ekonominė krizė;",
+            "Konkurencija tarp pardavėjų ir pirkėjų;"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Nuo ko priklauso rėmimo komplekso elementų pasirinkimas?",
+        "choices": [
+            "Įmonės finansinių rodiklių",
+            "Įmonės veiklos pobūdžio",
+            "Konkurentų veiksmų",
+            "Prekės paskirties (gamybinė ar vartojimo prekė)"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokios yra ilgalaikio lojalumo siekiančios pardavimo skatinimo priemonės?",
+        "choices": [
+            "`Prekių pavyzdžiai",
+            "`Konkursai ir loterijos",
+            "`Lojalumo planai (schemos)",
+            "`Nuolaidos"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kokios yra rėmimo strategijos?",
+        "choices": [
+            "Perdavimo strategija",
+            "Stūmimo strategija",
+            "Reklama",
+            "Traukimo strategija"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kas yra traukimo strategija?",
+        "choices": [
+            "Rėmimo strategija, kuria siekiama suinteresuoti prekių įsigijimu artimiausius prekių pateikimo kanalo dalyvius",
+            "Veiksmai, kuriais informacijos siuntėjas siekia paveikti jos gavėją ir sukelti pageidaujamą jo reakciją",
+            "Procesas, kurio metu informacijai suteikiama tokia forma, kuria ją galima perduoti gavėjui",
+            "Rėmimo strategija, skatinanti galutinio vartotojo poreikius"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kuris rėmimo komplekso elementas yra svarbiausias priimant sprendimą įsigyti asmeninio vartojimo prekes?",
+        "choices": [
+            "Pardavimų skatinimas",
+            "Asmeninis pardavimas",
+            "Ryšiai su visuomene",
+            "Reklama"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kas yra ryšiai su visuomene?",
+        "choices": [
+            "Tai visuma į pirkėjus nukreiptų skatinamojo pobūdžio veiksmų, sudarančių palankias sąlygas prekei įsigyti",
+            "Tai asmeniškas bendravimas siekiant įtikinti potencialų pirkėją nupirkti siūlomą prekę",
+            "Tai abstrakti visos visuomenės ar tam tikrų visuomenės grupių nuomonė apie įmonę",
+            "Tai veikla, kuria siekiama visuomenėje ar tam tikrose jos grupėse suformuoti teigiamą įmonės įvaizdį ir sukurti pasitikėjimo bei supratimo atmosferą"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kam gali būti taikomi rinkodaros principai?",
+        "choices": [
+            "prekėms;",
+            "paslaugoms;",
+            "žmonėms;",
+            "idėjoms;"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kokios strategijos naudojamos produkto brandos stadijoje ?",
+        "choices": [
+            "Rinkos modifikavimo.",
+            "Lėto įsiskverbimo.",
+            "Lėto nugriebimo.",
+            "Prekės modifikavimo."
+        ],
+        "answers_num": [
+            1,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kokios strategijos naudojamos produkto įvedimo stadijoje ?",
+        "choices": [
+            "Rinkos modifikavimo.",
+            "Lėto įsiskverbimo.",
+            "Lėto nugriebimo.",
+            "Prekės modifikavimo."
+        ],
+        "answers_num": [
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kokie BNP skaičiavimo metodai yra naudojami?",
+        "choices": [
+            "Pajamų metodas",
+            "Išlaidų metodas",
+            "Gamybos metodas",
+            "Okuno metodas."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

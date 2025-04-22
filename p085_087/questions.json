@@ -1,0 +1,222 @@
+[
+    {
+        "number": 1,
+        "question": "Biofarmacija LADMER sistemoje sprendžia šias problemas:",
+        "choices": [
+            "Vaistinės medžiagos blogas tirpumas.",
+            "Vaistinės medžiagos cheminis ir biologinis nestabilumas.",
+            "Vaistinės medžiagos blogas skvarbumas.",
+            "Vaisto įvedimo būdas."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Vaistinės medžiagos skvarbos pro odą būdai:",
+        "choices": [
+            "Intraląstelinis.",
+            "Tarpląstelinis (lipidinis).",
+            "Papildomo “šunto” kelias.",
+            "Išsiskyrimas, įsiskverbimas, patekimas į kraujotaką, pasiskirstymas organizme."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Veiksniai, veikiantys vaistinių medžiagų absorbciją, vartojant pro išangę:",
+        "choices": [
+            "Fermentai.",
+            "Tiesiosios žarnos tūris.",
+            "Gleivinės savybės.",
+            "Tiesiosios žarnos turinys ir sienelių motorika."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Tinkamos akceptorinės terpės parinkimą in vitro atpalaidavimo tyrimams lemia:",
+        "choices": [
+            "Terpės laidumas.",
+            "veikliųjų medžiagų molekulinė masė.",
+            "Terpės pH;",
+            "Veikliųjų medžiagų tirpumas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "In vitro atpalaidavimo tyrimams naudojama akceptorinės terpės temperatūra:",
+        "choices": [
+            "32 ± 0,5ºC, kuri atitinka įprastą odos temperatūrą.",
+            "20 ± 0,5ºC, kuri atitinka įprastą kambario temperatūrą.",
+            "37 ± 0,5ºC, kuri atitinka įprastą žmogaus organizmo temperatūrą.",
+            "Tyrimo temperatūra nėra reglamentuojama."
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kietų vaistų formų tirpimo testui atlikti naudojami prietaisai:",
+        "choices": [
+            "Krepšelinis prietaisas.",
+            "Mentinis prietaisas.",
+            "Pratakios kameros prietaisas.",
+            "Difuzinės celės."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Rektalinėms žvakutėms suirimo testas:",
+        "choices": [
+            "Netaikomas.",
+            "Taikomas.",
+            "Žvakutės su riebalų pagrindu vertinamos po 60 min., o su vandenyje tirpiu pagrindu – po 30 min., jei nenurodyta kitaip.",
+            "Žvakutės su riebalų pagrindu vertinamos po 30 min., o su vandenyje tirpiu pagrindu – po 60 min., jei nenurodyta kitaip."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kurie teiginiai yra teisingi apie vaistus skirtus vartoti į nosies landas:",
+        "choices": [
+            "Nosies preparatų rekomenduojamas pH intervalas nuo 3,5-4,5.",
+            "Nosies gleivinėje yra palankios sąlygos vaistinių medžiagų absorbcijai, siekiant vaisto vietinio ar sisteminio poveikio.",
+            "Minkštos vaistų formos rinologijoje skiriamos, siekiant sisteminio poveikio.",
+            "Tinkamam virpamojo epitelio funkcionavimui daro įtaką vartojamų nosies skystų preparatų osmoliariškumas ir pH reikšmė."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Vaistų ekvivalentiškumas apima šias sąvokas:",
+        "choices": [
+            "Cheminis ekvivalentiškumas.",
+            "Farmacinis ekvivalentiškumas.",
+            "Klinikinis ekvivalentiškumas.",
+            "Biologinis ekvivalentiškumas."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Jeigu nustatyta, kad tiriamasis preparatas ir standartinis preparatas yra bioekvivalentiški, tada galima tikėtis, kad:",
+        "choices": [
+            "Tiriamasis ir standartinis preparatai yra terapiškai veiksmingi ir terapiškai ekvivalentiški.",
+            "Šie preparatai yra užtikrinantys identišką gydomąjį veikimą, esant tam pačiam susirgimui.",
+            "Šie preparatai turi tą pačią vaistinę medžiagą arba jo terapiškai aktyvią dalį ir klinikoje pasižymi tuo pačiu veiksmingumu ir saugumu.",
+            "Vaistų ekvivalentiškumas yra paneigiamas, lyginant vieną vaistinį preparatą su kitu arba su parinktu standartu."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Pagal biofarmacinę vaistų klasifikacijos sistemą II klasės vaistinės medžiagos pasižymi:",
+        "choices": [
+            "Blogu tirpumu ir blogu praeinamumu.",
+            "Geru tirpumu ir geru praeinamumu.",
+            "Geru tirpumu ir blogu praeinamumu",
+            "Blogu  tirpumu ir geru praeinamumu."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Pagal biofarmacinę vaistų klasifikacijos sistemą III klasės vaistinės medžiagos pasižymi:",
+        "choices": [
+            "Blogu tirpumu ir blogu praeinamumu.",
+            "Blogu  tirpumu ir geru praeinamumu.",
+            "Geru tirpumu ir geru praeinamumu.",
+            "Geru tirpumu ir blogu praeinamumu"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

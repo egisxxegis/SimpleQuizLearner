@@ -476,6 +476,50 @@ def _do_test():
         ],
     )
 
+    # --------------- Answers
+    body = _test_data.body12
+    answers = _creatorv2.get_answers(body)
+    count = 12
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, count)
+    test(answer_high.answer, "A")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [102, 104])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    question_z = questions[9]
+    test(len(questions), count)
+    test(questions[-1].question_num, count)
+    test(
+        questions[-1].question,
+        "Kokie BNP skaičiavimo metodai yra naudojami?",
+    )
+    test(
+        question_z.question,
+        "Kokios strategijos naudojamos produkto brandos stadijoje ?",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="MULTI", conversions=_test_data.conversion12
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), count)
+    test(task_high.original_num, count)
+    test(task_high.option_type, "MULTI")
+    test(
+        _answers(task_high),
+        ["Pajamų metodas", "Išlaidų metodas", "Gamybos metodas"],
+    )
+    task_z = tasks[9]
+    test(task_z.original_num, 10)
+    test(task_z.option_type, "MULTI")
+    test(_answers(task_z), ["Rinkos modifikavimo.", "Prekės modifikavimo."])
+    test(len(task_z.choices), 4)
+
     # --------------- chems
     body = """
     NH4+, Hg2+
