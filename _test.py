@@ -262,7 +262,8 @@ def _do_test():
 
     # --------------- Answers
     body = _test_data.body6
-    answers = _creatorv2.get_answers(body, lowest_num=69)
+    # answers = _creatorv2.get_answers(body, lowest_num=69)
+    answers = _creatorv2.get_answers(body)
     answer_high = answers[-1]
     test(len(answers), 2)
     test(answer_high.question_num, 70)
@@ -436,6 +437,43 @@ def _do_test():
     test(
         _answers(task_high),
         ["Metimazolu"],
+    )
+
+    # --------------- Answers
+    body = _test_data.body11
+    answers = _creatorv2.get_answers(body)
+    count = 17
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, 83)
+    test(answer_high.answer, "B")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [74, 75, 76])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    test(len(questions), count)
+    test(questions[-1].question_num, 83)
+    test(
+        questions[-1].question,
+        "Kurie teiginiai apie sulfanilamidus yra teisingi?",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="MULTI", conversions=_test_data.conversion2
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), count)
+    test(task_high.original_num, 83)
+    test(task_high.option_type, "MULTI")
+    test(
+        _answers(task_high),
+        [
+            "Gali sukelti hemolizę pacientams, turintiems gliukozės-6-fosfato nepakankamumą",
+            "Naujagimiams gali sukelti kernicterus (naujagimių geltą)",
+        ],
     )
 
     # --------------- chems

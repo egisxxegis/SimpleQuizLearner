@@ -1,519 +1,182 @@
-1. Kurie receptoriai turi tik hidrofobinius ligandus? 
-A. Su G baltymu susiję receptoriai 
-B. Atsarginiai receptoriai 
-C. Su fermentais susiję receptoriai 
-D. Viduląsteliniai receptoriai 
-E. Ligandų valdomi jonų kanalai 
-  
-2. Kurie farmakologiniai antagonistai sudaro negrįžtamas kovalentines jungtis agonisto 
-prisijungimo prie receptoriais vietose? 
-A. Nekonkuruojantys antagonistai 
-B. Gryni antagonistai 
-C. Daliniai antagonistai 
-D. Alosteriniai moduliatoriai 
-E. Atvirkštiniai agonistai 
-F. Konkuruojantys antagonistai 
-  
-3. Kur dažniausiai pasireiškia vaistų sąveika? 
-A. Inkstuose 
-B. Kepenyse 
-C. Virškinimo trakte 
-D. Plaučiuose 
-E. Kraujyje 
-  
-4. Jeigu ligandas sukelia maksimalų poveikį prisijungęs prie ne visų receptorių, tai reiškia, kad 
-kai kurie receptoriai yra: 
-A. Internalizuoti ar sekvestruoti (angl. down-regulation) 
-B. Atsarginiai (angl. spare) 
-C. Susiję su G baltymu 
-D. Ligandų valdomi jonų kanalai 
-E. Viduląsteliniai 
-F. Susiję su fermentais 
-  
-5. Vaistinio preparato veikliosios medžiagos pasiskirstymas specifiniame audinyje:  
-A. Nepriklauso nuo organo kraujotakos 
-B. Nepriklauso nuo veikliosios medžiagos tirpumo tame audinyje 
-C. Priklauso nuo neprisijungusios veikliosios medžiagos koncentracijos kraujyje ir audinyje 
-skirtumo 
-D. Yra didesnis veikliosioms medžiagoms, kurios stipriai prisijungę prie plazmos baltymų 
-E. Nedaro įtakos vaisto pusinio gyvavimo periodui 
-  
-  
-64 
+67. Kuris teiginys apie vaistų pasiskirtymą yra KLAIDINGAS? 
+1. 
+Vaisto pusinis pasiskirstymo periodas gali skirsti nuo pusinio eliminacijos periodo. 
+2. 
+Pasiskirstymas priklauso nuo prisijungimo prie baltymų. 
+3. 
+Patekimas yra tam tikrą audinį priklauso nuo to audinio kraujotakos. 
+4. 
+Jonizuotos molekulės lengvai patenka į ląsteles. 
+5. 
+Patekimas yra tam tikrą audinį priklauso nuo prie baltymų neprisijungusio vaisto 
+koncentracijos tarp plazmos ir to audinio gradiento. 
+
  
-6. Tinkamiausiais bendrinis terminas, apibūdinantis aktyvios veikliosios medžiagos mažėjimą 
-organizme po jos absorbcijos į sisteminę kraujotaką yra: 
-A. Pasiskirstymas  
-B. Eliminacija  
-C. Tiesinė eliminacija 
-D. Metabolizmas 
-E. Farmakokinetika 
   
-7. Heparinas veikia antitrombiną-III ir slopina koaguliacijos kaskadą. Protamino sulfatas 
-neveikia antitrombino-III, bet prijungia hepariną ir padaro jį neaktyviu. Kokia sąveika 
-pasireiškia tarp heparino ir protamino sulfato? 
-A. Fizinis ar cheminis antagonizmas 
-B. Farmakologinis antagonizmas 
-C. Alosterinis moduliavimas 
-D. Farmakologinis agonizmas 
-E. Fiziologinis agonizmas 
-F. Fiziologinis antagonizmas 
+68. Kuris iš teiginių apie autonominę nervų sistemą yra teisingas? 
+1. pagrindinis simpatinės nervų sistemos neuromediatorius yra norepinefrinas; 
+2. parasimpatinės nervų sistemos yra ilgos preganglinės ir trumpos postganglinės nervinės 
+skaidulos; 
+3. pagrindinis parasimpatinės n.s. neuromediatorius yra acetilcholinas; 
+4. acetilcholinas stimuliuoja antinksčių meduliarinėje dalyje esančius receptorius. 
   
-8. Koks terminas tinkamiausiais epinefrino (veikiančio alfa adrenoreceptorius) poveikiui 
-apibūdinti, jeigu jis pašalina histamino H1 receptorių dirginimo sukeltą bronchų spazmą.  
-A. Farmakologinis antagonistas  
-B. Dalinis agonistas  
-C. Fiziologinis antagonistas 
-D. Cheminis antagonistas  
-E. Nekonkurencinis antagonistas 
-  
-9 Koks nepageidaujamos reakcijos virškinimo traktui dažnis, jeigu iš 10000 klinikiniame tyrime 
-dalyvavusių pacientų 20-iai nustatytas su vaisto vartojimu susijęs viduriavimas?  
-A. Reta  
-B. Dažna  
-C. Nedažna  
-D. Labai reta  
-E. Dažnis nežinomas 
-  
-10. Veikliosios medžiagos biotransformacijos metu dažniausiai suformuojami metabolitai, 
-kurie, palyginti su nemetabolizuota veikliąja medžiaga, yra:  
-A. Lengviau absorbuojami inkstų kanalėliuose  
-B. Mažiau tirpūs vandenyje  
-C. Mažiau tirpūs lipiduose  
-D. Lengviau prasiskverbia į ląsteles  
-E. Labiau tirpūs lipiduose 
-  
-11. Kuris beta  adrenoreceptorių agonistas yra neselektyvus? 
-A. Terbutalinas 
-B. Salbutamolis 
-C. Fenoterolis 
-D. Izoproterenolis 
-E. Salmeterolis 
-  
-12. Kuri vaistų grupė geriausiai tinka bronchų astmos priepuolio šalinimui? 
-A. Trumpo ir greito poveikio beta2  adrenoreceptorių agonistai 
-65 
+
  
-B. Ilgo poveikio beta2  adrenoreceptorių agonistai 
-C. Kromolino natrio druska 
-D. Inhaliuojamieji gliukokortikoidai 
-E. Leukotrienų receptorių antagonistai 
   
-13. Šalinant ūminį bronchų spazmą vaistais, visų pirma reikia: 
-A. Blokuoti leukotrienų receptorius 
-B. Blokuoti nikotininius cholinoreceptorius 
-C. Blokuoti muskarininius cholinoreceptorius 
-D. Aktyvuoti beta 1 adrenoreceptorius 
-E. Aktyvuoti beta 2 adrenoreceptorius 
+69. Kurie vaistiniais preparatai plečia bronchus: 
+1. beta2 adrenoreceptorių agonistai  
+2. metilksantinai 
+3. muskarino receptorių antagonistai 
+4. muskarino receptorių agonistai 
+5. monokloniniai antikūnai 
   
-14. Kuris iš žemiau pateiktų veikimo mechanizmų geriausiai apibūdina antacidinių vaistų 
-mechanizmą? 
-A. Reakcija su druskos rūgštimi skrandžio ertmėje 
-B. Pepsino ir druskos rūgšties sekrecijos slopinimas 
-C. Bikarbonato sekrecijos stimuliavimas epitelio ląstelėse 
-D. Susijungimas su nekroziniu opos audiniu 
-E. Reakcija su pepsinu skrandžio ertmėje 
+
   
-15. Skrandžio opai gydyti taikomi visi toliau išvardyti vaistiniais preparatai. Kuris iš jų blokuoja 
-H2 receptorius? 
-A. sukralfatas 
-B. ranitidinas 
-C. metoklopramidas 
-D. omeprazolas 
-E. mizoprostolis  
   
-16. Pacientas, kuriam yra prieširdžių virpėjimas, trombozės profilaktikai vartoja dabigatrano. 
-Kuris iš išvardintų molekulinio slopinimo mechanizmų yra būdingas šiam vaistiniam 
-preparatui? 
-A. Protrombino sintezės slopinimas. 
-B. Tromboksano A2 aktyvumo slopinimas 
-C. Trombino aktyvumo slopinimas 
-D. Plazminogeno sintezės slopinimas  
-E. Antitrombino III aktyvumo slopinimas 
+70. Kurių farmakologinių grupių vaistiniai preparatai paprastai vartojami skrandžio ir 
+dvylikapirštės žarnos opaligei gydyti? 
+1. M cholinoreceptorių blokatoriai 
+2. protonų siurblio inhibitoriai 
+3. antacidiniai vaistai 
+4. prostaglandinai 
   
-17. Krešulių atsiradimo ilgalaikei profilaktikai tinka:  
-A. Aminokaprono rūgštis 
-B. Heparinas 
-C. Klopidogrelis 
-D. Mažo molekulinio svorio heparinas 
-E. Alteplazė 
+
   
-18. Dėl kokios rizikos priešvėžiniais vaistais gydomam pacientui skiriama profilaktiškai 
-filgrastimo (granulocitų makrofagų kolonijas stimuliuojančio faktoriaus):  
-A. alerginių reakcijų 
-B. vėžio atkryčio 
-C. kraujavimo 
-D. sisteminės infekcijos 
   
-66 
+71. Kokie vaistiniai preparatai blokuoja trombocito membranos adenozindifosfato (ADF) 
+receptorius, todėl mažina trombocitų agregaciją? 
+A. klopidogrelis 
+B. prednizolonas 
+C. tiklopidinas 
+D. dipiridamolis 
+E. acetilsalicilo rūgštis 
+74 
  
-19. Širdies aritmijos atveju chinidinas sukelia visus išvardytus pokyčius, IŠSKYRUS vieną jų, 
-kurį? 
-A. pailgina efektyvų refrakterinį periodą 
-B. mažina laidumą 
-C. slopina impulso kilimą ektopiniuose dirginimo židiniuose 
-D. sukelia teigiamą inotropinį poveikį 
-E. didesnė dozė atpalaiduoja periferinių kraujagyslių lygiuosius raumenis  
   
-20. Kuris teiginys apie širdį veikiančius vaistus teisingas? 
-A. digoksinas slopina Na⁺ ir K⁺ ATF siurblį 
-B. dobutaminas blokuoja troponiną I 
-C. amrinonas blokuoja troponiną I 
-D. dopaminas blokuoja troponiną I 
-E. izoproterenolis blokuoja beta1 ir beta2 adrenoreceptorius 
+
   
-21. Ilgalaikis vieno iš žemiau nurodytų antiaritminių vaistinių preparatų vartojimas gali sukelti 
-negrįžtamą plaučių audinio fibrozę. Kuris tai vaistinis preparatas? 
-A. Metoprololis  
-B. Chinidinas 
-C. Flekainidas 
-D. Amjodaronas 
   
-22. Kuris vaistinis preparatas, selektyvus beta1 adrenoreceptorių agonistas, vartojamas gydant 
-ūminį širdies funkcijos nepakankamumą? 
-A. Atenololis 
-B. Dobutaminas 
-C. Esmololis 
-D. Digitoksinas 
+72. Nurodykite, kurių grupių vaistai vartojami arterinės hipertenzijos gydymui? 
+1. alfa adrenomimetikai 
+2. beta adrenoblokatoriai 
+3. beta adrenomimetikai 
+4. kalcio kanalų blokatoriai 
+5. širdį veikiantys glikozidai 
   
-23. Kuris iš žemiau pateiktų vaistų yra kontraindikuotinas esant hiperkalemijai? 
-A. Spironolaktonas  
-B. Acetazolamidas 
-C. Hidrochlorotiazidas 
-D. Eprosartanas 
-E. Chlortalidonas 
-F. Torazemidas 
+
   
-24. Glicerilio trinitratas yra paprastai vartojamas:  
-A. Po liežuviu 
-B. Į veną 
-C. Po oda 
-D. Į akis 
-E. Į raumenis 
-F. Intratekaliai 
   
-25. Kokio poveikio nesukelia AKF inhibitoriai? 
-A. Kraujospūdžio sumažėjimo 
-B. Bradikinino koncentracijos padidėjimo 
-C. Aldosterono sekrecijos sumažėjmo 
-D. Renino sekrecijos sumažėjimo 
+73. HMG KoA inhibitorius lovastatinas: 
+1. slopina mevalonato sintezę 
+2. mažina laisvų riebalų rūgščių sintezę 
+3. didina MTL receptorių skaičių kepenų ląstelėse 
+4. mažina cholesterolio rezorbciją žarnyne 
   
-67 
+
+  
+  
+74. Vartojant rusmenės vaistinių preparatų gali pasireikšti pavojingos aritmijos. Dėl kokių jonų 
+stokos jos paprastai pasireiškia?  
+1. Na⁺ 
+2. K⁺ 
+3. Cl⁻ 
+4. Mg⁺⁺ 
+5. Fe⁺⁺ 
+  
+
+  
+  
+75 
  
-26. Kodėl gali pasireikšti tachikardija vartojant nitroglicerino? 
-A. Dėl tiesioginio teigiamo chronotropinio poveikio į miokardą 
-B. Refleksiškai per simpatinę nervų sistemą sumažėjus arteriniam kraujo spaudimui 
-C. Dėl nitroglicerino gebėjimo išlaisvinti norepinefriną 
-D. Dėl intrakranialinio slėgio sumažėjimo 
+75. Kuris (-ie) iš žemiau pateiktų vaistų slopina elektrinio impulso sklidimą atrioventrikuliniame 
+mazge veikdamas L-tipo kalcio kanalus? 
+1. adenozinas 
+2. amjodaronas 
+3. esmololis 
+4. diltiazemas 
+5. flekainidas  
+6. lidokainas 
+7. meksiletinas  
   
-27. Kokio poveikio nesukelia organiniai nitratai? 
-A. Refleksinės tachikardijos 
-B. Skilvelių apimties mažėjimo 
-C. Širdies pokrūvio padidėjimo 
-D. Periferinio venų išsiplėtimo 
-E. Sistolinio kraujospūdžio sumažėjimo 
+
   
-28. Kokio poveikio nesukelia kaptoprilis? 
-A. Hiperkalemijos 
-B. Arterinio kraujo spaudimo mažėjimo 
-C. Širdies nepakankamumo blogėjimo 
-D. Sauso kosulio 
-E. Kreatinino kiekio plazmoje didėjimo  
   
-29. Kokiai vaistų grupei priskiriamas amlodipinas? 
-A. AKF inhibitorius 
-B. Kalcio kanalų blokatorius 
-C. Angiotenzino II receptorių blokatorius 
-D. Beta adrenoreceptorių blokatorius 
-E. Alfa receptorių blokatorius 
+76. Biguanidų grupės geriamieji antidiabetiniai vaistiniai preparatai: 
+1. Dažnai sukelia hipoglikemiją 
+2. Gali sukelti gyvybei pavojingą laktatinę acidozę 
+3. Veikia PPARγ receptorius ir didina jautrumą insulinui 
+4. Mažina insulino poreikį organizme 
   
-30. Kokios grupės diuretikai paprastai vartojami ilgalaikiam padidėjusio kraujo spaudimo 
-gydymui?  
-A. Tiazidiniai diuretikai 
-B. Osmosiniai diuretikai 
-C. Henlės kilpoje veikiantys diuretikai 
-D. Karboanhidrazės inhibitoriai 
-E. Aldosterono antagonistai  
+
   
-31. Koks vaistas nevartojamas cukrinio diabeto gydymui? 
-A. Progesteronas 
-B. Insulinas 
-C. Glibenklamidas 
-D. Metforminas 
-E. Gliklazidas 
   
-32. Kokio nepageidaujamo poveikio nesukelia insulinas? 
-A. Hiperglikemijos 
-B. Atsparumo insulinui 
-C. Lipodistrofijos vaisto suleidimo vietoje 
-D. Tachikardijos 
-E. Alergijos  
+77. Kurie teiginiai apie farmakologines acetilsalicilo rūgšties savybes yra teisingi? 
+1. Acetilsalicilo rūgštis slopina prostaglandinų sintezę. 
+2. Didelė acetilsalicilo rūgšties dozė (didesnė nei 5 g per parą) sumažina šlapimo rūgšties 
+koncentraciją kraujo serume. 
+3. Kitaip nei kitų nesteroidinių vaistų nuo uždegimo, acetilsalicilo rūgšties poveikis trombocitų 
+agregacijai yra negrįžtamas. 
+4. Išgėręs per didelę acetilsalicilo rūgšties dozę, žmogus gali mirti. Tokiu atveju gali padėti 
+priešnuodis - acetilcisteinas. 
   
-33. Mažina kasos salelių betą ląstelių kalio kanalų laidumą, veikia nuo 6-12 val. iki 60 val.: 
-A. Biguanidai 
-68 
+
+  
+  
+78. Kurie teiginiai apie tramadolio veikimo mechanizmą yra TEISINGI? 
+1. Sužadina miu opioidinius receptorius 
+2. Slopina miu opioidinius receptorius 
+3. Slopina serotonino ir norepinefrino reabsorbciją į presinapsinį neuroną 
+4. Sužadina norepinefrino receptorius 
+76 
  
-B. Meglitinidai  
-C. Alfa gliukozidazės inhibitoriai  
-D. Sulfonilkarbamidai 
+5. Sužadina serotonino receptorius 
   
-34. Kokio nepageidaujamo poveikio nesukelia geriamieji kontraceptikai? 
-A. Tromboembolijos 
-B. Gerybinės kepenų adenomos 
-C. Augimo sulėtėjimo 
-D. Chloazmos (ribotos pigmentinės dėmės atsiradimo) 
-E. Svorio padidėjimo 
-  
-35. Kuris nesteroidinis vaistas nuo uždegimo selektyviai slopina ciklooksigenazę 2 (COX-2)? 
-A. Diklofenakas 
-B. Indometacinas 
-C. Celekoksibas 
-D. Ibuprofenas 
-E. Naproksenas 
-  
-36. Kuris iš nurodytų vaistų labiausiai gali sutrikdyti gebėjimą vairuoti automobilį? 
-A. Difenhidraminas 
-B. Acetilsalicilo rūgštis 
-C. Deksametazonas 
-D. Loratadinas 
-E. Natrio kromoglikatas 
-F. Paracetamolis 
-  
-37. Kuris iš teiginių apie paracetamolį (acetaminofeną) yra NETEISINGAS? 
-A. Paracetamolis yra fenacetino veiklusis metabolitas 
-B. Suaugusiems žmonėms vartojant didesnę kaip 8 g paros dozę, gali būti pažeistos kepenys 
-C. Apsinuodijus paracetamoliu, gali pasireikšti inkstų nepakankamumas 
-D. Ambroksolis yra paracetamolio priešnuodis 
-E. Paracetamolis gali sukelti kepenų nekrozę 
-  
-38. Kuris vaistas skiriamas kaip priešnuodis apsinuodijimo paracetamoliu atveju? 
-A. Metadonas 
-B. Flumazenilis 
-C. Naloksonas 
-D. Acetilsalicilo rūgštis 
-E. Acetilcisteinas  
-F. Protamino sulfatas 
-  
-39. Pacientas nuo kvėpavimo takų infekcijos buvo ilgai gydomas antibiotiku ir jam pasireiškė 
-klausos ir inkstų funkcijos sutrikimas. Kitų vaistų nevartojo. Kokiu antibiotiku galėjo būti 
-gydomas pacientas? 
-A. Doksiciklinas 
-B. Tobramicinas 
-C. Cefuroksimas 
-D. Tetraciklinas 
-E. Ampicilinas  
-  
-40. Daugelis fenotiazinų grupės neuroleptikų sukelia nurodytą poveikį, IŠSKYRUS: 
-69 
- 
-A. Autonominės nervų sistemos sutrikimai 
-B. Anestezija 
-C. Ekstrapiramidiniai sutrikimai 
-D. Poveikis psichikai 
-E. Vėmimo slopinimas 
-  
-41. Organų sistemos, kurias veikia antipsichoziniai preparatai terapinėmis dozėmis, yra 
-šios, IŠSKYRUS:  
-A. CNS 
-B. Autonominė nervų sistema 
-C. Širdies ir kraujagyslių sistema 
-D. Endokrininė sistema 
-E. Kvėpavimo sistema  
-  
-42. Kuris teiginys apie benzodiazepinų veikimo mechanizmą yra TEISINGAS? 
-A. Tiesiogiai atidaro chloro jonų kanalus 
-B. Slopina GASR poveikį receptoriams  
-C. Slopina GASR transaminazę ir padidina GASR koncentraciją sinapsėje 
-D. Jungiasi prie GASR-B receptorių ir sustiprina GASR slopinamąjį poveikį 
-E. Dažnina chloro jonų kanalų atsidarymą 
-  
-43. Kuris prieštuberkuliozinis vaistas labiausiai galėtų mažinti geriamųjų kontraceptikų 
-veiksmingumą? 
-A. Amikacinas 
-B. Etambutolis 
-C. Izoniazidas 
-D. Rifampicinas 
-E. Pirazinamidas  
-  
-44. Kuriam iš nurodytų benzodiazepinų yra būdinga trumpiausia veikimo trukmė? 
-A. Alprazolamas 
-B. Diazepamas 
-C. Chlordiazepoksidas 
-D. Medazepamas 
-E. Oksazepamas 
-  
-45. Išrinkite NETEISINGĄ lokalaus poveikio anestetikų apibūdinimą: 
-A. Poveikis sukeliamas slopinant Na⁺ jonų kanalų pralaidumą 
-B. Na⁺ kanalų pralaidumas sumažėja dėl pasikartojančios depoliarizacjos 
-C. Pirmiau pasireiškia poveikis plonoms nervinėms skaiduloms nei storesnėms 
-D. Visos nervų funkcijos paveikiamos jau pačioje anestezijos pradžioje 
-E. Vazokonstrikcija prailgina veikimo trukmę 
-  
-46. Kokio poveikio morfinas nesukelia? 
-A. Elgesio pokyčio 
-B. Miozės 
-C. Kvėpavimo slopinimo 
-D. Viduriavimo 
-E. Ortostatinės hipotenzijos  
-  
-47. Kurį nepageidaujamą poveikį gali sukelti morfinas? 
-70 
- 
-A. Skeleto raumenų atsipalaidavimą 
-B. Krešėjimo sutrikimą 
-C. Intrakranijinio spaudimo padidėjimą 
-D. Šlapimo nelaikymą 
-  
-48. Kuriais atvejais negalima skirti opioidinių analgetikų? 
-A. Galvos trauma 
-B. Plaučių edema  
-C. Miokardo infarktas 
-D. Viduriavimas 
-E. Šlaunikaulio lūžis 
-  
-49. Kuris teiginys apie naloksoną yra TEISINGAS? 
-A. Yra miu receptorių agonistas 
-B. Skausmą malšina taip pat veiksmingai kaip kodeinas 
-C. Veiksmingai slopina viduriavimą 
-D. Nesukelia poveikio, jei organizme nėra kito opioido 
-  
-50. Antibiotikų veikimo intensyvumą nusako: 
-A. Terapinis indeksas 
-B. Minimali slopinamoji koncentracija  
-C. Antibiotiko poveikio platuma 
-D. Antimikrobinio veikimo pobūdis 
-  
-51. Kurios veikliosios medžiagos indukuoja vaistinių preparatų metabolizmą kepenyse? 
-A. Klaritromicinas 
-B. Eritromicinas 
-C. Ketokonazolas 
-D. Rifampicinas 
-E. Ritonaviras  
-  
-52. Pseudomembraninio kolito atveju alergiškam metronidazolui pacientui geriausiai tinka: 
-A. Ampicilinas 
-B. Chloramfenikolis 
-C. Klindamicinas 
-D. Doksiciklinas 
-E. Vankomicinas  
-  
-53. Kas dažniausiai gydoma rifampicinu? 
-A. Cholera 
-B. Vidurių šiltinė 
-C. Tuberkuliozė 
-D. Riketsijų sukeltos ligos 
-E. Pseudomonų sukeltos ligos  
-  
-54. Kuri antibiotikų klasė slopina baltymų sintezę ir sukelia šalutinį poveikį, 
-susijusį su vaistų sąveika dėl CYP450 slopinimo, ir QT intervalo pailgėjimą: 
-A. Cefalosporinai 
-B. Makrolidai 
-C. Tetraciklinai 
-D. Penicilinai 
-71 
- 
-E. Aminoglikozidai 
-F. Amfenikoliai 
-  
-55. Kuris antibiotikas kontraindikuotinas asmenims, sergantiems aritmijomis? 
-A. Moksifloksacinas 
-B. Doksiciklinas 
-C. Ciprofloksacinas 
-D. Chloramfenikolis 
-E. Vankomicinas 
-  
-56. Kuris priešgrybelinis vaistas gali sukelti fototoksinę reakciją? 
-A. Grizeofulvinas 
-B. Flucitozinas 
-C. Amfotericinas B 
-D. Kaspofunginas 
-E. Flukonazolas 
-  
-57. Tazobaktamas, vartojamas kartu su piperacilinu: 
-A. Sumažina piperacilino išskyrimą per inkstus 
-B. Padidina piperacilino antibakterinį aktyvumą 
-C. Sumažina piperacilino metabolizmą 
-D. Padidina piperacilino absorbciją 
-  
-58. Kuris antibakterinis vaistas gali sukelti Stiveno-Džonsono sindromą (sunkią alerginę 
-reakciją)? 
-A. Sulfametoksazolas 
-B. Doksiciklinas 
-C. Neomicinas 
-D. Eritromicinas 
-E. Klaritromicinas 
-  
-59. Kuris(-ie) antibiotikas(-ai) gali sukelti “pilkojo kūdikio” sindromą”? 
-A. Chloramfenikolis 
-B. Trečios kartos cefalosporinai 
-C. Aminopenicilinai 
-D. Doksiciklinas 
-E. Azitromicinas 
-  
-60. Kodėl geriamuosius bifosfonatus rekomenduojama gerti su grynu vandeniu, mažiausiai 30 
-min. prieš pusryčius? 
-A.          Siekiama sumažinti viduriavimo riziką
-B.          Siekiama sumažinti pilvo skausmo riziką
-C.          
-Siekiama sumažinti ezofagito ir stemplės opų atsiradimo riziką
-D.          Siekiama sumažinti 
-apatinio žandikaulio nekrozės riziką
-E.          Siekiama sumažinti maisto įtaką jų absorbcijai 
-virškinamajame trakte  
-  
-61. Kuris metabolitas(ai) / vitamino D analogas(ai) yra vartojami antrinei hiperparatirozei 
-gydyti pacientams, sergantiems inkstų nepakankamumu? 
-A. Vitaminas D3 (cholekalciferolis) 
-B. Vitaminas D2 (ergokalciferolis) 
-C. 1-hidroksivitaminas D3 (alfakalcidolis) 
-D. 25-hidroksivitaminas D3 (kalcifediolis) 
-62. Salmeterolis netinka ūminiam bronchų spazmui gydyti, nes: 
-A. 
-Jo veikimo pradžia yra uždelsta 
-B. 
-Jis sumažina beta adrenoreceptorių jautrumą 
-C. 
-Jis lėtai metabolizuojamas 
-D. 
-Jis sukelia neigiamą poveikį širdžiai 
-E. 
-Jis sąveikauja su daugeliu kitų vaistų 
-63. Antihiperlipideminiai vaistai dažniausiai sukelia šį nepageidaujamą poveikį:  
-A. 
-Padidėjusį kraujo spaudimą 
-B. Neurologines problemas 
-C. Virškinamojo trakto sutrikimus 
-D. Širdies permušimus 
-E. Migreninius galvos skausmus 
 
+  
+  
+79. Kokie simptomai pasireiškia, apsinuodijus opioidiniais analgetikais? 
+1. siauri vyzdžiai 
+2. retas kvėpavimas 
+3. koma 
+4. traukuliai 
+  
 
+  
+  
+80. Kurie teiginiai, apibūdinantys penicilinus, yra NETEISINGI? 
+1. Veikia bakteriostatiškai, pasižymi postantibiotiniu poveikiu, yra bakterijų ląstelių citoplazmos 
+baltymų sintezės inhibitoriai. 
+2. Veikia baktericidiškai, yra beta laktaminiai antibiotikai, slopina bakterijų ląstelės sienelės 
+sintezę.  
+3. Sukelia kancerogeninį, teratogeninį ir embriotoksinį poveikį. 
+4. Gali sukelti alergines reakcijas. 
+5. Jungiasi su peniciliną rišančiais baltymais, slopina peptidoglikano grandinės formavimąsi, 
+skatina autolizinų gamybą 
+  
 
+  
+  
+81. Kurie antibiotikai yra kontraindikuotini nėštumo metu? 
+1. Eritromicinas 
+2. Streptomicinas 
+3. Cefadroksilis 
+4. Tetraciklinas 
+  
 
-64. Kuriam priešvėžiniam vaistui būdingas nepageidaujamas poveikis yra kardiotoksiškumas, 
-raudonas šlapimas?
-A.         Ciklofosfamidas
-B.          Fluorouracilas
-E.          Gemcitabinas  
-C.          Doksorubicinas
-D.          Trastuzumabas
-65. Kuris teiginys apie gyvybei pavojingą vėžio chemoterapijai vartojamų vaistų toksinį 
-poveikį yra teisingas? 
-A. Yra priimtinas, kai chemoterapijos tikslas - išgydyti ligą 
-B. Yra nepriimtinas visais atvejais 
-C. Yra priimtinas taikant paliatyvinį gydymą 
+  
+82. Į vaistinę atėjo 55 metų moteris, kuriai šeimos gydytojas paskyrė vartoti tetraciklino. Prieš 
+išduodamas(-a) vaistą, jūs įspėsite moterį, kad vartodama šį vaistą, ji: 
+1. 
+Prieš pat vartojimą ir po vartojimo negertų pieno 
+2. 
+Vengtų kartu su preparatu vartoti geležies tablečių 
+3. 
+Vengtų ilgai būti saulėje 
+4. 
+Gertų kuo daugiau šarminio (mineralinio) vandens 
+5. 
+Vengtų intensyvesnio fizinio krūvio, nes gali sukelti sausgyslių trūkius 
 
-
-D. Dažniausiai pasireiškia vartojant monokloninių antikūnų 
-66. Hipertiroidizmas gali būti gydomas: 
-A. Trijodtironinu 
-B. Pakaitine estrogenų terapija 
-C. Metimazolu 
-D. Medroksiprogesteronu 
-
-
-
-Atsakymai: 1. D; 2. A; 3. B; 4. B; 5. C; 6. B; 7. A; 8. C; 9. C; 10. C; 11. D; 12. A; 13. E; 14. A; 15. 
-B; 16. C; 17. C; 18. D; 19. D; 20. A; 21. D; 22. B; 23. A; 24. A; 25. D; 26. B; 27. C; 28. C; 29. B; 30. 
-A; 31. A; 32. A; 33. D; 34. C; 35. C; 36. A; 37. D; 38. E; 39. B; 40. B; 41. E; 42. E; 43. D; 44. A; 45. 
-B; 46. D; 47. C; 48. A; 49. D; 50. B; 51. D; 52. E; 53. C; 54. B; 55. A; 56. A; 57. B; 58. A; 59. A; 60. 
-E; 61. C; 62. A; 63. C; 64. C; 65. A; 66. C. 
+  
+83. Kurie teiginiai apie sulfanilamidus yra teisingi? 
+Atsakymai: 67. D; 68. E; 69. A; 70. E; 71. B; 72. C; 73. B; 74. C; 75. D; 76. C; 77. B; 78. B; 79. E; 

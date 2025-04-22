@@ -2227,3 +2227,196 @@ B; 16. C; 17. C; 18. D; 19. D; 20. A; 21. D; 22. B; 23. A; 24. A; 25. D; 26. B; 
 A; 31. A; 32. A; 33. D; 34. C; 35. C; 36. A; 37. D; 38. E; 39. B; 40. B; 41. E; 42. E; 43. D; 44. A; 45. 
 B; 46. D; 47. C; 48. A; 49. D; 50. B; 51. D; 52. E; 53. C; 54. B; 55. A; 56. A; 57. B; 58. A; 59. A; 60. 
 E; 61. C; 62. A; 63. C; 64. C; 65. A; 66. C. """
+
+body11 = """
+67. Kuris teiginys apie vaistų pasiskirtymą yra KLAIDINGAS? 
+1. 
+Vaisto pusinis pasiskirstymo periodas gali skirsti nuo pusinio eliminacijos periodo. 
+2. 
+Pasiskirstymas priklauso nuo prisijungimo prie baltymų. 
+3. 
+Patekimas yra tam tikrą audinį priklauso nuo to audinio kraujotakos. 
+4. 
+Jonizuotos molekulės lengvai patenka į ląsteles. 
+5. 
+Patekimas yra tam tikrą audinį priklauso nuo prie baltymų neprisijungusio vaisto 
+koncentracijos tarp plazmos ir to audinio gradiento. 
+
+ 
+  
+68. Kuris iš teiginių apie autonominę nervų sistemą yra teisingas? 
+1. pagrindinis simpatinės nervų sistemos neuromediatorius yra norepinefrinas; 
+2. parasimpatinės nervų sistemos yra ilgos preganglinės ir trumpos postganglinės nervinės 
+skaidulos; 
+3. pagrindinis parasimpatinės n.s. neuromediatorius yra acetilcholinas; 
+4. acetilcholinas stimuliuoja antinksčių meduliarinėje dalyje esančius receptorius. 
+  
+
+ 
+  
+69. Kurie vaistiniais preparatai plečia bronchus: 
+1. beta2 adrenoreceptorių agonistai  
+2. metilksantinai 
+3. muskarino receptorių antagonistai 
+4. muskarino receptorių agonistai 
+5. monokloniniai antikūnai 
+  
+
+  
+  
+70. Kurių farmakologinių grupių vaistiniai preparatai paprastai vartojami skrandžio ir 
+dvylikapirštės žarnos opaligei gydyti? 
+1. M cholinoreceptorių blokatoriai 
+2. protonų siurblio inhibitoriai 
+3. antacidiniai vaistai 
+4. prostaglandinai 
+  
+
+  
+  
+71. Kokie vaistiniai preparatai blokuoja trombocito membranos adenozindifosfato (ADF) 
+receptorius, todėl mažina trombocitų agregaciją? 
+A. klopidogrelis 
+B. prednizolonas 
+C. tiklopidinas 
+D. dipiridamolis 
+E. acetilsalicilo rūgštis 
+74 
+ 
+  
+
+  
+  
+72. Nurodykite, kurių grupių vaistai vartojami arterinės hipertenzijos gydymui? 
+1. alfa adrenomimetikai 
+2. beta adrenoblokatoriai 
+3. beta adrenomimetikai 
+4. kalcio kanalų blokatoriai 
+5. širdį veikiantys glikozidai 
+  
+
+  
+  
+73. HMG KoA inhibitorius lovastatinas: 
+1. slopina mevalonato sintezę 
+2. mažina laisvų riebalų rūgščių sintezę 
+3. didina MTL receptorių skaičių kepenų ląstelėse 
+4. mažina cholesterolio rezorbciją žarnyne 
+  
+
+  
+  
+74. Vartojant rusmenės vaistinių preparatų gali pasireikšti pavojingos aritmijos. Dėl kokių jonų 
+stokos jos paprastai pasireiškia?  
+1. Na+ 
+2. K+ 
+3. Cl- 
+4. Mg++ 
+5. Fe++ 
+  
+
+  
+  
+75 
+ 
+75. Kuris (-ie) iš žemiau pateiktų vaistų slopina elektrinio impulso sklidimą atrioventrikuliniame 
+mazge veikdamas L-tipo kalcio kanalus? 
+1. adenozinas 
+2. amjodaronas 
+3. esmololis 
+4. diltiazemas 
+5. flekainidas  
+6. lidokainas 
+7. meksiletinas  
+  
+
+  
+  
+76. Biguanidų grupės geriamieji antidiabetiniai vaistiniai preparatai: 
+1. Dažnai sukelia hipoglikemiją 
+2. Gali sukelti gyvybei pavojingą laktatinę acidozę 
+3. Veikia PPARγ receptorius ir didina jautrumą insulinui 
+4. Mažina insulino poreikį organizme 
+  
+
+  
+  
+77. Kurie teiginiai apie farmakologines acetilsalicilo rūgšties savybes yra teisingi? 
+1. Acetilsalicilo rūgštis slopina prostaglandinų sintezę. 
+2. Didelė acetilsalicilo rūgšties dozė (didesnė nei 5 g per parą) sumažina šlapimo rūgšties 
+koncentraciją kraujo serume. 
+3. Kitaip nei kitų nesteroidinių vaistų nuo uždegimo, acetilsalicilo rūgšties poveikis trombocitų 
+agregacijai yra negrįžtamas. 
+4. Išgėręs per didelę acetilsalicilo rūgšties dozę, žmogus gali mirti. Tokiu atveju gali padėti 
+priešnuodis - acetilcisteinas. 
+  
+
+  
+  
+78. Kurie teiginiai apie tramadolio veikimo mechanizmą yra TEISINGI? 
+1. Sužadina miu opioidinius receptorius 
+2. Slopina miu opioidinius receptorius 
+3. Slopina serotonino ir norepinefrino reabsorbciją į presinapsinį neuroną 
+4. Sužadina norepinefrino receptorius 
+76 
+ 
+5. Sužadina serotonino receptorius 
+  
+
+  
+  
+79. Kokie simptomai pasireiškia, apsinuodijus opioidiniais analgetikais? 
+1. siauri vyzdžiai 
+2. retas kvėpavimas 
+3. koma 
+4. traukuliai 
+  
+
+  
+  
+80. Kurie teiginiai, apibūdinantys penicilinus, yra NETEISINGI? 
+1. Veikia bakteriostatiškai, pasižymi postantibiotiniu poveikiu, yra bakterijų ląstelių citoplazmos 
+baltymų sintezės inhibitoriai. 
+2. Veikia baktericidiškai, yra beta laktaminiai antibiotikai, slopina bakterijų ląstelės sienelės 
+sintezę.  
+3. Sukelia kancerogeninį, teratogeninį ir embriotoksinį poveikį. 
+4. Gali sukelti alergines reakcijas. 
+5. Jungiasi su peniciliną rišančiais baltymais, slopina peptidoglikano grandinės formavimąsi, 
+skatina autolizinų gamybą 
+  
+
+  
+  
+81. Kurie antibiotikai yra kontraindikuotini nėštumo metu? 
+1. Eritromicinas 
+2. Streptomicinas 
+3. Cefadroksilis 
+4. Tetraciklinas 
+  
+
+  
+82. Į vaistinę atėjo 55 metų moteris, kuriai šeimos gydytojas paskyrė vartoti tetraciklino. Prieš 
+išduodamas(-a) vaistą, jūs įspėsite moterį, kad vartodama šį vaistą, ji: 
+1. 
+Prieš pat vartojimą ir po vartojimo negertų pieno 
+2. 
+Vengtų kartu su preparatu vartoti geležies tablečių 
+3. 
+Vengtų ilgai būti saulėje 
+4. 
+Gertų kuo daugiau šarminio (mineralinio) vandens 
+5. 
+Vengtų intensyvesnio fizinio krūvio, nes gali sukelti sausgyslių trūkius 
+
+  
+83. Kurie teiginiai apie sulfanilamidus yra teisingi? 
+1. Gali sukelti hemolizę pacientams, turintiems gliukozės-6-fosfato nepakankamumą 
+2. 
+Nesukelia Stiveno-Džonsono sindromo 
+3. 
+Naujagimiams gali sukelti kernicterus (naujagimių geltą) 
+4. 
+Turi labai siaurą veikimo spektrą 
+Atsakymai:  67. D; 68. E; 69. A; 70. E; 71. B; 72. C; 73. B; 74. C; 75. D; 76. C; 77. B; 78. B; 79. E; 
+80. B; 81. C; 82. A; 83. B. 
+"""

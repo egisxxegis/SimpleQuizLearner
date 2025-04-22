@@ -1,0 +1,257 @@
+[
+    {
+        "number": 84,
+        "question": "Vaistai, kurių pasiskirstymo tūris yra didelis, veiksmingai pašalinami atliekant dializę.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 84,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 85,
+        "question": "Glukurono rūgšties prijungimas (konjugacija) yra II fazės metabolizmo reakcija",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 85,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 86,
+        "question": "Kuo didesnis vaisto efektyvumas, tuo didesnė jo potencija.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 86,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 87,
+        "question": "Apsinuodijus  zarinu, kaip priešnuodis gali būti vartojamas atropinas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 87,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 88,
+        "question": "Klonidinas neprasiskverbia pro kraujo-smegenų barjerą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 88,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 89,
+        "question": "Ilgalaikis nitratų vartojimas gali sukelti toleranciją.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 89,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 90,
+        "question": "Prednizolonas sukelia teratogeninį poveikį:",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 90,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 91,
+        "question": "Spironolaktonas kontraindikuotinas esant hiperkalemijai.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 91,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 92,
+        "question": "Antiaritminis vaistas flekainidas gali sukelti širdies aritmijas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 92,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 93,
+        "question": "Varfarinas prasiskverbia per placentą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 93,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 94,
+        "question": "Kepenyse metabolizuojami vaistai gali daryti įtaką varfarino antikoaguliaciniam poveikiui.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 94,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 95,
+        "question": "Varfarinas šalinamas iš organizmo nepakitęs.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 95,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 96,
+        "question": "Varfarinas yra vitamino K antagonistas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 96,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 97,
+        "question": "Kotrimoksazolas turi platų antibakterinį veikimo spektrą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 97,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 98,
+        "question": "Flukonazolas tabletėmis neturėtų būti vartojamas nėštumo ir/ar žindymo metu.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 98,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 99,
+        "question": "Atropinas mažina akispūdį.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 99,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 100,
+        "question": "Adrenalinas sumažina lokalaus poveikio anestetikų veikimo trukmę.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 100,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

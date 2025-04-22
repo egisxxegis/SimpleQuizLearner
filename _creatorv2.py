@@ -38,7 +38,16 @@ def _re_finditer_overlapping(pattern, string: str, flags=0):
     return matches
 
 
-def get_answers(raw: str, lowest_num: int = 1):
+def get_answer_lowest_suggestion(raw: str) -> int:
+    raw = _remove_pages(raw)
+    pattern = rf"\s*([0-9]+){P_UN_LETTER_NUM}"
+    found = re.search(pattern, raw, re.DOTALL)
+    if not found:
+        raise ValueError(f"Does raw even start with a number? raw = {raw[:50]} ...")
+    return int(found.group(1))
+
+
+def get_answers(raw: str, lowest_num: int = None):
     """
     59 – D
     60 – D
@@ -47,6 +56,7 @@ def get_answers(raw: str, lowest_num: int = 1):
     6 – C
     7 – D
     """
+    lowest_num = lowest_num or get_answer_lowest_suggestion(raw)
     pattern_num = r"\d+"
     pattern_answer = (
         r"[abcdefABCDEF]+"  # supplying '+' to prevent parsing '4. Define' as '4. D'

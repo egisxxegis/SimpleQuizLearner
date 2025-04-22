@@ -1,0 +1,325 @@
+[
+    {
+        "number": 67,
+        "question": "Kuris teiginys apie vaistų pasiskirtymą yra KLAIDINGAS?",
+        "choices": [
+            "Vaisto pusinis pasiskirstymo periodas gali skirsti nuo pusinio eliminacijos periodo.",
+            "Pasiskirstymas priklauso nuo prisijungimo prie baltymų.",
+            "Patekimas yra tam tikrą audinį priklauso nuo to audinio kraujotakos.",
+            "Jonizuotos molekulės lengvai patenka į ląsteles.",
+            "Patekimas yra tam tikrą audinį priklauso nuo prie baltymų neprisijungusio vaisto koncentracijos tarp plazmos ir to audinio gradiento."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 67,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 68,
+        "question": "Kuris iš teiginių apie autonominę nervų sistemą yra teisingas?",
+        "choices": [
+            "pagrindinis simpatinės nervų sistemos neuromediatorius yra norepinefrinas;",
+            "parasimpatinės nervų sistemos yra ilgos preganglinės ir trumpos postganglinės nervinės skaidulos;",
+            "pagrindinis parasimpatinės n.s. neuromediatorius yra acetilcholinas;",
+            "acetilcholinas stimuliuoja antinksčių meduliarinėje dalyje esančius receptorius."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 68,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 69,
+        "question": "Kurie vaistiniais preparatai plečia bronchus:",
+        "choices": [
+            "beta2 adrenoreceptorių agonistai",
+            "metilksantinai",
+            "muskarino receptorių antagonistai",
+            "muskarino receptorių agonistai",
+            "monokloniniai antikūnai"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 69,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 70,
+        "question": "Kurių farmakologinių grupių vaistiniai preparatai paprastai vartojami skrandžio ir dvylikapirštės žarnos opaligei gydyti?",
+        "choices": [
+            "M cholinoreceptorių blokatoriai",
+            "protonų siurblio inhibitoriai",
+            "antacidiniai vaistai",
+            "prostaglandinai"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 70,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 71,
+        "question": "Kokie vaistiniai preparatai blokuoja trombocito membranos adenozindifosfato (ADF) receptorius, todėl mažina trombocitų agregaciją?",
+        "choices": [
+            "klopidogrelis",
+            "prednizolonas",
+            "tiklopidinas",
+            "dipiridamolis",
+            "acetilsalicilo rūgštis"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 71,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 72,
+        "question": "Nurodykite, kurių grupių vaistai vartojami arterinės hipertenzijos gydymui?",
+        "choices": [
+            "alfa adrenomimetikai",
+            "beta adrenoblokatoriai",
+            "beta adrenomimetikai",
+            "kalcio kanalų blokatoriai",
+            "širdį veikiantys glikozidai"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 72,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 73,
+        "question": "HMG KoA inhibitorius lovastatinas:",
+        "choices": [
+            "slopina mevalonato sintezę",
+            "mažina laisvų riebalų rūgščių sintezę",
+            "didina MTL receptorių skaičių kepenų ląstelėse",
+            "mažina cholesterolio rezorbciją žarnyne"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 73,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 74,
+        "question": "Vartojant rusmenės vaistinių preparatų gali pasireikšti pavojingos aritmijos. Dėl kokių jonų stokos jos paprastai pasireiškia?",
+        "choices": [
+            "Na⁺",
+            "K⁺",
+            "Cl⁻",
+            "Mg⁺⁺",
+            "Fe⁺⁺"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 74,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 75,
+        "question": "Kuris (-ie) iš žemiau pateiktų vaistų slopina elektrinio impulso sklidimą atrioventrikuliniame mazge veikdamas L-tipo kalcio kanalus?",
+        "choices": [
+            "adenozinas",
+            "amjodaronas",
+            "esmololis",
+            "diltiazemas",
+            "flekainidas",
+            "lidokainas",
+            "meksiletinas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 75,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 76,
+        "question": "Biguanidų grupės geriamieji antidiabetiniai vaistiniai preparatai:",
+        "choices": [
+            "Dažnai sukelia hipoglikemiją",
+            "Gali sukelti gyvybei pavojingą laktatinę acidozę",
+            "Veikia PPARγ receptorius ir didina jautrumą insulinui",
+            "Mažina insulino poreikį organizme"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 76,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 77,
+        "question": "Kurie teiginiai apie farmakologines acetilsalicilo rūgšties savybes yra teisingi?",
+        "choices": [
+            "Acetilsalicilo rūgštis slopina prostaglandinų sintezę.",
+            "Didelė acetilsalicilo rūgšties dozė (didesnė nei 5 g per parą) sumažina šlapimo rūgšties koncentraciją kraujo serume.",
+            "Kitaip nei kitų nesteroidinių vaistų nuo uždegimo, acetilsalicilo rūgšties poveikis trombocitų agregacijai yra negrįžtamas.",
+            "Išgėręs per didelę acetilsalicilo rūgšties dozę, žmogus gali mirti. Tokiu atveju gali padėti priešnuodis - acetilcisteinas."
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 77,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 78,
+        "question": "Kurie teiginiai apie tramadolio veikimo mechanizmą yra TEISINGI?",
+        "choices": [
+            "Sužadina miu opioidinius receptorius",
+            "Slopina miu opioidinius receptorius",
+            "Slopina serotonino ir norepinefrino reabsorbciją į presinapsinį neuroną",
+            "Sužadina norepinefrino receptorius",
+            "Sužadina serotonino receptorius"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 78,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 79,
+        "question": "Kokie simptomai pasireiškia, apsinuodijus opioidiniais analgetikais?",
+        "choices": [
+            "siauri vyzdžiai",
+            "retas kvėpavimas",
+            "koma",
+            "traukuliai"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 79,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 80,
+        "question": "Kurie teiginiai, apibūdinantys penicilinus, yra NETEISINGI?",
+        "choices": [
+            "Veikia bakteriostatiškai, pasižymi postantibiotiniu poveikiu, yra bakterijų ląstelių citoplazmos baltymų sintezės inhibitoriai.",
+            "Veikia baktericidiškai, yra beta laktaminiai antibiotikai, slopina bakterijų ląstelės sienelės sintezę.",
+            "Sukelia kancerogeninį, teratogeninį ir embriotoksinį poveikį.",
+            "Gali sukelti alergines reakcijas.",
+            "Jungiasi su peniciliną rišančiais baltymais, slopina peptidoglikano grandinės formavimąsi, skatina autolizinų gamybą"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 80,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 81,
+        "question": "Kurie antibiotikai yra kontraindikuotini nėštumo metu?",
+        "choices": [
+            "Eritromicinas",
+            "Streptomicinas",
+            "Cefadroksilis",
+            "Tetraciklinas"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 81,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 82,
+        "question": "Į vaistinę atėjo 55 metų moteris, kuriai šeimos gydytojas paskyrė vartoti tetraciklino. Prieš išduodamas(-a) vaistą, jūs įspėsite moterį, kad vartodama šį vaistą, ji:",
+        "choices": [
+            "Prieš pat vartojimą ir po vartojimo negertų pieno",
+            "Vengtų kartu su preparatu vartoti geležies tablečių",
+            "Vengtų ilgai būti saulėje",
+            "Gertų kuo daugiau šarminio (mineralinio) vandens",
+            "Vengtų intensyvesnio fizinio krūvio, nes gali sukelti sausgyslių trūkius"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 82,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 83,
+        "question": "Kurie teiginiai apie sulfanilamidus yra teisingi?",
+        "choices": [
+            "Gali sukelti hemolizę pacientams, turintiems gliukozės-6-fosfato nepakankamumą",
+            "Nesukelia Stiveno-Džonsono sindromo",
+            "Naujagimiams gali sukelti kernicterus (naujagimių geltą)",
+            "Turi labai siaurą veikimo spektrą"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 83,
+        "random_picture_from": null,
+        "comment": null
+    }
+]
