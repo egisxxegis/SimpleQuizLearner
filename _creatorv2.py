@@ -133,10 +133,13 @@ def _get_pages(raw: str):
 
     """
     linear_space = r"[\t\f\v ]"
-    pattern = r"\n" + linear_space + r"*([0-9]+)" + linear_space + r"+\n"
+    pattern = r"(\n" + linear_space + r"*([0-9]+)" + linear_space + r"+\n)(.{0,10})"
     pages: list[_types.SimplePage] = []
     for found in _re_finditer_overlapping(pattern, raw):
-        page = _types.SimplePage(raw=found.group(0), page_num=int(found.group(1)))
+        rvalue = str(found.group(3)).upper().strip()
+        if rvalue.split(" ")[0] in _types.LETTERS:
+            continue  # dont eat my answers
+        page = _types.SimplePage(raw=found.group(1), page_num=int(found.group(2)))
         pages.append(page)
     _assert_deltas([x.page_num for x in pages], "get_pages")
 

@@ -520,6 +520,42 @@ def _do_test():
     test(_answers(task_z), ["Rinkos modifikavimo.", "Prekės modifikavimo."])
     test(len(task_z.choices), 4)
 
+    # --------------- Answers
+    body = _test_data.body13
+    answers = _creatorv2.get_answers(body)
+    count = 46
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, count)
+    test(answer_high.answer, "B")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [141, 142, 143, 144])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    test(len(questions), count)
+    test(questions[-1].question_num, count)
+    test(
+        questions[-1].question,
+        "Koks yra paracetamolio toksinio poveikio mechanizmas?",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="AB", conversions=_test_data.conversion2
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), count)
+    test(task_high.original_num, count)
+    test(task_high.option_type, "AB")
+    test(
+        _answers(task_high),
+        [
+            "Perdozavus paracetamolio, išsenka glutationo atsargos – pažeidžiamos kepenys."
+        ],
+    )
+
     # --------------- chems
     body = """
     NH4+, Hg2+

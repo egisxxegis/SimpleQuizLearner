@@ -2529,3 +2529,343 @@ atmosferą
  
 Atsakymai: 
 1.E; 2.A; 3.D; 4.A; 5.C; 6.D; 7.D; 8.D. 9. E. 10. F 11. G 12.A """
+
+body13 = """1. Kokiu būdu monosacharidai ir aminorūgštys patenka į ląsteles?  
+A) Pasyviosios pernašos būdu. 
+B) Pasyviosios palengvintosios pernašos būdu. 
+C) Aktyviosios pernašos būdu. 
+D) Skaldomi tarpląsteliniame skystyje. 
+ 
+2. Kokiam šlapimo pH esant, silpnos organinės bazės yra geriau išskiriamos iš organizmo su 
+šlapimu? 
+A) Kai šlapimas silpnai bazinis. 
+B) Kai šlapimas silpnai rūgštinis. 
+C) Kai šlapimas neutralus. 
+D) Šlapimo pH neturi reikšmės silpnų organinių bazių išsiskyrimui iš organizmo. 
+  
+3. Kokiomis savybėmis turi pasižymėti nuodingos medžiagos, kad jų pašalinimui iš organizmo 
+galima būtų taikyti hemodializę?  
+A)  Šalinamos medžiagos turi susijungti stipriais ryšiais su plazmos baltymais. 
+B)  Šalinamos medžiagos turi nesusijungti stipriais ryšiais su plazmos baltymais. 
+C)  Šalinamos medžiagos turi turėti didelį pasiskirstymo tūrį. 
+D)  Šalinamos medžiagos turi turėti didelę molekulinę masę (5000-50000). 
+ 
+4. Kokios yra pirmo pasirinkimo detoksikacinės priemonės, apsinuodijus korozinėmis 
+medžiagomis?  
+A) Sukelti vėmimą.                                          
+B) Sukelti vėmimą ir plauti skrandį. 
+C) Praskiesti nuodus skrandyje ir plauti skrandį. 
+D) Naudoti enterosorbentus. 
+ 
+5. Kurios medžiagos gali būti vartojamos kaip priešnuodis, apsinuodijus metanoliu?  
+A) Flumazenilis ir magnio sulfatas. 
+B) Etanolis ir folio rūgštis. 
+C) Naloksonas ir natreksonas. 
+D) N-acetilcisteinas ir silibininas. 
+ 
+6. Kurios medžiagos yra žalsvosios musmirės Amanita Phalloides priešnuodžiai? 
+A) Amilnitritas, gliukozė ir deferoksaminas. 
+B) N – acetilcisteinas, silibininas ir penicilinas. 
+C) Unitiolis, magnio sulfatas ir sidabro nitratas. 
+D) Metileno mėlynasis, folio rūgštis ir tiaminas. 
+ 
+7. Kokį poveikį žmogaus organizmui daro apsinuodijimas etandioliu (etilenglikoliu)?   
+A) Sukelia hiperkalcemiją, šoką, plaučių edemą, ištinka mirtis. 
+B) Sukelia hipokalcemiją, ūminę inkstų kanalėlių nekrozę. 
+C) Atsiranda dirglumas, kloniniai traukuliai. 
+D) Sukelia alkalozę, bradikardiją. 
+ 
+8. Kokiu veikimo mechanizmu pasižymi 4-metilpirazolis?  
+A) Inhibuoja alkoholdehidrogenazę. 
+B) Inhibuoja acetaldehiddehidrogenazę. 
+C) Turi didesnį afinitetą toksines medžiagas skaldantiems fermentams nei pačios 
+toksinės medžiagos. 
+D) Katalizuoja acetaldehiddehidrogenazę. 
+141 
+ 
+ 
+9. Kokį poveikį žmogaus organizmui daro lizergo rūgšties dietilamidas (LSD)? 
+A) Poveikis yra lengvai prognozuojamas, gali būti sinestezijų, haliucinacijų, cianozė, 
+traukuliai, hipotenzija.  
+B) Poveikis yra sunkiai prognozuojamas, gali būti sinestezijų, haliucinacijų, 
+hipotermija, bradikardija. 
+C) Poveikis yra sunkiai prognozuojamas, gali būti sinestezijų, haliucinacijų, nerimas, 
+panika, psichozė, tachikardija, hipertenzija, tachipnėja. 
+D) Poveikis yra lengvai prognozuojamas, gali būti sinestezijų, haliucinacijų, CNS 
+slopinimas iki kvėpavimo nepakankamumo. 
+ 
+10. Kurios medžiagos yra etandiolio (etilenglikolio) metabolitai?  
+A) Formaldehidas, skruzdžių rūgštis; 
+B) Acto aldehidas, acto rūgštis; 
+C) Butaldehidas, sviesto rūgštis; 
+D) Glikoaldehidas, glioksilo rūgštis. 
+ 
+11. Ką sukelia žmogaus organizme etilo alkoholis? 
+A) Hipertermiją, CNS slopinimą, mieguistumą; 
+B) CNS slopinimą, hipotermiją, hipoglikemiją; 
+C) CNS aktyvinimą, hiperglikemiją, hipomagnezemiją;  
+D) CNS aktyvinimą, hipotermiją, hiperglikemiją. 
+ 
+12. Kokį sindromą sukelia etanolio-disulfiramo reakcija žmogaus organizme? 
+A) Acetatinį. 
+B) Acetaldehidinį. 
+C) Glikoaldehidinį. 
+D) Formaldehidinį.                                                       
+ 
+13. Kas yra būdinga „baltajai karštinei“? 
+A) CNS stimuliacija, ryškios haliucinacijos ar iliuzijos, kvėpavimo slopinimas. 
+B) Sąmonės pritemimas, stiprus vėmimas ir diarėja, kvėpavimo slopinimas. 
+C) Sąmonės pritemimas, ryškios haliucinacijos ar iliuzijos, ryškus tremoras. 
+D) CNS stimuliacija, ryškios haliucinacijos ar iliuzijos, kvėpavimo stimuliacija. 
+ 
+14. Kuris metanolio metabolitas stipriai koreliuoja su apsinuodijimo sunkumu? 
+A) Metanalis. 
+B) Metano rūgštis. 
+C) Formaldehidas. 
+D) Glikolio rūgštis.  
+ 
+15. Kas būdinga mikrosominei etanolio oksidacijos sistemai MEOS? 
+A) Tokios etanolio skaidymo sistemos nėra. 
+B) Ji įsijungia tik ilgai ir didelėmis dozėmis vartojant etanolį. 
+C) Ją aktyvina tik kitų psichoaktyvių medžiagų vartojimas. 
+D) Ji veikia visada, išgėrus etanolio. 
+ 
+16. Kurie veiksniai lemia sunkią abstinencinės būklės riziką? 
+A) Dideli suvartoto alkoholio kiekiai, kompulsyvus potraukis.  
+B) Savigyda hipnotikais, gretutinės ūminės ligos. 
+C) Ilga alkoholio vartojimo trukmė, ankstesnės detoksikacijos. 
+D) Visi išvardinti. 
+ 
+17. Koks yra etanolio, vartojamo kaip priešnuodžio, veikimo mechanizmas? 
+A) Jis inhibuoja alkoholdehidrogenazę. 
+B) Jis padeda greičiau suskilti toksiškiems metabolitams. 
+C) Jis turi didesnį afinitetą metabolizmo fermentams. 
+D) Jis inhibuoja aldehiddehidrogenazę. 
+ 
+142 
+ 
+18. Kokie procesai vyksta žmogaus organizme, apsinuodijus nuodinguoju 
+nuosėdžiu Cortinarius orellanus? 
+A) Prasideda riebalinė kepenų distrofija ir žūsta hepatocitai. 
+B) Sukeliamas intersticinis nefritas su kanalėlių nekroze. 
+C) Blokuojama medžiagų apykaita, labai stipriai sutrinka gama-amino sviesto rūgšties 
+sintezė. 
+D) Blokuojamos fermentinės sistemos, sutrinka etanolio skaidymas. 
+ 
+19. Koks yra ajavaskos Ayhuasca gėrimo haliucinogeninio veikimo mechanizmas? 
+A) Agonistiškai veikia 5-hidroksitriptamino (serotonino) receptorius. 
+B) Sukelia anticholinerginį sindromą. 
+C) Skatina dopamino išsiskyrimą. 
+D) Slopina gama-amino sviesto rūgšties sintezę. 
+ 
+20. Kuo pasireiškia psichodelinio poveikio metu jaučiamos sinestezijos? 
+A) Prarandamas laiko suvokimas. 
+B) Pojūčių susimaišymas (matomi garsai, girdimi vaizdai). 
+C) Karščio ir deginimo pojūtis. 
+D) Matomi dalykai, kurių nėra.  
+ 
+21. Kokių haliucinogeninių medžiagų nustatoma Pejote Peyote kaktusuose ? 
+A) Lizergo rūgšties darinių. 
+B) Meskalino. 
+C) Psilocibino. 
+D) Dimetiltriptamino. 
+ 
+22. Koks yra anglies monoksido toksinis poveikis? 
+A) Organizme prisijungia prie Fe (II) turinčio hemoglobino ir audinių fermentų, 
+susidaro karboksihemoglobinas, kuris neperneša deguonies, sukelia audinių 
+hipoksiją. 
+B) Dirginamas kvėpavimo centras, atsiranda dažnas kvėpavimas, didelė dujų 
+koncentracija paralyžiuoja kvėpavimo centrą, žmogus nustoja kvėpuoti ir miršta. 
+C) Organizme jungiasi prie kvėpavimo fermento citochromoksidazės Fe³⁺ ir sutrikdo 
+kvėpavimo grandinės veiklą. 
+D) Susidaro cianhemoglobinas, blokuoja kvėpavimo grandinę ir žmogus miršta.  
+ 
+23. Kokį fermentą žmogaus organizme slopina koprinas? 
+A) Aldehiddehidrogenazę.  
+B) Citochromoksidazę. 
+C) Alkoholdehidrogenazę. 
+D) Peroksidazę. 
+ 
+24. Nuo kurio kietafazės ekstrakcijos parametro priklauso ekstrakcijos efektyvumas? 
+A) Tirpalo pH 
+B) Sorbento 
+C) Ekstrakcijos trukmės 
+D) Ekstrahento tūrio 
+ 
+25. Kuris teiginys apie imunologinius tyrimus yra teisingas? 
+A) Atliekant imunologinį tyrimą, išvengiama sukčiavimo galimybės. 
+B) Atliekant imunologinį tyrimą, medžiagos aptikimo langas yra iki 24 val. 
+C) Imunologinio tyrimo metu vaisto metabolitai ir kiti nežinomi junginiai gali sąveikauti 
+su imunofermentiniais reagentais ir duoti „klaidingai teigiamus“ rezultatus. 
+D) Imunologinio tyrimo metu gavus teigiamą atsakymą nereikia atlikti patvirtinamųjų 
+tyrimų. 
+ 
+26. Kokių veiksmų reikia imtis, perdozavus opioidų? 
+A) Užtikrinti kvėpavimo funkciją ir suleisti priešnuodį naltreksoną. 
+B) Kuo skubiau suleisti stimuliatorių, kurie panaikina opioidų sukeltą CNS slopinimą. 
+143 
+ 
+C) Užtikrinti kvėpavimo funkciją, stabilizuoti kraujo cirkuliaciją ir suleisti priešnuodį 
+naloksoną. 
+D) Išvesti į lauką „gryno oro“, sukelti vėmimą ir suleisti priešnuodį naloksoną. 
+ 
+27. Kuris teiginys apie opioidų priešnuodį naloksoną yra neteisingas? 
+A) Naloksonas tik laikinai jungiasi prie opioidinių receptorių ir nesukelia farmakologinio 
+poveikio. 
+B) Didelės naloksono dozės yra pavojingos nuo opioidų priklausantiems žmonėms. 
+C) Dėl ilgos naloksono veikimo trukmės labai svarbus tikslus vaisto skyrimo laikas. 
+D) Naloksonas nėra skiriamas priklausomybės nuo opioidų gydymui. 
+ 
+28. Kokį tyrimą reikia atlikti, siekiant įrodyti, kad žmogus ilgą laiką vartoja nikotiną? 
+A) Nikotino ir kotinino nustatymą seilių mėginiuose. 
+B) Kotinino nustatymą šlapimo mėginyje. 
+C) Nikotino ir kotinino nustatymą plaukų mėginiuose. 
+D) Kotinino nustatymą plaukų ir šlapimo mėginiuose. 
+ 
+29. Kokį poveikį žmogaus organizmui daro nikotinas? 
+A) Dirgina kvėpavimo takų gleivinę, išplečia kraujagysles, greitina senėjimo procesus. 
+B) Slopina CNS, slopina apetitą, didina depresijos simptomus, sukelia dėmesio 
+sutrikimus. 
+C) Iš pradžių skatina CNS, vėliau – slopina, sutraukia kraujagysles, sukelia virškinamojo 
+trakto uždegimus. 
+D) Sukelia savaiminius persileidimus, didina nerimo ir depresijos simptomus, didina 
+kraujospūdį. 
+ 
+30. Kokios medžiagos nustatymas biologiniuose objektuose įrodo nikotino vartojimą? 
+A) Nikotino ir koniino 
+B) Nornikotino ir nikotino 
+C) Koniino ir nornikotino 
+D) Nikotino ir kotinino 
+ 
+31. Koks yra nikotino veikimo mechanizmas organizme? 
+A) Stimuliuoja simpatinę nervų sistemą, didėja dopamino ir noradrenalino išsiskyrimas. 
+B) Stimuliuoja cholinerginius receptorius, sukeliamas adrenalino išsiskyrimas. 
+C) Slopina adenozino receptorius, padidėja dopamino ir serotonino išsiskyrimas. 
+D) Antagonistiškai veikia cholinerginius receptorius, padidėja adrenalino ir dopamino 
+išsiskyrimas. 
+ 
+32. Kuris tetrahidrokanabinolio metabolitas turi stiprų psichotropinį poveikį? 
+A) 8-hidroksi-tetrahidrokanabinolis. 
+B) 11-nor-tetrahidrokanabinolis. 
+C) 11-nor-9-karboksi-tetrahidrokanabinolis. 
+D) 11-hidroksi-tetrahidrokanabinolis. 
+ 
+33. Kuris teiginys apie kanapių vartojimą yra teisingas? 
+A) Nuolatinis kanapių vartojimas mažina depresijos ir nerimo simptomus.  
+B) Ilgai trunkantis kanapių vartojimas sukelia trumpalaikės atminties problemas, sunkiau 
+išlaikomas dėmesys ilgesnį laiką. 
+C) Alkoholio vartojimas slopina kanapių sukeliamą poveikį organizmui. 
+D) Kanapių vartojimas nesukelia psichinės priklausomybės. 
+ 
+34. Kuris teiginys apie tetrahidrokanabinolio (THC) ir jo metabolito kiekius yra teisingas, jei 
+kanapių produktai yra rūkomi? 
+A) Didžiausią koncentraciją kraujyje pasiekia kanabinoidas tetrahidrokanabinolis (THC), 
+o psichoaktyvaus metabolito hidroksi-THC susidaro tik nedidelis kiekis.  
+B) Didžiausią koncentraciją kraujyje pasiekia psichoaktyvus metabolitas hidroksi-THC, 
+o kanabinoido tetrahidrokanabinolio (THC) lieka tik nedidelis kiekis.  
+C) Smegenis pasiekia tik psichoaktyvus tetrahidrokanabinolio (THC) metabolitas 
+hidroksi-THC. 
+144 
+ 
+D) Smegenis pasiekia vienodas kanabinoido tetrahidrokanabinolio (THC) ir jo 
+psichoaktyvaus metabolito hidroksi-THC kiekis. 
+ 
+35. Kuris teiginys apie tetrahidrokanabinolio (THC) ir jo metabolito kiekius yra teisingas, jei 
+kanapių produktai patenka per virškinamąjį kanalą (valgant)? 
+A) Didžiausią koncentraciją smegenyse pasiekia kanabinoidas tetrahidrokanabinolis 
+(THC), o psichoaktyvaus metabolito hidroksi-THC susidaro tik nedidelis kiekis.  
+B) Didžiausią koncentraciją smegenyse pasiekia psichoaktyvus metabolitas hidroksi
+THC, o kanabinoido tetrahidrokanabinolio (THC) lieka tik nedidelis kiekis.  
+C) Smegenis pasiekia tik psichoaktyvus tetrahidrokanabinolio (THC) metabolitas 
+hidroksi-THC. 
+D) Smegenis pasiekia vienodas kanabinoido tetrahidrokanabinolio (THC) ir jo 
+psichoaktyvaus metabolito hidroksi-THC kiekis. 
+ 
+36. Kuris teiginys geriausiai apibūdina efedrino veikimo mechanizmą? 
+A) Agonistiškai veikia acetilcholino receptorius. 
+B) Stimuliuoja adenozino receptorius ir didina adenozino išsiskyrimą. 
+C) Stimuliuoja α ir β adrenerginius receptorius. 
+D) Stimuliuoja simpatinę nervų sistemą, didėja dopamino ir noradrenalino išsiskyrimas. 
+ 
+37. Kuris teiginys apie amfetaminus yra neteisingas? 
+A) Amfetaminai eikvoja organizmo energijos išteklius. 
+B) Fiziologiškai amfetaminų ir kokaino poveikis yra panašus, bet kokainas veikia ilgesnį 
+laiką. 
+C) Žmonės, nutraukę amfetaminų vartojimą, nepatiria sunkaus fizinio abstinencijos 
+sindromo. 
+D) Išsivysčius priklausomybei amfetaminams, sutrinka atmintis bei sugebėjimas priimti 
+sprendimus. 
+ 
+38. Kokiomis farmakokinetinėmis savybėmis pasižymi kofeinas? 
+A) Kofeino pusinis eliminacijos laikas vyrams yra trumpesnis nei moterims. 
+B) Kūdikių organizme metabolizuojama tik nedidelė dalis kofeino. 
+C) Kofeinas metabolizuojamas į farmakologiškai neaktyvius metabolitus. 
+D) Kofeiną vartojant reguliariai, poveikis gali būti jaučiamas net keletą dienų. 
+ 
+39. Koks yra kofeino veikimo mechanizmas? 
+A) Agonistiškai veikia acetilcholino receptorius. 
+B) Stimuliuoja adenozino receptorius ir didina adenozino išsiskyrimą. 
+C) Slopina cholinerginius receptorius, padidėja adrenalino ir dopamino išsiskyrimas. 
+D) Stimuliuoja simpatinę nervų sistemą, didėja dopamino ir noradrenalino išsiskyrimas. 
+ 
+40. Kuris kokaino vartojimo būdas greičiausiai sukelia jo stimuliuojamąjį poveikį? 
+A) Kokaino įtraukimas į plaučius - rūkymas. 
+B) Kokaino miltelių uostymas per nosį. 
+C) Kokainą švirkščiant po oda ar į veną. 
+D) Vartojant kokainą į virškinamąjį kanalą. 
+ 
+41. Kokį poveikį daro kokaino maišymas su alkoholiu? 
+A) Skatina psichoaktyvaus metabolito susidarymą.  
+B) Pailgina alkoholio poveikį. 
+C) Didina alergijos tikimybę  
+D) Silpnina kokaino stimuliuojamąjį poveikį. 
+ 
+42. Kuriai medžiagų grupei priklauso „Ekstazi“? 
+A) Sintetinis haliucinogeninis amfetaminas. 
+B) Sintetinis katinonas. 
+C) Amfetamino ir heroino mišinys. 
+D) Kokaino ir amfetamino mišinys. 
+ 
+43. Kokį poveikį organizmui daro efedrino maišymas su kofeinu? 
+A) Didėja insulto ir psichozės rizika. 
+B) Didėja inkstų akmenų susidarymo rizika. 
+C) Blogina vitaminų ir mineralų pasisavinimą. 
+D) Skatina aktyvaus metabolito efedrono susidarymą. 
+44. Kuris teiginys apie benzodiazepinus yra teisingas? 
+A) Visi benzodiazepinai toksiškai veikia kepenis, nepriklausomai nuo jų veikimo 
+trukmės. 
+B) Benzodiazepinų koncentracija plazmoje labai koreliuoja su simptomatika, todėl 
+svarbus kiekybinis jų nustatymas. 
+C) Švirkščiant benzodiazepinus į veną, pasireiškia stipresnis kvėpavimo funkcijos 
+slopinimas, nei geriant per os.   
+D) Benzodiazepinai slopina GASR, todėl pasireiškia slopinantis poveikis. 
+45. Kas būdinga neuroziniams psichikos sutrikimams? 
+A) Pasireiškia haliucinacijos, kliedesiai, žmogus atitrūksta nuo realybės (pvz., 
+šizofrenija). 
+B) Kyla dėl smegenų struktūros ir jų funkcijos pažeidimų (pvz., demencija). 
+C) Išsivysto po stresų  - žmogus ligą suvokia, nuo realybės neatitrūksta (pvz., fobija). 
+D) Etiologinė priežastis nenustatyta. 
+46. Koks yra paracetamolio toksinio poveikio mechanizmas? 
+A) Sutrikdo rūgščių ir šarmų pusiausvyrą – sukelia kraujavimą į virškinamąjį traktą. 
+B) Perdozavus paracetamolio, išsenka glutationo atsargos – pažeidžiamos kepenys. 
+C) Slopina citochromo P450 enzimų sistemą – pažeidžiamos kepenys ir inkstai. 
+D) Stimuliuodamas dopamino receptorius, sutrikdo rūgščių ir šarmų pusiausvyrą – 
+pažeidžiamos kepenys. 
+Atsakymai 
+1 B  16 D  31 B 
+2 B  17 C  32 D 
+3 B  18 B  33 B 
+4 C  19 A  34 A 
+5 B  20 B  35 D 
+6 B  21 B  36 C 
+7 B  22 A  37 B 
+8 A  23 A  38 B 
+9 C  24 B  39 B 
+10 D  25 C  40 C 
+11 B  26 C  41 A 
+12 B  27 C  42 A 
+13 C  28 C  43 A 
+14 B  29 C  44 C 
+15 B  30 D  45 C 
+46 
+B """

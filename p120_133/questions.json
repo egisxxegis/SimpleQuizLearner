@@ -1,0 +1,1127 @@
+[
+    {
+        "number": 1,
+        "question": "Kokia farmacine forma (ir stiprumu) vartojamas Ksilometazolinas?",
+        "choices": [
+            "Nosies purškalas, tirpalas 1 mg/ml",
+            "Injekcinis tirpalas 0,5 mg/ml",
+            "Nosies lašai, tirpalas 0,5 g/ml",
+            "Kramtomosios tabletės 1 mg"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kuri struktūros vieta atsakinga už jungimąsi prie recetorių (užblokuojami receptoriai acetilcholinui)?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": ["2_p.png", "2_a.png", "2_t.png", "2_k.png"],
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kuris gliukokortikoidų struktūros pakeitimas eliminuoja mineralkortikoidinį poveikį?",
+        "choices": [
+            "Dviguba jungtis tarp 4 ir 5 atomų",
+            "Keto gr. 3-oje padėtyje",
+            "Hidroksi gr.11-oje padėtyje",
+            "Hidroksi gr.17-oje padėtyje"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": ["3.png"],
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Indapamidas dažniausiai naudojamas vaistų deriniuose su kitais širdies ir kraujagyslių sistemą veikiančiais vaistais. Koks indapamido kiekis šiuose deriniuose?",
+        "choices": [
+            "50 – 100 mg/tabletėje",
+            "0,5 – 1,0 µg/tabletėje",
+            "1,25 – 2,5 mg/tabletėje",
+            "10 – 20 mg/tabletėje"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kokia Glimepirido farmacinė forma ir stiprumas?",
+        "choices": [
+            "Milteliai injekciniam ar infuziniam tirpalui 0,1 mg/ml",
+            "Tabletės 2 mg arba 4 mg",
+            "Sirupas 5 mg/ml",
+            "Pailginto atpalaidavimo tabletės 100 mg arba 200 mg"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kuriai grupei priklauso šis junginys?",
+        "choices": [
+            "Glinidams",
+            "Sulfanilšlapalo dariniams",
+            "Gliflozinams",
+            "Biguanidams"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": ["6.png"],
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Koks yra kvėpavimo takuose veikiančių β2 adrenoreceptorių agonistų veikimo mechanizmas?",
+        "choices": [
+            "jungiasi prie muskarininių receptorių, juos blokuoja ir sutrigdo impulso perdavimą kvėpavimo takų lygiųjų raumenų susitraukimui",
+            "suardydo cheminius ryšius tarp gleivėse esančių molekulių, t.y. nutraukia glikoproteinų disulfidines jungtis",
+            "slopina 5-lipoksigenazę, todėl slopina leukotrienų susidarymą",
+            "stimuliuoja adenililciklazę ir padidina tarpląstelinio cAMP susidarymą, taip atpalaiduodami kvėpavimo takų lygiuosius raumenis",
+            "prisijungia prie receptorių ir sukelia priešuždegiminį poveikį (slopina limfocitų, eozinofilų ir putliųjų ląstelių įsiskverbimą į kvėpavimo takus)"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kokioje terpėje Omeprazolas veikia efektyviausiai?",
+        "choices": [
+            "pH < 7",
+            "pH < 4",
+            "pH > 5",
+            "pH > 6,5"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kuri struktūros vieta atsakingą už stipresnį Ondansetrono prisijungimą prie receptoriaus?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": ["9.png"],
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kurią furozemido struktūrinę grupę galima pakeisti pvz. fenoksi grupe, nedarant neigiamos įtakos vaisto aktyvumui?",
+        "choices": [
+            "Karboksilo grupę",
+            "Sulfamidinę grupę",
+            "Chloro pakaitą",
+            "Amino grupę"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": ["10.png"],
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kuris iš šių adrenoblokatorių vartojamas gėrybinės prostatos hiperplazijos gydymui (terapinėmis dozėmis netinka arterinės hipertenzijos gydymui)?",
+        "choices": [
+            "Tamsulozinas",
+            "Adrenalinas",
+            "Doksazosinas",
+            "Solifenacinas",
+            "Fenilefrinas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Koks yra Atrakurio veikimo mechanizmas?",
+        "choices": [
+            "Jungiasi prie N cholino receptorių ir sutrigdo impulsų sklidimą.",
+            "Veikia panašiai, kaip acetilcholinas, stimuliuodamas M choline receptorius.",
+            "Jungiasi prie fermento cholinesterazės aktyviojo centro ir slopina jo aktyvumą, kaupiasi acetilcholinas, kuris stimuliuoja raumenis, liaukas ir centrinę nervų sistemą",
+            "Jungiasi prie M cholino receptorių ir blokuoja jų sąveiką su acetilcholinu."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Hetacilinas yra Ampicilino provaisto forma. Kokias Ampicilino savybes pagerina?",
+        "choices": [
+            "Padidinamos lipofilines savybės, todėl geriau rezorbuojamas žarnyne",
+            "Padidėja tirpumas vandenyje, todėl gali būti vartojama injekcinė forma",
+            "Padidinamos lipofilines savybės, todėl geriau praeina akies audinių membraną",
+            "Pašalinamas nemalonus skonis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": ["13.png"],
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kuris iš žemiau pateiktų vaisto pavadinimų yra tarptautinis (INN) pavadinimas?",
+        "choices": [
+            "1-butil-3-metilimidazolinas",
+            "Coldrex",
+            "NV-AX-488A",
+            "Formoterol"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kuris lygis pagal Anatominę terapinę cheminę klasifikaciją nurodo farmakologinę grupę?",
+        "choices": [
+            "Pirmas lygis",
+            "Antras lygis",
+            "Trečias lygis",
+            "Ketvirtas lygis",
+            "Penkas lygis"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kuris teiginys apie protonų siurblio inhibitorius yra teisingas?",
+        "choices": [
+            "visi protonų siurblio inhibitoriai yra provaistai",
+            "biologiniam aktyvumui vienodai svarbios benzimidazolo ir piridino dalys",
+            "metoksi arba fluoralkoksi pakaitai benzimidazolo žiede padidina lipofiliškumą ir kartu biologinį aktyvumą",
+            "chloro pakaitai benzimidazolo žiede mažina aktyvumą",
+            "visi teiginiai yra teisingi"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": ["16.png"],
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "HMG-KoA reduktazės inhibitoriai statinai selektyviai veikia kepenų HMG-KoA reduktazę. Kuri molekulės funkcinė grupė nulemia statinų poveikį?",
+        "choices": [
+            "3,5-dihidroksi- grupė",
+            "Esterinė grupė;",
+            "Metilo grupė",
+            "Dekalino žiedas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kurie 3 struktūriniai komponentai sudaro lidokaino molekulę?",
+        "choices": [
+            "Aromatinis žiedas, jungiančioji grupė – amidas, jonizuojama amino grupė",
+            "Aromatinis žiedas, jungiančioji grupė – azidas, jonizuojama karboksigrupė",
+            "Chinuklidino žiedas, jungiančioji grupė – amidas, jonizuojama amino grupė",
+            "Chinuklidino žiedas, jungiančioji grupė – amidas, chinolino žiedas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "ARNI vaistai: sakubitrilas valsartanas. Kurios sakubitrilo funkcinės grupės jungiasi su neprilizino Zn atomu?",
+        "choices": [
+            "Karboksilatas",
+            "Amidas",
+            "Fenilas",
+            "Propilas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kuri natrio ir gliukozės vienakrypčio nešiklio 2 (SGLT2) inhibitorių funkcinė grupė būtina vaistui jungtis su taikiniu?",
+        "choices": [
+            "Lipofilinis pakaitas distalinio žiedo para padėtyje būtinas prisijungti prie SGLT2 baltymo",
+            "Hidrofilinis pakaitas distalinio žiedo para padėtyje būtinas prisijungti prie SGLT2 baltymo",
+            "Metilo pakaitai proksimaliniame fenilo žiede orto padėtyje",
+            "Tiometil pakaitai proksimaliniame fenilo žiede orto padėtyje"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Kaptoprilio SAR: šio vaisto molekulės ypatumai",
+        "choices": [
+            "Karboksilo grupė ir tiolio grupė sustiprina prisijungimą prie taikinio - AKF cinko jonų",
+            "Tiolio grupė pagerina vaisto farmakokinetiką",
+            "Tiolio grupė neturi įtakos vaisto farmakokinetikai",
+            "Vaisto veikimas nulemtas amido pakaito"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "AKF inhibitorių SAR ypatumai:",
+        "choices": [
+            "Turi turėti žiedą, kuris leistų jungtis su AKF, turi turėti Zn prisijungiančias grupes; jungimąsi su taikiniu sustiprina karboksilo ir fosfininės grupės pakaitai",
+            "Turi turėti žiedą, kuris leistų jungtis su AKF, turi turėti Cl prisijungiančias grupes; jungimąsi su taikiniu slopina karboksilo ir fosfininės grupės pakaitai, todėl jie esterifikuojami",
+            "Turi turėti žiedą, kuris leistų jungtis su AKF, turi turėti F prisijungiančias grupes",
+            "Turi turėti žiedą, kuris leistų jungtis su AKF, turi turėti Zn prisijungiančias grupes"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Sildenafilio PDE5 santykinį selektyvumą nulemia ši molekulės struktūros dalis:",
+        "choices": [
+            "Metilpiperazinas",
+            "Sulfoninė rūgštis",
+            "Metilpiperidinas",
+            "Piperidinas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Ką lemia šoninės β-laktaminių antibiotikų penicilinų grandinės pakaitas pirminėje 6-APA amino grupėje, turintis elektronus pritraukiančią grupę?",
+        "choices": [
+            "Šoninės grandinės pakaitas pirminėje 6-APA amino grupėje, turintis elektronus pritraukiančią grupę, iš dalies apsaugo penicilinus nuo degradacijos rūgštyse",
+            "Šoninės grandinės pakaitas pirminėje 6-APA amino grupėje, turintis elektronus pritraukiančią grupę, neapsaugo penicilinų nuo degradacijos",
+            "Šoninės grandinės pakaitas pirminėje 6-APA amino grupėje, turintis elektronus pritraukiančią grupę, nulemia atsparumą penicilinazėms",
+            "Šoninės grandinės pakaitas pirminėje 6-APA amino grupėje, turintis elektronus pritraukiančią grupę, lemia geresnį vaisto tirpumą riebaluose"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Ką nulemia ampicilino molekulėje esanti α-amino grupė?",
+        "choices": [
+            "Lemia platų veikimo spektrą",
+            "Lemia siaurą veikimo spektrą",
+            "Lemia tirpumą vandenyje",
+            "Neturi didelės įtakos vaisto veikimui"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kuris pakaitas cefalosporinų molekulėje nulemia jų antimikrobinį aktyvumą?",
+        "choices": [
+            "7β-amino grupė",
+            "8β-amino grupė",
+            "9β-amino grupė",
+            "12β-amino grupė"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kokiom savybėm pasižymi cefepimas?",
+        "choices": [
+            "ketvirtos kartos cefalosporinas, kuris vartojamas parenteriškai ir yra β-laktamazėms atsparus",
+            "antros kartos cefalosporinas, kuris yra β-laktamazėms neatsparus",
+            "ketvirtos kartos cefalosporinas, kuris vartojamas per os ir yra β-laktamazėms neatsparus",
+            "ketvirtos kartos cefalosporinas, kuris vartojamas per os ir yra β-laktamazėms atsparus"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Koks yra karbapenemų molekulės ypatumas?",
+        "choices": [
+            "Sieros atomas neįeina į penkianario žiedo struktūrą, yra vietoj metileno grupės",
+            "Sieros atomas įeina į penkianario žiedo struktūrą",
+            "Sieros atomas neįeina į šešianario žiedo struktūrą, yra vietoj dvigubos jungties",
+            "Sieros atomas yra vietoj azoto atomo"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Aminoglikozidai savo struktūroje turi 3 žiedus, kurių svarbiausias(i) yra:",
+        "choices": [
+            "Pirmasis žiedas, nes jis nulemia plataus spektro antibakterinį aktyvumą",
+            "Antrasis žiedas, kurį acilinus susidaro amikacinas",
+            "Trečiasis žiedas, kurio pakaitai daro reikšmingą įtaką vaisto molekulės veikimui",
+            "Pirmasis ir antrasis žiedai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kas sieja visus tetraciklinus?",
+        "choices": [
+            "Turi turėti 4 žiedus tinkamam vaisto veikimui",
+            "Turi turėti 3 žiedus tinkamam vaisto veikimui",
+            "Pakaitai iš esmės nedaro jokios įtakos molekulės aktyvumui",
+            "Galimos ženklios molekulės modifikacijos, kurios pagerina lipofiliškumą"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Azitromicino struktūrai būdinga:",
+        "choices": [
+            "Nėra 9-keto grupės, o tretinio amino įterpimas į makrolidinio žiedo struktūrą, padidino vaisto atsparumą rūgštims",
+            "Turi 9-keto grupę ir tretinį aminą makrolidinio žiedo struktūroje, kas padidina vaisto atsparumą rūgštims",
+            "Neturi 9-keto grupė ar tretinio amino makrolidinio žiedo struktūroje, kas galėtų sumažinti vaisto atsparumą rūgštims",
+            "Neturi 9-keto grupė ar tretinio amino makrolidinio žiedo struktūroje, kas galėtų sumažinti vaisto atsparumą šarmuose"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kokiu tikslu vartoti per os skiriami sulfanilamidų mišiniai?",
+        "choices": [
+            "mišinio skirtingų komponentų tirpumas išlieka aukštas, todėl nesusidaro kristalai, bei pasiekiamas stipresnis antibakterinis poveikis nei vartojant tik vieną komponentą",
+            "mišinio skirtingų komponentų antibakterinis poveikis sumuojasi",
+            "skirtingi sulfanilamidai sudaro junginius, kurie tirpsta geriau riebaluose",
+            "pasiekiamas mažesnis toksiškumas, nei vartojant vieną vaistą"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kuri molekulės dalis yra sintetinių antimikrobinių vaistų chinolonų farmakoforas?",
+        "choices": [
+            "karboksi-4-piridonas",
+            "hidroksi-4-piridonas",
+            "chlor-4-piridonas",
+            "S-4-piridonas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kokiu principu veikia fosfomicinas?",
+        "choices": [
+            "slopina bakterijų sienelės biosintezę per UDP-N-acetilgliukozamino enolpiruvil transferazę (MurA) alkilindamas cisteiną",
+            "veikia ribosomų 30S subvienetą",
+            "veikia 16S RNR",
+            "inaktyvuoja bakterijų folio rūgšties sintezę"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Nurodykite, kuris vaistas nepriskiriamas Imidazolų grupės priešgrybeliniams vaistams?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": ["35_d.png", "35_c.png", "35_b.png", "35_a.png"],
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Nurodykite Nistatino chromoforą:",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": ["36_d.png", "36_c.png", "36_b.png", "36_a.png"],
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kuris iš šių teiginių apie vaistą žemiau yra TEISINGAS?",
+        "choices": [
+            "Tai pirmos eilės rifamicinų grupės vaistas.",
+            "Tai makrociklinis laktonas polienas.",
+            "Tai triazolas, pasižymintis priešgrybeliniu poveikiu.",
+            "Tai echinokandinų grupės vaistas, kuris slopina grybelio ląstelės sienelės biosintezę."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": ["37.png"],
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kuris iš šių teiginių apie vaistą žemiau yra TEISINGAS?",
+        "choices": [
+            "Tai vaistas, kuris slopina bakterijų RNR polimerazę.",
+            "Tai vaistas, kuris slopina ergosterolio sintezę.",
+            "Tai vaistas, kuris slopina ilgos grandinės riebalų rūgščių (Mikolio r.) sintezę.",
+            "Tai vaistas, kuris sudaro chelatus su polivalentiniais katijonais."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": ["38.png"],
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Nenukleozidiniai atvirkštinės transkriptazės inhibitoriai:",
+        "choices": [
+            "Jungiasi prie hidrofobinių fermento atvirkštinės tranksriptazės vietų ir ją blokuoja.",
+            "Įtraukiami į virusų DNR, struktūroje neturi 3‘hidroksigrupės, todėl slopina atvirkštinę transkriptazę.",
+            "Yra nukleotidų ir nukleozidų analogai.",
+            "Lamivudinas yra  nenukleozidinis atvirkštinės transkriptazės inhibitorius."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Nurodykite, kuris junginys vaizduoja aziridino jono, kuris susidaro veikiant azoto mustardams, struktūrą.",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": ["40_q.png", "40_w.png", "40_e.png", "40_r.png"],
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Kurios vaistų grupės veikimo mechanizmas yra pavaizduotas paveikslėlyje žemiau?",
+        "choices": [
+            "Platinos dariniai",
+            "Azoto mustardai",
+            "Antraciklinai",
+            "Taksanai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": ["41.png"],
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Nurodykite Fluorouracilo prisijungimo prie fermento vietą, pasirinkdami atitinkamą raidę.",
+        "choices": [
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": ["42_u.png", "42_j.png", "42_m.png"],
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Metotreksatas:",
+        "choices": [
+            "Yra folio rūgšties analogas",
+            "Yra topoizomerazės II inhibitorius",
+            "Yra pusiau sintetinis podofilotoksino glikozidas.",
+            "Yra tiesioginis timidilato sintazės inhibitorius."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Nurodykite, kurio vaisto struktūra vaizduojama paveiksle?",
+        "choices": [
+            "Imatinibas.",
+            "Vinkristinas",
+            "Docetakselis.",
+            "Doksorubicinas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": ["44.png"],
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Kurio vaisto veikimo mechanizmui būdingas aziridino jono susidarymas?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": ["45_p.png", "45_o.png", "45_i.png", "45_u.png"],
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Kuris iš nurodytų vaistų yra ciklinis aminas",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": ["46_p.png", "46_o.png", "46_i.png", "46_u.png"],
+        "comment": null
+    },
+    {
+        "number": 47,
+        "question": "Kuriame paveikslėlyje teisingai pažymėta grupė nuo kurios priklauso slopinantis MAO-B aktyvumas?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 47,
+        "random_picture_from": ["47_p.png", "47_o.png", "47_i.png", "47_u.png"],
+        "comment": null
+    },
+    {
+        "number": 48,
+        "question": "Kokiai grupei pagal veikimo mechanizmą yra priskiriamas Benserazidas?",
+        "choices": [
+            "DOPA-dekarboksilazės inhibitoriams",
+            "Dopamino prekursoriams",
+            "KOMT inhibitoriams",
+            "MAO-B inhibitoriams"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 48,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 49,
+        "question": "Kuriame paveikslėlyje teisingai pažymėta vieta dėl kurios vaistas lengvai pereina kraujo-smegenų barjerą?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 49,
+        "random_picture_from": ["49_p.png", "49_o.png", "49_i.png", "49_u.png"],
+        "comment": null
+    },
+    {
+        "number": 50,
+        "question": "Kokiai antiepilepsinių vaistų klasei pagal cheminę struktūrą yra priskiriamas Levetiracetamas?",
+        "choices": [
+            "Valpro rūgšties analogams",
+            "Feniltriazinams",
+            "γ-aminosviesto rūgšties (GABA) analogams",
+            "Benzodiazepinams"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 50,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 51,
+        "question": "Kokia farmacine forma yra vartojamas pateiktos struktūros vaistas?",
+        "choices": [
+            "Plėvele dengtomis tabletėmis",
+            "Kapsulėmis",
+            "Injekcijomis",
+            "Tabletėmis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": ["51.png"],
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Kuris žemiau pateiktas vaistas yra vartojamas Alzheimerio ligai gydyti?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": ["52_p.png", "52_o.png", "52_i.png", "52_u.png"],
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Kuris benzodiazepinas priskiriamas anksiolitikams 3-hidroksibenzdiazepino dariniams?",
+        "choices": [
+            "Diazepamas",
+            "Lorazepamas",
+            "Tofizopamas",
+            "Nitrazepamas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Kuris iš šių vaistų yra melatonino receptorių agonistas?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": ["54_p.png", "54_o.png", "54_i.png", "54_u.png"],
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Kuris teiginys apie opioidų SAR yra neteisingas?",
+        "choices": [
+            "Aromatinis žiedas yra būtinas analgeziniam aktyvumui",
+            "Laisva fenolinė grupė būtina analgeziniam aktyvumui",
+            "Jonizuota amino grupė labai svarbi bendrai opioido struktūrai",
+            "Esterio hidrolizė į rūgštį (t. y. benzoilekgoniną) sumažina aktyvumą"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Koks yra antipsichozinių vaistų (neuroleptikų) pagrindinis veikimo mechanizmas?",
+        "choices": [
+            "Antipsichoziniai vaistai blokuoja dopamino receptorius",
+            "Antipsichoziniai vaistai aktyvina dopamino receptorius",
+            "Antipsichoziniai vaistai blokuoja dopamino reabsorbciją",
+            "Antipsichoziniai vaistai blokuoja serotonino ir noradrenalino reabsorbciją"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 57,
+        "question": "Kaip veikia pavaizduotas vaistas?",
+        "choices": [
+            "Slopina serotonino ir norepinefrino reabsorbciją",
+            "Selektyviai slopina norepinefrino reabsorbciją",
+            "Selektyviai slopina serotonino reabsorbciją",
+            "Slopina dopamino ir norepinefrino reabsorbciją"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 57,
+        "random_picture_from": ["57.png"],
+        "comment": null
+    },
+    {
+        "number": 58,
+        "question": "Kuri cheminė grupė nepriklauso antidepresantams?",
+        "choices": [
+            "Monocikliai junginiai",
+            "Bicikliai junginiai",
+            "Tricikliai junginiai",
+            "Tetracikliai junginiai"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 58,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 59,
+        "question": "Koks yra vietinių anestetikų veikimo mechanizmas?",
+        "choices": [
+            "Vietiniai anestetikai selektyviai slopina NMDA tipo glutamato receptorius",
+            "Vietiniai anestetikai aktyvina GABA ir glicino receptorius nervų skaidulose",
+            "Vietiniai anestetikai blokuoja Cl⁻ jonų kanalus nervų skaidulose",
+            "Vietiniai anestetikai blokuoja Na⁺ jonų kanalus nervų skaidulose"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 59,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 60,
+        "question": "Kuris teiginys apie vietinius anestetikus yra teisingas?",
+        "choices": [
+            "Esteriai yra aktyvesni, tačiau sukelia daugiau nepageidaujamų poveikių",
+            "Molekulių savybes lemia lipofilinės ir hidrofilinės dalių santykis, o veikimo stiprumas priklauso nuo hidrofiliškumo",
+            "Pagrindinis vietinių anestetikų veikimo mechanizmas yra įtampos valdomų K kanalų blokada",
+            "Artikainas ir Lidokainas yra vidutinės veikimo trukmės amidai"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 60,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 61,
+        "question": "Kuris teiginys apie anestetikų SAR yra neteisingas?",
+        "choices": [
+            "Halogeninimas sumažina arba pašalina degumą ir padidina vaisto stiprumą",
+            "Halogeninimas padidina vaistų polinkį sukelti širdies aritmijas ir (arba) traukulius",
+            "Tai inhaliacinis bendrasis anestetikas",
+            "Ilgos šoninės grandinės pakaitas yra labai svarbus didinant tirpumą lipiduose"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 61,
+        "random_picture_from": ["61.png"],
+        "comment": null
+    },
+    {
+        "number": 62,
+        "question": "Kuris NVNU yra priskiriamas selektyviems COX-2 inhibitoriams?",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 62,
+        "random_picture_from": ["62_p.png", "62_o.png", "62_i.png", "62_u.png"],
+        "comment": null
+    },
+    {
+        "number": 63,
+        "question": "Kuris vaistas priklauso trečios kartos H₁ antagonistams?",
+        "choices": [
+            "Azelastinas",
+            "Loratadinas",
+            "Desloratadinas",
+            "Klemastinas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 63,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 64,
+        "question": "Kuris teiginys apie antihistamininių vaistų SAR yra neteisingas?",
+        "choices": [
+            "Dimetilinti junginiai aktyvesni",
+            "Molekulės yra lipofilinės",
+            "Šie vaistai imituoja histamino struktūros žiedą ir yra hidrofiliniai",
+            "Aromatiniai žiedai (Ar) sudaro hidrofobinius ryšius su receptoriumi"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 64,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 65,
+        "question": "Kuri grupė Aspirino struktūroje yra svarbi jungimuisi su ciklooksigenaze (COX)?",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 65,
+        "random_picture_from": ["65_p.png", "65_o.png", "65_i.png", "65_u.png"],
+        "comment": null
+    },
+    {
+        "number": 66,
+        "question": "Kuriai grupei pagal cheminę struktūrą yra priskiriamas pavaizduotas NVNU?",
+        "choices": [
+            "Heteroarilacto rūgšties dariniams",
+            "Fenilacto rūgšties dariniams",
+            "Fenilmetilacto rūgšties dariniams",
+            "Nerūgštiniams heterocikliniams dariniams"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 66,
+        "random_picture_from": ["66.png"],
+        "comment": null
+    }
+]
