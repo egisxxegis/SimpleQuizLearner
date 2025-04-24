@@ -556,6 +556,125 @@ def _do_test():
         ],
     )
 
+    # --------------- Answers
+    body = _test_data.body14
+    answers = _creatorv2.get_answers(body)
+    count = 56
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, count)
+    test(answer_high.answer, "B")
+    # --------------- Pages
+    # pages = _creatorv2._get_pages(body)
+    # test([page.page_num for page in pages], [141, 142, 143, 144])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    test(len(questions), count)
+    test(questions[-1].question_num, count)
+    test(
+        questions[-1].question,
+        "Vaistinėje 1 metus saugomi šie popieriniai receptai:",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="AB", conversions=_test_data.conversion2
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), count)
+    test(task_high.original_num, count)
+    test(task_high.option_type, "AB")
+    test(
+        _answers(task_high),
+        [
+            "1 formos, pagal kuriuos parduoti vaistiniai preparatai, kurių veikliosios medžiagos bendrinis pavadinimas yra semagliutidas;"
+        ],
+    )
+
+    # --------------- Answers
+    body = _test_data.body15
+    answers = _creatorv2.get_answers(body)
+    count = 22
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, count)
+    test(answer_high.answer, "A")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [180, 181, 182, 183, 184, 185, 186])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    test(len(questions), count)
+    test(questions[-1].question_num, count)
+    test(
+        questions[-1].question,
+        "Įmonės veiklos valdymas (operational management) apima šias sritis:",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="MULTI", conversions=_test_data.conversion2
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    task_z = tasks[14]
+    test(len(tasks), count)
+    test(task_high.original_num, count)
+    test(task_high.option_type, "MULTI")
+    test(
+        _answers(task_high),
+        [
+            "Prekių ir paslaugų asortimento formavimas",
+            "Įmonės procesų valdymas",
+            "Kokybės valdymas",
+        ],
+    )
+    test(task_z.original_num, 15)
+    test(task_z.option_type, "MULTI")
+    test(
+        _answers(task_z),
+        [
+            "Vieta, skirta Geros vaistinių praktikos nuostatuose nustatytoms kitoms paslaugoms teikti",
+            "Vieta, skirta vaistinių preparatų pakuotei perpakuoti, perfasuoti, pateikčiai keisti",
+            "Vieta, kurioje priimami ir tvarkomi vaistiniai preparatai",
+        ],
+    )
+
+    # --------------- Answers
+    body = _test_data.body16
+    answers = _creatorv2.get_answers(body)
+    count = 22
+    answer_high = answers[-1]
+    test(len(answers), count)
+    test(answer_high.question_num, count)
+    test(answer_high.answer, "B")
+    # --------------- Pages
+    pages = _creatorv2._get_pages(body)
+    test([page.page_num for page in pages], [188, 189, 190, 191])
+    # --------------- Questions
+    questions = _creatorv2.get_questions(body, answers)
+    test(len(questions), count)
+    test(questions[-1].question_num, count)
+    test(
+        questions[-1].question,
+        "Prekės į kategorijas vaistinėse skirstomos, pagal tai kaip jos turi būti laikomos oficinoje. (LR SAM įsakymas V- 1849,2016.12.29)",
+    )
+    converter = _creatorv2.get_answer_converter(
+        mode="AB", conversions=_test_data.conversion2
+    )
+    tasks = _creatorv2.get_tasks(
+        raw=body, questions=questions, answers=answers, answer_converter=converter
+    )
+    task_high = tasks[-1]
+    test(len(tasks), count)
+    test(task_high.original_num, count)
+    test(task_high.option_type, "AB")
+    test(
+        _answers(task_high),
+        ["Ne"],
+    )
+
     # --------------- chems
     body = """
     NH4+, Hg2+

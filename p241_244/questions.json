@@ -1,0 +1,546 @@
+[
+    {
+        "number": 1,
+        "question": "”Pažangiosios terapijos vaistinis preparatas“ reiškia tokį medicininį produktą:",
+        "choices": [
+            "Kurio vaistinė medžiaga yra biologinėse sistemose natūraliai egzistuojančios DNR ar RNR molekulės fragmentas;",
+            "Bet kokį genų terapijos medicininį produktą;",
+            "Kurį sudaro ląstelės, kurių genetinė informacija buvo modifikuota siekiant terapinio poveikio;",
+            "Kiekvienas medicininis produktas galintis sukelti kontroliuojamą organizmo ląstelių mutaciją."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kuris iš išvardintų faktų yra svarbus regeneratyvinės medicinos raidai:",
+        "choices": [
+            "Imuninę sistemą stimuliuojančių vaistų sukūrimas ir pritaikymas terapijoje;",
+            "Imuninę sistemą slopinančių vaistų sukūrimas ir pritaikymas terapijoje;",
+            "Imuninių serumų ir imunoglobulinų sukūrimas ir pritaikymas terapijoje;",
+            "Vakcinų sukūrimas ir pritaikymas terapijoje."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kas labiausiai riboja organų transplantacijos prieinamumą?",
+        "choices": [
+            "Ribota patirtis organų transplantacijoje;",
+            "Transplantuojamų organų imunogeninės savybės;",
+            "Donorų pakankamumas;",
+            "Transplantacijų procedūros priimtinumas pacientams."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kamieninių ląstelių terapijos teikiamas esminis privalumas iš žemiau išvardintų yra:",
+        "choices": [
+            "Minimizuotas imuninis atsakas;",
+            "Kamieninių ląstelių stabilumas ir atsparumas aplinkos faktoriams;",
+            "Kamieninių ląstelių šaltinių įvairovė ir prieinamumas;",
+            "Nesudėtinga kamieninių ląstelių produktų kokybės užtikrinimo sistema."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Audinių inžinerijos pažangą labiausiai lėmė:",
+        "choices": [
+            "Ląstelių imobilizavimo technologijų sukūrimas;",
+            "Kamieninių ląstelių modifikavimo procedūrų išvystymas;",
+            "Ekstraląstelinių matricų sukūrimas ir pritaikymas ląstelių gyvybingumui ir diferenciacijai užtikrinti;",
+            "Automatizuotų sistemų sukūrimas ląstelių metabolizmo tyrimams."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kas labiausiai komplikuoja genų terapijai skirtų produktų kūrimą ir vystymą?",
+        "choices": [
+            "Kuriamų produktų sterilumo užtikrinimo problemos;",
+            "Iššūkiai vertinant genų terapijai skirtų produktų kokybės rodiklius;",
+            "Ribotas kuriamų produktų stabilumas;",
+            "Klinikinių tyrimų organizavimo ir vykdymo iššūkiai."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Genų terapijos produktų reguliavimą komplikuoja:",
+        "choices": [
+            "Dideli genų terapijos kaštai;",
+            "Nepakankamas gydytojų skaičius, galintis praktikoje naudoti genų terapijos produktus;",
+            "Nuolat kintančios genų terapijos produktų technologijos;",
+            "Nedidelis praktikoje naudojamų genų terapijos produktų skaičius."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kam pirmiausiai yra skiriami kuriami genų terapijos produktai?",
+        "choices": [
+            "Atsparumui infekciniams susirgimams didinti;",
+            "Paveldimų ligų gydymui;",
+            "Imuninės sistemos veiksmingumui užtikrinti;",
+            "Organizmo audinių regeneravimui ir imuninio atsako slopinimui."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kodėl genų terapijos produktai dažnai yra kuriami naujagimiams ir vaikams?",
+        "choices": [
+            "Metaboliniai sutrikimai pasireiškia jauname amžiuje;",
+            "Naujagimių ir vaikų terapija yra mažiau sudėtinga nei suaugusiųjų;",
+            "Galimybė pritaikyti paprastesnius genų terapijos produktus;",
+            "Didesnė genų terapijos veiksmingumo tikimybė."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Genų terapijos produkto veiksmingumą reikšmingiausiai lemia:",
+        "choices": [
+            "Naudojamas tinkamas virusinis vektorius;",
+            "Naudojama tinkama injekavimo sistema;",
+            "Produkto gryninimo/išvalymo technologija;",
+            "Produkto stabilizavimui naudojamos pagalbinės medžiagos."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kuriant genų terapijos produktus kurių struktūroje yra virusinių ar bakterinių vektorių būtina įvertinti:",
+        "choices": [
+            "Pritaikytų vektorių reaktyvumą veikiant aplinkos faktoriams;",
+            "Patogeniškumą ir virulentiškumą žmogaus ir gyvūnų organizmams;",
+            "Vektorinių komponentų galimą sąveiką su ketinamų naudoti talpyklių komponentais;",
+            "Galimus vektorinių komponentų cheminio nestabilumo pasireiškimus."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Adeno-asocijuotų virusinių vektorių priimtinumą lemia:",
+        "choices": [
+            "Mažas jų molekulės dydis;",
+            "Santykinai mažas adeno-asocijuotų virusų genomas ir pakankamas jo ištyrimas;",
+            "Atsparumas cheminiams aplinkos faktoriams;",
+            "Atsparumas fiziniams aplinkos faktoriams."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kurios adeno-asocijuotų virusų savybės leidžia santykinai saugiai juos pritaikyti kuriant genų terapijos produktus:",
+        "choices": [
+            "Menkas adeno-asocijuotų virusų kitimas;",
+            "Adeno-asocijuotų virusų nepatogeniškumas;",
+            "Pritaikomos ekonomiškos biotechnologijos;",
+            "Suderinamumas su daugeliu pagalbinių medžiagų, kurios naudojamos farmacinių produktų gamyboje."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kas būdinga genų terapijai ex vivo?",
+        "choices": [
+            "Nešiklis injekuojamas tiesiogiai pacientui;",
+            "Tinka visiems organams ir audiniams;",
+            "Modifikuojamas neribotas ląstelių skaičius;",
+            "Sukelia mažiau imuninių reakcijų."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kokios savybės būdingos retrovirusams?",
+        "choices": [
+            "Genetinė informacija užkoduota DNR grandinėje;",
+            "Išskiria viruso baltymus;",
+            "Būdingas mažas imunogeniškumas;",
+            "Pasižymi stabilumu."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Genų terapijos pažangai ir klinikiniam pritaikymui patvirtinti būtina sukurti tinkamus:",
+        "choices": [
+            "Cheminės analizės metodus;",
+            "Ląstelinius tyrimo modelius;",
+            "Modelius, pritaikomus tyrimuose su gyvūnais;",
+            "Modelius, pritaikomus tyrimuose su savanoriais."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kurie teiginiai netinka apibūdinti indukuotas pluripotentines ląsteles:",
+        "choices": [
+            "Tai perprogramuotos somatinės ląstelės;",
+            "Gaunamos pakeičiant kiaušinėlio branduolį į somatinės ląstelės branduolį;",
+            "Sukelia mažiau imuninių reakcijų, nes pradinės ląstelės yra paties paciento ląstelės;",
+            "Gali diferencijuoti į visų tipų ląsteles."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Nurodyti somatinių kamieninių ląstelių savybes:",
+        "choices": [
+            "Diferencijuoja tik į tam tikro audinio ar organo ląsteles;",
+            "Pluripotentinės;",
+            "Gali būti tik alogeninės;",
+            "Didelė teratomų rizika."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kas nepriskiriama išoriniams ląstelių terapijos rizikos faktoriams?",
+        "choices": [
+            "Pradinės medžiagos;",
+            "Naudojamų ląstelių savybės;",
+            "Žinių apie donoro ligos istoriją trūkumas;",
+            "Užteršimas pašalinėmis medžiagomis."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Vakcinų praktinį pritaikomumą reikšmingiausiai lemia:",
+        "choices": [
+            "Gamyboje naudotų ląstelių kilmė;",
+            "Stabilumas esant aplinkos temperatūrai iki 40 °C;",
+            "Gaminto taikomų technologinių procesų atitikimas GGP normoms;",
+            "Galimas produkto užterštumas baltyminės kilmės medžiagomis."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Tinkamas vakcinos technologijos išvystymas numato:",
+        "choices": [
+            "Visišką pavojingų komponentų pašalinimą iš produkto;",
+            "Pavojingų komponentų kiekis produkte negali būti didesnis kaip 5 proc. nuo vaistinės medžiagos absoliutaus kiekio;",
+            "Pavojingų komponentų kiekis produkte negali būti didesnis kaip 10 proc. nuo vaistinės medžiagos absoliutaus kiekio;",
+            "Pavojingų komponentų kiekio produkte nustatyti nereikalaujama."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Moksliniai iššūkiai vakcinų kūrime ir vystyme apima:",
+        "choices": [
+            "Kvalifikuotų tyrėjų trūkumą;",
+            "Nenustatyti infekcinių ligų sukėlėjai;",
+            "Infekcinių ligų sukėlėjų sukurti apsisaugojimo mechanizmai;",
+            "Kuriamų vakcinų galimas užteršimas baltyminėmis medžiagomis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Imunologiniai iššūkiai naujų vakcinų kūrime ir vystyme apima:",
+        "choices": [
+            "Pagrindinių imunogenų antigeninis kitimas;",
+            "Imunoglobulinų kiekio organizme svyravimai;",
+            "Neutralizuojantis organizmo baltymų poveikis vakcinos aktyviesiems komponentams;",
+            "Imuninis organizmo atsakas į vakcinose naudojamas pagalbines medžiagas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Tinkamam naujos vakcinos sukūrimui turi būti:",
+        "choices": [
+            "Patvirtintas ligos sukėlėjo serotipas;",
+            "Patvirtintas ligos sukėlėjo potipis;",
+            "Patvirtinta ir tinkamai charakterizuota antigeninė kompozicija;",
+            "Patvirtinta gamyboje naudojamų pagalbinių medžiagų kokybinė sudėtis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Gyvoms susilpnintoms vakcinoms viruso sauga turi būti užtikrinta įvertinant:",
+        "choices": [
+            "Vakcinos gamyboje naudojamų pagalbinių medžiagų poveikį;",
+            "Vakcinos gamyboje naudojamos talpyklės poveikį;",
+            "Vakcinos viruso genetinį ir fenotipinį stabilumą;",
+            "Vakcinos stabilumą ilgalaikio laikymo sąlygomis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Regeneratyvinės medicinos vystymąsi skatina:",
+        "choices": [
+            "Santykinai žemi ląstelių/audinių terapijos kaštai;",
+            "Organų transplantacijai būdingos komplikacijos;",
+            "Ribotas organų transplantacijai prieinamumas;",
+            "Paprastas naudojamų produktų standartizavimas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Audinių inžinerija apibūdinama kaip:",
+        "choices": [
+            "Polimerinių audinių pritaikymas įvairios kilmės traumų gydymui;",
+            "Biologinių polimerų pritaikymas įvairios kilmės traumų gydymui;",
+            "Audinių regeneravimas naudojant ląsteles arba biologines matricų medžiagas, arba jas abi;",
+            "Audinių atkūrimas naudojant donorinius organus."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Audinių inžinerijoje naudojamų ekstraląstelinių matricų funkcija yra:",
+        "choices": [
+            "Užtikrinti saugų produkto panaudojimą;",
+            "Skatinti kamieninių ląstelių gyvybingumą ir reguliuojamą diferenciaciją;",
+            "Sumažinti produkto gavybos kaštus;",
+            "Supaprastinti produkto technologijas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Ekstraląstelinės matricos audinių inžinerijos produktams gali būti gaminamos iš:",
+        "choices": [
+            "Natūralios kilmės medžiagų;",
+            "Cheminės/sintetinės kilmės polimerinių medžiagų",
+            "Mineralinių kompozicinių medžiagų;",
+            "Natūralių ir dirbtinių medžiagų."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Regeneratyvinės medicinos perspektyvą skatina:",
+        "choices": [
+            "Daugėjančios su senėjimu siejamos ligos;",
+            "Riboti terapijai prieinami ištekliai;",
+            "Mažas kitų terapijos tipų veiksmingumas;",
+            "Nepakankamas kitų terapijos tipų saugumas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kamieninių ląstelių terapijos gali naudoti:",
+        "choices": [
+            "Tik vieno audinio pliuripotentines kamienines ląsteles;",
+            "Kelių konkrečių audinių pliuripotentines kamienines ląsteles;",
+            "Daugelio alternatyvių šaltinių pluripotentines kamieninių ląsteles;",
+            "Kiekvienam klinikiniam atvejui yra pritaikomos unikalios kamieninės ląstelės."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Koks yra pagrindinis sterilumo tyrimo tikslas, atsižvelgiant į audinių inžinerijos produktų kokybės kontrolę?",
+        "choices": [
+            "Patvirtinti matricų mechanines savybes",
+            "Užtikrinti, kad gaminys nebūtų užterštas mikroorganizmais",
+            "Įvertinti ląstelių diferenciacijos potencialą",
+            "Įvertinti matricų degradacijos greitį"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

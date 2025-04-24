@@ -1,0 +1,114 @@
+[
+    {
+        "number": 1,
+        "question": "Fitopreparatų tyrimui dažnai taikomi skirstymo metodai. Nurodykite skirstymo metodų grupės privalumus naujo fitopreparato tyrimui.",
+        "choices": [
+            "Fitopreparatų tyrimas analitine prasme yra mišinių tyrimas.",
+            "Skirstymo metodai suteikia reikšmingą informaciją apie junginių molekulinę struktūrą.",
+            "Fitopreparatuose visada yra grupė panašios sandaros, panašių cheminių ir fizikinių savybių biologiškai aktyvių junginių.",
+            "Tapatumo vertinimui pakanka literatūros šaltiniuose nurodytų tiriamųjų junginių sulaikymo trukmės reikšmių."
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Nurodykite, kokiu tikslu naujo fitopreparato kokybės kontrolei diegiamas priemaišų tyrimas?",
+        "choices": [
+            "Augalinėse žaliavose gali būti priemaišų, surinktų nuo neteisingai identifikuotų augalų.",
+            "Siekiama išvengti sveikatai pavojingų junginių patekimo į fitopreparatą.",
+            "Sausuosiuose ekstraktuose svarbu įvertinti ekstrakcijos tirpiklių likučio koncentraciją.",
+            "Todėl, kad priemaišas įmanoma įvertinti tik cheminiais metodais."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Pažymėkite teiginius, teisingai aprašančius flavonoidų išskyrimą ir nustatymą kuriamo fitopreparato mėginiuose.",
+        "choices": [
+            "Ekstrakcija gali būti atliekama Soksleto aparate, ultragarso vonioje, maceruojant.",
+            "Glikozidai blogiau tirpsta vandenyje negu aglikonai.",
+            "Ekstrakcijai pasirenkamas tirpiklis priklausomai nuo flavonoidų poliškumo.",
+            "Flavonoidų glikozidai ekstrahuojami chloroformu, dichlormetanu, dietileteriu."
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Nurodykite teiginius, teisingai aprašančius efektyviosios skysčių chromatografijos taikymą fitopreparatuose esančių flavonoidų tyrimui.",
+        "choices": [
+            "Tai viena plačiausiai taikomų flavonoidų analitinio skirstymo technikų.",
+            "Dažnai naudojamas gradientinis skirstymas.",
+            "Detekcijai dažniausia naudojami UV/Vis-spektrofotometrai.",
+            "Dažniausiai taikoma atvirkštinių fazių chromatografijos metodika."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Nurodykite, kodėl svarbu įvertinti augalinės veikliosios medžiagos ir fitopreparato stabilumą?",
+        "choices": [
+            "Stabilumo tyrimų rezultatais pagrindžiamas farmacinių rodiklių išlikimas konkrečiose ribose, garantuojančiose naujo fitopreparato saugumą ir efektyvumą numatytu laikotarpiu.",
+            "Stabilumo tyrimų rezultatai naudojami nustatant preparatų tinkamumo terminus.",
+            ",,Pirštų atspaudų“ parametras gali atskleisti augalinio preparato komponentų chemines transformacijas.",
+            "Preparato gamintojui svarbu žinoti, ar augalinę žaliavą galima taikyti ilgiau nei nurodyta tiekėjo ženklinime."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Ginkmedžių lapų ekstraktas, kurio gamybos metu siekiama sumažinti ginkolinių rūgščių kiekį, o deklaruojant šią vaistinę medžiagą nurodomos flavonoidų ir terpenolaktonų kiekių ribos yra:",
+        "choices": [
+            "Tradicinis standartizuotas ekstraktas.",
+            "Valytas (rafinuotas) ekstraktas.",
+            "Normalizuotas ekstraktas.",
+            "Kiekybiškai įvertintas ekstraktas."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

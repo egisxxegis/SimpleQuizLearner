@@ -7,6 +7,7 @@ import _types
 
 P_UNPREFIXED = r"[^0-9a-zA-ZąčęėįšųūžĄČĘĖĮŠŲŪŽ#\.\-–\?\:\=]"
 P_UN_LETTER_NUM = r"[^0-9a-zA-ZąčęėįšųūžĄČĘĖĮŠŲŪŽ]"
+P_ANSWER_HEADER = r"[^\n]{0,20}atsak.{1,10}"
 
 
 def _assert_deltas(nums: list[int], place: str):
@@ -83,6 +84,14 @@ def get_answers(raw: str, lowest_num: int = None):
         except ValueError:
             pass
 
+    # warn about l.A
+    pattern = f"({P_ANSWER_HEADER})" + r".{0,300}" + re.escape(answers[-1].raw)
+    found = re.search(pattern, raw, re.DOTALL + re.IGNORECASE)
+    if found:
+        ending = raw[found.start(1) :]
+        if "l" in ending:
+            print("If I crash, there might be l.A. instead of 1.A. in answer sheet.")
+
     # possibly some noise from questions and from pagination.
     # thus search for sequence [1; x] in the end
     # 144 6 5 2 143 1 4 3 1
@@ -116,11 +125,11 @@ def get_answers(raw: str, lowest_num: int = None):
 def _cut_answers(raw: str, answers: list[_types.SimpleAnswer]):
     assert len(answers) >= 2, "Not enough answers to parse questions."
     pattern_answers_start = (
-        re.escape(answers[0].raw) + r".{0,21}?" + re.escape(answers[1].raw)
+        re.escape(answers[0].raw) + r".{0,31}?" + re.escape(answers[1].raw)
     )
     parts = re.split(pattern_answers_start, raw, 1, re.DOTALL)
     assert len(parts) == 2, "Cannot split questions and answers."
-    pattern = r"[^\n]{0,20}atsak.{1,10}$"
+    pattern = P_ANSWER_HEADER + "$"
     body = re.split(pattern, parts[0], 0, re.IGNORECASE)[0]
     return body
 
@@ -168,7 +177,7 @@ def get_questions(raw: str, answers: list[_types.SimpleAnswer]):
         number_dot = r"(?:(?:\s{2})|\n)" + rf"({big_num}\s?\."
         number_nodot = r"\s{2}" + rf"({big_num}\s"
         question_body = r".{5,}?\s*\n\s*)"
-        answer_start = r"[Aa1]\s*[\.\-–\)]"
+        answer_start = r"[Aa1](?:(?:\s*[\.\-–\)])|(?:\s+[A-ZĄČĘĖĮŠŲŪŽ0-9]))"
         pattern = f"(?:{number_dot}{question_body}{answer_start})|(?:{number_nodot}{question_body}{answer_start})"
         findings = [
             found for found in _re_finditer_overlapping(pattern, body, re.DOTALL)
@@ -289,7 +298,7 @@ def get_tasks(
         raw = parts[0]
         options_str = "\n" + parts[1] + "\n"
         letter_range = f"{_types.LETTERS[0]}-{_types.LETTERS[-1]}"
-        p_id = rf"[1-9{letter_range.lower(),letter_range.upper()}]\s*[\.\-–\)]"
+        p_id = rf"[1-9{letter_range.lower()}{letter_range.upper()}](?:(?:\s*[\.\-–\)])|(?:\s+))"
         p_base = r"\n\s*(" + f"{p_id}" + r")(.*?)"
         p_not_last = p_base + r"(\n\s*" + p_id + ")"
         p_last = p_base + "()$"

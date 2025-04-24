@@ -1,0 +1,281 @@
+[
+    {
+        "number": 1,
+        "question": "Kokio poveikio pavojus padidėja kartu vartojant vaistus nuo psichozės ir triciklius antidepresantus?",
+        "choices": [
+            "Ortostatinės hipotenzijos",
+            "Parkinsonizmo",
+            "QT tarpo prailgėjimo",
+            "Viduriavimo"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Senyvo amžiaus labiausiai tinkami benzodiazepinai",
+        "choices": [
+            "Lorazepamas",
+            "Diazepamas",
+            "Oksazepamas",
+            "Klonazepamas"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kokius vaistus vartojant kartu didėja bradikardijos pavojus?",
+        "choices": [
+            "Amlodipiną",
+            "Verapamilį",
+            "Ramiprilį",
+            "Metoprololį"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Ką būtina monitoruoti vartojant nefrakcionuotą hepariną?",
+        "choices": [
+            "DATL",
+            "TNS (INR)",
+            "Trombocitų kiekį kraujyje",
+            "Nieko nereikia monitoruoti"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kurie iš šių veiksnių yra kontraindikacija sisteminei trombolizei, pacientui sergančiam ūminiu išeminiu galvos smegenų insultu?",
+        "choices": [
+            "Insulto simptomai atsirado prieš 2 val.",
+            "Pacientas nevartojo geriamųjų antikoaguliantų",
+            "Ligonio amžius ≥18 metų",
+            "Pacientas vartoja varfariną, INR – 2,5"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kurioms iš nurodytų vaistų grupių būdinga bei dažna nepageidaujama reakcija yra hipoglikemija?",
+        "choices": [
+            "Biguanidai",
+            "Sulfonilureos preparatai",
+            "Dipeptidilpeptidazės-4 inhibitoriai (DPP-4) inhibitoriai",
+            "Insulinas",
+            "Tiazolidinedionai"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Ampicilino neveiksmingumo priežastis gali būti:",
+        "choices": [
+            "Per maža koncentracija infekcijas židinyje",
+            "Pirminis arba antrinis mikroorganizmo atsparumas",
+            "Būklė, kuomet reikalinga chirurginė intervencija į infekcijos židinį",
+            "Per trumpas vartojimas"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Pielonefrito atveju, gentamicinas dozuojamas:",
+        "choices": [
+            "Nepriklausomai nuo inkstų veiklos.",
+            "Nepriklausomai nuo kepenų veiklos.",
+            "Priklausomai nuo laiko.",
+            "Priklausomai nuo koncentracijos."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Beta adrenoreceptorius stimuliuojantys vaistai astmos atveju:",
+        "choices": [
+            "Dažnai yra vartojami sistemiškai.",
+            "Dažnai yra vartojami vietiškai inhaliuojant.",
+            "Dažnai yra netoleruojami.",
+            "Dažnai yra vartojami deriniuose."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Taisyklingas aerozolinių dozuotų inhaliatorių vartojimo veiksmų etapiškumas:",
+        "choices": [
+            "Įkvėpimas, inhaliatoriaus turinio suplakimas, išpurškimas, kvėpavimo sulaikymas, iškvėpimas.",
+            "Inhaliatoriaus turinio suplakimas, išpurškimas, įkvėpimas pradėjus išpurkšti, kvėpavimo sulaikymas, iškvėpimas",
+            "Inhaliatoriaus turinio suplakimas, iškvėpimas, išpurškimas pradėjus įkvėpti, įkvėpimas, kvėpavimo sulaikymas, iškvėpimas.",
+            "Inhaliatoriaus turinio suplakimas, iškvėpimas, įkvėpimas, išpurškimas pradėjus įkvėpti, kvėpavimo sulaikymas, iškvėpimas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kokius saugumo tyrimus reikia atlikti statinų nepageidaujamų reakcijų prevencijai?",
+        "choices": [
+            "Kreatinkinazės tyrimą",
+            "Kalio kiekio kraujyje tyrimą",
+            "Kepenų fermentų kiekio kraujyje tyrimą",
+            "Stebėti AKS dėl galimos hipotenzijos"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kokius saugumo tyrimus reikia atlikti AKF inhibitorių nepageidaujamų reakcijų prevencijai?",
+        "choices": [
+            "Stebėti ligonį dėl sauso kosulio",
+            "Kalio kiekio kraujyje tyrimą",
+            "Kreatinino kiekio kraujyje tyrimą",
+            "Stebėti AKS dėl galimos hipotenzijos",
+            "Stebėti dėl angioneurozinės edemos"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "option_type": "MULTI",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kokius saugumo tyrimus reikia atlikti skiriant geriamuosius gliukokortikoidus ilgaliaikės terapijos metu?",
+        "choices": [
+            "Stebėti dėl osteoporozės",
+            "Stebėti gliukozės kiekį kraujyje dėl galimo padidėjimo",
+            "Stebėti dėl galimų virškinimo trakto opų",
+            "Stebėti AKS dėl galimos hipertenzijos"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Ką reikia stebėti skiriant beta adrenoreceptorių blokatorius?",
+        "choices": [
+            "Stebėti ŠSD dėl bradikardijos",
+            "Stebėti EKG dėl atrioventrikulinės blokados",
+            "Stebėti dėl bronchospazmo",
+            "Stebėti dėl kraujavimo iš virškinamojo trakto"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kokius saugumo tyrimus reikia atlikti AKF inhibitorių nepageidaujamų reakcijų prevencijai?",
+        "choices": [
+            "Biguanidams",
+            "GLP -1 agonistams",
+            "Sulfonilkarbamido preparatams",
+            "DPP – 4 inhibitoriams",
+            "SGLT2 inhibitorimas ."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

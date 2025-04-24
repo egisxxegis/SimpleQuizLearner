@@ -1,0 +1,225 @@
+[
+    {
+        "number": 1,
+        "question": "Nuo ko priklauso organizmo pažeidimo sunkumas ir pobūdis,  į organizmą patekus šarminėms medžiagoms?",
+        "choices": [
+            "Nuo šarmo koncentracijos ir išgerto kiekio.",
+            "Nuo šarmo ir organizmo sąlyčio trukmės",
+            "Nuo skrandžio turinio ir prievarčio rauko būklės",
+            "Nuo burnos gleivinės būklės"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kokie yra serotonininio neuromediatorių toksinio sindromo simptomai?",
+        "choices": [
+            "Hiperrefleksija, vyzdžiai besikeičiantys, dažniau išsiplėtę.",
+            "Prakaitavimas, normali odos spalva, bet hipertermija.",
+            "Aktyvi žarnyno peristaltika, viduriavimas, tachikardija, hipertenzija.",
+            "Drebėjimas, dezorientacija, koma."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kaip veikia mikrosominė etanolio oksidacijos sistema kepenyse (MEOS)?",
+        "choices": [
+            "Ji gali suskaidyti iki pusės suvartojamo etanolio kiekio.",
+            "Ją aktyvina kartotinis etanolio vartojimas.",
+            "Ją aktyvina didelės etanolio dozės.",
+            "Ji veikia visada, išgėrus etanolio."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokie veiksniai lemia toksinių medžiagų pasiskirstymo dydį žmogaus organizme?",
+        "choices": [
+            "Audinių kraujotaka.",
+            "Medžiagos fizinės ir cheminės savybės, ryšys su kraujo baltymais.",
+            "Bioterpių pH, sankaupos audiniuose.",
+            "Lytis ir rasė."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kokie simptomai būdingi apsinuodijimui muscimoliu (Raudonąja musmire)?",
+        "choices": [
+            "Regos suvokimo sutrikimai ryškesni nei regos haliucinacijos.",
+            "Hipotermija, seilėtekis.",
+            "CNS sutrikimai, raumenų distonijos (drebulys, trūkčiojimai).",
+            "Regos haliucinacijos be regėjimo sutrikimų."
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kurie iš šių teiginių tinka imunologiniam tyrimui apibūdinti?",
+        "choices": [
+            "Imunologiniai tyrimai dažniausiai taikomi narkotinių medžiagų skriningui.",
+            "Imunologinio tyrimo metu galima gauti „klaidingai teigiamus“ rezultatus, tačiau negaunami „klaidingai neigiami“ rezultatai.",
+            "Mėginio pasirinkimas imunologiniam tyrimui priklauso nuo analizės tikslo.",
+            "Galima naudoti tuos pačius analizės testus ir reagentus, nepriklausomai nuo mėginio rūšies."
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kokie požymiai pasireiškia, perdozavus opioidų?",
+        "choices": [
+            "Retas kvėpavimas ir išsiplėtę vyzdžiai.",
+            "Blyškumas, mėlstančios galūnės.",
+            "Pagausėjęs prakaitavimas ir miozė.",
+            "Prislopinta sąmonė ir miozė."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kokį poveikį žmogaus organizmui daro sintetinių kanabinoidų vartojimas?",
+        "choices": [
+            "Sutrikdo inkstų ir kepenų veiklą.",
+            "Sukelia kraujo išsiliejimą į smegenis.",
+            "Gali sukelti staigią mirtį.",
+            "Silpnina uoslę ir skonio pojūtį, blogina klausą."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kurie kokaino metabolitai yra farmakologiškai reikšmingi žmogaus organizmui?",
+        "choices": [
+            "Ekgoninas",
+            "Norkokainas.",
+            "Benzoilekgoninas.",
+            "Kokaetilenas."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kurie teiginiai apie amfetaminų sukeliamą poveikį yra teisingi?",
+        "choices": [
+            "Vartojant amfetaminus, vyzdžiai susitraukia, sumažėja šlapimo išsiskyrimas, atsiranda sausumas burnoje.",
+            "Net ir nedidelės amfetaminų dozės gali sukelti nerimo, baimės ir panikos priepuolius.",
+            "Vartojant alkoholį, silpnėja amfetaminų sukeliamas poveikis.",
+            "Amfetaminai stimuliuoja nervų ląsteles smegenyse, todėl pagerėja dėmesys, susikaupimas, padidėja budrumas."
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kurie iš išvardintų veiksnių didina paracetamolio toksinio poveikio kepenims tikimybę?",
+        "choices": [
+            "Cukrinis diabetas, virusinė infekcija.",
+            "Net vienkartinė didelė paracetamolio dozė, siekiant nusižudyti.",
+            "Nepakankama mityba ir badavimas.",
+            "Lėtinės kepenų ligos."
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kurie teiginiai apie acetilsalicilo rūgštį yra teisingi?",
+        "choices": [
+            "Skiriasi terapinių ir toksinių dozių farmakokinetinės savybės.",
+            "Pasižymi neurotoksiniu poveikiu.",
+            "Stimuliuoja kvėpavimo centrą.",
+            "Labai toksiškai veikia inkstus ir kepenis."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "number": 1,
+        "question": "Pleistrai atsižvelgiant į paskirtį ir gydomąjį poveikį klasifikuojami: epiderminiai, enderminiai, diaderminiai.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kramtomųjų tablečių kokybės vertinime yra taikomas suirimo testas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Ar ženklinant sirupus turi būti nurodytas saldiklio pavadinimas ir jo koncentracija?",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kietųjų kapsulių gamyboje taikomas Schererio metodas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Mikrokristalinė celiuliozė kaip užpildas taikoma gaminant tabletes tiesioginio presavimo metodu.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Bulvių krakmolas tablečių gamyboje naudojamas kaip tablečių suirimą gerinanti medžiaga.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Biologiškai aktyviųjų medžiagų koncentracija skystame ekstrakte yra lygi vaistinėje žaliavoje esančiai medžiagų koncentracijai.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Maksimaliai išvalytų ekstrakcinių preparatų technologiniame procese taikomas perkoliacijos metodas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Tinktūros gali būti gaminamos iš augalinės ir gyvūninės kilmės žaliavų.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kietosios kapsulės nuo minkštųjų kapsulių skiriasi savo forma ir gamybos metodais.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Miltelių suberiamasis tankis - tai laisvai subertų miltelių tūrio sumažėjimas, atliekant standartinį sutankunimą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Miltelių birumas vertinamas sietų testu.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

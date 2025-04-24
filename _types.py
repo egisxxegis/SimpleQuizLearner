@@ -1,9 +1,9 @@
 import pydantic
 from typing import Literal, Type
 
-TypeAnswer = Literal["A", "B", "C", "D", "E", "F", "G"]
+TypeAnswer = Literal["A", "B", "C", "D", "E", "F", "G", "H"]
 TypeAnswerConversion = list[int] | Literal["all", "N/A"]
-LETTERS: list[TypeAnswer] = ["A", "B", "C", "D", "E", "F", "G"]
+LETTERS: list[TypeAnswer] = ["A", "B", "C", "D", "E", "F", "G", "H"]
 
 
 class TypeAnswerConverter:

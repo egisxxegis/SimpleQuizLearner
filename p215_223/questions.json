@@ -1,0 +1,1124 @@
+[
+    {
+        "number": 1,
+        "question": "Kas Lietuvoje kompensuoja farmacinės rūpybos paslaugos kaštus vaistinei, kuri teikia farmacinės rūpybos paslaugas pacientams?",
+        "choices": [
+            "Teritorinė ligonių kasa.",
+            "Sveikatos draudimo paslaugas teikianti bendrovė.",
+            "Pacientas sumoka pats.",
+            "Paslaugos teikiamos nemokamai, kaštai nekompensuojami."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Prieš kiek dienų vaistinė, kurioje bus teikiama farmacinės rūpybos paslauga, prieš pradėdama vykdyti veiklą – teikti farmacinės rūpybos paslaugą – apie tai turi informuoti Valstybinę vaistų kontrolės tarnybą?",
+        "choices": [
+            "Ne vėliau kaip prieš 7 dienas.",
+            "Ne vėliau kaip prieš 10 dienų.",
+            "Ne vėliau kaip prieš 14 dienų.",
+            "Ne vėliau kaip prieš 20 dienų."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kurios institucijos teisės aktas reglamentuoja farmacinės rūpybos paslaugų teikimo tvarką Lietuvoje?",
+        "choices": [
+            "SAM įsakymas.",
+            "LR Vyriausybės nutarimas.",
+            "VVKT viršininko įsakymas.",
+            "Farmacinės rūpybos paslaugų teikimas teisės aktais Lietuvoje nereglamentuojamas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Vaistų vartojimo problema tai problema, susijusi su paciento vartojamais vaistais, apibrėžiama kaip:",
+        "choices": [
+            "Nepageidaujama reakcija.",
+            "Nepageidaujamas įvykis, kuris neatitinka paciento lūkesčių, susijusių su vaistų terapijos eiga.",
+            "Dozavimo klaida.",
+            "Paciento negebėjimas laikytis su gydytoju suderinto vaistų vartojimo plano."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Farmacinės rūpybos pradininkais yra laikomi:",
+        "choices": [
+            "JAV mokslininkas Prof. B. Katzung.",
+            "Jungtinės karalystės mokslininkė Prof. C. Preston.",
+            "Vokietijos mokslininkai Dr. M. Schulz ir Dr. F. Verheynen.",
+            "JAV mokslininkai L. Strand ir Ch. Hepler."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kuris farmacinės rūpybos proceso apibrėžimas tiksliausiai atspindi jos paskirtį?",
+        "choices": [
+            "Farmacinė rūpyba tai gyventojų, kuriems paskirtas gydymas vaistais, individualias konsultacijas siekiant nustatyti ir, bendradarbiaujant su gydytoju, išspręsti su vaistinių preparatų vartojimu susijusias problemas.",
+            "Farmacinė rūpyba tai gydymo proceso valdymas, užtikrinantis maksimaliai produktyvų vaistininko ir farmakotechniko farmacinio darbo našumą.",
+            "Farmacinė rūpyba tai kryptingas farmacinių paslaugų tobulinimo proceso formavimas, įgalinantis įgyvendinti racionalios farmakoterapijos principus ir užtikrinantis visuomenės vaistinės finansinį stabilumą.",
+            "Farmacinė rūpyba tai klinikinio pobūdžio paslaugos stacionare besigydantiems pacientams, kurias suteikia ligoninės vaistinėje dirbantys farmacijos specialistai."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Bendrieji reikalavimai priskirtini farmacinės rūpybos paslaugas teikiančiai vaistinei?",
+        "choices": [
+            "Vaistinė turi turėti parengtą ir patvirtintą vykdomos farmacinės rūpybos paslaugos (-ų) teikimo procedūrą (-as), pvz., pacientams sergantiems diabetu, astma, arterine hipertenzija.",
+            "Vaistinėje teikiamoms farmacinės rūpybos paslaugai ar paslaugoms nereikia parengto ar patvirtinto vykdomos farmacinės rūpybos paslaugos (-ų) teikimo procedūros.",
+            "Vaistinėje nėra būtina atskira vieta ar patalpa teikti farmacinės rūpybos paslaugas.",
+            "Vaistinė yra įsteigta gydymo įstaigoje ir bendradarbiauja su gydytojais, dirbančiais toje gydymo įstaigoje, kurios patalpose yra įsteigta vaistinė."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kas galėtų teikti farmacinės rūpybos paslaugas visuomenės vaistinėje?",
+        "choices": [
+            "Aukštąjį universitetinį išsilavinimą įgijęs farmacijos specialistas (vaistininkas).",
+            "Vaistininko padėjėjas (farmakotechnikas).",
+            "Farmacinės rūpybos paslaugas galėtų teikti ir vaistininkas, ir vaistininko padėjėjas (farmakotechnikas).",
+            "Tik klinikinis vaistininkas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kokie pokyčiai laukia vaistininko ateityje?",
+        "choices": [
+            "Vaistininkas taps tarpininku tarp gydytojo ir paciento.",
+            "Vykdys lėtinėmis ligomis sergančių pacientų farmakoterapijos eigos monitoringą.",
+            "Mokės atpažinti pavojingas ligos būkles ir laiku nukreipti pacientą į gydymo įstaigą.",
+            "Visi atsakymai teisingi."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kuris iš žemiau išvardintų farmacinės rūpybos proceso etapų dažniausiai nebūdingas klasikines farmacines paslaugas teikiančios vaistinės darbo organizavimo modeliui:",
+        "choices": [
+            "Farmakoterapinės problemos identifikavimas.",
+            "Tikslingas bei periodiškas farmakoterapinio efekto monitoringas.",
+            "Konkretus siektino tikslo ar rezultato nustatymas.",
+            "Farmacinės rūpybos plano sudarymas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kuris teiginys teisingas?",
+        "choices": [
+            "Žmonės, patiriantys rimtą alerginę reakciją kiaušiniams, turėtų būti skiepijami nuo gripo tik asmens sveikatos priežiūros įstaigoje.",
+            "Draudžiama skiepyti nuo gripo žmones, kuriems pasireiškia lengva alergija kiaušiniams.",
+            "Draudžiama skiepyti nuo gripo žmones, turinčius bet kokio sunkumo alergiją kiaušiniams.",
+            "Žmonėms, turintiems alergiją kiaušiniams, rekomenduojama vengti bet kokių skiepų."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Anafilaksinė reakcija po vakcinacijos tai:",
+        "choices": [
+            "Lengva alerginė reakcija, kuri praeina be gydymo.",
+            "Stipri alerginė reakcija, kuri gali būti pavojinga gyvybei.",
+            "Tai reiškia, kad žmogus turi vidutinio sunkumo alergiją.",
+            "Tai yra paprasta šalutinė reakcija, kuri pasireiškia daugumai žmonių."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Vyresnio amžiaus pacientams siūloma revakcinuotis šiomis vakcinomis:",
+        "choices": [
+            "Gripo, pneumokokinės infekcijos, COVID.",
+            "Gripo, roto viruso, pneumokokinės infekcijos.",
+            "Gripo, pneumokokinės infekcijos.",
+            "Tik gripo."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "SCORE skalė naudojama įvertinti:",
+        "choices": [
+            "Tikimybė susirgti diabetu per artimiausius 10 metų.",
+            "Mirties nuo širdies ir kraujagyslių ligų tikimybę per artimiausius 10 metų, išreikštą procentais.",
+            "Kraujospūdžio rodmenų pokyčius per tam tikrą laikotarpį.",
+            "Kūno temperatūros kitimo dinamiką po vakcinacijos."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "89 metų pacientė, vartojanti aspiriną, vaistus nuo širdies, kraujagyslių ligų ir cukrinio diabeto, skundžiasi silpnumu ir galvos svaigimu sėdint ar gulint. Kurie iš šių vaistų ar vaistų sąveikų gali būti pagrindinė ortostatinės hipotenzijos priežastis senyviems pacientams?",
+        "choices": [
+            "Aspirino ir diuretikų (pvz., tiazidiniai diuretikai) sąveika.",
+            "Antihipertenzinių vaistų poveikis.",
+            "Vaistų nuo cukrinio diabeto šalutinis poveikis.",
+            "Aspirino šalutinis poveikis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kuris iš šių vaistų rekomenduojamas vyresnio amžiaus pacientams, jaučiantiems ūminį skausmą?",
+        "choices": [
+            "Ibuprofenas.",
+            "Morfinas.",
+            "Naproksenas.",
+            "Paracetamolis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kuris veiksnys yra labiausiai rizikingas senyviems pacientams, vartojantiems diuretikus?",
+        "choices": [
+            "Dehidratacija.",
+            "Padidėjęs kraujospūdis.",
+            "Elektrolitų disbalansas.",
+            "Širdies ritmo sutrikimai."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Vyresnio amžiaus pacientas vartoja aštuonis skirtingus vaistus nuo įvairių ligų. Tai:",
+        "choices": [
+            "Polifarmacija.",
+            "Pažangi terapija.",
+            "Monoterapija.",
+            "Homeopatinis gydymas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Rūpybos geriatrijoje pagrindinis tikslas yra:",
+        "choices": [
+            "Užtikrinkite aukščiausią galimą gyvenimo kokybę efektyviai gydant lėtines ligas.",
+            "Prailginkite gyvenimą bet kokia kaina.",
+            "Agresyviai gydyti kiekvieną ligą.",
+            "Sumažinti hospitalizavimą."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "85 metų vyrui sutrikusi inkstų funkcija. Į ką vaistininkas turėtų atkreipti dėmesį?",
+        "choices": [
+            "Pacientui reikia skirti daugiau vaistų.",
+            "Pacientui gali reikėti sumažinti vaistų dozes.",
+            "Paciento kraujospūdis gali natūraliai sumažėti.",
+            "Sustiprės paciento imuninis atsakas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Vaistų vartojimo problema - per maža dozė. Kokios priežastys ją lemia?",
+        "choices": [
+            "Pacientas vartoja per mažą vaisto dozę terapiniam rezultatui pasiekti, netinkama vartojimo trukmė, netinkamas vartojimo dažnis.",
+            "Pacientas vartoja vaistą netinkamu dažniu.",
+            "Pacientas vartoja per mažą vaisto dozę terapiniam rezultatui pasiekti.",
+            "Netinkama vartojimo trukmė."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Pacientui gydyti labiau tiktų ne vaistų terapija. Kokia tai vaistų vartojimo problema?",
+        "choices": [
+            "Nereikalinga vaistų terapija.",
+            "Vaisto dozė per maža.",
+            "Alerginė reakcija.",
+            "Reikalinga papildoma terapija."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Pacientas yra alergiškas vaistui. Kokia tai vaistų vartojimo problema?",
+        "choices": [
+            "Pacientas nesilaiko vaistų vartojimo nurodymų.",
+            "Nereikalinga vaistų terapija.",
+            "Vaisto dozė per maža.",
+            "Netinkamas vaistas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Kada pacientams, sergantiems II tipo cukriniu diabetu, rekomenduojamas insulinas?",
+        "choices": [
+            "Nekoreguota glikemija, vartojant peroralinius vaistus.",
+            "Nėra skiriamas.",
+            "AKS esant virš 140/89 mmHg.",
+            "Kai gliukozės koncentracija veniniame kraujyje nevalgius yra 6,0 mmol/l."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "ĮVPV farmacinės rūpybos paslaugos teikimo tikslas:",
+        "choices": [
+            "Pagerinti pacientų gyvenimo kokybę sprendžiant su įkvėpiamųjų vaistinių preparatų vartojimu susijusias problemas.",
+            "Pagerinti pacientų gyvenimo kokybę diagnozuojant ir gydant LOPL ir astmą.",
+            "Pagerinti paciento edukaciją apie LOPL.",
+            "Išmokinti tinkamai naudoti trumpo poveikio beta 2 agonistus (salbutamolį ir/arba formoterolį)"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kokia yra priežastis skiriant papildomą vaistų terapiją pacientui?",
+        "choices": [
+            "Pacientas nesilaiko vaistų vartojimo nurodymų.",
+            "Pacientas nori sumažinti vaistų vartojimą.",
+            "Pacientas nori išvengti galimų šalutinių reakcijų dėl kitų medikamentų.",
+            "Kompleksinės sveikatos būklės reikalauja kombinuotos farmakoterapijos, siekiant pasiekti geresnius gydymo rezultatus."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kuris iš šių teiginių apie vaistų vartojimo plano laikymąsi yra teisingiausias?",
+        "choices": [
+            "Vaistų vartojimo laikymasis neturi didelės įtakos paciento sveikatos rezultatams, o visiškai nesilaikant vaistų vartojimo nurodymų, pacientui gresia nedidelė rizika.",
+            "Vaistų vartojimo laikymosi problema dažniausiai kyla dėl gydytojų nesugebėjimo tinkamai paaiškinti pasirinkto farmakoterapijos tikslo.",
+            "Vaistų vartojimo plano laikymasis gali turėti tiesioginę įtaką paciento sveikatos rezultatams.",
+            "Paslaugos, skirtos pagerinti vaistų vartojimo laikymąsi, yra brangiai apmokamos, todėl dauguma sveikatos priežiūros įstaigų jas aktyviai siūlo."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kokia yra viena iš pagrindinių pasekmių, kai pacientai nesilaiko vaistų vartojimo nurodymų?",
+        "choices": [
+            "Vaistų vartojimo nesilaikymas lemia mažesnius sveikatos priežiūros išlaidų pokyčius.",
+            "Vaistų vartojimo nurodymų nesilaikymas lemia iki 50% gydymo nesėkmių ir iki 25% hospitalizacijų per metus.",
+            "Dėl vaistų vartojimo nesilaikymo sumažėja pacientų lankymasis pas gydytojus.",
+            "Vaistų vartojimo nurodymų nesilaikymas tiesiogiai sumažina vaistų gamybos įmonių pelną."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Rawlino šalutinių poveikių klasifikacija (A tipo reakcijos).",
+        "choices": [
+            "Alerginės reakcijos.",
+            "Jatrogeniniai pavojai.",
+            "Priklauso nuo koncentracijos ir dozes.",
+            "Priklauso nuo koncentracijos."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Pasaulinė sveikatos organizacija farmakologinį budrumą klasifikuoja į:",
+        "choices": [
+            "Pasyvųjį, aktyvųjį.",
+            "Pasyvųjį.",
+            "Aktyvųjį.",
+            "Pagal pranešėją (farmacijos specialistas ar gydytojas)."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Koks yra optimalus kūno masės indeksas (KMI) norint sumažinti 2 tipo diabeto riziką?",
+        "choices": [
+            "20–22 kg/m²",
+            "21–23 kg/m²",
+            "24–26 kg/m²",
+            "27–29 kg/m²"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kuris mitybos įpročių keitimas labiausiai sumažina 2 tipo diabeto riziką?",
+        "choices": [
+            "Vaisių sultys vietoje vandens.",
+            "Valgymas bent tris porcijas žalumynų kasdien.",
+            "Riebiųjų mėsos produktų pakeitimas baltos mėsos produktais.",
+            "Alkoholio vartojimo padidinimas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kiek rekomenduojama sumažinti kūno svorį, kad būtų sumažinta 2 tipo diabeto vystymosi rizika?",
+        "choices": [
+            "Bent 3%",
+            "Bent 5–7%",
+            "Bent 10%",
+            "Bent 15%"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kiek kartų per savaitę rekomenduojama užsiimti fizine veikla norint sumažinti diabeto riziką?",
+        "choices": [
+            "1 kartą per savaitę.",
+            "2 kartus per savaitę.",
+            "3–5 kartus per savaitę.",
+            "7 kartus per savaitę."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Pacientas programėlėje nustatė savo HbA1c lygį, kuris yra 6,5%. Ką turėtų patarti vaistininkas?",
+        "choices": [
+            "Visiškai nutraukti vaistų vartojimą.",
+            "Pasiūlyti atlikti savarankiškai HbA1c testą.",
+            "Nukreipti pacientą pas gydytoją dėl patvirtinimo.",
+            "Pasiūlyti padidinti cukraus kiekį mažinančių vaistų dozę."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kiek laiko turėtų praeiti po valgio, kad būtų atliktas tinkamas gliukozės lygio matavimas siekiant įvertinti diabeto riziką?",
+        "choices": [
+            "30 minučių.",
+            "1 valanda.",
+            "2 valandos.",
+            "3 valandos."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Pacientas teiraujasi apie geriausią būdą valdyti gliukozės lygį namuose. Ką turėtų patarti vaistininkas?",
+        "choices": [
+            "Tikrinti gliukozę kartą per mėnesį.",
+            "Tikrinti gliukozę kelis kartus per dieną ir stebėti mitybos poveikį.",
+            "Ignoruoti simptomus ir tęsti įprastą mitybą.",
+            "Vartoti daugiau angliavandenių."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Ką vaistininkas turėtų rekomenduoti pacientui, kuris vartoja insuliną ir praneša apie sunkumus, nesupranta injekcijų technikos?",
+        "choices": [
+            "Paaiškinti ir parodyti tinkamą injekcijos techniką.",
+            "Pasiūlyti naudoti kitą vaistą.",
+            "Patarti nutraukti insulino vartojimą.",
+            "Pasiūlyti naudoti insulino pompą."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Pacientui, turinčiam ŠKL rizikos veiksnių, koks yra tinkamas vaistų derinys pirminiam diabeto prevencijos etapui?",
+        "choices": [
+            "Monoterapija su metforminu.",
+            "Metforminas kartu su SGLT-2 inhibitoriumi.",
+            "Tik insulino terapija.",
+            "Bet kokie geriamieji vaistai nepriklausomai nuo jų poveikio."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Kokia rekomenduojama gliukozės kiekio kapiliariniame kraujyje savikontrolės procedūra pacientams, kuriems diagnozuotas prediabetas?",
+        "choices": [
+            "1 kartą per savaitę.",
+            "Kiekvieną rytą nevalgius.",
+            "Iki 4 kartų per dieną, esant fiziniam aktyvumui.",
+            "Tik kai jaučiasi blogai."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Koks yra vaistininko vaidmuo, kai pacientas praneša apie galimą vaistų sąveiką ir pasireiškusį šalutinį poveikį?",
+        "choices": [
+            "Ignoruoti situaciją, tai dažna būklė.",
+            "Patarti pacientui pakeisti vaistus savo nuožiūra.",
+            "Nutraukti vaistų vartojimą ir pranešti VVKT.",
+            "Pasiūlyti pacientui pasitarti su gydytoju įvertinus sąveikos pavojingumą."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Pacientas, pradėjęs vartoti statinus, praneša apie raumenų skausmus. Koks yra tinkamiausias vaistininko patarimas?",
+        "choices": [
+            "Nutraukti statinų vartojimą savarankiškai ir pakeisti juos į maisto papildus.",
+            "Vartoti skausmą malšinančius vaistus ir tęsti statinus.",
+            "Kreiptis į gydytoją dėl galimos dozės korekcijos ir atlikti kreatinfosfokinazės tyrimą.",
+            "Didinti statinų dozę."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Koks yra pagrindinis statinų vartojimo tikslas pacientams su padidėjusiu cholesterolio kiekiu kraujyje?",
+        "choices": [
+            "Sumažinti mažo tankio lipoproteinų (MTL) cholesterolio kiekį iki mažiau nei 2.6 mmol/L.",
+            "Padidinti aukšto tankio lipoproteinų (DTL) cholesterolio kiekį.",
+            "Sumažinti bendro cholesterolio kiekį žemiau 5.0 mmol/L.",
+            "Vartoti statinus tik esant hipertenzijai."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Ką reikėtų daryti, jei pacientas praneša apie šalutinį poveikį pradėjus vartoti statinus?",
+        "choices": [
+            "Nedelsiant nutraukti vartojimą.",
+            "Padidinti fizinį aktyvumą be dozės keitimo.",
+            "Informuoti gydytoją ir apsvarstyti alternatyvius gydymo būdus.",
+            "Toliau vartoti vaistus ir laukti, kol simptomai praeis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Pacientas atsisako gydytojo paskirtų vaistų nuo širdies ir kraujagyslių ligų dėl galimų šalutinių poveikių. Ką turėtų daryti vaistininkas?",
+        "choices": [
+            "Patarti pacientui nutraukti gydymą.",
+            "Paaiškinti apie vaistų naudą ir šalutinio poveikio valdymo galimybes.",
+            "Rekomenduoti natūralius papildus vietoje vaistų.",
+            "Ignoruoti paciento nusiskundimus."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Pacientas nesikonsultuoja su šeimos gydytoju ir skundžiasi dėl aukšto kraujospūdzio (157/99 mmHg). Koks turėtų būti vaistininko patarimas?",
+        "choices": [
+            "Rekomenduoti pacientui grįžti tik tada, kai savijauta pablogės.",
+            "Patarti kreiptis į šeimos gydytoją reguliariam kraujospūdžio stebėjimui.",
+            "Rekomenduoti sumažinti druskos vartojimą ir tęsti stebėjimą namuose.",
+            "Pasiūlyti vartoti kraujospūdį mažinančius vaistus be recepto."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 47,
+        "question": "Pacientas grįžta į vaistinę ir praneša, kad pradėjus vartoti antihipertenzinius vaistus BAB grupės, kraujospūdis nekrenta. Ką turėtų patarti vaistininkas?",
+        "choices": [
+            "Pasiūlyti padidinti vaisto dozę be gydytojo konsultacijos.",
+            "Kreiptis pas gydytoją dėl gydymo korekcijos.",
+            "Rekomenduoti vartoti papildomus vaistus be gydytojo paskyrimo.",
+            "Patarti pacientui stebėti kraujospūdį ir nepergyventi."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 47,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 48,
+        "question": "Pacientas, turintis širdies ir kraujagyslių ligų rizikos veiksnių, atsisako profilaktinio gydymo vaistais. Koks vaistininko vaidmuo tokioje situacijoje?",
+        "choices": [
+            "Gerbti paciento sprendimą ir nesikišti.",
+            "Paaiškinti rizikas ir galimą prevencinę vaistų vartojimo naudą.",
+            "Rekomenduoti pacientui stebėti būklę namuose be gydytojo konsultacijos.",
+            "Skirti papildomus vaistus be gydytojo paskyrimo."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 48,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 49,
+        "question": "Pacientas klausia, kodėl jam reikėtų reguliariai tikrinti kraujo spaudimą, jei jis gerai jaučiasi. Ką turėtų atsakyti vaistininkas?",
+        "choices": [
+            "Jei jaučiatės gerai, nereikia tikrintis.",
+            "Reguliarus tikrinimas yra būtinas ankstyvai problemų diagnostikai.",
+            "Patikrinimai reikalingi tik po simptomų atsiradimo.",
+            "Rekomenduoti tikrinti kraujo spaudimą kartą per metus."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 49,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 50,
+        "question": "Pacientas teiraujasi, ar reikia vartoti gydytojo paskirtus hipertenzinius vaistus kai išnyks simptomai. Ką turėtų patarti vaistininkas?",
+        "choices": [
+            "Nutraukti vaistus iš karto, kai simptomai praeina.",
+            "Tęsti gydytojo paskirtą gydymą net ir simptomams išnykus.",
+            "Keisti vaistus be gydytojo konsultacijos.",
+            "Vartoti vaistus tik esant simptomams."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 50,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 51,
+        "question": "Vidutinės rizikos ŠKL pacientas teiraujasi, kokia turi būti optimali jo cholesterolio koncentracija kraujyje. Koks turėtų būti atsakymas?",
+        "choices": [
+            "Mažiau nei 3.0 mmol/L.",
+            "Mažiau nei 2.6 mmol/L.",
+            "Mažiau nei 1.8 mmol/L.",
+            "Mažiau nei 1.4 mmol/L."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Koks yra tinkamas glomerulų filtracijos greitis (GFG), užtikrinantis optimalų širdies ir kraujagyslių ligų rizikos valdymą?",
+        "choices": [
+            "Daugiau nei 90 ml/min/1.73 m².",
+            "60–89 ml/min/1.73 m².",
+            "45–59 ml/min/1.73 m².",
+            "Mažiau nei 30 ml/min/1.73 m²."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Pacientas klausia apie hipertenzinius vaistus. Kurie iš šių yra pirmo pasirinkimo vaistai?",
+        "choices": [
+            "Tiazidiniai diuretikai.",
+            "Beta blokatoriai.",
+            "AKFI.",
+            "Kalcio kanalų blokatoriai."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Koks yra pirmasis žingsnis dislipidemijos valdyme?",
+        "choices": [
+            "Patikrinti cholesterolio lygį ir įvertinti rizikos veiksnius.",
+            "Paskirti statinus be jokių kitų tyrimų.",
+            "Atlikti kraujo spaudimo matavimus.",
+            "Pradėti nuo gyvenimo būdo keitimo rekomendacijų."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Pacientas, sergantis 2 tipo cukriniu diabetu, ateina į vaistinę ir praneša, kad dažnai pamiršta vartoti metforminą. Jis nori sužinoti, kaip galėtų geriau laikytis gydymo plano. Kaip vaistininkas turėtų reaguoti?",
+        "choices": [
+            "Patarti pacientui laikyti vaistus matomoje vietoje vonioje, kad lengviau prisimintų juos vartoti.",
+            "Rekomenduoti pacientui vartoti dvigubą dozę, kai pamiršta vartoti vaistus.",
+            "Pasiūlyti naudoti vaistų dėžutę su skyriais kiekvienai dienai ir pasiūlyti išmaniąją programėlę priminimams.",
+            "Pasiūlyti pacientui kreiptis į gydytoją dėl naujo gydymo plano."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Pacientas, kuriam nustatyta hipertenzija, teiraujasi, ar gali pakeisti gydytojo paskirtą vaistą, nes jaučia galvos svaigimą. Koks yra tinkamiausias vaistininko atsakymas tokioje situacijoje?",
+        "choices": [
+            "Pasiūlyti pacientui iš karto nutraukti vaisto vartojimą ir grįžti po savaitės.",
+            "Paaiškinti, kad galvos svaigimas gali būti šalutinis poveikis, ir pasiūlyti pacientui kreiptis į gydytoją dėl vaisto dozės korekcijos.",
+            "Patarti pacientui gerti vaistą kartu su didesniu kiekiu skysčių.",
+            "Rekomenduoti vartoti mažesnę vaisto dozę be gydytojo konsultacijos."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 57,
+        "question": "Pacientas, sergantis astma, nori pakeisti inhaliatorių, nes mano, kad dabartinis neefektyvus. Ką vaistininkas turėtų daryti, kad išsiaiškintų situaciją ir užtikrintų tinkamą gydymo tęstinumą?",
+        "choices": [
+            "Patikrinti, ar pacientas tinkamai naudoja inhaliatorių, ir pademonstruoti teisingą techniką.",
+            "Rekomenduoti kitą inhaliatorių, jei pacientas nesijaučia geriau.",
+            "Pasiūlyti pacientui nutraukti inhaliatoriaus vartojimą ir pradėti kitą gydymą.",
+            "Ignoruoti paciento nusiskundimus ir pasiūlyti skirtingą vaistų grupę."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 57,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 58,
+        "question": "Pacientas teiraujasi, ar gali pasiskiepyti nuo gripo vaistinėje. Jis nėra tikras, ar turi kokių nors kontraindikacijų. Koks turėtų būti vaistininko veiksmas?",
+        "choices": [
+            "Patikrinti paciento medicininę istoriją ir išsiaiškinti, ar yra buvę alerginių reakcijų į vakcinas.",
+            "Tiesiog paskiepyti pacientą be papildomų klausimų.",
+            "Patarti pacientui pirmiausia apsilankyti pas šeimos gydytoją.",
+            "Rekomenduoti pacientui nesiskiepyti, jei jis nėra tikras dėl savo būklės."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 58,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 59,
+        "question": "Vyresnio amžiaus pacientas, dvi savaites pagal gydytojo paskyrimą vartojantis diuretikus, vaistininkui skundžiasi, kad jaučia silpnumą ir nuolatinį galvos svaigimą. Kaip vaistininkas turėtų įvertinti paciento būklę ir pateikti tinkamą patarimą?",
+        "choices": [
+            "Patarti pacientui toliau vartoti diuretikus ir laukti, kol simptomai praeis.",
+            "Paaiškinti, kad silpnumas gali būti susijęs su elektrolitų disbalansu, ir pasiūlyti atlikti kraujo tyrimus bei kreiptis į gydytoją.",
+            "Pasiūlyti pacientui padidinti skysčių vartojimą, kad sumažėtų simptomai.",
+            "Ignoruoti paciento nusiskundimus ir pasiūlyti vitaminų."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 59,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 60,
+        "question": "Pacientas, kuriam diagnozuotas 2 tipo diabetas, praneša, kad jis vengia matuoti cukraus kiekį kraujyje, nes tai skausminga procedūra. Kaip turėtų vaistininkas motyvuoti pacientą laikytis gydymo plano?",
+        "choices": [
+            "Pasiūlyti pacientui nebematuoti cukraus kiekio, jei jis jaučiasi gerai.",
+            "Pasiūlyti alternatyvius matavimo būdus, pvz., neinvazinį gliukozės matuoklį, ir paaiškinti, kodėl cukraus kiekio stebėjimas yra svarbus.",
+            "Patarti pacientui matuoti cukrų tik kartą per mėnesį.",
+            "Pasiūlyti pacientui pakeisti gydymo planą be gydytojo konsultacijos."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 60,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 61,
+        "question": "Jauna moteris, besilaukianti pirmojo vaiko, teiraujasi apie saugius vaistus nuo alergijos. Ką vaistininkas turėtų padaryti, kad užtikrintų pacientės saugumą?",
+        "choices": [
+            "Pasiūlyti bet kurį nereceptinį vaistą nuo alergijos.",
+            "Aptarti gydymo galimybes, kurios yra saugios nėštumo metu.",
+            "Pasiūlyti nėštumo metu visiškai nevartoti vaistų nuo alergijos.",
+            "Pasiūlyti pacientui naudoti tik natūralias gydymo priemones."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 61,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 62,
+        "question": "Pacientas, sergantis širdies ir kraujagyslių ligomis, teigia, kad nesupranta, kaip teisingai vartoti visus jam paskirtus vaistus. Kaip vaistininkas turėtų pateikti informaciją, kad užtikrintų tinkamą vaistų vartojimą?",
+        "choices": [
+            "Pateikti rašytinę instrukciją ir pasiūlyti pacientui perskaityti ją namuose.",
+            "Detaliam paaiškinti kaip vartoti kiekvieną vaistą ir įsitikinti, kad pacientas supranto.",
+            "Pasiūlyti pacientui susisiekti su gydytoju dėl papildomos informacijos.",
+            "Patarti pacientui vartoti visus vaistus vienu metu ryte."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 62,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 63,
+        "question": "Vidutinio amžiaus pacientas teiraujasi apie statinų vartojimą, nes gydytojas jam paskyrė vaistą cholesterolio mažinimui. Jis nerimauja dėl galimo šalutinio poveikio. Kaip vaistininkas turėtų paaiškinti statinų naudą ir padėti pacientui suprasti, kaip sumažinti šalutinio poveikio riziką?",
+        "choices": [
+            "Pasiūlyti pacientui vartoti puse rekomenduojamos statinų dozės.",
+            "Paaiškinti, kad statinai yra veiksmingi mažinant cholesterolio lygį ir mažinant širdies ligų riziką, bei patarti stebėti būklę, kad būtų galima greitai reaguoti į šalutinį poveikį.",
+            "Rekomenduoti pacientui vartoti statinus tik kas antrą dieną.",
+            "Pasiūlyti alternatyvius natūralius papildus vietoj statinų."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 63,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 64,
+        "question": "Jatrogeninė liga",
+        "choices": [
+            "Tai liga sąlygota netinkamo vaistų vartojimo dėl netinkamos. diagnozės, terapijos, chirurginių veiksmų.",
+            "Susijusi tik su vaistų vartojimu.",
+            "Susijusi su chirurginėmis intervencijomis.",
+            "Tai  paciento vaistų vartojimo nurodymų nesilaikymas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 64,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 65,
+        "question": "Negalios pakoreguoti metai (DALYs) yra",
+        "choices": [
+            "Suma metų, kurie prarasti dėl ligos (YLLs).",
+            "Suma metų, kurie gyventi su negalia (YLDs).",
+            "Suma metų, kurie prarasti dėl ligos (YLLs)  ir metai, gyventi su negalia (YLDs).",
+            "Suma metų, kada pacientas pasveiksta."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 65,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 66,
+        "question": "Paciento poreikiai susiję vaistų vartojimu",
+        "choices": [
+            "Indikacija, efektyvumas, saugumas, sutikimas.",
+            "Indikacija, efektyvumas, saugumas.",
+            "Indikacija, saugumas, sutikimas.",
+            "Efektyvumas, saugumas, sutikimas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 66,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

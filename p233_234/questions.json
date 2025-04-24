@@ -1,0 +1,123 @@
+[
+    {
+        "number": 1,
+        "question": "Kurie iš nurodytų parametrų bus kontroliuojami injekcinio tirpalo specifikacijoje, jei pagalbinė medžiaga yra benzalkonio chloridas (5 mg/ml)?",
+        "choices": [
+            "Benzalkonio chlorido priemaišos",
+            "Benalkonio chlorido tapatybė",
+            "Benzalkonio chlorido kiekio parametras (4,25 mg/ml – 5,25 mg/ml)",
+            "Benzalkonio chlorido kiekio parametras (4,5 mg/ml – 5,5 mg/ml)"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kapsulių gamyboje naudojamas etanolis ir acetonas (3 klasės tirpikliai). Kurios šių tirpiklių kiekio parametro ribos specifikacijoje yra nurodytos tinkamai?",
+        "choices": [
+            "Tirpiklių suma ≤ 0,5%",
+            "Tirpiklių suma ≤ 5000 ppm.",
+            "Abiejų tirpiklių likučio reglamentuoti nebūtina, jei jie išgaruoja gamybos metu.",
+            "Etanolis ≤ 5000 ppm; acetonas ≤ 5000 ppm."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Specifikacijoje yra pateikiama:",
+        "choices": [
+            "Kokybės parametrai.",
+            "Kokybės parametrų ribos.",
+            "Nuorodos į analitines procedūras.",
+            "Kokybės analizės rezultatai.",
+            "Informacija apie vaistinės medžiagos toksiškumą."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokius žinote galimus vaistinio preparato priemaišų šaltinius?",
+        "choices": [
+            "Vaistinės medžiagos skilimo produktai",
+            "Pagalbinės medžiagos",
+            "Tirpikliai",
+            "Talpyklės ekstraktyvinės medžiagos"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kokie yra bendrieji specifikacijos parametrai?",
+        "choices": [
+            "Tapatybės nustatymas",
+            "Veikliosios medžiagos kiekis",
+            "Priemaišos",
+            "Mikrobiologinis užterštumas",
+            "Tirpumas",
+            "Dalelių dydis"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Neorganinės veikliosios medžiagos priemaišos gali būti?",
+        "choices": [
+            "Sunkieji metalai",
+            "Tirpikliai",
+            "Katalizatoriai",
+            "Aktyvuota anglis",
+            "Filtravimo medžiagos"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

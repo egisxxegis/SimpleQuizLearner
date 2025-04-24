@@ -1,0 +1,784 @@
+[
+    {
+        "number": 1,
+        "question": "Kokiu būdu monosacharidai ir aminorūgštys patenka į ląsteles?",
+        "choices": [
+            "Pasyviosios pernašos būdu.",
+            "Pasyviosios palengvintosios pernašos būdu.",
+            "Aktyviosios pernašos būdu.",
+            "Skaldomi tarpląsteliniame skystyje."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kokiam šlapimo pH esant, silpnos organinės bazės yra geriau išskiriamos iš organizmo su šlapimu?",
+        "choices": [
+            "Kai šlapimas silpnai bazinis.",
+            "Kai šlapimas silpnai rūgštinis.",
+            "Kai šlapimas neutralus.",
+            "Šlapimo pH neturi reikšmės silpnų organinių bazių išsiskyrimui iš organizmo."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kokiomis savybėmis turi pasižymėti nuodingos medžiagos, kad jų pašalinimui iš organizmo galima būtų taikyti hemodializę?",
+        "choices": [
+            "Šalinamos medžiagos turi susijungti stipriais ryšiais su plazmos baltymais.",
+            "Šalinamos medžiagos turi nesusijungti stipriais ryšiais su plazmos baltymais.",
+            "Šalinamos medžiagos turi turėti didelį pasiskirstymo tūrį.",
+            "Šalinamos medžiagos turi turėti didelę molekulinę masę (5000-50000)."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokios yra pirmo pasirinkimo detoksikacinės priemonės, apsinuodijus korozinėmis medžiagomis?",
+        "choices": [
+            "Sukelti vėmimą.",
+            "Sukelti vėmimą ir plauti skrandį.",
+            "Praskiesti nuodus skrandyje ir plauti skrandį.",
+            "Naudoti enterosorbentus."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kurios medžiagos gali būti vartojamos kaip priešnuodis, apsinuodijus metanoliu?",
+        "choices": [
+            "Flumazenilis ir magnio sulfatas.",
+            "Etanolis ir folio rūgštis.",
+            "Naloksonas ir natreksonas.",
+            "N-acetilcisteinas ir silibininas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kurios medžiagos yra žalsvosios musmirės Amanita Phalloides priešnuodžiai?",
+        "choices": [
+            "Amilnitritas, gliukozė ir deferoksaminas.",
+            "N – acetilcisteinas, silibininas ir penicilinas.",
+            "Unitiolis, magnio sulfatas ir sidabro nitratas.",
+            "Metileno mėlynasis, folio rūgštis ir tiaminas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kokį poveikį žmogaus organizmui daro apsinuodijimas etandioliu (etilenglikoliu)?",
+        "choices": [
+            "Sukelia hiperkalcemiją, šoką, plaučių edemą, ištinka mirtis.",
+            "Sukelia hipokalcemiją, ūminę inkstų kanalėlių nekrozę.",
+            "Atsiranda dirglumas, kloniniai traukuliai.",
+            "Sukelia alkalozę, bradikardiją."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kokiu veikimo mechanizmu pasižymi 4-metilpirazolis?",
+        "choices": [
+            "Inhibuoja alkoholdehidrogenazę.",
+            "Inhibuoja acetaldehiddehidrogenazę.",
+            "Turi didesnį afinitetą toksines medžiagas skaldantiems fermentams nei pačios toksinės medžiagos.",
+            "Katalizuoja acetaldehiddehidrogenazę."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kokį poveikį žmogaus organizmui daro lizergo rūgšties dietilamidas (LSD)?",
+        "choices": [
+            "Poveikis yra lengvai prognozuojamas, gali būti sinestezijų, haliucinacijų, cianozė, traukuliai, hipotenzija.",
+            "Poveikis yra sunkiai prognozuojamas, gali būti sinestezijų, haliucinacijų, hipotermija, bradikardija.",
+            "Poveikis yra sunkiai prognozuojamas, gali būti sinestezijų, haliucinacijų, nerimas, panika, psichozė, tachikardija, hipertenzija, tachipnėja.",
+            "Poveikis yra lengvai prognozuojamas, gali būti sinestezijų, haliucinacijų, CNS slopinimas iki kvėpavimo nepakankamumo."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kurios medžiagos yra etandiolio (etilenglikolio) metabolitai?",
+        "choices": [
+            "Formaldehidas, skruzdžių rūgštis;",
+            "Acto aldehidas, acto rūgštis;",
+            "Butaldehidas, sviesto rūgštis;",
+            "Glikoaldehidas, glioksilo rūgštis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Ką sukelia žmogaus organizme etilo alkoholis?",
+        "choices": [
+            "Hipertermiją, CNS slopinimą, mieguistumą;",
+            "CNS slopinimą, hipotermiją, hipoglikemiją;",
+            "CNS aktyvinimą, hiperglikemiją, hipomagnezemiją;",
+            "CNS aktyvinimą, hipotermiją, hiperglikemiją."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kokį sindromą sukelia etanolio-disulfiramo reakcija žmogaus organizme?",
+        "choices": [
+            "Acetatinį.",
+            "Acetaldehidinį.",
+            "Glikoaldehidinį.",
+            "Formaldehidinį."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kas yra būdinga „baltajai karštinei“?",
+        "choices": [
+            "CNS stimuliacija, ryškios haliucinacijos ar iliuzijos, kvėpavimo slopinimas.",
+            "Sąmonės pritemimas, stiprus vėmimas ir diarėja, kvėpavimo slopinimas.",
+            "Sąmonės pritemimas, ryškios haliucinacijos ar iliuzijos, ryškus tremoras.",
+            "CNS stimuliacija, ryškios haliucinacijos ar iliuzijos, kvėpavimo stimuliacija."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kuris metanolio metabolitas stipriai koreliuoja su apsinuodijimo sunkumu?",
+        "choices": [
+            "Metanalis.",
+            "Metano rūgštis.",
+            "Formaldehidas.",
+            "Glikolio rūgštis."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kas būdinga mikrosominei etanolio oksidacijos sistemai MEOS?",
+        "choices": [
+            "Tokios etanolio skaidymo sistemos nėra.",
+            "Ji įsijungia tik ilgai ir didelėmis dozėmis vartojant etanolį.",
+            "Ją aktyvina tik kitų psichoaktyvių medžiagų vartojimas.",
+            "Ji veikia visada, išgėrus etanolio."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kurie veiksniai lemia sunkią abstinencinės būklės riziką?",
+        "choices": [
+            "Dideli suvartoto alkoholio kiekiai, kompulsyvus potraukis.",
+            "Savigyda hipnotikais, gretutinės ūminės ligos.",
+            "Ilga alkoholio vartojimo trukmė, ankstesnės detoksikacijos.",
+            "Visi išvardinti."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Koks yra etanolio, vartojamo kaip priešnuodžio, veikimo mechanizmas?",
+        "choices": [
+            "Jis inhibuoja alkoholdehidrogenazę.",
+            "Jis padeda greičiau suskilti toksiškiems metabolitams.",
+            "Jis turi didesnį afinitetą metabolizmo fermentams.",
+            "Jis inhibuoja aldehiddehidrogenazę."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kokie procesai vyksta žmogaus organizme, apsinuodijus nuodinguoju nuosėdžiu Cortinarius orellanus?",
+        "choices": [
+            "Prasideda riebalinė kepenų distrofija ir žūsta hepatocitai.",
+            "Sukeliamas intersticinis nefritas su kanalėlių nekroze.",
+            "Blokuojama medžiagų apykaita, labai stipriai sutrinka gama-amino sviesto rūgšties sintezė.",
+            "Blokuojamos fermentinės sistemos, sutrinka etanolio skaidymas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Koks yra ajavaskos Ayhuasca gėrimo haliucinogeninio veikimo mechanizmas?",
+        "choices": [
+            "Agonistiškai veikia 5-hidroksitriptamino (serotonino) receptorius.",
+            "Sukelia anticholinerginį sindromą.",
+            "Skatina dopamino išsiskyrimą.",
+            "Slopina gama-amino sviesto rūgšties sintezę."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kuo pasireiškia psichodelinio poveikio metu jaučiamos sinestezijos?",
+        "choices": [
+            "Prarandamas laiko suvokimas.",
+            "Pojūčių susimaišymas (matomi garsai, girdimi vaizdai).",
+            "Karščio ir deginimo pojūtis.",
+            "Matomi dalykai, kurių nėra."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Kokių haliucinogeninių medžiagų nustatoma Pejote Peyote kaktusuose ?",
+        "choices": [
+            "Lizergo rūgšties darinių.",
+            "Meskalino.",
+            "Psilocibino.",
+            "Dimetiltriptamino."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Koks yra anglies monoksido toksinis poveikis?",
+        "choices": [
+            "Organizme prisijungia prie Fe (II) turinčio hemoglobino ir audinių fermentų, susidaro karboksihemoglobinas, kuris neperneša deguonies, sukelia audinių hipoksiją.",
+            "Dirginamas kvėpavimo centras, atsiranda dažnas kvėpavimas, didelė dujų koncentracija paralyžiuoja kvėpavimo centrą, žmogus nustoja kvėpuoti ir miršta.",
+            "Organizme jungiasi prie kvėpavimo fermento citochromoksidazės Fe³⁺ ir sutrikdo kvėpavimo grandinės veiklą.",
+            "Susidaro cianhemoglobinas, blokuoja kvėpavimo grandinę ir žmogus miršta."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Kokį fermentą žmogaus organizme slopina koprinas?",
+        "choices": [
+            "Aldehiddehidrogenazę.",
+            "Citochromoksidazę.",
+            "Alkoholdehidrogenazę.",
+            "Peroksidazę."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Nuo kurio kietafazės ekstrakcijos parametro priklauso ekstrakcijos efektyvumas?",
+        "choices": [
+            "Tirpalo pH",
+            "Sorbento",
+            "Ekstrakcijos trukmės",
+            "Ekstrahento tūrio"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kuris teiginys apie imunologinius tyrimus yra teisingas?",
+        "choices": [
+            "Atliekant imunologinį tyrimą, išvengiama sukčiavimo galimybės.",
+            "Atliekant imunologinį tyrimą, medžiagos aptikimo langas yra iki 24 val.",
+            "Imunologinio tyrimo metu vaisto metabolitai ir kiti nežinomi junginiai gali sąveikauti su imunofermentiniais reagentais ir duoti „klaidingai teigiamus“ rezultatus.",
+            "Imunologinio tyrimo metu gavus teigiamą atsakymą nereikia atlikti patvirtinamųjų tyrimų."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kokių veiksmų reikia imtis, perdozavus opioidų?",
+        "choices": [
+            "Užtikrinti kvėpavimo funkciją ir suleisti priešnuodį naltreksoną.",
+            "Kuo skubiau suleisti stimuliatorių, kurie panaikina opioidų sukeltą CNS slopinimą.",
+            "Užtikrinti kvėpavimo funkciją, stabilizuoti kraujo cirkuliaciją ir suleisti priešnuodį naloksoną.",
+            "Išvesti į lauką „gryno oro“, sukelti vėmimą ir suleisti priešnuodį naloksoną."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kuris teiginys apie opioidų priešnuodį naloksoną yra neteisingas?",
+        "choices": [
+            "Naloksonas tik laikinai jungiasi prie opioidinių receptorių ir nesukelia farmakologinio poveikio.",
+            "Didelės naloksono dozės yra pavojingos nuo opioidų priklausantiems žmonėms.",
+            "Dėl ilgos naloksono veikimo trukmės labai svarbus tikslus vaisto skyrimo laikas.",
+            "Naloksonas nėra skiriamas priklausomybės nuo opioidų gydymui."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kokį tyrimą reikia atlikti, siekiant įrodyti, kad žmogus ilgą laiką vartoja nikotiną?",
+        "choices": [
+            "Nikotino ir kotinino nustatymą seilių mėginiuose.",
+            "Kotinino nustatymą šlapimo mėginyje.",
+            "Nikotino ir kotinino nustatymą plaukų mėginiuose.",
+            "Kotinino nustatymą plaukų ir šlapimo mėginiuose."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Kokį poveikį žmogaus organizmui daro nikotinas?",
+        "choices": [
+            "Dirgina kvėpavimo takų gleivinę, išplečia kraujagysles, greitina senėjimo procesus.",
+            "Slopina CNS, slopina apetitą, didina depresijos simptomus, sukelia dėmesio sutrikimus.",
+            "Iš pradžių skatina CNS, vėliau – slopina, sutraukia kraujagysles, sukelia virškinamojo trakto uždegimus.",
+            "Sukelia savaiminius persileidimus, didina nerimo ir depresijos simptomus, didina kraujospūdį."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kokios medžiagos nustatymas biologiniuose objektuose įrodo nikotino vartojimą?",
+        "choices": [
+            "Nikotino ir koniino",
+            "Nornikotino ir nikotino",
+            "Koniino ir nornikotino",
+            "Nikotino ir kotinino"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Koks yra nikotino veikimo mechanizmas organizme?",
+        "choices": [
+            "Stimuliuoja simpatinę nervų sistemą, didėja dopamino ir noradrenalino išsiskyrimas.",
+            "Stimuliuoja cholinerginius receptorius, sukeliamas adrenalino išsiskyrimas.",
+            "Slopina adenozino receptorius, padidėja dopamino ir serotonino išsiskyrimas.",
+            "Antagonistiškai veikia cholinerginius receptorius, padidėja adrenalino ir dopamino išsiskyrimas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kuris tetrahidrokanabinolio metabolitas turi stiprų psichotropinį poveikį?",
+        "choices": [
+            "8-hidroksi-tetrahidrokanabinolis.",
+            "11-nor-tetrahidrokanabinolis.",
+            "11-nor-9-karboksi-tetrahidrokanabinolis.",
+            "11-hidroksi-tetrahidrokanabinolis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kuris teiginys apie kanapių vartojimą yra teisingas?",
+        "choices": [
+            "Nuolatinis kanapių vartojimas mažina depresijos ir nerimo simptomus.",
+            "Ilgai trunkantis kanapių vartojimas sukelia trumpalaikės atminties problemas, sunkiau išlaikomas dėmesys ilgesnį laiką.",
+            "Alkoholio vartojimas slopina kanapių sukeliamą poveikį organizmui.",
+            "Kanapių vartojimas nesukelia psichinės priklausomybės."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kuris teiginys apie tetrahidrokanabinolio (THC) ir jo metabolito kiekius yra teisingas, jei kanapių produktai yra rūkomi?",
+        "choices": [
+            "Didžiausią koncentraciją kraujyje pasiekia kanabinoidas tetrahidrokanabinolis (THC), o psichoaktyvaus metabolito hidroksi-THC susidaro tik nedidelis kiekis.",
+            "Didžiausią koncentraciją kraujyje pasiekia psichoaktyvus metabolitas hidroksi-THC, o kanabinoido tetrahidrokanabinolio (THC) lieka tik nedidelis kiekis.",
+            "Smegenis pasiekia tik psichoaktyvus tetrahidrokanabinolio (THC) metabolitas hidroksi-THC.",
+            "Smegenis pasiekia vienodas kanabinoido tetrahidrokanabinolio (THC) ir jo psichoaktyvaus metabolito hidroksi-THC kiekis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kuris teiginys apie tetrahidrokanabinolio (THC) ir jo metabolito kiekius yra teisingas, jei kanapių produktai patenka per virškinamąjį kanalą (valgant)?",
+        "choices": [
+            "Didžiausią koncentraciją smegenyse pasiekia kanabinoidas tetrahidrokanabinolis (THC), o psichoaktyvaus metabolito hidroksi-THC susidaro tik nedidelis kiekis.",
+            "Didžiausią koncentraciją smegenyse pasiekia psichoaktyvus metabolitas hidroksiTHC, o kanabinoido tetrahidrokanabinolio (THC) lieka tik nedidelis kiekis.",
+            "Smegenis pasiekia tik psichoaktyvus tetrahidrokanabinolio (THC) metabolitas hidroksi-THC.",
+            "Smegenis pasiekia vienodas kanabinoido tetrahidrokanabinolio (THC) ir jo psichoaktyvaus metabolito hidroksi-THC kiekis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kuris teiginys geriausiai apibūdina efedrino veikimo mechanizmą?",
+        "choices": [
+            "Agonistiškai veikia acetilcholino receptorius.",
+            "Stimuliuoja adenozino receptorius ir didina adenozino išsiskyrimą.",
+            "Stimuliuoja α ir β adrenerginius receptorius.",
+            "Stimuliuoja simpatinę nervų sistemą, didėja dopamino ir noradrenalino išsiskyrimas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kuris teiginys apie amfetaminus yra neteisingas?",
+        "choices": [
+            "Amfetaminai eikvoja organizmo energijos išteklius.",
+            "Fiziologiškai amfetaminų ir kokaino poveikis yra panašus, bet kokainas veikia ilgesnį laiką.",
+            "Žmonės, nutraukę amfetaminų vartojimą, nepatiria sunkaus fizinio abstinencijos sindromo.",
+            "Išsivysčius priklausomybei amfetaminams, sutrinka atmintis bei sugebėjimas priimti sprendimus."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kokiomis farmakokinetinėmis savybėmis pasižymi kofeinas?",
+        "choices": [
+            "Kofeino pusinis eliminacijos laikas vyrams yra trumpesnis nei moterims.",
+            "Kūdikių organizme metabolizuojama tik nedidelė dalis kofeino.",
+            "Kofeinas metabolizuojamas į farmakologiškai neaktyvius metabolitus.",
+            "Kofeiną vartojant reguliariai, poveikis gali būti jaučiamas net keletą dienų."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Koks yra kofeino veikimo mechanizmas?",
+        "choices": [
+            "Agonistiškai veikia acetilcholino receptorius.",
+            "Stimuliuoja adenozino receptorius ir didina adenozino išsiskyrimą.",
+            "Slopina cholinerginius receptorius, padidėja adrenalino ir dopamino išsiskyrimas.",
+            "Stimuliuoja simpatinę nervų sistemą, didėja dopamino ir noradrenalino išsiskyrimas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Kuris kokaino vartojimo būdas greičiausiai sukelia jo stimuliuojamąjį poveikį?",
+        "choices": [
+            "Kokaino įtraukimas į plaučius - rūkymas.",
+            "Kokaino miltelių uostymas per nosį.",
+            "Kokainą švirkščiant po oda ar į veną.",
+            "Vartojant kokainą į virškinamąjį kanalą."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Kokį poveikį daro kokaino maišymas su alkoholiu?",
+        "choices": [
+            "Skatina psichoaktyvaus metabolito susidarymą.",
+            "Pailgina alkoholio poveikį.",
+            "Didina alergijos tikimybę",
+            "Silpnina kokaino stimuliuojamąjį poveikį."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kuriai medžiagų grupei priklauso „Ekstazi“?",
+        "choices": [
+            "Sintetinis haliucinogeninis amfetaminas.",
+            "Sintetinis katinonas.",
+            "Amfetamino ir heroino mišinys.",
+            "Kokaino ir amfetamino mišinys."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Kokį poveikį organizmui daro efedrino maišymas su kofeinu?",
+        "choices": [
+            "Didėja insulto ir psichozės rizika.",
+            "Didėja inkstų akmenų susidarymo rizika.",
+            "Blogina vitaminų ir mineralų pasisavinimą.",
+            "Skatina aktyvaus metabolito efedrono susidarymą."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Kuris teiginys apie benzodiazepinus yra teisingas?",
+        "choices": [
+            "Visi benzodiazepinai toksiškai veikia kepenis, nepriklausomai nuo jų veikimo trukmės.",
+            "Benzodiazepinų koncentracija plazmoje labai koreliuoja su simptomatika, todėl svarbus kiekybinis jų nustatymas.",
+            "Švirkščiant benzodiazepinus į veną, pasireiškia stipresnis kvėpavimo funkcijos slopinimas, nei geriant per os.",
+            "Benzodiazepinai slopina GASR, todėl pasireiškia slopinantis poveikis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Kas būdinga neuroziniams psichikos sutrikimams?",
+        "choices": [
+            "Pasireiškia haliucinacijos, kliedesiai, žmogus atitrūksta nuo realybės (pvz., šizofrenija).",
+            "Kyla dėl smegenų struktūros ir jų funkcijos pažeidimų (pvz., demencija).",
+            "Išsivysto po stresų  - žmogus ligą suvokia, nuo realybės neatitrūksta (pvz., fobija).",
+            "Etiologinė priežastis nenustatyta."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Koks yra paracetamolio toksinio poveikio mechanizmas?",
+        "choices": [
+            "Sutrikdo rūgščių ir šarmų pusiausvyrą – sukelia kraujavimą į virškinamąjį traktą.",
+            "Perdozavus paracetamolio, išsenka glutationo atsargos – pažeidžiamos kepenys.",
+            "Slopina citochromo P450 enzimų sistemą – pažeidžiamos kepenys ir inkstai.",
+            "Stimuliuodamas dopamino receptorius, sutrikdo rūgščių ir šarmų pusiausvyrą – pažeidžiamos kepenys."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

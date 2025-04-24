@@ -1,0 +1,153 @@
+[
+    {
+        "number": 1,
+        "question": "Audinių inžinerijos produktui galimi būdingi bruožai apima tokius:",
+        "choices": [
+            "Produktų sudėtyje esančios ląstelės arba audiniai gali būti gyvybingi arba negyvybingi;",
+            "Produkte gali būti žmogaus arba gyvūninės kilmės ląstelių arba audinių;",
+            "Produkto funkcija - regeneruoti, pataisyti arba pakeisti žmogaus audinį.;",
+            "Produkte negali būti papildomų medžiagų, pavyzdžiui, ląstelių produktų, biomolekulių, biomedžiagų ir pan."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kas priskiriama nevirusiniams fizikiniams genų terapijos nešikliams?",
+        "choices": [
+            "Injekcijos adatomis;",
+            "Ultragarsas;",
+            "Elektroporacija",
+            "Katijoninės medžiagos."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Nurodyti teisingus teiginius apie adeno-asocijuotus virusus:",
+        "choices": [
+            "Tinka in vivo genų terapijai;",
+            "Lėtai ekspresuoja genus;",
+            "Pasižymi imunogeniškumu;",
+            "Sukelia mutacijas genų įterpimo vietoje."
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kas apima genų terapijos produktų su produktu susijusias priemaišas:",
+        "choices": [
+            "Nefunkcionalias formos;",
+            "Serumo baltymai;",
+            "Virusiniai vektoriai;",
+            "Pradinių medžiagų likučiai."
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kas priskiriama pažangios terapijos medicinos produktams?",
+        "choices": [
+            "Ląstelių terapijos preparatai;",
+            "Audinių inžinerijos produktai;",
+            "Genų terapijos preparatai;",
+            "Biologiniai vaistai."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kas turi būti nurodyta identifikuojant produktą, turintį ląstelių?",
+        "choices": [
+            "Ląstelių kilmė;",
+            "Histologiniai žymenys;",
+            "Mitybinės terpės komponentai;",
+            "Fenotipinis ir/arba genotipinis profilis."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Idealiai vakcinai keliami reikalavimai apima:",
+        "choices": [
+            "Neparenteris įvedimo į organizmą kelias;",
+            "Imuniniam atsakui suformuoti pakanka vienos dozės;",
+            "Tinkamumas panaudoti ankstyvame amžiuje;",
+            "UV šviesai nelaidi talpyklė."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Audinių inžinerijoje naudojamų produktų komponentai gali būti:",
+        "choices": [
+            "Sukurtos ekstraląstelinės matricos;",
+            "Ląstelės;",
+            "Biologiškai aktyvios medžiagos;",
+            "Imunosupresantai."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

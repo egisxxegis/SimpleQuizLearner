@@ -1,0 +1,323 @@
+[
+    {
+        "number": 1,
+        "question": "Kurios iš šių priežasčių sąlygoja farmacinės rūpybos paslaugų poreikio augimą? ",
+        "choices": [
+            "Senstanti visuomenė ",
+            "Gydytojų trūkumas ",
+            "Išlaidų vaistams augimas ",
+            "Mažmeninio antkainio vaistams mažėjimas "
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kurie iš žemiau išvardintų elementų būdingi tik farmacinės rūpybos paslaugą (-as) teikiančiai vaistinei? ",
+        "choices": [
+            "  Vaistinėje sukurta realiai veikianti sistema, įgalinanti vaistinės vadovybę identifikuoti dažniausiai pasitaikančias farmakoterapines problemas ",
+            "Vaistinėje kuriama ir atnaujinama išsami duomenų bazė apie pacientų sveikatos būklę ",
+            "Vaistinėje personalas nuolatos tobulina savo profesines žinias vidiniuose ir išoriniuose mokymuose, kursuose, seminaruose bei kituose profesinio tobulėjimo renginiuose ",
+            "Vaistinėje kuriami personalizuoti farmakoterapijos planai pacientams "
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kurie vidiniai įmonės faktoriai labiausiai įtakoja sėkmingą farmacinės rūpybos diegimo procesą vaistinės praktikoje? ",
+        "choices": [
+            "Teigiamas vaistinės personalo požiūris į numatomus pokyčius kasdieninėje praktikoje ",
+            "Finansinis personalo motyvavimas ",
+            "Tinkamas darbo krūvio paskirstymas ",
+            "Profesinių organizacijų teikiamos konsultacijos                                                              "
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kurias iš žemiau paminėtų oficinos erdvių rekomenduojama įrengti pritaikant patalpas Farmacinės rūpybos paslaugų teikimui? ",
+        "choices": [
+            "Nereceptinių vaistų ir medicininės paskirties produktų pardavimo erdvė ",
+            "Laukimo erdvė, skirta receptinius vaistus įsigyti atėjusiems pacientams ",
+            "Receptinius vaistus įsigyjančių pacientų konsultavimo erdvė ",
+            "Farmacinės rūpybos paslaugų paskirstymo bei personalo instruktavimo erdvė       "
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Potencialūs farmacinės rūpybos paslaugos užsakovai gali būti: ",
+        "choices": [
+            "Pacientai, kuriems iškilo tam tikros farmakoterapinės problemos ",
+            "Privatūs sveikatos draudimo fondai, siekiantys sutaupyti  lėšas skiriamas gydymui, mažiau investuodami į ligų profilaktiką ",
+            "Darbdaviai, besirūpinantys savo personalo sveikata ir užsakantys visiems ar daliai darbuotojų tam tikras farmacinės rūpybos paslaugas ",
+            "Vaistų tiekėjai, užtikrinantys farmakoterapinio efekto monitoringo priemonių tiekimą      "
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kokios dažniausios daromos klaidos matuojant kraujospūdį?",
+        "choices": [
+            "Netinkamas manžetės dydis",
+            "Matuojant spaudimą pacientas sėdi sukryžiavęs kojas",
+            "Kraujospūdis matuojamas tuoj pat po fizinio krūvio",
+            "Kraujospūdis matuojamas išgėrus kavos ar kitų stimuliantų"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kokios gali būti jatrogeninės žalos priežastys vyresnio amžiaus pacientams?",
+        "choices": [
+            "Polifarmacija",
+            "Daugybė lėtinių ligų ir keli jas gydantys gydytojai",
+            "Ligos, atsirandančios dėl medicininių ar chirurginių procedūrų",
+            "Vaistų nevartojimas"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Farmacinės rūpybos paslauga vyresnio amžiaus pacientams turi būti orientuota į:",
+        "choices": [
+            "Tinkamų medikamentų vartojimą",
+            "Edukaciją apie vartojamus vaistus",
+            "Polifarmacijos mažinimą",
+            "Nepageidaujamų reiškinių prevenciją"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kuri iš išvardintų vakcinų yra kontraindikuotina nėštumo metu",
+        "choices": [
+            "MMR (tymų, epideminio parotito, raudonukės)",
+            "COVID",
+            "Gripo",
+            "Žmogaus papilomos viruso (ŽPV) vakcina"
+        ],
+        "answers_num": [
+            1,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "  Kuriomis vakcinomis gali vakcinuoti Išplėstinės praktikos vaistininkas Lietuvoje?",
+        "choices": [
+            "ŽPV (žmogaus papilomos virusas) vakcina",
+            "Erkinio encefalito vakcina",
+            "Hepatito B vakcina",
+            "Pneumokokinės infekcijos vakcina"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Skiepijimas nuo gripo yra ypač svarbus žmonėms, priklausantiems padidintos rizikos grupei, kuriems gali išsivystyti gripo komplikacijos:",
+        "choices": [
+            "Vyresniems nei 65 m. ir daugiau.",
+            "Nėščioms moterims ir moterims iki dviejų savaičių po gimdymo.",
+            "Slaugos namų ir kitų ilgailaikės globos įstaigų gyventojams.",
+            "Žmonėms, turintiems tam tikrus sveikatos sutrikimus, kaip pvz.: diabetas, KMI<40, inkstų, kepenų ligas ir tt."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Vaistų vartojimo problema - “netinkamo vaisto” vartojimas ir jos galimos priežastys:",
+        "choices": [
+            "Indikacija, dėl kurios tam tikras vaistas yra netinkamas.",
+            "Alerginė reakcija į paskirtą vaistą.",
+            "Yra efektyvesnė vaisto parinktis paciento būklei.",
+            "Paciento dabartinė vaistų schema apima rizikingą arba neveiksmingą vaistų derinį."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kokie yra anafilaksijos valdymo žingsniai po vakcinacijos",
+        "choices": [
+            "Tik skambinti 112 ir laukti pagalbos.",
+            "Tinkamai paguldyti pacientą, stebėti paciento būklę, suleisti adrenaliną (epinefriną), kviesti pagalbą 112",
+            "Duoti antihistamininių vaistų",
+            "Suleisti adrenaliną ir po 30 min., jei paciento būklė stabili, išleisti namo."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "MULTI",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kurie teiginiai apie vaistų vaistų problemas ir PCNE (Pharmaceutical Care Network Europe) klasifikaciją yra teisingi?",
+        "choices": [
+            "PCNE klasifikacija skirta sistemingai identifikuoti vaistų vartojimo problemas.",
+            "PCNE skiria dėmesį farmacinės rūpybos plėtrai Europoje.",
+            "Vaistų vartojimo problemos apima tik šalutinį vaistų poveikį, kuriuos tiria PCNE.",
+            "PCNE reguliuoja vaistų kainas pasaulyje.                  "
+        ],
+        "answers_num": [
+            1,
+            2
+        ],
+        "option_type": "MULTI",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Vaistininko vaidmuo teikiant farmacinės rūpybos paslaugą:",
+        "choices": [
+            "Komunikatorius ",
+            "Vaistų vartojimo konsultantas ",
+            "Sveikatos specialistų komandos narys",
+            "Sveikos gyvensenos patarimų teikėjas "
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "ĮVPV farmacinės rūpybos paslaugos gavėjai:",
+        "choices": [
+            "Pacientai, sergantys astma",
+            "Pacientai sergantys lėtine obstrukcine plaučių liga",
+            "Gydytojai",
+            "Slaugytojai"
+        ],
+        "answers_num": [
+            1,
+            2
+        ],
+        "option_type": "MULTI",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "ĮVPV farmacinės rūpybos paslaugos uždaviniai:",
+        "choices": [
+            "Nustatyti problemas, susijusias su pacientui paskirtų įkvepiamųjų vaistinių preparatų netinkamu vartojimu;",
+            "Pacientui aiškiai ir suprantamai pateikti informaciją apie astmą ar LOPL, galimas su vaistinių preparatų, skirtų šioms ligoms gydyti, vartojimu kylančias problemas;",
+            "Konsultuoti pacientą, kaip, atsižvelgiant į gydytojo rekomendacijas ir įkvepiamųjų vaistinių preparatų vartojimo techniką, tinkamai vartoti jam paskirtus įkvepiamuosius vaistinius preparatus, padėti pacientui išspręsti nustatytas problemas, susijusias su įkvepiamųjų vaistinių preparatų netinkamu vartojimu.",
+            "Suteikti informaciją gydytojui"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

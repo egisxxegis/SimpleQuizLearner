@@ -1,0 +1,152 @@
+[
+    {
+        "number": 51,
+        "question": "Ar teisingas teiginys: „Farmakogenomika tiria vaistų terapijos personalizavimą panaudojant genetinę informaciją“",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Terapinis indeksas apibūdinamas kaip santykis dozės, sukeliančios toksinius efektus  50% pacientų, su doze, sukeliančia gydomąjį poveikį 50% pacientų",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Vaistų farmakokinetika vaikų amžiuje mergaitėms ir berniukams yra skirtinga:",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Pacientui nustatytas neveiksmingas gydymas, tai bus B tipo nepageidaujamas vaisto poveikis:",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Inkstų dializė turi įtakos visų antibiotikų farmakokinetikai:",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Vaistų vartojimo istorija yra sudaroma, kad būtų galima rekomenduoti ekonomiškesnį gydymo režimą:",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 57,
+        "question": "Vaistai, informaciniame lapelyje pažymėti apverstu juodu trikampiu ▼ yra nesaugūs:",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 57,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 58,
+        "question": "Klinikinių tyrimų kontekste pagarba žmonėms yra savanoriško dalyvavimo pagrindas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 58,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 59,
+        "question": "3 fazės klinikiniai tyrimai paprastai trunka iki kelių mėnesių.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 59,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 60,
+        "question": "Dėl vartojamos askorbo rūgštis gliukozės šlapime tyrimo rezultatas gali būti klaidingai neigiamas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 60,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

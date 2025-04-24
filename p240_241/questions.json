@@ -1,0 +1,92 @@
+[
+    {
+        "number": 1,
+        "question": "Fitopreparatuose paprastai yra grupė panašios sandaros biologiškai aktyvių junginių.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Ar naujo fitopreparato tarpserijinis neekvivalentiškumas gali būti nulemtas tik taikomų technologinių procedūrų?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Tradicinio augalinio vaistinio preparato sudėtyje gali būti vitaminų ir mineralinių medžiagų.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Naųjų fitopreparatų su margainių sausuoju ekstraktu kontrolei turi būti taikomas efektyviosios skysčių chromatografijos metodas.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Ekstrakcijos tirpiklių skirtumai yra vienas iš galimų naujų fitopreparatų netapatumo veiksnių.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Ar būtina nurodyti analitinių žymenų kiekio ribas vaistinio preparato, kurio sudėtyje yra kiekybiškai įvertintas ekstraktas, ženklinime?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

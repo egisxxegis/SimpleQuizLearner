@@ -1,0 +1,77 @@
+[
+    {
+        "number": 1,
+        "question": "Polimerazės grandininė reakcija yra naudojama DNR sekos nuskaitymui.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Sangerio sekvenavimo metodas yra naudojamas DNR fragmentų gausinimui.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Imunofermentinė analizė yra naudojama įvertinti rekombinantinių baltymų kiekius.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Izoelektriniame taške baltymų tirpumas yra didžiausias.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Baltyminių vaistinių medžiagų stabilumą patikimai galima patvirtinti biologiniais tyrimais.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

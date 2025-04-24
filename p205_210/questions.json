@@ -1,0 +1,682 @@
+[
+    {
+        "number": 1,
+        "question": "Ką tiria farmakogenetika?",
+        "choices": [
+            "Genomo kitimus, kuriuos galimai sukelia vaistų vartojimas.",
+            "DNR ir RNR pritaikymo farmakoterapijoje galimybes.",
+            "Genetiniais skirtumais paaiškinamą skirtingą organizmo atsaką į vaistų ar kitų aplinkos medžiagų poveikį.",
+            "Vaistinių medžiagų įtaką paveldimumui."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kodėl vykdant vaistinių medžiagų farmakokinetikos tyrimus nustatoma vaistinės medžiagos koncentracija kraujyje?",
+        "choices": [
+            "Paprasta paimti mėginius.",
+            "Nereikalingas specialiai apmokintas personalas.",
+            "Vaistinės medžiagos yra stabilios kraujyje.",
+            "Tokio tipo tyrimams atlikti nereikalingas nacionalinio etikos komiteto leidimas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Vaistinių medžiagų absorbcijos procesui nepriskiriama:",
+        "choices": [
+            "Vaistinės medžiagos difuzija pro virškinamojo trakto membranas.",
+            "Aktyvus vaistinės medžiagos transportas į virškinamojo trakto membranas.",
+            "Vaistinės medžiagos difuzija į riebalinius audinius.",
+            "Vaistinės medžiagos metabolizmas virškinamojo trakto membranose."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Įvykus vaistinės medžiagos pasiskirstymui organizmo audiniuose:",
+        "choices": [
+            "Vaistinės medžiagos šalinimo greitis iš organizmo yra pastovus.",
+            "Vaistinės medžiagos metabolizmo greitis yra pastovus.",
+            "Vaistinės medžiagos koncentracijų santykis tarp organizmo audinių yra pastovus.",
+            "Vaistinės medžiagos difuzija tarp audinių nebevyksta."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Vaistinės medžiagos gali jungtis su plazmos baltymais ir tai:",
+        "choices": [
+            "Sustiprina vaistinės medžiagos sukeliamą poveikį.",
+            "Pagreitiną vaistinės medžiagos transportavimą į audinius.",
+            "Sukelia papildomus šalutinius vaistinės medžiagos poveikius.",
+            "Pailgina vaistinės medžiagos sukeliamą poveikį."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Vaistinės medžiagos farmakokinetikos modeliavimas atliekamas siekiant:",
+        "choices": [
+            "Vertinti vaistinės medžiagos absorbciją.",
+            "Vertinti vaistinės medžiagos pasiskirstymą tarp audinių bei jų grupių.",
+            "Nustatyti vaistinės medžiagos klirensą.",
+            "Vertinti organizmo audinių perfuziją."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Vaistinės medžiagos farmakokinetikos modelį lemia:",
+        "choices": [
+            "Panaudota vaisto forma.",
+            "Panaudota vaistinės medžiagos doze.",
+            "Vaistinės medžiagos dozavimo režimas.",
+            "Vaistinės medžiagos pasiskirstymo ypatumai."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Neparenterinių vaistų formų farmakokinetikoje svarbiausias yra:",
+        "choices": [
+            "Vaistinės medžiagos eliminacijos procesas.",
+            "Vaistinės medžiagos absorbcijos procesas.",
+            "Vaistinės medžiagos pasiskirstymo audiniuose procesas.",
+            "Vaistinės medžiagos metabolizmo procesas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Skiriant hidrofilinius vaistus kūdikiams, dozę mg/kg reikia skirti didesnę nei vyresniems vaikams, nes:",
+        "choices": [
+            "Didesnis pasiskirstymas.",
+            "Greitesnė absorbcija.",
+            "Greitesnis metabolizmas.",
+            "Greitesnis šalinimas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Vaistų šalinimas per inkstus apytiksliai susilygina su suaugusiųjų:",
+        "choices": [
+            "Kūdikiams apie 6 mėn.",
+            "Vaikams apie 1-2 m.",
+            "Vaikams apie 6 m.",
+            "Vaikams apie 12 m."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Koks teiginys teisingiausiai apibūdina pastovios infuzijos privalumą lyginant su trumpalaike infuzija?",
+        "choices": [
+            "Vaistai geriau pasisavinami senyviems pacientams.",
+            "Yra ekonomiškesnė skiriant ilgai gydomiems pacientams .",
+            "Geriau suderinti vaistų vartojimo režimą intensyvios terapijos skyriuje gydomiems pacientams.",
+            "Užtikrinama stabili vaisto koncentraciją paciento kraujyje."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Nustačius nepageidaujamą vaisto poveikį rekomenduojama, parinkite tiksliausią atsakymą:",
+        "choices": [
+            "Nutraukti vaisto vartojimą ir ligonį stacionarizuoti.",
+            "Nedaryti nieko, poveikis išsispręs savaime.",
+            "Jeigu yra saugu, nutraukti vaisto vartojimą ir parinkti kitą preparatą.",
+            "Nutraukti vaisto vartojimą ir stebėti pacientą."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kuris atsakymas geriausiai apibūdina vaistininko suteikiamą konsultaciją dėl galimo nepageidaujamo vaisto poveikio?",
+        "choices": [
+            "Informuoti pacientą apie galimą dažniausią nepageidaujamą vaisto poveikį.",
+            "Informuoti pacientą apie galimą rimčiausią nepageidaujamą vaisto poveikį.",
+            "Suteikti informaciją apie galimą nepageidaujamą poveikį širdies kraujagyslių sistemai.",
+            "Suteikti informaciją apie galimas alergijas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kuris teiginys geriausiai apibūdina vaistų koncentracijos ligonio kraujyje tyrimų poreikį:",
+        "choices": [
+            "Tai konkretaus vaisto koncentracijos kraujyje tyrimas, siekiant nustatyti mažiausią veiksmingą pacientui.",
+            "Tai konkretaus vaisto koncentracijos kraujyje tyrimas, siekiant nustatyti didžiausią toleruojamą dozę individualiam pacientui.",
+            "Tai konkretaus vaisto koncentracijos kraujyje tyrimas, siekiant nustatyti palaikomąją dozę individualiam pacientui.",
+            "Tai konkretaus vaisto koncentracijos kraujyje tyrimas, siekiant nustatyti veiksmingiausią dozę individualiam pacientui."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kodėl imant kraujo ėminį vaisto koncentracijos kraujo serume nustatymui dažniausiai yra rekomenduojama ėminį imti prieš sekančią dozę:",
+        "choices": [
+            "Mažiausiai lieka vaisto, todėl tiksliausiai nustatoma.",
+            "Mažiausiai besikeičianti koncentracija dozavimo intervale.",
+            "Mažas laiko tarpas iki sekančios dozės, todėl tiksliausiai bus parinkta sekanti dozė.",
+            "Mažai lieka vaisto, todėl gali būti imamas mažesnis kraujo kiekis."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Į ką reikią atsižvelgti vertinant gautą vaisto koncentracijos kraujyje rezultatą (parinkite teisingiausią atsakymą):",
+        "choices": [
+            "Į indikaciją, dėl kurios vartojamas tiriamas vaistas.",
+            "Į bendrą kraujo tyrimą.",
+            "Į dozavimo intervalus.",
+            "Į kartu atliktą šlapimo tyrimą."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kuriais atvejais vaisto terapinio poveikio įvertinimui rekomenduojama atlikti vaisto koncentracijos tyrimus kraujyje?",
+        "choices": [
+            "Didelis vaisto pasiskirstymo tūris.",
+            "Pacientui sutrikusi inkstų funkcija ir vartoja centrinę nervų sistemą veikiančius vaistus.",
+            "Yra mažas skirtumas tarp veiksmingos ir toksinės vaisto dozės.",
+            "Pacientas gydomas intensyvios terapijos skyriuje ir vartoja širdies ir kraujagyslių sistemą veikiančius vaistus."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kuris kriterijus nurodo inkstų pažeidimo rizika?",
+        "choices": [
+            "Kreatinino koncentracija serume padidėjusi 1,5 karto arba glomerulų filtracijos greitis sumažėjęs 25 proc.",
+            "Kreatinino koncentracija serume padidėjusi 1,5 karto arba glomerulų filtracijos greitis sumažėjęs 50 proc.",
+            "Kreatinino koncentracija serume padidėjusi 2 kartus arba glomerulų filtracijos greitis sumažėjęs 25 proc.",
+            "Kreatinino koncentracija serume padidėjusi 2 kartus arba glomerulų filtracijos greitis sumažėjęs 50 proc."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Ką parodo Child-Pugh klasifikacija:",
+        "choices": [
+            "Inkstų ir kepenų sutrikimą.",
+            "Kepenų sutrikimą.",
+            "Kepenų ir kasos sutrikimą.",
+            "Kasos sutrikimą."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Norint apskaičiuoti kreatinino klirensą pagal Cockroft-Gault formulę reikia žinoti:",
+        "choices": [
+            "Paciento lytį ir amžių, kreatinino koncentraciją serume.",
+            "Paciento amžių, kreatinino koncentracija serume, albumino koncentracija serume.",
+            "Paciento lytį ir amžių, kreatinino koncentraciją serume, paciento svorį.",
+            "Paciento amžių, kreatinino koncentraciją serume, šlapalo koncentraciją serume."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Vaistų suderinimas stacionarizuojant pacientą yra rekomenduojamas (parinkite teisingiausią atsakymą):",
+        "choices": [
+            "Vartojant siauro terapinio indekso vaistus.",
+            "Pacientui vartojant daugiau kaip 5 vaistus.",
+            "Stacionarizuojant senyvą pacientą ir esant inkstų funkcijos sutrikimui.",
+            "Kiekvieną kartą stacionarizuojant."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kokie metabolizmo pokyčiai būdingi senyvo amžiaus pacientams?",
+        "choices": [
+            "Reikšmingai sulėtėja I ir II metabolizmo fazių procesai.",
+            "Reikšmingai pagreitėja I ir II metabolizmo fazių procesai.",
+            "Reikšmingai sulėtėja I metabolizmo fazės procesai, o II metabolizmo fazės procesai reikšmingai nepakinta.",
+            "I metabolizmo fazės procesai reikšmingai nepakinta, o II metabolizmo fazės procesai reikšmingai sulėtėja."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Kuris teiginys geriausiai apibūdina inkstų funkciją senyvame amžiuje?",
+        "choices": [
+            "Mažėja serumo kreatinino koncentracija ir kreatinino klirensas.",
+            "Didėja serumo kreatinino koncentracija ir kreatinino klirensas.",
+            "Serumo kreatinino koncentracija gali nepakisti, kreatinino klirensas mažėja",
+            "Serumo kreatinino koncentracija didėja, kreatinino klirensas nepakinta."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Kokie baltymų nešiklių kiekių pokyčiai būdingi senyvo amžiaus pacientams?",
+        "choices": [
+            "Sumažėja albuminų ir alfa1 rūgšties glikoproteinų.",
+            "Padaugėja albuminų ir alfa1 rūgšties glikoproteinų.",
+            "Albuminų padaugėja, alfa1 rūgšties glikoproteinų sumažėja.",
+            "Albuminų sumažėja, alfa1 rūgšties glikoproteinų padaugėja."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kokie su absorbcija susiję pokyčiai nebūdingi nėštumo metu vartojant vaistus per burną?",
+        "choices": [
+            "Cmax padidėjimas.",
+            "Tmax pailgėjimas.",
+            "Skrandžio išsituštinimo ir tranzito plonosiomis žarnomis laiko pailgėjimas.",
+            "Sumažėjusi vaistų absorbcija dėl pykinimo ir vėmimo."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kokie eliminacijos per inkstus pokyčiai būdingi sveikai nėščiajai?",
+        "choices": [
+            "Sumažėjęs glomerulų filtracijos greitis.",
+            "Trumpesnis šalinamų per inkstus vaistų pusinės eliminacijos laikas.",
+            "Pagreitėję I metabolizmo fazės procesai kepenyse.",
+            "Inkstų kraujagyslių vazokonstrikcija."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Nuosekliausi ir geriausiai nuspėjami pokyčiai su amžiumi yra:",
+        "choices": [
+            "CYP P450 fermentų pokyčiai.",
+            "Serumo kreatinino koncentracijos pokyčiai.",
+            "Kreatinino klirenso pokyčiai.",
+            "Jungimosi prie plazmos baltymų pokyčiai."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Iš kokio šaltinio gauta informacija apie nepageidaujamą reakciją į vaistą vadinama spontaniniu pranešimu?",
+        "choices": [
+            "Iš vaisto informacinio lapelio.",
+            "Iš neklinikinių tyrimų.",
+            "Iš klinikinių tyrimų.",
+            "Iš vaistininko."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Kuri informaciją yra svarbiausia vertinant nepageidaujamą vaisto poveikį?",
+        "choices": [
+            "Vaisto vartojimo laikas paroje ir santykis su maistu",
+            "Vaisto vartojimo pradžia ir simptomų atsiradimo laikas",
+            "Paciento lytis ir paciento amžius",
+            "Įtariamo vaisto forma ir pagalbinės medžiagos"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "MULTI",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kas vertina pranešimus apie įtariamą nepageidaujamą vaisto poveikį?",
+        "choices": [
+            "Valstybinė vaistų kontrolės tarnyba",
+            "Lietuvos bioetikos komitetas",
+            "Europos vaistų agentūra",
+            "Šeimos gydytojas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kuris iš šių reiškinių nėra farmakokinetinės vaistų sąveikos pasekmė?",
+        "choices": [
+            "Vaisto koncentracijos kraujyje pokytis.",
+            "CYP P450 fermentų aktyvumo pokytis.",
+            "Pernešiklių aktyvumo pokytis.",
+            "Receptorių vaisto veikimo lygmenyje aktyvumo pokytis."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kuri iš šių vaistų sąveikų yra farmakokinetinė?",
+        "choices": [
+            "Varfarino ir rifampicino sąveika.",
+            "Varfarino ir vitamino K sąveika.",
+            "Varfarino ir aspirino sąveika.",
+            "Varfarino ir diklofenako sąveika."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Adityvinės vaistų sąveikos apibūdinimas:",
+        "choices": [
+            "1 + 1 = ↑2",
+            "1 + 1 = ↑1",
+            "1 + 0 = ↑1, bet ↓2",
+            "1 + 1 = X"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Potencijuojančios vaistų sąveikos apibūdinimas:",
+        "choices": [
+            "1 + 1 = ↑2",
+            "1 + 1 = ↑1",
+            "1 + 0 = ↑1, bet ↓2",
+            "1 + 1 = X"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kuris teiginys geriausiai apibūdina I klinikinių tyrimų fazę?",
+        "choices": [
+            "Nustatomas vaisto efektyvumas pacientams.",
+            "Nustatomi vaisto farmakokinetikos parametrai su nedideliu sveikų asmenų skaičiumi.",
+            "Nustatomos tiriamo vaisto sąveikos su kitais vaistais.",
+            "Nustatomi ilgalaikiai nepageidaujami poveikiai."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kuris teiginys geriausiai apibūdina IV klinikinių tyrimų fazę?",
+        "choices": [
+            "Nustatomas optimalios dozės.",
+            "Nustatoma didžiausia toleruojama dozė.",
+            "Nustatomas vaisto efektyvumas lyginant su kontrole.",
+            "Nustatomi farmakoekonominiai parametrai."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Ką parodo padidėjęs glikuoto hemoglobino kiekis serume?",
+        "choices": [
+            "Blogai valdomą cukrinį diabetą.",
+            "Kraujo krešėjimo pokyčius.",
+            "Įvykusį miokardo infarktą.",
+            "Anemiją."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kokią galimą patologiją parodo padidėjęs alanino aminotransferazės kiekis?",
+        "choices": [
+            "Raumenų ląstelių pažeidimą.",
+            "Kaulų sutrikimą.",
+            "Kepenų ląstelių pažeidimą.",
+            "Inkstų pažeidimą."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Didelis skydliaukę stimuliuojančio hormono kiekis serume parodo:",
+        "choices": [
+            "Tirotoksikozę",
+            "Hipotiroidizmą",
+            "Hipertiroidizmą",
+            "Autoimuninę ligą"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Sumažėjęs neutrofilų kiekis parodo:",
+        "choices": [
+            "Ūmią bakterinę infekciją.",
+            "Leukemiją.",
+            "Uždegiminį sutrikimą.",
+            "Autoimunines ligas (pvz.: vilkligę)."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

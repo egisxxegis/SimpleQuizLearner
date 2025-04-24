@@ -1,0 +1,784 @@
+[
+    {
+        "number": 1,
+        "question": "Kuris iš pateiktų pusiau kietų preparatų pagrindų priskiriamas hidrofiliniams (vandenyje tirpiems) pagrindams?",
+        "choices": [
+            "Angliavandeniliniai pagrindai",
+            "Minkštas parafinas",
+            "Alyvuogių aliejus",
+            "Polietilenglikolio pagrindai"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kuri iš parenteralinių preparatų kategorijų turi atitikti vienadozių preparatų masės vienodumo testo reikalavimus?",
+        "choices": [
+            "Milteliai injekciniams ar infuziniams preparatams ruošti.",
+            "Injekciniai preparatai.",
+            "Infuziniai preparatai .",
+            "Koncentratai injekciniams preparatams ruošti."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Pusiau kietų preparatų kategorijos pagal Ph. Eur. 2021",
+        "choices": [
+            "Tepalai, kremai, geliai, pastos",
+            "Tepalai, kremai, geliai, pastos, emulgeliai",
+            "Tepalai, kremai, geliai, pastos, šutekliai, linimentai",
+            "Tepalai, kremai, geliai, pastos, šutekliai."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokios yra pagrindinės pusiau kietų preparatų technologinio proceso stadijos?",
+        "choices": [
+            "Pagrindo formavimas ir medžiagų įterpimas, homogenizavimas, fasavimas, ženklinimas",
+            "Žaliavų paruošimas, pagrindo formavimas ir medžiagų įterpimas, homogenizavimas, fasavimas, ženklinimas",
+            "Žaliavų paruošimas, medžiagų įterpimas, homogenizavimas, fasavimas, ženklinimas",
+            "Žaliavų paruošimas, pagrindo formavimas ir medžiagų įterpimas, fasavimas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kokiu tikslu tablečių technologiniame procese atliekamas laisvai išbyrėjusių miltelių kūgio kampo tyrimas?",
+        "choices": [
+            "Miltelių birumui nustatyti.",
+            "Miltelių frakcinei sudėčiai nustatyti.",
+            "Miltelių suberiamąjam tankiui nustatyti.",
+            "Miltelių suspaudžiamumui nustatyti."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kuris iš pateiktų gamybos metodų taikomas gaminant nedengtas tabletes?",
+        "choices": [
+            "Drėgnasis granuliavimas",
+            "Dispergavimas",
+            "Dražavimas",
+            "Homogenizavimas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Sirupai tai:",
+        "choices": [
+            "Saldaus skonio, klampūs vandeniniai arba etanoliniai preparatai, kurių sudėtyje cukraus koncentracija didesnė nei 50% (m/m)",
+            "Klampūs, koloidiniai vandeniniai preparatai, kurių sudėtyje cukraus koncentracija didesnė nei 45% (m/m)",
+            "Saldaus skonio, klampūs vandeniniai preparatai, kurių sudėtyje cukraus koncentracija didesnė nei 45% (m/m)",
+            "Saldaus skonio, klampūs vandeniniai preparatai, kurių sudėtyje cukraus koncentracija mažesnė nei 45% (m/m)"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Nuo kokių veiksnių priklauso vaistinio preparato išpurškimas iš aerozolio talpyklos?",
+        "choices": [
+            "Nuo purkštuko tipo ir propelento.",
+            "Nuo purkštuko tipo, angų matmenų, jų skaičiaus ir padėties.",
+            "Nuo aerozolio talpyklos dydžio ir purkštuko tipo.",
+            "Nuo vaistinės medžiagos savybių, sifoninio vamzdelio aukščio ir temperatūros."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kokie propelentai priskiriami slėgiu suskystintoms dujoms ?",
+        "choices": [
+            "Etilenchloridas.",
+            "Propano eilės angliavandeniliai.",
+            "Anglies dioksidas.",
+            "Azotas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Aromatinių vandenų apibūdinimas:",
+        "choices": [
+            "Koncentruoti eterinių aliejų tirpalai vandenyje",
+            "Eterinių aliejų tirpalai vandenyje arba vandens ir etanolio mišiniuose",
+            "Eterinių aliejų tirpalai organiniuose tirpikliuose",
+            "Augalinės žaliavos vandeninės ištraukos"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Gaminamas aromatinis vanduo eterinių aliejų tirpinimo metodu. Kokiu tikslu reikia sudrėkinti popierinį filtrą prieš filtravimą?",
+        "choices": [
+            "Kad nesusidarytų oro tarpai tarp aromatinio vandens ir filtro.",
+            "Kad prie filtro geriau priliptų disperguojanti medžiaga.",
+            "Kad pro filtrą nepraeitų neištirpę aliejaus lašeliai.",
+            "Kad filtruojant neišgaruotų eterinis aliejus."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Fizikiniai – cheminiai mikrokapsuliavimo metodai yra grindžiami:",
+        "choices": [
+            "Mechaniniu plėvelės uždėjimu ant vaistinės medžiagos dalelių.",
+            "Fazių atskyrimu naudojant nesudėtingą aparatūrą.",
+            "Chemine reakcija tarp kapsuliuojamos ir plėvelę sudarančios medžiagos.",
+            "Fazių inversija."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kuris metodas yra naudojamas minkštosioms kapsulėms gaminti?",
+        "choices": [
+            "Dispergavimo.",
+            "Tiesioginio presavimo.",
+            "Lašelių.",
+            "Liejimo."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kokiai pagalbinių medžiagų grupei priskiriamas talkas tablečių gamyboje?",
+        "choices": [
+            "Ardomųjų.",
+            "Slidinamųjų ir sutepamųjų.",
+            "Vaistų veikimą ilginančių.",
+            "Rišamųjų."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Nuo kokių veiksnių priklauso vaistinės medžiagos išsiskyrimas pro branduolio medžiagoms pralaidžią mikrokapsulės plėvelę?",
+        "choices": [
+            "Nuo aplinkos poveikio.",
+            "Nuo membranos storio.",
+            "Nuo mikrokapsulės formos.",
+            "Nuo gamybos metodo."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kokia turi būti optimali daugumos tabletuojamų mišinių drėgmė ?",
+        "choices": [
+            "2-5 %.",
+            "6-8 %.",
+            "9-12 %.",
+            ">12 %"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kaip užpildoma matrica tabletuojamuoju mišiniu ekscentrinio tipo tabletavimo mašinose?",
+        "choices": [
+            "Tabletuojamas mišinys į matricą beriamas rankiniu būdu.",
+            "Piltuvėlis su tabletuojamu mišiniu užvažiuoja ant matricos, matrica nejuda.",
+            "Piltuvėlis su tabletuojamu mišiniu ir matrica užpildymo momentu juda kartu.",
+            "Piltuvėlis su tabletuojamu mišiniu nejuda, užpildymo momentu juda matrica."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kuri medžiaga naudojama tabletėms padengti vandenyje tirpia plėvele?",
+        "choices": [
+            "Natrio karbiksimetilceliuliozė.",
+            "Acetilftalilceliuliozė.",
+            "Dietilaminometilceliuliozė.",
+            "Šelakas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kokiais vienetais vertinamas tablečių tvirtumas dilumui?",
+        "choices": [
+            "Niutonais.",
+            "g/cm 3.",
+            "Procentais.",
+            "g/sek."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Kaip vertinama miltelių frakcinė sudėtis?",
+        "choices": [
+            "Atliekant suberiamojo tankio tyrimą.",
+            "Sietų analize.",
+            "Atliekant birumo tyrimą.",
+            "Atliekant turinio vienodumo testą."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Pagal talpą kietosios kapsulės gaminamos:",
+        "choices": [
+            "6 dydžių.",
+            "7 dydžių.",
+            "8 dydžių.",
+            "5 dydžių"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kietųjų kapsulių kokybė vertinama?",
+        "choices": [
+            "Atliekant atsparumo traiškymui testą.",
+            "Atliekant paimamos masės ar tūrio testą.",
+            "Atliekant suirimo testą.",
+            "Atliekant vienadozių preparatų dilumo testą."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Perkoliacijos metodu gaminant skystuosius ekstraktus perkoliuojama iki:",
+        "choices": [
+            "pilno žaliavos išekstrahavimo.",
+            "reikiamo perkoliato tūrio.",
+            "kol gaunamos 85 tūrio dalys perkoliato.",
+            "kol gaunamas intensyvios spalvos perkoliatas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Tinktūros maceracijos būdu yra gaminamos naudojant:",
+        "choices": [
+            "1 dalį augalinės žaliavos ir 1 dalį ekstrakcinio tirpiklio.",
+            "1 dalį augalinės žaliavos ir 2 dalis ekstrakcinio tirpiklio.",
+            "1 dalį augalinės žaliavos ir 5 dalis ekstrakcinio tirpiklio.",
+            "2 dalis augalinės žaliavos ir 1 dalį ekstrakcinio tirpiklio."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Tinktūrų gamybos trukmė klasikinės maceracijos metodu:",
+        "choices": [
+            "24 val.",
+            "7 paros.",
+            "14 parų.",
+            "48 val."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Perkoliacijos metodu gaminant tinktūras, perkoliuojama iki:",
+        "choices": [
+            "kol pilnai išekstrahuojama žaliava.",
+            "kol gaunama 5 ar 10 dalių perkoliato tūrio.",
+            "kol surenkamos 85 tūrio dalys tinktūros.",
+            "kol gaunama ištrauka santykiu 1:1."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Ar taikomas ištraukos koncentravimas gaminant skystuosius ekstraktus perkoliacijos metodu ?",
+        "choices": [
+            "Visada taikomas.",
+            "Kai kuriais atvejais taikomas.",
+            "Niekada netaikomas.",
+            "Taikomas kai ekstrahentu naudojamas 20 proc. etanolis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kokie yra etanolinių ištraukų valymo metodai ?",
+        "choices": [
+            "Trumpalaikis šildymas ir filtravimas.",
+            "Laikymas žemoje temperatūroje ir filtravimas.",
+            "Adsorbento pridėjimas ir trumpalaikis virinimas.",
+            "Tik filtravimas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Kaip nustatomas miltelių birumas?",
+        "choices": [
+            "Nustatant miltelių išbyrėjimo greitį iš piltuvo per laiko vienetą.",
+            "Beriant miltelius į matricos kanalą per nustatytą laiką.",
+            "Nustatant miltelių tūrinį tankį.",
+            "Nustatant miltelių frakcinę sudėtį."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kokius miltelius galima presuoti tiesioginiu presavimo metodu?",
+        "choices": [
+            "Kai miltelių birumas 2 g/sek.",
+            "Kai miltelių birumas 10 g/sek.",
+            "Kai laisvai išbyrėjusių miltelių kūgio kampas 60 º.",
+            "Kai miltelių drėgmė yra 35 %."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kokiais metodais gaunami aromatiniai vandenys?",
+        "choices": [
+            "Augalinės žaliavos maceracijos ir/arba eterinių aliejų tirpinimo",
+            "Sausųjų ekstraktų tirpinimo ir/arba eterinių aliejų filtracijos",
+            "Eterinių aliejų tirpinimo ir/arba augalinės žaliavos distiliacijos",
+            "Augalinės žaliavos perkoliacijos ir/arba distiliacijos."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kaip apibūdinamas technologinis procesas farmacijos pramonėje?",
+        "choices": [
+            "Technologinių metodų taikymas produktui pagaminti",
+            "Produkto gamyba remiantis instrukcija",
+            "Logiškų veiksmų visuma būtina produktui pagaminti",
+            "Technologinės įrangos pritaikymas produktui pagaminti."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kokiu gamybiniu santykiu gaminami skystieji ekstraktai?",
+        "choices": [
+            "1:5",
+            "1:10",
+            "10:1",
+            "1:1"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kiek bus pagaminta skystojo gudobelių ekstrakto perkoliacijos metodu iš 2500 g gudobelių vaisių?",
+        "choices": [
+            "25000 ml",
+            "2500 ml",
+            "12500 ml",
+            "5500 ml"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kaip skaičiuojamas ekstrahentas skystiesiems ekstraktams gaminti perkoliacijos metodu?",
+        "choices": [
+            "Remiantis žaliavos sugertimi",
+            "Remiantis formule",
+            "Žaliavos kiekį dauginant iš 7-9",
+            "Ttaikant gamybinį santykį 1:1"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kiek ištraukų renkama gaminant skystuosius ekstraktus perkoliacijos metodu?",
+        "choices": [
+            "Dvi",
+            "Viena",
+            "Keturios",
+            "Trys"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kiek kartų žaliava užpilama ekstrahentu gaminant tirštuosius ekstraktus bimaceracijos metodu?",
+        "choices": [
+            "Vieną kartą",
+            "Keturis kartus",
+            "Du kartus",
+            "Tris kartus"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kiek reikės paimti 70 proc. V/V etanolio norint pagaminti 100 ml valerijonų tinktūros?",
+        "choices": [
+            "100 ml",
+            "140 ml",
+            "115 ml",
+            "130 ml"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Kokiu gamybiniu santykiu gaminama gudobelių tinktūra?",
+        "choices": [
+            "1:10",
+            "1:1",
+            "1:2",
+            "1:5"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Kiek bus pagaminta valerijonų tinktūros iš 500,0 g valerijonų šaknų?",
+        "choices": [
+            "1000 ml",
+            "2500 ml",
+            "500 ml",
+            "5000 ml"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Kuri kietoji kapsulė pagal tūrį yra didžiausia?",
+        "choices": [
+            "Nr. 5",
+            "Nr. 3",
+            "Nr. 000",
+            "Nr. 1"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kurios nedengtos tabletės atitiks dilumo testo reikalavumas?",
+        "choices": [
+            "kai yra 1 procento masės netektis",
+            "kai yra 1,5 procento masės netektis",
+            "kai yra 2 procentų masės netektis",
+            "kai yra 3 procentų masės netektis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Kiek tablečių reikia paimti atliekant tablečių atsparumo traiškymui testą?",
+        "choices": [
+            "5",
+            "10",
+            "15.",
+            "20."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Kokios yra pagreitintos laikymo sąlygos vertinant farmacinių produktų stabilumą?",
+        "choices": [
+            "35ºC/65% santykinė oro drėgmė",
+            "50ºC/75% santykinė oro drėgmė",
+            "30ºC/75% santykinė oro drėgmė",
+            "40 C/75% santykinė oro drėgmė"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Kuriais atvejais tablečių gamyboje taikomas drėgnasis granuliavimas?",
+        "choices": [
+            "Siekiant pagerinti tablečių išvaizdą",
+            "Siekiant suteikti tabletuojamam mišiniui reikiamą drėgmę",
+            "Siekiant suteikti tabletuojamam mišiniui reikiamas technologines savybes",
+            "Siekiant sumažinti technologinių stadijų skaičių technologiniame procese"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Plėvele dengų tablečių vidutinė masė yra 250 mg. Koks leidžiamas tablečių masės nuokrypis procentais nuo vidutinės masės atliekant farmakopėjinį masės vienodumo testą?",
+        "choices": [
+            "10 proc..",
+            "7,5 proc.",
+            "5 proc.",
+            "3 proc."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

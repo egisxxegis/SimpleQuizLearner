@@ -2421,7 +2421,7 @@ Atsakymai:  67. D; 68. E; 69. A; 70. E; 71. B; 72. C; 73. B; 74. C; 75. D; 76. C
 80. B; 81. C; 82. A; 83. B. 
 """
 
-conversion12 = ["1.2.3", "13", "24", "4;", " * ", "14", "23"]
+conversion12 = ["1.2.3", "13", "24", "4;", " * ", "14", "23", "-"]
 body12 = """1. Kokios rėmimo veiksmų grupės sudaro rėmimo kompleksą? 
  1.Reklama 
  2. Pardavimų skatinimas 
@@ -2869,3 +2869,863 @@ Atsakymai
 15 B  30 D  45 C 
 46 
 B """
+
+
+body14 = """
+
+1. Kas tai yra farmacijos praktika? 
+A) Farmacijos specialisto atliekama farmacinė veikla. 
+B) Farmacijos įmonių kontrolė. 
+C) Fizinių asmenų atliekama sveikatinimo ir kitos veiklos sritis, apimanti vaistų gamybą 
+kontrolę ir jų pateikimą galutiniam vartotojui. 
+D) Vaistininko ir vaistininko padėjėjo (farmakotechniko) praktika: vaistininko praktika 
+farmacinė veikla; vaistininko padėjėjo (farmakotechniko) praktika - vaistininko padėjėjo 
+(farmakotechniko) vykdoma farmacinė veikla. 
+
+2.Kurie visuomenės vaistinės darbuotojai turi teisę vadintis farmacijos specialistais? 
+A) Tik vaistininkai. 
+B) Tik vaistininko padėjėjai (farmakotechnikai).
+C) Vaistininkas, vaistininko padėjėjas (farmakotechnikas) arba Vyriausybės įgaliotos 
+institucijos nustatyta tvarka jiems prilygintas asmuo 
+D) Visi vaistinės darbuotojai.
+
+3. Kas tai yra farmacinė paslauga?  
+A) Vaistininko praktika vaistinėje, apimanti gydytojo išrašytų receptų kontrolę, 
+vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie 
+vaistinius preparatus teikimą. 
+B) Farmacijos specialistų visuomenės vaistinėse atliekama sveikatinimo ir kitos veiklos 
+sritis, apimanti vaistų gamybą, sandėliavimą, kokybės kontrolę ir jų pateikimą galutiniam 
+vartotojui. 
+C) Vaistininkų praktika ligoninių vaistinėse. 
+D) Vaistinėje farmacijos specialistų teikiama paslauga, apimanti receptų tikrinimą, 
+vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie 
+vaistinius preparatus teikimą gyventojams, sveikatos priežiūros ir farmacijos 
+specialistams, taip pat jų konsultavimą. 
+
+4. Kuris iš teiginių atitinka farmacinės veiklos sąvokos apibūdinimą? 
+A) Farmacinė veikla - juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, 
+apimanti 
+didmeninį vaistinių preparatų platinimą ir vaistinių preparatų prekybos tarpininkavimą, 
+veikliųjų medžiagų platinimą. 
+B) Farmacinė veikla - juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, 
+apimanti 
+reklamos apie vaistinius preparatus teikimą žiniasklaidoje. 
+C) Tik vaistininkų vykdoma farmacinė veikla, apimanti vaistinių preparatų, tiriamųjų 
+vaistinių preparatų, veikliųjų medžiagų ir į Europos Komisijos sąrašą įrašytų pagalbinių 
+medžiagų, kurios naudojamos kaip pradinės medžiagos vaistinių preparatų gamybai, 
+gamybą, importą iš trečiųjų šalių, kokybės kontrolę, vaistinių preparatų, veikliųjų 
+medžiagų ir į Europos Komisijos sąrašą įrašytų pagalbinių medžiagų, kurios naudojamos 
+kaip pradinės medžiagos vaistinių preparatų gamybai, didmeninį platinimą, vaistinių 
+preparatų lygiagretų importą. 
+D) Farmacinė veikla - tik fizinių asmenų vykdoma sveikatinimo veikla, apimanti 
+reklamos apie vaistinius preparatus teikimą žiniasklaidoje. 
+
+5. Kuris iš teiginių pilnai charakterizuoja farmacines atliekas? 
+A) Vaistai, kurie ilgiau nei metus neparduoti iš vaistinės. 
+B) Konfiskuoti arba surinkti iš gyventojų vaistai. 
+C) Naikintini vaistiniai preparatai (nekokybiški, pasibaigusio tinkamumo laiko, 
+konfiskuoti, surinkti iš gyventojų vaistiniai preparatai ar jų falsifikatai, tiriamųjų vaistinių 
+preparatų likučiai) ir vaistinių preparatų tyrimams panaudotos ar netinkamos kokybės, 
+pasibaigusio tinkamumo laiko cheminės medžiagos, kurios buvo įsigytos tokiems 
+tyrimams atlikti. 
+D) Naikintini vaistiniai preparatai (nekokybiški, pasibaigusio tinkamumo laiko, 
+konfiskuoti, surinkti iš gyventojų, falsifikuoti). 
+
+6. Kas tai yra vaistinė? 
+166 
+ 
+A) Juridinis asmuo ar juridinių asmenų padalinys, turintis teisę verstis vaistų ir vaistinių 
+medžiagų įsigijimu, laikymu, vaistų ruošimu, vaistų bei vaistinių medžiagų kokybės 
+kontrole, pardavimu (išdavimu) galutiniam vartotojui. 
+B) Vaistų gamybos ir prekybos jais įmonė, turinti teisę aprūpinti vaistais ir sveikatos 
+priežiūros įstaigas. 
+C) Juridinis asmuo, turintis teisę užsiimti vaistų gamyba, vaistų prekyba ir jų didmeniniu 
+platinimu. 
+D) Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, užsienio valstybės 
+juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje, 
+konkrečioje veiklos vietoje vykdantis farmacinę veiklą, apimančią vaistinių preparatų 
+įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų 
+teikimą ir (ar) ekstemporaliųjų vaistinių preparatų gamybą, jų kokybės kontrolę, 
+farmacinę rūpybą. 
+
+7. Kuri iš nurodytų institucijų kontroliuoja farmacinę veiklą LR? 
+A) LR SAM Farmacijos departamentas. 
+B) LR Finansų ministerija. 
+C) Valstybinė vaistų kontrolės tarnyba. 
+D) ES Farmacijos įmonių asociacija. 
+E) Valstybės įmonė „Farmacijos rūmai“. 
+
+8. Kada vaistininkas gali eiti vaistininko pareigas ar vykdyti farmacinės veiklos vadovo 
+pareigas vaistinėje? 
+A) Turėdamas universiteto baigimo diplomą. 
+B) Turėdamas ne mažesnį kaip 2 metų darbo stažą. 
+C) Tik turėdamas vaistininko praktikos licenciją. 
+D) Turėdamas ne mažesnę kaip 2 metų darbo patirtį farmacine veikla užsiimančiose 
+įmonėse.
+
+9. Kuriam laikotarpiui išduodama farmacinės veiklos licencija juridiniam asmeniui? 
+A) 5 metams. 
+B) 10 metų. 
+167 
+ 
+C) Individualiam laikui, kurį nustato sveikatos apsaugos ministras. 
+D) Neterminuotai. 
+
+
+10. Kurią pareigą privalo vykdyti didmeninio platinimo licencijos turėtojas? 
+A) Platinti tik tokius vaistinius preparatus ar jų grupes, kurie laikomi patalpose, 
+atitinkančiose licencijoje ir jos dokumentuose nurodytas laikymo sąlygas. 
+B) Tiekti Lietuvos Respublikos rinkai visus vaistinius preparatus. 
+C) Tiekti vaistinius preparatus tik asmenims, kurie turi vaistų gamybos ir (ar) asmens 
+sveikatos priežiūros veiklos licencijas. 
+D) Tvarkyti vaistinių preparatų pardavimo dokumentus, registruoti vaistinių preparatų ir 
+išsiuntimo operacijas, nurodant tik šią informaciją: vaistinio preparato pavadinimą, 
+parduoto vaistinio preparato kiekį, gavėjo pavadinimą.
+
+11. Kas gali įvežti iš kitos EEE valstybės neregistruotus vaistinius preparatus ar 
+importuoti iš trečiosios šalies vardinius vaistinius preparatus į Lietuvos Respubliką? 
+A) Gali tik juridiniai asmenys, gavę gamybos licenciją. 
+B) Gali tik juridiniai asmenys, gavę vaistinės veiklos licenciją. 
+C) Gali tik juridiniai asmenys ,gavę gamybinės vaistinės veiklos licenciją. 
+D) Gali tik juridiniai asmenys, gavę didmeninio platinimo licenciją.
+
+12. Kas konkrečioje EEE valstybėje registruoja vaistinį preparatą? 
+A) Europos Komisija. 
+B) Europos Vaistų Agentūra. 
+C) Tos valstybės įgaliota institucija. 
+D) Nereglamentuojama.
+
+13. Kas iš karto registruoja vaistinį preparatą visose Europos Sąjungos valstybėse? 
+A) Europos Komisija. 
+B) Europos Agentūra. 
+C) Įgaliotos valstybės institucija. 
+168 
+ 
+D) Kas metai vis kita ES valstybės įgaliota institucija.
+
+14. Kas Lietuvos Respublikoje registruoja vaistinius preparatus ir juos klasifikuoja į 
+receptinius ir nereceptinius? 
+A) Europos Vaistų Agentūra. 
+B) Valstybinė vaistų kontrolės tarnyba. 
+C) Vaistinio preparato gamintojas. 
+D) Vaistinio preparato registruotojas. 
+
+15.Kas yra vaistinio preparato lygiagretus importas? 
+A) Valstybinės vaistų kontrolės tarnybos išduodamas dokumentas, kuriuo suteikiama 
+teisė lygiagrečiai importuoti vaistinį preparatą. 
+B) Kitoje EEE valstybėje registruoto vaistinio preparato, kuris yra tapatus Lietuvos 
+Respublikoje jau registruotam vaistiniam preparatui ar pakankamai į jį panašus, įvežimas 
+į Lietuvos Respubliką nesinaudojant vaistinio preparato registruotojo platinimo tinklu. 
+C) Į Bendrijos vaistinių preparatų registrą įrašyto vaistinio preparato didmeninis 
+platinimas, kai jis įvežamas į Lietuvos Respubliką nesinaudojant vaistinio preparato 
+registruotojo platinimo tinklu. 
+D) Kitoje trečiųjų šalių valstybėje registruoto vaistinio preparato, kuris yra tapatus 
+Lietuvos Respublikoje jau registruotam vaistiniam preparatui ar pakankamai į jį panašus, 
+įvežimas į Lietuvos Respubliką nesinaudojant vaistinio preparato registruotojo platinimo 
+tinklu.
+
+
+16.Kas yra farmakologinio budrumo sistema? 
+A) Vaistinio preparato registruotojo ir EEE valstybės naudojama sistema, skirta su 
+farmakologiniu budrumu susijusiems uždaviniams spręsti ir pareigoms vykdyti, 
+registruotų vaistinių preparatų saugumui stebėti bei jų naudos ir rizikos santykio 
+pokyčiams nustatyti. 
+B) Juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti vaistinių 
+preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų 
+šalių, kokybės kontrolę. 
+C) Farmacinės informacijos apie vaistinius preparatus teikimas. 
+D) Bet koks su žmonėmis atliekamas biomedicininis tyrimas, skirtas nustatyti, patikrinti 
+ir patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį, farmakologinį ir (ar) 
+kitokį farmakodinaminį poveikį ir (ar) nustatyti nepageidaujamas reakcijas į vieną ar kelis 
+169 
+ 
+tiriamuosius vaistinius preparatus, ir (ar) ištirti vieno ar kelių tiriamųjų preparatų 
+rezorbciją, pasiskirstymą, metabolizmą ir išskyrimą, siekiant nustatyti tiriamojo vaistinio 
+preparato saugumą ir (ar) veiksmingumą. 
+
+
+17. Sveikatos priežiūros ir farmacijos specialistai, pastebėję įtariamą nepageidaujamą 
+reakciją ir (ar) gavę informacijos apie tai, kam turi pranešti? 
+A) Sveikatos apsaugos ministerijai, naudodami nustatytą pranešimo apie įtariamas 
+nepageidaujamas reakcijas formą. 
+B) Valstybinei vaistų kontrolės tarnybai, naudodami nustatytą pranešimo apie įtariamas 
+nepageidaujamas reakcijas formą. 
+C) Farmacijos departamentui, naudodami nustatytą pranešimo apie įtariamas 
+nepageidaujamas reakcijas formą. 
+D) Vaistinio preparato registruotojui, naudodami nustatytą pranešimo apie įtariamas 
+nepageidaujamas reakcijas formą.
+
+18. Kas turi teisę įpareigoti vaistinio preparato registruotoją turėti veikiančią konkretaus 
+vaistinio preparato rizikos valdymo sistemą, jeigu yra abejonių dėl rizikos, kuri gali turėti 
+įtakos registruoto vaistinio preparato naudos ir rizikos santykiui? 
+A) Europos vaistų agentūra. 
+B) Sveikatos apsaugos ministerija. 
+C) Valstybinė vaistų kontrolės tarnyba. 
+D) Farmacijos departamentas.
+
+19. Kam vaistinio preparato registruotojas turi rengti ir elektroninių ryšių priemonėmis 
+pateikti periodiškai atnaujinamus saugumo protokolus? 
+A) Europos vaistų agentūrai. 
+B) Sveikatos apsaugos ministerijai. 
+C) Valstybinei vaistų kontrolės tarnybai. 
+D) Farmacijos departamentui.
+
+20. Kur turi gyventi ir veikti kvalifikuotas asmuo, atsakingas už farmakologinį budrumą? 
+A) ES valstybėje. 
+170 
+ 
+B) Kur yra vaistinio preparato registracijos turėtojas. 
+C) EEE valstybėje. 
+D) Kur tik nori.
+
+21. Koks yra nustatytas minimalus kaimo gyvenamojoje vietovėje esančios visuomenės 
+vaistinės oficinos plotas? 
+A) Ne mažesnis kaip 10 m2. 
+B) Ne mažesnis kaip 15 m2. 
+C) Ne mažesnis kaip 20 m2. 
+D) 25 m2. 
+E) Minimalus oficinos plotas nereglamentuojamas.
+
+22. Kas turi būti suteikiama parduodant (išduodant) gyventojams vaistinius preparatus 
+visuomenės vaistinėje? 
+A) Farmacinė paslauga. 
+B) Gera vaistinės praktika. 
+C) Teisė pacientui pakeisti vienus vaistus kitais vaistiniais preparatais. 
+D) Geros pardavimo praktikos paslauga.
+
+ 
+23.Kuris reikalavimas netaikomas vaistinės oficinai? 
+A) Oficina privalo turėti natūralų apšvietimą. 
+B) Oficina, įrengta visuomeninės paskirties pastate, turi turėti atskirą įėjimą. 
+C) Oficina turi būti prieinama neįgaliems žmonėms. 
+D) Oficinoje turi būti vieta atsisėsti. 
+E) Visi reikalavimai taikomi. 
+
+24.Kuris teiginys apie stendą su Lietuvos Respublikos vaistinės emblema yra teisingas? 
+A) Turi būti įrengtas prie vaistinės lauko įėjimo į oficiną, o jei vaistinė įrengta pastate, 
+kuriame įsikūrę keletas asmenų, prie artimiausio lauko įėjimo į pastatą, kuriame yra 
+vaistinė. 
+171 
+ 
+B) Plokščio stendo išmatavimai nereglamentuojami. 
+C) Sustabdžius vaistinės veiklos licenciją stendas turi būti nenukabintas 3 mėnesius. 
+D) Fono spalva raudona, figūrų spalva žalia. 
+E) Stendo su vaistinės emblema įrengimui nurodyti reikalavimai yra tik rekomendacinio 
+pobūdžio. 
+
+
+25. Kiek galioja sveikatos priežiūros specialistų išrašyti narkotinių vaistinių preparatų 
+receptai? 
+A) Iki 10 dienų, įskaitant recepto įsigaliojimo dieną.  
+B) Iki 30 dienų. 
+C) Iki 5 dienų, įskaitant recepto įsigaliojimo dieną. 
+D) Iki 7 dienų, įskaitant recepto įsigaliojimo dieną. 
+ 
+26. Kiek galioja sveikatos priežiūros specialistų išrašyti receptai su žyma „Ilgalaikiam 
+gydymui“? 
+A) Iki 30 dienų. 
+B) Iki 180 dienų, įskaitant recepto įsigaliojimo dieną. 
+C) Iki 90 dienų. 
+D) Iki 360 dienų, įskaitant recepto įsigaliojimo dieną. 
+ 
+27. Kiek galioja Sveikatos priežiūros specialistų išrašyti popieriniai receptai su žyma 
+„Gydymui tęsti“? 
+A) Iki 30 dienų. 
+B) Iki 180 dienų, įskaitant recepto įsigaliojimo dieną. 
+C) Iki 90 dienų. 
+D) Iki 360 dienų, įskaitant recepto įsigaliojimo dieną.
+
+28. Kiek galima pacientams išrašyti etanolio pagal vieną receptą - kaip ekstemporaliojo 
+vaistinio preparato sudedamosios dalies, nepriklausomai nuo jo koncentracijos? 
+A) 100 ml. 
+172 
+173 
+174 
+175 
+
+ 
+B) 150 ml. 
+C) 200 ml. 
+D) Nereglamentuojama. 
+ 
+29. Kuriuos popierinių receptų blankus sveikatos priežiūros specialistai turi užpildyti 
+išrašydami kompensuojamuosius narkotinius vaistinius preparatus? 
+A) Popierinius 2 formos specialųjį recepto blanką ir 3 formos ar 3 formos (išimties 
+atvejams) receptų blankus. 
+B) Tik popierinį 3 formos recepto blanką. 
+C) Popierinius 1 formos su specialia žyma ir 3 formos receptų blankus. 
+D) Tik popierinį 3 formos (išimties atvejams) recepto blanką. 
+ 
+30. Kokį didžiausią benzodiazepinų kiekį leidžiama išrašyti vienam pacientui vienu 
+kartu? 
+A) 10 tablečių. 
+B) 20 tablečių. 
+C) 60 tablečių 
+D) Parduodamas kiekis neribojamas. 
+ 
+31. Kur gali būti parduodami kompensuojamieji vaistiniai preparatai ir 
+kompensuojamosios MPP pagal popierinį 3 formos receptą? 
+A) Visoje LR teritorijoje. 
+B) Tik TLK aptarnaujamoje teritorijoje, kurioje yra ASPĮ, išrašiusi šį receptą. 
+C) Tik TLK aptarnaujamoje teritorijoje, kurioje yra ASPĮ, prie kurios yra prisirašęs 
+apdraustasis. 
+D) Kompensuojamųjų vaistinių preparatų pase nurodytose vaistinėse. 
+
+
+32. Kiek vaistinėje saugomi popieriniai receptai, išrašyti 1 formos recepto blankuose, ar 
+kitų valstybių receptai, pagal kuriuos išduoti antiinfekciniai vaistiniai preparatai, 
+sisteminiam vartojimui grupuojami J grupėje pagal ATC indekso pirmąjį kodo lygį? 
+A) 1 metus. 
+B) 3 metus. 
+C) 3 mėnesius. 
+D) 1 mėnesį. 
+33. Kiek vaistinėje saugomi popieriniai receptai, išrašyti 1 formos recepto blankuose 
+pagal kuriuos išduoti vaistiniai preparatai, įrašyti į sveikatos apsaugos ministro patvirtintą 
+Vaistų ir vaistinių medžiagų, kiekybiškai apskaitomų farmacijos įmonėse, įstaigose ir 
+ASPĮ, sąrašą? 
+A) 3 metus. 
+B) 1 metus. 
+C) 3 mėnesius. 
+D) 1 mėnesį. 
+34.Kas daroma pasibaigus popierinių receptų saugojimo terminui? 
+A) Pasibaigus saugojimo terminui, popieriniai receptai sunaikinami vadovaujantis 
+sveikatos apsaugos ministro patvirtintu Receptų sunaikinimo tvarkos aprašu. 
+B) Atiduodami į antrinių žaliavų supirkimo punktus. 
+C) Išmetami į šiukšlių konteinerius. 
+D) Atiduodami VVKT kartu su sunaikinimo aktu. 
+
+35. Kur gali būti teikiamos sveikatos apsaugos ministro nustatyta tvarka farmacinės 
+rūpybos paslaugos? 
+A) Gali būti teikiamos visuomenės vaistinėse, atitinkančiose sveikatos apsaugos ministro 
+nustatytus reikalavimus. 
+B) Vaistų prekybos vietose, gavusiose atitinkamą pažymą. 
+C) Gali būti teikiamos visuomenės vaistinėse, atitinkančiose VVKT prie SAM nustatytos 
+formos reikalavimus. 
+D) Visose vaistinėse.
+
+36. Kuriuos iš nurodytų dokumentų vaistininkas, norintis pratęsti vaistininko praktikai 
+licencijos galiojimą, privalo pateikti Valstybinei vaistų kontrolės tarnybai? 
+A) Įmonės registravimo pažymėjimo kopiją. 
+B) Įmonės licencijos farmacinei veiklai kopiją. 
+C) Diplomo kopiją. 
+D) Dokumentus apie 240 val. trukmės kvalifikacijos kėlimą per paskutinius 5 metus. 
+E) Apie profesinės kvalifikacijos kėlimą ir vaistininko praktiką, jeigu vaistininkas vykdo 
+farmacijos praktiką įmonėje, vykdančioje farmacinę veiklą.
+
+
+37. Kaip turi būti pažymėta vaistinės oficinoje esanti savitarnos vieta, kurioje laikomi 
+nereceptiniai vaistiniai preparatai? 
+A) Atskirta nuo kitų oficinos vietų, pritaikant įvairias pertvaras.   
+B) Pažymėta bendru pavadinimu „Nereceptiniai vaistiniai preparatai“. 
+C) Įrengta atskiroje patalpoje, kuri žymima užrašu „Nereceptinių vaistų išdavimas“. 
+D) Pažymėta bendru pavadinimu „Nereceptiniai vaistiniai preparatai“ ir nurodyta ši 
+informacija: „Vienu kartu nereceptinių vaistinių preparatų parduodama ne ilgesniam kaip 
+vieno mėnesio gydymo kursui“.
+
+38. Kada gali būti pakeista pramoniniu būdu arba pramoninį gamybos procesą apimančiu 
+metodu pagamintų vaistinių preparatų pakuotė? 
+A) Jeigu recepte išrašyto vaistinio preparato dozuočių kiekis atitinka gamintojo pakuotę. 
+B) Darant dažniausiai gyventojo ar sveikatos priežiūros įstaigos prašomų dozuočių kiekio 
+pakuotės paruošas. 
+C) Nustačius neatitikimą paciento prašomai vaistinio preparato pakuotei. 
+D) Įvertinus visus farmakologinius vaistinio preparato veikimo aspektus ir tinkamumą 
+konkrečiam pacientui. 
+39. Kaip apibūdinamos narkotinės ir psichotropinės medžiagos: 
+A) Į oficialų sąrašą įtraukta medžiagos, kaip nurodyta Reglamento (EB) Nr. 273/2004 2 
+straipsnio a punkte ir Reglamento (EB) Nr. 111/2005 2 straipsnio a punkte. 
+B) Cheminės medžiagos, šių medžiagų druskos ar jų mišiniai, dažnai naudojami 
+neteisėtai ir dėl to kontroliuojami pagal Jungtinių Tautų 1988 metų konvenciją ir įrašyti į 
+SAM patvirtintą pirmtakų (prekursorių) sąrašą.
+C) Į Sveikatos apsaugos ministerijos patvirtintus kontroliuojamų medžiagų sąrašus 
+įrašytos gamtinės ar sintetinės medžiagos, kurios dėl kenksmingo poveikio ar 
+piktnaudžiavimo jomis sukelia sunkų žmogaus sveikatos sutrikimą, pasireiškiantį asmens 
+psichine ir fizine priklausomybe nuo jų, ar pavojų žmogaus sveikatai. 
+
+D) Narkotinės ir psichotropinės vaistinės medžiagos, kurios dar nėra paruoštos galutiniam 
+vartojimui ir yra įrašytos į SAM patvirtintą pirmtakų (prekursorių) sąrašą. 
+E) Cheminės ir gamtinės medžiagos, iš kurių įmanoma susintetinti narkotines ir 
+psichotropines medžiagas. 
+
+
+40. Kuriuos augalus draudžiama auginti Lietuvos Respublikos teritorijoje? 
+A) Visų rūšių aguonas. 
+B) Opijines aguonas ir kokamedžius. 
+C) Pluoštines kanapes. 
+D) Ežiuoles. 
+ 
+41. Išorinė vaistinio preparato pakuotė: pakuotė, į kurią įdėta vidinė pakuotė. 
+A) Pakuotė, į kurią įdėta vidinė pakuotė. 
+B) Specialioje ataskaitos lentelėje pateikti duomenys apie vaisto panaudojimą. 
+C) Pakuotė, besiliečianti su vaistu. 
+D) Pakuotė su minimalia informacija vartotojui. 
+ 
+42. Kas tai yra kompensuojamieji vaistiniai preparatai? 
+A) Vaistiniai preparatai, kurie įrašyti į Kompensuojamųjų vaistinių preparatų kainyną ir 
+kurių įsigijimo išlaidos ar jų dalis privalomuoju visiems asmenims yra kompensuojama iš 
+Privalomojo sveikatos draudimo fondo biudžeto lėšų. 
+B) Mažą kainą turintys vaistiniai preparatai. 
+C) Visi vaistiniai preparatai, kurių įsigijimo išlaidas kompensuoja LR biudžetas. 
+D) Vaistiniai preparatai, kurie įrašyti į Kompensuojamųjų vaistinių preparatų kainyną ir 
+kurių įsigijimo išlaidos ar jų dalis privalomuoju sveikatos draudimu apdraustiems 
+asmenims yra kompensuojama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų. 
+
+
+43. Kaip apibūdinamas vaistinio preparato pakuotės lapelis? 
+A) Informacija vartotojui.. 
+176 
+ 
+B) Interneto tinklalapiuose skelbiama informacija apie vaistinį preparatą. 
+C) Vartotojui informuoti skirtas lapelis, pateikiamas kartu su vaistiniu preparatu. 
+D) Preparato informacija, nurodyta jo charakteristikų santraukoje. 
+ 
+44. Farmacijos specialisto profesinė kompetencija vertinama: 
+A) Įmonės farmacinės veiklos vadovo prašymu. 
+B) Kai farmacijos specialistas, neturintis vaistininko praktikos licencijos ar neįrašytas į 
+Vaistininko padėjėjų (farmakotechnikų) sąrašą, sveikatos apsaugos ministro nustatyta 
+tvarka ir terminais nesivertė vaistininko ar vaistininko padėjėjo (farmakotechniko) 
+praktika. 
+C) Kai farmacijos specialistas, turintis vaistininko praktikos licenciją SA ministro 
+nustatyta tvarka ir terminais vertėsi vaistininko praktika. 
+D) Įmonės vadovo prašymu po įsiteisėjusio teismo sprendimu. 
+ 
+45. Farmacijos specialisto profesinė kompetencija vertinama: 
+A) Įmonės farmacinės veiklos vadovo prašymu. 
+B) Kai farmacijos specialisto, turinčio vaistininko praktikos licenciją ar įrašyto į 
+Vaistininko padėjėjų (farmakotechnikų) sąrašą, darbo stažas verčiantis vaistininko ar 
+vaistininko padėjėjo (farmakotechniko) praktika yra trumpesnis kaip 3 metai per 
+paskutinius 5 metus arba trumpesnis kaip 2 paskutiniai metai nepertraukiamojo darbo 
+stažo verčiantis vaistininko ar vaistininko padėjėjo (farmakotechniko) praktika. 
+C) Kai farmacijos specialistas, turintis vaistininko praktikos licenciją SA ministro 
+nustatyta tvarka ir terminais vertėsi vaistininko praktika. 
+D) Įmonės vadovo prašymu po įsiteisėjusio teismo sprendimu. 
+ 
+46. Kas sudaro didžiausią dalį išlaidų sveikatai? 
+A) Išlaidos vaistams; 
+B) Ligoninių išlaidos; 
+C) Odontologinės išlaidos; 
+D) Kita.
+
+47.Kam skiriama didžiausia valstybės biudžeto dalis 
+177 
+ 
+A) Socialinėms išmokoms. 
+B) Švietimui 
+C) Sveikatai 
+D) Gynybai 
+E) Kita. 
+ 
+48.Remiantis OECD duomenimis, Lietuvos gyventojai vaistams išleidžia 
+A) Iki 100 JAV dolerių per metus 
+B) nuo 100 iki 500 JAV dolerių per metus 
+C) nuo 501 iki 1000 JAV dolerių per metus 
+D) daugiau kaip 1000 JAV dolerių 
+ 
+49.Pažymėkite, kuri mirties priežastis nėra tarp 5ių jų pagrindinių mirties priežasčių 
+Lietuvoje 
+A) širdies ir kraujagyslių ligos; 
+B) vėžiniai susirgimai; 
+C) savižudybės; 
+D) kvėpavimo takų ligos. 
+ 
+50.Kurioje pasaulio šalyje yra išleidžiama daugiausia pinigų vaistams? 
+A) Kinijoje; 
+B) Indijoje; 
+C) Japonijoje 
+D) Jungtinėse Amerikos Valstijose 
+E) Rusijos Federacijoje. 
+
+
+51.Asmens sveikatos priežiūros įstaigos registruotus vaistinius preparatus gali įsigyti iš? 
+A) Kitų sveikatos priežiūros įstaigų; 
+178 
+ 
+B) Tik iš vaistinių; 
+C) Tik iš vaistų platinimo įmonių; 
+D) Iuridinių asmenų, turinčių Farmacijos įstatymo nustatyta tvarka išduotą didmeninio 
+platinimo ar gamybos licenciją. 
+52.Receptiniams vaistiniams preparatams priskiriami tie, kurie atitinka nors vieną iš šių 
+kriterijų: 
+A) Jų sudėtyje yra medžiagų ar jų darinių, kurių veikimą ir (ar) nepageidaujamas reakcijas 
+reikia tirti toliau; 
+B) Skirti ambulatoriniam gydymui; 
+C) Skirti gydyti ligoms, kurios turi būti diagnozuojamos ligoninėje; 
+D) Paprastai skiriami  vartoti per os. 
+ 
+53.Vaistinės savo veiklą vykdo pagal - . 
+A) Sveikatos apsaugos ministro patvirtintus geros vaistinių praktikos nuostatus; 
+B) Sveikatos apsaugos ministro patvirtintus geros vaistų platinimo praktikos nuostatus; 
+C) Sveikatos apsaugos ministro patvirtintus geros vaistų gamybos praktikos nuostatus; 
+D) Sveikatos apsaugos ministro patvirtintus geros vaistų aptarnavimo praktikos 
+nuostatus. 
+ 
+54.Vaistinės patalpose darbo laiku turi dirbti bent vienas vaistininkas, išskyrus miestus, 
+turinčius mažiau: 
+A) Kaip 3 tūkst. gyventojų; 
+B) Kaip 5 tūkst. gyventojų; 
+C) Kaip 10 tūkst. gyventojų.
+
+55.Vaistinėje 3 metus saugomi šie popieriniai receptai: 
+A) 1 formos, pagal kuriuos parduoti narkotiniai vaistiniai preparatai; 
+B) 1 formos, pagal kuriuos parduoti analgetiniai vaistiniai preparatai; 
+C) 2 formos, pagal kuriuos parduoti narkotiniai vaistiniai preparatai; 
+D) 2 formos, pagal kuriuos parduoti psichotropiniai vaistiniai preparatai. 
+179 
+ 
+ 
+56.Vaistinėje 1 metus saugomi šie popieriniai receptai: 
+A) 1 formos, pagal kuriuos parduoti narkotiniai vaistiniai preparatai; 
+B) 1 formos, pagal kuriuos parduoti vaistiniai preparatai, kurių veikliosios medžiagos 
+bendrinis pavadinimas yra semagliutidas; 
+C) 2 formos, pagal kuriuos parduoti narkotiniai vaistiniai preparatai; 
+D) 2 formos, pagal kuriuos parduoti psichotropiniai vaistiniai preparatai.
+
+Atsakymai: 
+1.D; 2C; 3.D; 4.A; 5.D; 6.D; 7.C; 8.C; 9.D; 10.A; 11.D; 12.C; 13.A;14.B; 15.B; 16.A; 
+17.B; 18.C; 19.A; 20.C; 21.A; 22.A; 23.A; 24.A; 25.A; 26.D; 27.B; 28.A; 29.A; 30.C; 
+31.A; 32.A; 33.B; 34.A; 35.A; 36.E; 37.D; 38.B; 39.C; 40.B; 41.A; 42.D; 43.C; 44. B; 
+45.B; 46.B; 47.A; 48.C; 49.C; 50.D; 51.D; 52.A; 53.A; 54.A; 55.C; 56.B; """
+
+body15 = """1.Vaistas (vaistinis preparatas) - vaistinė medžiaga arba jų derinys, pagaminti ir 
+teikiami vartoti, kadangi atitinka bent vieną šių kriterijų: 
+1.Pasižymi savybėmis, dėl kurių tinka žmogaus ligoms gydyti arba jų profilaktikai 
+2.Suteikta tam tikra vaistinė forma ir vartojamos gydymui, diagnostikai ir profilaktikai 
+3.Dėl farmakologinio, imuninio ar metabolinio poveikio gali būti vartojamas ar skiriamas 
+atkurti, koreguoti ar modifikuoti žmogaus fiziologines funkcijas arba diagnozuoti 
+žmogaus ligas 
+4.Pasižymi savybėmis, dėl kurių tinka farmacinei veiklai vykdyti 
+
+ 
+ 
+2.Vaistininkas turi teisę: 
+180 
+ 
+1. Gauti informaciją, būtiną vaistininko praktikai, prireikus bendradarbiauti su sveikatos 
+priežiūros specialistais ir gauti informaciją apie pacientams skirtus ir jų vartojamus 
+vaistinius preparatus 
+2. Informuoti ir konsultuoti gyventojus apie racionalų vaistinių preparatų vartojimą, 
+propaguoti sveiką gyvenseną 
+3. Atsisakyti parduoti (išduoti) vaistinius preparatus, jei tai prieštarauja vaistininko 
+profesinės etikos principams arba gali sukelti realų pavojų asmens gyvybei ar pakenkti jo 
+sveikatai 
+4. Parduoti vaistinių prekes, teikti informaciją apie jų vartojimą ir laikymo sąlygas, 
+kontroliuojamas kito vaistininko parduoti (išduoti) vaistinius preparatus 
+
+ 
+3. Licencijuojama farmacinė veikla: 
+1. Vaistinių, tiriamųjų vaistinių preparatų gamyba, importas iš trečiųjų šalių 
+2. Didmeninis vaistinių preparatų, veikliųjų medžiagų platinimas 
+3. Vaistinės veikla 
+4. Farmacinių atliekų tvarkymas (išskyrus šalinimą) 
+
+ 
+4. Vaistinės skirstomos pagal veiklos pobūdį į: 
+1. Visuomenės vaistines 
+2. Universiteto vaistines 
+3. Labdaros vaistines 
+4. Negamybinės visuomenės vaistinės 
+181 
+182 
+ 
+
+ 
+5. Vaistininko pareigos visuomenės, visuomenės gamybinėje, universiteto ar 
+labdaros vaistinėje: 
+1. Aprūpinti gyventojus ir juridinius asmenis vaistais, suteikti apie juos informaciją, 
+įskaitant informaciją apie racionalų vaistų vartojimą, nepageidaujamas reakcijas ir 
+sąveikas 
+2. Patarti gyventojui, kaip rūpintis sveikata, suteikti informaciją apie kūno priežiūrą ir 
+higieną, taip pat apie mitybą ir maisto papildų vartojimą 
+3. Užtikrinti tinkamą vaistinių prekių, vaistinių medžiagų ir pagalbinių medžiagų 
+laikymą, vaistinių prekių pardavimą, farmacinių atliekų priėmimą 
+4. Papildyti vaistų, vaistinių medžiagų ir vaistinių prekių atsargas vaistinėje, teikti 
+informaciją vaistininkui apie trūkstamų vaistų ir prekių atsargų užsakymą ir papildymą 
+
+ 
+  
+6. Jūsų vaistinė taip pat realizuoja psichotropinius vaistus. Kokias licencijas šiai 
+vaistinei reikia turėti? 
+1. Užsiimti vaistinės veikla 
+2. Užsiimti prekyba 
+3. Verstis III sąrašo psichotropinių medžiagų mažmenine prekyba 
+4. Verstis II ir III sąrašų narkotinių ir psichotropinių medžiagų mažmenine prekyba 
+
+ 
+7. Farmacijos įmonė pradeda gaminti narkotinio vaistinio preparato ampules. Ji 
+privalo turėti šias licencijas: 
+1. Gamybos licenciją 
+2. Gaminti psichotropinius vaistus ir vaistines medžiagas 
+3. Gaminti vaistinius preparatus, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų 
+narkotines ir psichotropines medžiagas 
+4. Užsiimti narkotinių ir psichotropinių vaistų bei vaistinių medžiagų didmenine ir 
+mažmenine prekyba 
+
+ 
+8. Kur turi būti įregistruoti vaistiniai preparatai, kurie pagaminti pramoniniu būdu arba 
+apimančiu pramoninį procesą metodu, norint juos tiekti Lietuvos Respublikos rinkai? 
+1. Lietuvos Respublikos vaistinių preparatų registre 
+2. Bendrijos vaistinių preparatų registre 
+3. Lygiagrečiai importuojamų vaistinių preparatų sąraše 
+4. Bent vienoje EEE valstybėje 
+
+ 
+9. Kokius kriterijus turi atitikti tradicinis augalinis vaistinis preparatas? 
+1. Jo indikacijos būdingos tik tradiciniams augaliniams vaistiniams preparatams, kurie, 
+atsižvelgiant į jų sudėtį, yra skirti vartoti neprižiūrint sveikatos priežiūros specialistui 
+diagnostikos, gydymo ar gydymo stebėjimo tikslais 
+183 
+184 
+ 
+2. Skiriamas vartoti tik nustatyto stiprumo ir nustatytomis dozėmis 
+3. Pakanka duomenų apie tradicinį augalinio vaistinio preparato vartojimą, t. y. įrodyta, 
+kad nustatytomis sąlygomis preparatas nėra žalingas, o farmakologinis poveikis ar 
+veiksmingumas yra priimtini remiantis ilgalaikiu vartojimu ir patirtimi 
+4. Yra geriamasis, išviršinis, injekcinis ar inhaliacinis 
+
+ 
+10. Pagal kokias registravimo procedūras Lietuvos Respublikoje suteikiama 
+vaistinio preparato registracijos teisė? 
+1. Nacionalinę procedūrą 
+2. Savitarpio pripažinimo procedūrą 
+3. Decentralizuotą procedūrą 
+4. Centralizuotą procedūrą 
+
+ 
+11. Kas gali būti kvalifikuotu asmeniu vaistinių preparatų gamybos įmonėje? 
+1. Ne mažesnę kaip 2 metų praktinę patirtį įmonėje ar įmonėse, turinčioje (turinčiose) 
+pagal Europos Sąjungos reikalavimus išduotą vaistinių preparatų gamybos licenciją 
+2. Atlikti veiklą, susijusią su vaistinių preparatų kokybės analize 
+3. Atlikti veiklą, susijusią su veikliųjų vaistinių medžiagų kiekybės analize ir kitais 
+tyrimais, būtinais tinkamai vaistinių preparatų kokybei užtikrinti 
+4. Įgytą ne mažesnę kaip 2 metų praktinę patirtį juridiniame asmenyje arba užsienio 
+juridinio asmens filiale, vykdančiame dalinę gamybą ar tik fasavimą, pakavimą, 
+ženklinimą 
+
+ 
+12. Gamintojas, importuojantis vaistus ir/ar tiriamuosius vaistus iš trečiųjų šalių, ką 
+turi užtikrinti? 
+1. Kad produktai būtų pagaminti pagal Europos Bendrijos geros gamybos praktikos ar 
+juos atitinkančius reikalavimus 
+2. Kad vaistai būtų pagaminti gamintojo, turinčio teisę verstis vaistų gamyba 
+3. Kad tiriamieji vaistai būtų pagaminti gamintojo, apie kurį pranešta kompetentingai 
+institucijai ir ji yra leidusi tai daryti 
+4. Kad yra ES įgaliotos institucijos leidimas verstis vaistinių, tiriamųjų vaistinių preparatų 
+gamyba 
+
+ 
+13. Kokius nustatytus reikalavimus vaistinių preparatų gamintojas turi užtikrinti? 
+1. Kad gamybos procesai būtų vykdomi laikantis geros gamybos praktikos reikalavimų 
+2. Kad būtų laikomasi gamybos licencijos sąlygų ir atitiktų informaciją, pateiktą licencijai 
+gauti 
+3. Kad visi vaistų gamybos procesai būtų vykdomi pagal VVKT kartu su paraiška 
+įregistruoti vaistą pateiktus ir patvirtintus dokumentus 
+4. Kad tiriamųjų vaistų gamybos procesai atitiktų patvirtintą informaciją, kurią pateikė 
+užsakovas norėdamas gauti leidimą klinikiniam tyrimui atlikti 
+
+ 
+185 
+ 
+14. Farmakologinio budrumo sistema turi būti naudojama informacijai apie 
+vaistinių preparatų keliamą riziką pacientų ar visuomenės sveikatai rinkti. Ką ši 
+informacija pirmiausia turi apimti? 
+1. Nepageidaujamas reakcijas vartojant vaistinį preparatą laikantis registracijos 
+pažymėjimo sąlygų 
+2. Nepageidaujamas reakcijas vartojant vaistinį preparatą nesilaikant registracijos 
+pažymėjimo sąlygų 
+3. Nepageidaujamas reakcijas, pasireiškiančias tam tikrų profesijų darbuotojams, 
+dirbantiems su vaistiniu preparatu 
+4. Su žmonėmis atliekamus biomedicininius tyrimus, skirtus nustatyti, patikrinti ir 
+patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį, farmakologinį ir (ar) 
+kitokį farmakodinaminį poveikį ir (ar) nustatyti nepageidaujamas reakcijas į vieną ar kelis 
+tiriamuosius vaistinius preparatus, ir (ar) ištirti vieno ar kelių tiriamųjų preparatų 
+rezorbciją, pasiskirstymą, metabolizmą ir išskyrimą, siekiant nustatyti tiriamojo vaistinio 
+preparato saugumą ir (ar) veiksmingumą 
+
+ 
+15. Visuomenės vaistinės oficinoje gali būti įrengta: 
+1 Vieta, skirta Geros vaistinių praktikos nuostatuose nustatytoms kitoms paslaugoms 
+teikti 
+2 Vieta, skirta vaistinių preparatų pakuotei perpakuoti, perfasuoti, pateikčiai keisti 
+3 Vieta, kurioje priimami ir tvarkomi vaistiniai preparatai 
+4 Asmens sveikatos priežiūros įstaigų padalinių aptarnavimo vieta 
+
+ 
+16. Priimant vaistinius preparatus pagal faktinį kiekį turi būti įvertinta, ar: 
+186 
+ 
+1. Vaistinius preparatus galima identifikuoti 
+2. Vaistiniai preparatai buvo transportuojami tinkamomis sąlygomis 
+3. Vaistiniai preparatai nebuvo suteršti, išpilti ar išbarstyti 
+4. Vaistai skirti konkrečiam pacientui 
+
+ 
+17. Kiek galioja sveikatos priežiūros specialistų išrašyti psichotropinių vaistinių 
+preparatų ir vaistinių medžiagų receptai? 
+1. Iki 10 dienų, įskaitant recepto įsigaliojimo dieną 
+2. Iki 30 dienų, įskaitant recepto įsigaliojimo dieną 
+3. Iki 5 dienų, įskaitant recepto įsigaliojimo dieną 
+4. Konkrečiu atveju apie recepto galiojimo laiką sprendžia sveikatos priežiūros 
+specialistas, nurodydamas jį recepte 
+
+ 
+18. Kas papildomai turi būti nurodyta elektroninio recepto formoje su žyma 
+„Vardinis vaistinis preparatas“? 
+1. Data, iki kurios galioja vardinio vaistinio preparato skyrimo pareiškimas 
+2. Žyma, kad yra paciento sutikimas, išrašant vardinį vaistinį preparatą 
+3. Rašytinis paciento sutikimas vartoti vardinį vaistinį preparatą. 
+4. Jei pacientui vardinio vaistinio preparato reikia skubiai, elektroninio recepto blanko 
+viršuje, dešiniajame kampe žyma „cito“ (skubiai) arba „statim“ (nedelsiant) 
+
+ 
+  
+19. Kiek vienu kartu galima išduoti nereceptinių vaistinių preparatų? 
+1. Ne ilgesniam kaip 1 mėnesio gydymo kursui 
+2. Sudėtyje turinčių pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakų 
+(prekursorių), - ne daugiau negu vieną išorinę, jei jos nėra, vidinę pakuotę 
+3. Sudėtyje turinčių pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtako 
+(prekursoriaus) pseudoefedrino, skirtų vartoti skirtingu paros metu, - tokį kiekį, kad juose 
+esančio pseudoefedrino, būtų ne daugiau kaip 720 mg 
+4. Neribojamam laikotarpiui 
+
+ 
+20. Išduodant vaistinį preparatą gyventojui būtina informuoti: 
+1. Kaip efektyviai ir saugiai vartoti vaistinį preparatą (prieš valgį, valgant, po valgio ar 
+kitu gydytojo nurodytu būdu) 
+2. Kaip dažnai vartoti vaistinį preparatą 
+3. Kiek laiko vartoti vaistinį preparatą 
+4. Apie gydytojo informavimą dėl gydymo vaistais rezultatų 
+
+ 
+21. Kas yra investicijų grąža ROI (Return of investment)? 
+1. Procentinis dydis, rodantis investicijos ar investicinio porftfelio pelningumą. 
+2. Rinkodaroje naudojamas investicijų atsiperkamumui skaičiuoti. Parodo kiek 
+kiekvienas investuotas piniginis vienetas sugeneruoja pelno. 
+3. Finansinis rodiklis, kuris parodo kiek reikės investuoti į verslą kūrimosi stadijoje. 
+4. Finansinis rodiklis, kuris parodo kiek bus išmokama dividentų investuotojams. 
+
+ 
+22. Įmonės veiklos valdymas (operational management) apima šias sritis: 
+1. Prekių ir paslaugų asortimento formavimas 
+2. Įmonės procesų valdymas 
+3. Kokybės valdymas 
+4. Verslo plano sudarymas 
+
+ 
+Atsakymai: 
+1.B; 2A; 3.A; 4.A; 5 A; 6.B; 7.B; 8.A; 9.A; 10.A; 11.A; 12.A; 13.E; 14.A; 15.A; 16.A; 
+17.C; 18.A; 19.A; 20.A;  21.A; 22.A. """
+
+body16 = """1. Farmacinė veikla - juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, 
+apimanti vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų šalių, 
+kokybės kontrolę. 
+A) Taip 
+B) Ne 
+2.Farmacinė veikla - juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, 
+apimanti vaistinės darbo reglamentų kūrimą, vykdymo kontrolę ir vaistinių medžiagų 
+gamybą. 
+188 
+189 
+ 
+A) Taip 
+B) Ne 
+3. Vaistinė medžiaga - bet kuri medžiaga, kurios kilmė gali būti žmogaus, pvz.: žmogaus 
+kraujas ir žmogaus kraujo produktai; gyvūninė, pvz.: mikroorganizmai, gyvūnai, organų 
+dalys, gyvūnų išskyros, toksinai, ištraukos, kraujo produktai. 
+A) Taip 
+B) Ne 
+4. Vaistininkas - asmuo, įgijęs vaistininko profesinę kvalifikaciją ir farmacijos magistro 
+kvalifikacinį laipsnį, arba Vyriausybės įgaliotos institucijos nustatyta tvarka jam 
+prilygintas asmuo. 
+A) Taip 
+B) Ne 
+5. Vaistininko praktikos licencija išduodama individualiam laikotarpiui, kurį nustato 
+VVKT prie LR SAM atsakingi darbuotojai, atsižvelgdami į vaistininko darbo vietą. 
+A) Taip 
+B) Ne 
+6. Vaistinės veiklos licencijos turėtojas privalo pateikti Valstybinei vaistų kontrolės 
+tarnybai duomenis apie vykdomą ir numatomą vykdyti vaistinių preparatų platinimą ir 
+atliekamus esminius pakeitimus. 
+A) Taip 
+B) Ne 
+7. Juridiniai asmenys, turintys asmens sveikatos priežiūros veiklos licencijas, vaistinius 
+preparatus gali įsigyti tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo 
+licenciją, o kartinius vaistinius preparatus - iš visuomenės vaistinės, turinčios teisę 
+gaminti vaistus. 
+A) Taip 
+B) Ne 
+ 
+8. Vaistininko profesinė kompetencija apibrėžiama įgytomis žiniomis apie nereceptinių 
+vaistinių preparatų pardavimo skyriaus darbo vietos organizavimą. 
+A) Taip 
+B) Ne 
+190 
+ 
+ 
+9. Didmeniniai vaistinių preparatų platintojai privalo turėti reikalavimus ir poreikius 
+atitinkančias patalpas, įrengimus bei įrangą, kad galėtų užtikrinti deramą vaistų laikymą ir 
+platinimą. 
+A) Taip 
+B) Ne 
+ 
+10. Juridinis asmuo gali verstis vaistinių preparatų importu iš trečiųjų šalių gavęs 
+gamybos licenciją. 
+A) Taip 
+B) Ne 
+ 
+11. Kvalifikuotu asmeniu gali būti asmuo, turintis įgytą ne mažesnę kaip 2 metų praktinę 
+patirtį juridiniame asmenyje arba užsienio juridinio asmens filiale, vykdančiame dalinę 
+gamybą ar tik fasavimą, pakavimą, ženklinimą. 
+A) Taip 
+B) Ne 
+ 
+12. Vaistų gamintojas turi įdiegti ir prižiūrėti kokybės kontrolės sistemą ir paskirti už ją 
+atsakingą nuo gamybos nepriklausomą asmenį. 
+A) Taip 
+B) Ne 
+ 
+13.Nepageidaujama reakcija - nenorimas neigiamas žmogaus organizmo atsakas į vaistinį 
+preparatą. 
+A) Taip 
+B)Ne 
+14. Piktnaudžiavimas vaistiniu preparatu - nepageidaujamos reakcijos nulemta mirtis, 
+pavojus gyvybei, būtinybė hospitalizuoti arba pailginti gydymo stacionare trukmę, 
+ilgalaikis ar reikšmingas neįgalumas arba apsigimimas. 
+A) Taip 
+B) Ne 
+191 
+ 
+15. Valstybinė vaistų kontrolės tarnyba, nustačiusi naują ar pasikeitusią riziką, taip pat 
+naudos ir rizikos santykio pokyčius, apie tai turi informuoti vaistinio preparato 
+registruotoją. 
+A) Taip 
+B) Ne 
+16. Teisę išrašyti receptus kompensuojamiesiems vaistiniams preparatams ar 
+kompensuojamosioms MPP turi visi praktikuojantys sveikatos priežiūros specialistai. 
+A) Taip 
+B) Ne 
+17. Viename 2 formos specialiajame recepto blanke galima išrašyti vieną narkotinį 
+vaistinį preparatą. 
+A) Taip 
+B) Ne 
+18. Vienas elektroninis receptas gali būti išrašytas skiriant vieną vaistinį preparatą ir 
+kompensuojamąją MPP. 
+A) Taip 
+B) Ne 
+19. Kompensuojamieji vaistiniai preparatai 3 formos popieriniuose recepto blankuose 
+rašomi konkrečiais vaistinio preparato pavadinimais, jei reikia, nurodant (skliausteliuose) 
+vaistinio preparato gamintojo pavadinimą. 
+A) Taip 
+B)Ne  
+20. LR SAM sudaro narkotinių ir psichotropinių medžiagų sąrašus. Jų iš viso yra penki. 
+A) Taip 
+B) Ne 
+21. Prekių kategorijų valdymas yra vaistinių asortimento prekių įvairovės užtikrinimas 
+vaistinėje 
+A) Taip 
+B) Ne  
+22. Prekės į kategorijas vaistinėse skirstomos, pagal tai kaip jos turi būti laikomos 
+oficinoje. (LR SAM įsakymas V- 1849,2016.12.29) 
+A) Taip 
+B) Ne 
+Atsakymai: 
+1.A; 2.B; 3.A; 4.A; 5.B; 6.B; 7.A; 8.B; 9.A; 10.A; 11.B; 12.A; 13.A; 14.B; 15.A; 16.B; 
+17.A; 18.B; 19.B; 20.B; 21.B; 22.B."""

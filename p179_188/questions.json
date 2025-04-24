@@ -1,0 +1,417 @@
+[
+    {
+        "number": 1,
+        "question": "Vaistas (vaistinis preparatas) - vaistinė medžiaga arba jų derinys, pagaminti ir teikiami vartoti, kadangi atitinka bent vieną šių kriterijų:",
+        "choices": [
+            "Pasižymi savybėmis, dėl kurių tinka žmogaus ligoms gydyti arba jų profilaktikai",
+            "Suteikta tam tikra vaistinė forma ir vartojamos gydymui, diagnostikai ir profilaktikai",
+            "Dėl farmakologinio, imuninio ar metabolinio poveikio gali būti vartojamas ar skiriamas atkurti, koreguoti ar modifikuoti žmogaus fiziologines funkcijas arba diagnozuoti žmogaus ligas",
+            "Pasižymi savybėmis, dėl kurių tinka farmacinei veiklai vykdyti"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Vaistininkas turi teisę:",
+        "choices": [
+            "Gauti informaciją, būtiną vaistininko praktikai, prireikus bendradarbiauti su sveikatos priežiūros specialistais ir gauti informaciją apie pacientams skirtus ir jų vartojamus vaistinius preparatus",
+            "Informuoti ir konsultuoti gyventojus apie racionalų vaistinių preparatų vartojimą, propaguoti sveiką gyvenseną",
+            "Atsisakyti parduoti (išduoti) vaistinius preparatus, jei tai prieštarauja vaistininko profesinės etikos principams arba gali sukelti realų pavojų asmens gyvybei ar pakenkti jo sveikatai",
+            "Parduoti vaistinių prekes, teikti informaciją apie jų vartojimą ir laikymo sąlygas, kontroliuojamas kito vaistininko parduoti (išduoti) vaistinius preparatus"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Licencijuojama farmacinė veikla:",
+        "choices": [
+            "Vaistinių, tiriamųjų vaistinių preparatų gamyba, importas iš trečiųjų šalių",
+            "Didmeninis vaistinių preparatų, veikliųjų medžiagų platinimas",
+            "Vaistinės veikla",
+            "Farmacinių atliekų tvarkymas (išskyrus šalinimą)"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Vaistinės skirstomos pagal veiklos pobūdį į:",
+        "choices": [
+            "Visuomenės vaistines",
+            "Universiteto vaistines",
+            "Labdaros vaistines",
+            "Negamybinės visuomenės vaistinės"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Vaistininko pareigos visuomenės, visuomenės gamybinėje, universiteto ar labdaros vaistinėje:",
+        "choices": [
+            "Aprūpinti gyventojus ir juridinius asmenis vaistais, suteikti apie juos informaciją, įskaitant informaciją apie racionalų vaistų vartojimą, nepageidaujamas reakcijas ir sąveikas",
+            "Patarti gyventojui, kaip rūpintis sveikata, suteikti informaciją apie kūno priežiūrą ir higieną, taip pat apie mitybą ir maisto papildų vartojimą",
+            "Užtikrinti tinkamą vaistinių prekių, vaistinių medžiagų ir pagalbinių medžiagų laikymą, vaistinių prekių pardavimą, farmacinių atliekų priėmimą",
+            "Papildyti vaistų, vaistinių medžiagų ir vaistinių prekių atsargas vaistinėje, teikti informaciją vaistininkui apie trūkstamų vaistų ir prekių atsargų užsakymą ir papildymą"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Jūsų vaistinė taip pat realizuoja psichotropinius vaistus. Kokias licencijas šiai vaistinei reikia turėti?",
+        "choices": [
+            "Užsiimti vaistinės veikla",
+            "Užsiimti prekyba",
+            "Verstis III sąrašo psichotropinių medžiagų mažmenine prekyba",
+            "Verstis II ir III sąrašų narkotinių ir psichotropinių medžiagų mažmenine prekyba"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Farmacijos įmonė pradeda gaminti narkotinio vaistinio preparato ampules. Ji privalo turėti šias licencijas:",
+        "choices": [
+            "Gamybos licenciją",
+            "Gaminti psichotropinius vaistus ir vaistines medžiagas",
+            "Gaminti vaistinius preparatus, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotines ir psichotropines medžiagas",
+            "Užsiimti narkotinių ir psichotropinių vaistų bei vaistinių medžiagų didmenine ir mažmenine prekyba"
+        ],
+        "answers_num": [
+            1,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kur turi būti įregistruoti vaistiniai preparatai, kurie pagaminti pramoniniu būdu arba apimančiu pramoninį procesą metodu, norint juos tiekti Lietuvos Respublikos rinkai?",
+        "choices": [
+            "Lietuvos Respublikos vaistinių preparatų registre",
+            "Bendrijos vaistinių preparatų registre",
+            "Lygiagrečiai importuojamų vaistinių preparatų sąraše",
+            "Bent vienoje EEE valstybėje"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kokius kriterijus turi atitikti tradicinis augalinis vaistinis preparatas?",
+        "choices": [
+            "Jo indikacijos būdingos tik tradiciniams augaliniams vaistiniams preparatams, kurie, atsižvelgiant į jų sudėtį, yra skirti vartoti neprižiūrint sveikatos priežiūros specialistui diagnostikos, gydymo ar gydymo stebėjimo tikslais",
+            "Skiriamas vartoti tik nustatyto stiprumo ir nustatytomis dozėmis",
+            "Pakanka duomenų apie tradicinį augalinio vaistinio preparato vartojimą, t. y. įrodyta, kad nustatytomis sąlygomis preparatas nėra žalingas, o farmakologinis poveikis ar veiksmingumas yra priimtini remiantis ilgalaikiu vartojimu ir patirtimi",
+            "Yra geriamasis, išviršinis, injekcinis ar inhaliacinis"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Pagal kokias registravimo procedūras Lietuvos Respublikoje suteikiama vaistinio preparato registracijos teisė?",
+        "choices": [
+            "Nacionalinę procedūrą",
+            "Savitarpio pripažinimo procedūrą",
+            "Decentralizuotą procedūrą",
+            "Centralizuotą procedūrą"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kas gali būti kvalifikuotu asmeniu vaistinių preparatų gamybos įmonėje?",
+        "choices": [
+            "Ne mažesnę kaip 2 metų praktinę patirtį įmonėje ar įmonėse, turinčioje (turinčiose) pagal Europos Sąjungos reikalavimus išduotą vaistinių preparatų gamybos licenciją",
+            "Atlikti veiklą, susijusią su vaistinių preparatų kokybės analize",
+            "Atlikti veiklą, susijusią su veikliųjų vaistinių medžiagų kiekybės analize ir kitais tyrimais, būtinais tinkamai vaistinių preparatų kokybei užtikrinti",
+            "Įgytą ne mažesnę kaip 2 metų praktinę patirtį juridiniame asmenyje arba užsienio juridinio asmens filiale, vykdančiame dalinę gamybą ar tik fasavimą, pakavimą, ženklinimą"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Gamintojas, importuojantis vaistus ir/ar tiriamuosius vaistus iš trečiųjų šalių, ką turi užtikrinti?",
+        "choices": [
+            "Kad produktai būtų pagaminti pagal Europos Bendrijos geros gamybos praktikos ar juos atitinkančius reikalavimus",
+            "Kad vaistai būtų pagaminti gamintojo, turinčio teisę verstis vaistų gamyba",
+            "Kad tiriamieji vaistai būtų pagaminti gamintojo, apie kurį pranešta kompetentingai institucijai ir ji yra leidusi tai daryti",
+            "Kad yra ES įgaliotos institucijos leidimas verstis vaistinių, tiriamųjų vaistinių preparatų gamyba"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kokius nustatytus reikalavimus vaistinių preparatų gamintojas turi užtikrinti?",
+        "choices": [
+            "Kad gamybos procesai būtų vykdomi laikantis geros gamybos praktikos reikalavimų",
+            "Kad būtų laikomasi gamybos licencijos sąlygų ir atitiktų informaciją, pateiktą licencijai gauti",
+            "Kad visi vaistų gamybos procesai būtų vykdomi pagal VVKT kartu su paraiška įregistruoti vaistą pateiktus ir patvirtintus dokumentus",
+            "Kad tiriamųjų vaistų gamybos procesai atitiktų patvirtintą informaciją, kurią pateikė užsakovas norėdamas gauti leidimą klinikiniam tyrimui atlikti"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Farmakologinio budrumo sistema turi būti naudojama informacijai apie vaistinių preparatų keliamą riziką pacientų ar visuomenės sveikatai rinkti. Ką ši informacija pirmiausia turi apimti?",
+        "choices": [
+            "Nepageidaujamas reakcijas vartojant vaistinį preparatą laikantis registracijos pažymėjimo sąlygų",
+            "Nepageidaujamas reakcijas vartojant vaistinį preparatą nesilaikant registracijos pažymėjimo sąlygų",
+            "Nepageidaujamas reakcijas, pasireiškiančias tam tikrų profesijų darbuotojams, dirbantiems su vaistiniu preparatu",
+            "Su žmonėmis atliekamus biomedicininius tyrimus, skirtus nustatyti, patikrinti ir patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį, farmakologinį ir (ar) kitokį farmakodinaminį poveikį ir (ar) nustatyti nepageidaujamas reakcijas į vieną ar kelis tiriamuosius vaistinius preparatus, ir (ar) ištirti vieno ar kelių tiriamųjų preparatų rezorbciją, pasiskirstymą, metabolizmą ir išskyrimą, siekiant nustatyti tiriamojo vaistinio preparato saugumą ir (ar) veiksmingumą"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Visuomenės vaistinės oficinoje gali būti įrengta:",
+        "choices": [
+            "Vieta, skirta Geros vaistinių praktikos nuostatuose nustatytoms kitoms paslaugoms teikti",
+            "Vieta, skirta vaistinių preparatų pakuotei perpakuoti, perfasuoti, pateikčiai keisti",
+            "Vieta, kurioje priimami ir tvarkomi vaistiniai preparatai",
+            "Asmens sveikatos priežiūros įstaigų padalinių aptarnavimo vieta"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Priimant vaistinius preparatus pagal faktinį kiekį turi būti įvertinta, ar:",
+        "choices": [
+            "Vaistinius preparatus galima identifikuoti",
+            "Vaistiniai preparatai buvo transportuojami tinkamomis sąlygomis",
+            "Vaistiniai preparatai nebuvo suteršti, išpilti ar išbarstyti",
+            "Vaistai skirti konkrečiam pacientui"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kiek galioja sveikatos priežiūros specialistų išrašyti psichotropinių vaistinių preparatų ir vaistinių medžiagų receptai?",
+        "choices": [
+            "Iki 10 dienų, įskaitant recepto įsigaliojimo dieną",
+            "Iki 30 dienų, įskaitant recepto įsigaliojimo dieną",
+            "Iki 5 dienų, įskaitant recepto įsigaliojimo dieną",
+            "Konkrečiu atveju apie recepto galiojimo laiką sprendžia sveikatos priežiūros specialistas, nurodydamas jį recepte"
+        ],
+        "answers_num": [
+            2,
+            4
+        ],
+        "option_type": "MULTI",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kas papildomai turi būti nurodyta elektroninio recepto formoje su žyma „Vardinis vaistinis preparatas“?",
+        "choices": [
+            "Data, iki kurios galioja vardinio vaistinio preparato skyrimo pareiškimas",
+            "Žyma, kad yra paciento sutikimas, išrašant vardinį vaistinį preparatą",
+            "Rašytinis paciento sutikimas vartoti vardinį vaistinį preparatą.",
+            "Jei pacientui vardinio vaistinio preparato reikia skubiai, elektroninio recepto blanko viršuje, dešiniajame kampe žyma „cito“ (skubiai) arba „statim“ (nedelsiant)"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kiek vienu kartu galima išduoti nereceptinių vaistinių preparatų?",
+        "choices": [
+            "Ne ilgesniam kaip 1 mėnesio gydymo kursui",
+            "Sudėtyje turinčių pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių), - ne daugiau negu vieną išorinę, jei jos nėra, vidinę pakuotę",
+            "Sudėtyje turinčių pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtako (prekursoriaus) pseudoefedrino, skirtų vartoti skirtingu paros metu, - tokį kiekį, kad juose esančio pseudoefedrino, būtų ne daugiau kaip 720 mg",
+            "Neribojamam laikotarpiui"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Išduodant vaistinį preparatą gyventojui būtina informuoti:",
+        "choices": [
+            "Kaip efektyviai ir saugiai vartoti vaistinį preparatą (prieš valgį, valgant, po valgio ar kitu gydytojo nurodytu būdu)",
+            "Kaip dažnai vartoti vaistinį preparatą",
+            "Kiek laiko vartoti vaistinį preparatą",
+            "Apie gydytojo informavimą dėl gydymo vaistais rezultatų"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Kas yra investicijų grąža ROI (Return of investment)?",
+        "choices": [
+            "Procentinis dydis, rodantis investicijos ar investicinio porftfelio pelningumą.",
+            "Rinkodaroje naudojamas investicijų atsiperkamumui skaičiuoti. Parodo kiek kiekvienas investuotas piniginis vienetas sugeneruoja pelno.",
+            "Finansinis rodiklis, kuris parodo kiek reikės investuoti į verslą kūrimosi stadijoje.",
+            "Finansinis rodiklis, kuris parodo kiek bus išmokama dividentų investuotojams."
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Įmonės veiklos valdymas (operational management) apima šias sritis:",
+        "choices": [
+            "Prekių ir paslaugų asortimento formavimas",
+            "Įmonės procesų valdymas",
+            "Kokybės valdymas",
+            "Verslo plano sudarymas"
+        ],
+        "answers_num": [
+            1,
+            2,
+            3
+        ],
+        "option_type": "MULTI",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

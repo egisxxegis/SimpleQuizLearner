@@ -1,0 +1,77 @@
+[
+    {
+        "number": 1,
+        "question": "Ar galimybė vartoti vakcinas pro burną yra laikoma produkto privalumu?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Ar pagrindinių imunogenų antigeninis kitimas yra problema kuriant ir gaminant vakcinas?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Ar monokloninių antikūnų preparatai yra priskiriami pažangios terapijos produktų kategorijai?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Ar ląstelės laikomos „audinių inžinerijos“ produktais, kai recipiento organizme jos neketinamos panaudoti tai pačiai kaip donoro pagrindinei funkcijai vykdyti?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Ar audinių ar organų, praradusių savo funkcionalumą dėl senatvinių pakitimų, regeneravimas yra laikomas audinių inžinerijos tikslu?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

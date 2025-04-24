@@ -1,0 +1,257 @@
+[
+    {
+        "number": 1,
+        "question": "Ar vaistinėje, kurioje norima teikti farmacinės rūpybos paslaugas, turi sukurti ir patvirtinti veiklos procedūrą, kuri būtų kokybės vadybos sistemos dalis?",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Ar teisingas teiginys, kad farmacinė rūpyba yra tik vaistininko ir paciento bendradarbiavimas, kurio metu vaistininkas teikia klinikinio pobūdžio paslaugas, leidžiančias kontroliuoti lėtinę ligą?",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Vaistinė ir vaistininkas neatsako už tai, kad pacientas nesilaiko ĮVPV farmacinės rūpybos paslaugos plano.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Šiuo metu SAM yra patvirtinusi farmacinės rūpybos paslaugos insulino preparatus vartojantiems pacientams teikimo tvarkos aprašą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Šiuo metu SAM yra patvirtinusi farmacinės rūpybos paslaugos įkvepiamuosius vaistinius preparatus vartojantiems pacientams teikimo tvarkos aprašą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Atsakingas vaistų vartojimas - vaistų vartojamas pagal paskirtas indikacijas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Vaistinėje turi būti atskira vieta ar patalpa, atitinkanti atitinkamos farmacinės rūpybos paslaugos specialiųjų reikalavimų apraše nustatytus reikalavimus.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, tinkamomis organizacinėmis ir techninėmis duomenų saugumo priemonėmis turi būti užtikrintas farmacinės rūpybos paslaugos, teikiamos gyventojui, konfidencialumas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Vaistinė turi turėti parengtą ir patvirtintą vykdomos farmacinės rūpybos paslaugos (-ų) teikimo procedūrą (-as).",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Įkvepiamųjų vaistinių preparatų farmacinės rūpybos paslaugos teikimo vietoje turi būti: pacientų mokymams skirti inhaliatoriai.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Nepageidaujama reakcija – tai nenorimas neigiamas žmogaus organizmo atsakas į vaistinį preparatą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Piktnaudžiavimas vaistiniu preparatu – tai nuolatinis ar pavienis sąmoningas nesaikingas vaistinio preparato vartojimas, lemiantis fizinį arba psichologinį žalingą poveikį.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Nepageidaujamų reakcijų intensyvumas gali būti apibudinamas kaip: sunkaus laipsnio – pacientas negali vykdyti savo kasdienės veiklos.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Tradiciniai kriterijai kategorizuojantys vaistų vartojimo problemas: teisinga dozė, dažnumas, vartojimo trukmė.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Vaistų vartojimo problema - “Pacientui reikalinga papildoma terapija” - priežastis ”Pacientas vartoja vaistus, kurie šiuo metu neturi galiojančios indikacijos”",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Astma - tai heterogeninė liga, kuriai būdingas kvėpavimo takų uždegimas, respiraciniai simptomai (švilpimas, dusulys, krūtinės suspaudimas ir kosulys) kurie gali keistis laike ir pagal stiprumą kartu su kintamu iškvepiamo oro srauto apribojimu.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Sergant lėtine obstrukcine plaučių liga (LOPL) būdingas nuolatinis, sukeltas fizinio krūvio dusulys.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

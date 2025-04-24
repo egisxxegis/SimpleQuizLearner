@@ -1,0 +1,92 @@
+[
+    {
+        "number": 1,
+        "question": "Vaistinio preparato specifikacija turi atitikti gamintojo reikalavimus ir Europos bendrųjų farmacinių formų monografijų reikalavimus.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Etanolio likutį tablečių sudėtyje būtina reglamentuoti. Tačiau jei jis išgaruoja gamybos metu ir jo neaptinkama tabletėse, likučio reglamentuoti nereikia.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Pirmos toksiškumo klasės tirpiklių likutis gali būti išreiškiamas specifikacijoje kaip nuodžiūvio parametras.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Jei gatavo produkto sudėtyje yra pagalbinė medžiaga benzalkonio chloridas, tai vaisto specifikacijoje turėtų būti nurodytas benzalkonio chlorido kiekio parametras.",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Ar gali būti leidžiamas pavojingų mutageninių priemaišų (pvz.,nitrozaminų) likutis didesnis nei 1,5 µg per parą?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Vaistinio preparato byloje nereikia pateikti informacijos apie veikliosios medžiagos gamybą, naudojamų medžiagų kontrolę, proceso validacijos duomenis, jei gamintojas pateikė vaistinės medžiagos kokybės atitikties Europos farmakopėjai sertifikatą?",
+        "choices": [
+            "TAIP",
+            "NE"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

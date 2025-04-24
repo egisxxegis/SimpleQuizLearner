@@ -1,0 +1,332 @@
+[
+    {
+        "number": 1,
+        "question": "Farmacinė veikla - juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų šalių, kokybės kontrolę.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Farmacinė veikla - juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti vaistinės darbo reglamentų kūrimą, vykdymo kontrolę ir vaistinių medžiagų gamybą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Vaistinė medžiaga - bet kuri medžiaga, kurios kilmė gali būti žmogaus, pvz.: žmogaus kraujas ir žmogaus kraujo produktai; gyvūninė, pvz.: mikroorganizmai, gyvūnai, organų dalys, gyvūnų išskyros, toksinai, ištraukos, kraujo produktai.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Vaistininkas - asmuo, įgijęs vaistininko profesinę kvalifikaciją ir farmacijos magistro kvalifikacinį laipsnį, arba Vyriausybės įgaliotos institucijos nustatyta tvarka jam prilygintas asmuo.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Vaistininko praktikos licencija išduodama individualiam laikotarpiui, kurį nustato VVKT prie LR SAM atsakingi darbuotojai, atsižvelgdami į vaistininko darbo vietą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Vaistinės veiklos licencijos turėtojas privalo pateikti Valstybinei vaistų kontrolės tarnybai duomenis apie vykdomą ir numatomą vykdyti vaistinių preparatų platinimą ir atliekamus esminius pakeitimus.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Juridiniai asmenys, turintys asmens sveikatos priežiūros veiklos licencijas, vaistinius preparatus gali įsigyti tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, o kartinius vaistinius preparatus - iš visuomenės vaistinės, turinčios teisę gaminti vaistus.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Vaistininko profesinė kompetencija apibrėžiama įgytomis žiniomis apie nereceptinių vaistinių preparatų pardavimo skyriaus darbo vietos organizavimą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Didmeniniai vaistinių preparatų platintojai privalo turėti reikalavimus ir poreikius atitinkančias patalpas, įrengimus bei įrangą, kad galėtų užtikrinti deramą vaistų laikymą ir platinimą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Juridinis asmuo gali verstis vaistinių preparatų importu iš trečiųjų šalių gavęs gamybos licenciją.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kvalifikuotu asmeniu gali būti asmuo, turintis įgytą ne mažesnę kaip 2 metų praktinę patirtį juridiniame asmenyje arba užsienio juridinio asmens filiale, vykdančiame dalinę gamybą ar tik fasavimą, pakavimą, ženklinimą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Vaistų gamintojas turi įdiegti ir prižiūrėti kokybės kontrolės sistemą ir paskirti už ją atsakingą nuo gamybos nepriklausomą asmenį.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Nepageidaujama reakcija - nenorimas neigiamas žmogaus organizmo atsakas į vaistinį preparatą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Piktnaudžiavimas vaistiniu preparatu - nepageidaujamos reakcijos nulemta mirtis, pavojus gyvybei, būtinybė hospitalizuoti arba pailginti gydymo stacionare trukmę, ilgalaikis ar reikšmingas neįgalumas arba apsigimimas.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Valstybinė vaistų kontrolės tarnyba, nustačiusi naują ar pasikeitusią riziką, taip pat naudos ir rizikos santykio pokyčius, apie tai turi informuoti vaistinio preparato registruotoją.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Teisę išrašyti receptus kompensuojamiesiems vaistiniams preparatams ar kompensuojamosioms MPP turi visi praktikuojantys sveikatos priežiūros specialistai.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Viename 2 formos specialiajame recepto blanke galima išrašyti vieną narkotinį vaistinį preparatą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Vienas elektroninis receptas gali būti išrašytas skiriant vieną vaistinį preparatą ir kompensuojamąją MPP.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kompensuojamieji vaistiniai preparatai 3 formos popieriniuose recepto blankuose rašomi konkrečiais vaistinio preparato pavadinimais, jei reikia, nurodant (skliausteliuose) vaistinio preparato gamintojo pavadinimą.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "LR SAM sudaro narkotinių ir psichotropinių medžiagų sąrašus. Jų iš viso yra penki.",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Prekių kategorijų valdymas yra vaistinių asortimento prekių įvairovės užtikrinimas vaistinėje",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Prekės į kategorijas vaistinėse skirstomos, pagal tai kaip jos turi būti laikomos oficinoje. (LR SAM įsakymas V- 1849,2016.12.29)",
+        "choices": [
+            "Taip",
+            "Ne"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

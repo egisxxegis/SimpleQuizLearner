@@ -1,90 +1,91 @@
-2. Biofarmacijos mokslas išsivystė 17 amžiaus viduryje. 
+5. Skiriant naujuosius antikoaguliantus (rivaroksabaną, dabigatraną, apiksabaną) būtina 
+monitoruoti DATL. 
 
 
-A) TAIP 
+A. TAIP 
 
-B) NE 
+B. NE 
 
-3. Biofarmacija LADMER sistemoje užima svarbią vietą vaisto absorbcijos stadijoje. 
-
-
-A) TAIP 
-
-B) NE 
-
-4. Biofarmacija LADMER sistemoje sprendžia vaistinės medžiagos farmakodinamikos 
-problemas. 
+6. Ar gali pasunkėti išeminė širdies liga pacientus sergančius hipotireoze gydant levotiroksinu? 
 
 
-A) TAIP 
+A. TAIP 
 
-B) NE 
+B. NE 
 
-5. Suirimo ir tirpimo testai yra pagrindiniai in vitro biofarmaciniai tyrimai, vertinant tablečių 
-kokybę. 
-
-
-A) TAIP 
-
-B) NE 
-
-6. Biofarmacijos mokslo pradininkai yra J.G.Wagner ir G.Levy. 
+7. Loperamidas gali būti skiriamas Salmonella spp. Sukeltam viduriavimui gydyti. 
 
 
-A) TAIP 
+A. TAIP 
 
-B) NE 
+B. NE 
 
-7. Farmaciniai veiksniai nėra svarbūs vertinant vaisto biologinį pasisavinimą. 
-
-
-A) TAIP 
-
-B) NE 
-
-8. Rektaliniai preparatai gali veikti vietiškai ir sistemiškai. 
+8. Nė vienas parenteraliai vartojamas antibiotikas neveikia žarnyno mikrobiotos. 
 
 
-A) TAIP 
+A. TAIP 
 
-B) NE 
+B. NE 
 
-9. Vaistų absorbcijai per nosies biologines membranas lipofiliškumas medžiagų nėra 
-reikšmingas vaistinėms medžiagoms, kurių molekulinė masė mažesnė nei 300 Da. 
-
-
-A) TAIP 
-
-B) NE 
-
-10. Vaistinių medžiagų skverbimasis į odą „šunto“ keliu ir absorbcija į sisteminę cirkuliaciją 
-yra greitesnis procesas, nes odos dariniai nesudaro barjero molekulių skvarbai. 
+9. Kosulys sergant astma yra simptomas, nepriklausomas nuo bronchų uždegiminių pokyčių 
 
 
-A) TAIP 
+A. TAIP 
 
-B) NE 
+B. NE 
 
-11. Vartojant preparatus vaginaliniu ir rektaliniu keliu gleivių pH reikšmė yra tokia pati, todėl 
-tirpimo kinetikos testas atliekamas tomis pačiomis sąlygomis. 
- 
-
-
-A) TAIP 
-
-B) NE 
-
-12. Biofarmacijos mokslas nesuteikia papildomos informacijos vaisto kokybės vertinime, 
-todėl  tirpimo kinetikos  tyrimų in vitro galima atsisakyti ir taip sutaupyti laiko  kietų 
-farmacinių formų kokybės vertinimo procese. 
+10. Ar racionalu derinti paracetamolį su narkotiniais analgetikais malšinant onkologinės kilmės 
+skausmą? 
 
 
-A) TAIP 
+A. TAIP 
 
-B) NE 
- 
-Atsakymai: 
+B. NE 
+
+11. Ar būdinga dantenų hiperplazijos nepageidaujama reakcija skiriant vazoselektyvius kalcio 
+kanalų blokatorius? 
+
+
+A. TAIP 
+
+B. NE 
+
+12. Ar padidėja skrandžio opų pasireiškimo rizika skiriant diklofenako 150 mg per parą dozę 
+injekcijomis? 
+
+
+A. TAIP 
+
+B. NE 
+
+13. Beta – adrenoblokatoriai pagerina ligonių sergančių ŠN išgyvenamumą. 
+
+
+A. TAIP 
+
+B. NE 
+
+14. Levotiroksiną reikia skirti pacientams sergantiems Greivso liga. 
+
+
+A. TAIP 
+
+B. NE 
+
+15. Omeprazolį patartina skirti karu su levotiroksinu ryte, pavalgius. 
+
+
+A. TAIP 
+
+B. NE 
+Atsakymai 
 
 1. B 
+
+2. B 
+
+3. A 
+
+4. A 
 
 

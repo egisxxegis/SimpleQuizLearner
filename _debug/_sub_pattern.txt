@@ -1,1 +1,2 @@
-\s*2\.\ Biofarmacijos\ mokslas\ išsivystė\ 17\ amžiaus\ viduryje\.\s*?A\)\ TAIP\s*?B\)\ NE\s*?
+\s*5\.\ Skiriant\ naujuosius\ antikoaguliantus\ \(rivaroksabaną,\ dabigatraną,\ apiksabaną\)\ būtina\ \
+monitoruoti\ DATL\.\s*?A\.\ TAIP\s*?B\.\ NE\s*?

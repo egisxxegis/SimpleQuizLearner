@@ -1,0 +1,1030 @@
+[
+    {
+        "number": 1,
+        "question": "Nemigos gydymui tinkamiausias medikamentas",
+        "choices": [
+            "Tiapridas",
+            "Amitriptilinas",
+            "Zolpidemas",
+            "Clemastinas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Pacientas bijo vorų. Koks medikamentas tikamiausias šiai baimei gydyti?",
+        "choices": [
+            "Amitriptilinas",
+            "Alprazolamas",
+            "Haloperidolis",
+            "Ši baimės rūšis vaistais negydoma"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kokiam medikamentui būdinga sukelti ekstrapiramidinius simptomus?",
+        "choices": [
+            "Diazepamui",
+            "Citalopramui",
+            "Risperidonui",
+            "Zolpidemas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kokiu medikametu rekomenduojama gydyti vaistų nuo psichozės sukeltą parkinsonizmą?",
+        "choices": [
+            "Levodopa/Karbidopa",
+            "Triheksifenidiliu",
+            "Pramipeksoliu",
+            "Ropiniroliu",
+            "Selegilinu"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kokio medikameto priešnuodžiu yra idarucizumabas?",
+        "choices": [
+            "Varfarino",
+            "Rivaroksabano",
+            "Heparino",
+            "Dabigatrano",
+            "Klopidogrelio"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kiek laiko trombocitų agregaciją slopinamasis poveikis tęsiasi nutraukus aspirino vartojimą?",
+        "choices": [
+            "4-6 val.",
+            "12-18 val.",
+            "1-2 dienas",
+            "7-10 dienų",
+            "15-30 dienų"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Koks medikamentas tinkams prieširdžių virpėjimo paroksizmo gydymui?",
+        "choices": [
+            "Amjodaronas",
+            "Lidokainas",
+            "Verapamilis",
+            "Adenozinas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kokio medikamento nerekomenduojama vartoti, jei pacientas yra alergiškas jodui?",
+        "choices": [
+            "Metaprololio",
+            "Propafenono",
+            "Lidokaino",
+            "Amjodarono",
+            "Diltazemo"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kuris iš šių vaistų nėra citochromo CYP450 fermentų inhibitorius ar induktorius?",
+        "choices": [
+            "Karbamazepinas",
+            "Okskarbazepinas",
+            "Valpro rūgštis",
+            "Gabapentinas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Moteris serganti epilepsija ir vartojanti valpro rūšties preparatą nusprendė pastoti. Kokiu vaistu rekomenduojante pakeisti valpro rūgštį?",
+        "choices": [
+            "Levetiracetamu",
+            "Karbamazepinu",
+            "Topiramatu",
+            "Pregabalinu"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kuri iš išvardytų nepageidaujamų reakcijų yra būdinga aspirinui?",
+        "choices": [
+            "Kraujavimas iš virškinamojo trakto",
+            "Toksinis hepatitas",
+            "Hiponatremija",
+            "Vertigo"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kaip ilgai trombocitų agregaciją slopinamuosius vaistus būtina vartoti po įvykusio išeminio galvos smegenų insulto?",
+        "choices": [
+            "Vieną mėnesį",
+            "Pusę metų",
+            "Vienerius metus",
+            "Visą likusį gyvenimą"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Dėl kurių veiksnių gali tekti didinti levotiroksino dozę hipotiroze sergančiam pacientui?",
+        "choices": [
+            "Svorio sumažėjimas",
+            "Nėštumas",
+            "Krūtinės angina",
+            "Pradedamas vartoti metoprololis",
+            "Atsiranda perdozavimo levotiroksinu simptomai"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kuris iš šių vaistų nuo vidurių užkietėjimo yra laikomas fiziologiškiausiu ir rekomenduojamas kaip pirmo pasirinkimo?",
+        "choices": [
+            "Bisakodilis",
+            "Natrio fosfatas",
+            "Senos preparatai",
+            "Magnio citratas",
+            "Laktuliozė"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Koks yra tinkamiausias gydymas, sergant dvylikapirštės žarnos opalige ir esant teigiamam Helicobacter pylori testui?",
+        "choices": [
+            "Klaritromicinas, amoksicilinas, omeprazolas",
+            "Omeprazolas, metronidazolas",
+            "Ranitidinas, omeprazolas, metronidazolas",
+            "Ranitidinas, vankomicinas, amoksicilinas",
+            "Pantoprozolas, famotidinas, amoksicilinas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Ūminio cistito profilaktika ciprofloksacinu (išrinkti teisingiausią atsakymą)",
+        "choices": [
+            "Visada yra racionali.",
+            "Visada yra neracionali.",
+            "Gali būti racionalesnė, nei profilaktika trimetoprimu, nes ciprofloksacino poveikio spektras yra siauresnis nei trimetoprimo.",
+            "Gali būti neracionali, jei sukėlėjai yra jautrūs nitrofurantoinui."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kuri antibiotikoterapijos rūšis yra specifiškiausia?",
+        "choices": [
+            "Ex juvantibus gydymas.",
+            "Empirinis gydymas.",
+            "Tikslinis gydymas pagal antibiotikogramą.",
+            "Tikslinis gydymas pagal minimalias slopinančias koncentracijas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Geležies stokos anemijos atveju geležies sulfato turintys vaistai (išrinkti teisingiausią atsakymą)",
+        "choices": [
+            "Turi atstatyti geležies stoką kraujyje.",
+            "Turi atstatyti geležies stoką ir kraujyje, ir depo.",
+            "Efektą sukelia nepriklausomai nuo dozės.",
+            "Poveikį pasiekia priklausomai tik nuo dozės."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Intraveniniai geležies turintys vaistai poveikį sukelia (išrinkti teisingiausią atsakymą)",
+        "choices": [
+            "Per 3 minutes.",
+            "Per 3 valandas.",
+            "Per 3 savaites.",
+            "Per 3 mėnesius."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Gliukokortikoidai bronchų astmos atveju (išrinkti teisingiausią atsakymą)",
+        "choices": [
+            "Tiesiogiai mažina bronchų uždegiminius pokyčius",
+            "Tiesiogiai mažina bronchų spazmą.",
+            "Tiesiogiai mažina bronchų sekreciją.",
+            "Vartojami tik vietiškai inhaliacijomis."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Gliukokortikoidai lėtinės obstrukcinės plaučių ligos atveju (išrinkti teisingiausią atsakymą)",
+        "choices": [
+            "Yra būtini visais atvejais, nes mažina bronchų uždegiminius pokyčius.",
+            "Yra būtini kai kuriais atvejais, nes mažina bronchų uždegiminius pokyčius.",
+            "Yra vartojami tik sistemiškai, nes tiesiogiai mažina bronchų spazmą.",
+            "Yra būtini visais atvejais, nes mažina bronchų spazmą"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kurio geriamojo NVNU kepenų nepageidaujamų reakcijų rizika yra didžiausia?",
+        "choices": [
+            "Ibuprofeno 400mg.",
+            "Aspirino 100mg.",
+            "Naprokseno 500mg.",
+            "Nimesulido 100mg"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Kurio geriamojo NVNU trombozių rizika yra didžiausia?",
+        "choices": [
+            "Ibuprofeno 400 mg per parą.",
+            "Diklofenako 100 mg per parą.",
+            "Naprokseno 500 mg per parą",
+            "Aspirino 100 mg per parą"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Koks vaistas netinkamas širdies nepakankamumo gydymui?",
+        "choices": [
+            "Diltiazemas",
+            "Perindoprilis",
+            "Spironolaktonas",
+            "Karvedilolis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kurio NVNU gastropatijų rizika yra didžiausia?",
+        "choices": [
+            "Celekoksibo",
+            "Etorikoksibo.",
+            "Meloksikamo.",
+            "Diklofenako."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kokiai grupei priskiriamas ciklosporinas?",
+        "choices": [
+            "Kalcineurino inhibitoriams",
+            "Antimetabolitams",
+            "Gliukokortikoidams",
+            "mTOR inhibitoriams"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kokiai grupei priskiriamas takrolimuzas?",
+        "choices": [
+            "Kalcineurino inhibitoriams",
+            "Antimetabolitams",
+            "Gliukokortikoidams",
+            "mTOR inhibitoriams"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kokiai grupei priskiriamas prednizolonas?",
+        "choices": [
+            "Kalcineurino inhibitoriams",
+            "Antimetabolitams",
+            "Gliukokortikoidams",
+            "mTOR inhibitoriams"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Kokiai grupei priskiriamas azatioprinas?",
+        "choices": [
+            "Kalcineurino inhibitoriams",
+            "Antimetabolitams",
+            "Gliukokortikoidams",
+            "mTOR inhibitoriams"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kuris iš šių derinių gali būti skiriamas palaikomajai imunosupresijai po atliktos inksto transplantacijos?",
+        "choices": [
+            "Prednizolonas, metilprednizolas ir azatioprinas",
+            "Belataceptas, sirolimuzas ir prednizolonas",
+            "Ciklosporinas ir takrolimuzas",
+            "Ciklosporinas, mikofenolato mofetilis ir metilprednizolonas"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kokia galima sąveika kartu vartojant ciklosporiną ir ibuprofeną?",
+        "choices": [
+            "Farmakodinaminė, dėl kurios didėja nefrotoksiškumo rizika",
+            "Farmakodinaminė, dėl kurios didėja ototoksiškumo rizika",
+            "Farmakokinetinė, dėl kurios stiprėja ciklosporino poveikis",
+            "Farmakokinetinė, dėl kurios silpnėja ciklosporino poveikis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kokia rekomenduojama pradinė takrolimuzo dozė imunosupresijai po inksto transplantacijos užtikrinti, jei farmakogenetinio tyrimo metu nustatytas „prastas metabolizmas“ per CYP3A5?",
+        "choices": [
+            "Didesnė nei standartinė",
+            "Mažesnė nei standartinė",
+            "Metabolizmo ypatumai per CYP3A5 neturi jokios įtakos pradinės dozės pasirinkimui",
+            "Standartinė"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kokiu žodžiu neapibūdinamas racionalus vaisto vartojimas?",
+        "choices": [
+            "Ekonomiškas",
+            "Veiksmingas",
+            "Saugus",
+            "Monitoruojamas",
+            "Ekologiškas"
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kuri ypatybė apie vaistą ir maisto papildą yra teisinga?",
+        "choices": [
+            "Abu yra tarpusavy pakeičiami",
+            "Maisto papildas gydo, o vaistas tik kenkia",
+            "Maisto papildas yra maisto produktas, o vaistas yra skirtas ligų gydymui ar diagnostikai bei profilaktikai"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kada reikalinga skirti medikamentinį depresijos gydymą?",
+        "choices": [
+            "Kai žmogui liūdna, nes atleido iš darbo",
+            "Kai žmogus prarado artimąjį",
+            "Kai žmogus praranda interesus, užsidaro, nebendrauja. Šie ir panašūs simptomai vargina daugiau nei 2 savaites."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Dėl kokios priežasties dažniausiai reikia keisti neuroleptikus?",
+        "choices": [
+            "Dėl nepageidaujamų reakcijų - antrinio parkinsonizmo, ekstrapiramidinių reiškinių ir kitų diskinezijų",
+            "Pacientui atsibosta vartoti vaistus",
+            "Neveiksmingas gydymas",
+            "Nėra galimybės monitoruoti gydymo",
+            "Brangus gydymas"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kokiai indikacijai benzodiazepinai neskiriami?",
+        "choices": [
+            "Depresijai",
+            "Nerimui",
+            "Nemigai",
+            "Fobijoms"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Dėl kurių veiksnių gali tekti mažinti levotiroksino dozę hipotireoze sergančiam pacientui?",
+        "choices": [
+            "Nėštumas",
+            "Tachiaritmija",
+            "Nutukimas",
+            "Mieguistumas",
+            "Pradėtas vartoti perindoprilis"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Kuris iš šių vaistų nuo vidurių užkietėjimo yra priskiriamas osmosinių laisvinamųjų vaistų grupei?",
+        "choices": [
+            "Magnio citratas",
+            "Sėlenos",
+            "Laktuliozė",
+            "Bisakodilis",
+            "Sena"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Kuri iš paminėtų indikacijų yra teisinga renkantis gydymą H2 receptorių antagonistais?",
+        "choices": [
+            "NVNU sukeltų opų gydymas",
+            "Kraujuojančių skrandžio ir 12-ės opų gydymas",
+            "Skrandžio ir 12-ės opų gydymas",
+            "H. Pylori naikinimas derinant su antibiotikais",
+            "NVNU sukeliamų opų profilaktika"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Kokios yra kilpinių diuretikų skyrimo kontraindikacijos sergant širdies nepakankamumu?",
+        "choices": [
+            "Niekada nėra buvę stazės simptomų ir požymių",
+            "Stazė plaučiuose",
+            "Hipertenzija",
+            "Skyrimas kartu su NVNU",
+            "Edemos galūnėse"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kuris iš šių atsakymų geriausiai apibūdina heparino veikimo mechanizmą?",
+        "choices": [
+            "Tiesiogiai jungiasi su fibrinu ir inicijuoja trombolizę",
+            "Jungiasi su antitrombinu, sustiprindamas jo slopinamąjį poveikį trombinui ir kitiems krešėjimo faktoriams",
+            "Tiesiogiai slopina X faktorių",
+            "Blokuoja nuo vitamino K priklausomus krešėjimo faktorius"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Kokie antikoaguliantai klasifikuojami kaip mažos molekulinės masės heparinai?",
+        "choices": [
+            "Dabigatranas ir Rivaroksabanas",
+            "Nadroparinas ir Enoksaparinas",
+            "Apiksabanas ir Varfarinas",
+            "Heparinas ir Dabigatranas"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Koks yra priešnuodis Dabigatranui?",
+        "choices": [
+            "Idarucizumabas",
+            "Vitaminas K",
+            "Protamino sulfatas",
+            "Aktyvuota anglis"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Prednizolono veikimo mechanizmas pagrįstas daugiausia:",
+        "choices": [
+            "β adrenerginių receptorių blokavimo efektu",
+            "Anti-CD25 (anti-IL-2 receptorių antikūnai)",
+            "Pasižymi plataus spektro poveikiu ląstelinei imuninei sistemai"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Takrolimuzas:",
+        "choices": [
+            "Naudojamas inkstų hipertenzijai gydyti",
+            "Naudojamas kaip profilaktinė priemonė nuo atmetimo reakcijos po transplantacijos",
+            "Turi labai aukštą virškinamojo trakto absorbciją, todėl neturi nefrotoksiškumo, neurotoksiškumo, virškinimo trakto nusiskundimų ir hipertenzijos rizikos"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 47,
+        "question": "Azatioprinas:",
+        "choices": [
+            "Daugiausia slopina T ląstelių kostimuliaciją",
+            "Šalutinis poveikis: kaulų čiulpų slopinimas (leukopenija > trombocitopenija > anemija)",
+            "Yra naujas vaistas širdies nepakankamumo gydymui"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 47,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 48,
+        "question": "Kurioms iš nurodytų vaistų grupių skiriamų 2 tipo CD gydymui kontraindikacija yra persirgtas pankreatitas?",
+        "choices": [
+            "Biguanidams",
+            "GLP -1 agonistams",
+            "Sulfonilkarbamido preparatams",
+            "Tiazolidindionai",
+            "SGLT2 inhibitoriams"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 48,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 49,
+        "question": "Ką privaloma stebėti skiriant pacientui Kalį tausojančius diuretikus?",
+        "choices": [
+            "Trombocitų kiekį kraujyje.",
+            "AKS dėl hipertenzijos",
+            "ŠSD dėl tachikardijos",
+            "Kalio kiekį kraujyje dėl hiperkalemijos",
+            "Kalcio kiekį kraujyje dėl hiperkalcemijos"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 49,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 50,
+        "question": "Nurodykite chemoterijos nepageidaujamos reakcijos audinių nekrozės priežastį",
+        "choices": [
+            "Chemoterapiniai vaistai skiriami į veną ir/ar arteriją gali sukelti audinių nekrozę jeigu patenka į šalia kraujagysles esančius audinius",
+            "Chemoterapiniai vaistai skiriami į veną ir/ar arteriją didesnės koncentracijos negu nurodyta gali sukelti audinių nekrozę",
+            "Chemoterapiniai vaistai skiriami į veną ir/ar arteriją didesnės koncentracijos ir didesniu greičiu negu nurodyta gali sukelti audinių nekrozę",
+            "Chemoterapiniai vaistai skiriami geriamosiomis vaistų formomis gali sukelti skrandžio ir burnos ertmės audinių nekrozę"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 50,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 51,
+        "question": "Hiperurikemija blogina chemoterapijos sėkmę, nes",
+        "choices": [
+            "Didėja rizika ūmaus inkstų funkcijos nepakankamumo",
+            "Didėja rizika ūmaus kepenų funkcijos nepakankamumo",
+            "Didėja trombozių rizika",
+            "Didėja kardiotoksinio poveikio rizika"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Nurodykite teiginį, kuris apibūdina Nacionalinę vaistų politiką",
+        "choices": [
+            "Nacionaline vaistų politika apibrėžiamas toks priemonių kompleksas, kuris atsižvelgiant į ribotus valstybės išteklius ir esamą mokslo žinių lygį užtikrina visai visuomenei maksimaliai didžiausią naudą atnešantį gydymą vaistais",
+            "Nacionaline vaistų politika yra Lietuvos Respublikos Seimo patvirtintas Farmacijos Įstatymas",
+            "Nacionaline vaistų politika yra visos Lietuvos Respublikos ir SAM priemonės, skirtos vaistų kompensavimui",
+            "Nacionaline vaistų politika yra visos Lietuvos Respublikos ir SAM priemonės, skirtos vaistinių steigimui ir jų reguliavimui"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Nurodykite teiginį, kuris apibūdina farmakoepidemiologiją",
+        "choices": [
+            "Mokslas tiriantis ligų rizikos veiksnius didelėje žmonių grupėje",
+            "Mokslas tiriantis vaistų suvartojimą ir racionalumą didelėje žmonių grupėje",
+            "Mokslas tiriantis ligų paplitimą didelėje žmonių grupėje",
+            "Mokslas tiriantis įvairių sukėlėjų, tame tarpe virusų, bakterijų paplitimą didelėje žmonių grupėje"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Kuris medikamentas tinkamiausias širdies susitraukinėjimo dažnio retinimui pacientui sergančiam lėtiniu prieširdžių virpėjimu?",
+        "choices": [
+            "Amlodipinas",
+            "Lidokainas",
+            "Propafenonas",
+            "Metaprololis"
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Kuris iš antimikrobinio gydymo atvejų yra tiksliausias?",
+        "choices": [
+            "Empirinis gydymas (ar profilaktika) skiriamas prieš labiausiai tikėtiną sukėlėją",
+            "Tikslinis gydymas nustačius sukėlėją ir jo jautrumą",
+            "Tikslinis gydymas nustačius sukėlėjo jautrumą pagal MSK",
+            "Veiksmingas empirinis gydymas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Kokio medikamento negalima vartoti, jei pacientas yra alergiškas jodui?",
+        "choices": [
+            "Propafenono",
+            "Amjodarono",
+            "Metaprololio",
+            "Verapamilio"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 57,
+        "question": "Kartu vartojant digoksiną ir furozemidą:",
+        "choices": [
+            "Didėja aritmijų rizika",
+            "Didėja hiperkalemijos rizika",
+            "Mažėja furozemido efektyvumas",
+            "Didėja hipotenzijos rizika"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 57,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 58,
+        "question": "Kas mažina geležies absorbciją iš virškinamojo trakto?",
+        "choices": [
+            "Skaidulinis maistas",
+            "Askorbo r.",
+            "Abu atsakymai teisingi"
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 58,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 59,
+        "question": "Nuo ko priklauso reliatyvi geležies absorbcija iš virškinamojo trakto?",
+        "choices": [
+            "Nei vienas atsakymas neteisingas",
+            "Nuo geležies kiekio vaisto formoje - kuo didesnis geležies kiekis vaisto formoje, tuo mažesnė absorbcija (procentais)",
+            "Nuo geležies kiekio nepriklauso, priklauso nuo tik nuo druskos tipo"
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 59,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 60,
+        "question": "Kas gali bloginti levodopos absorbciją ir taip silpninti jos efektyvumą?",
+        "choices": [
+            "Maistas, kuriame yra daug gyvulinių riebalų",
+            "Vaisto vartojimas prieš valgį",
+            "Kartu vartojamas daug baltymų turintis maistas",
+            "Omeprazolas"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 60,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

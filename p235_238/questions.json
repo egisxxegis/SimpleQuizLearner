@@ -1,0 +1,359 @@
+[
+    {
+        "number": 1,
+        "question": "Nurodykite specialųjį Europos farmakopėjos straipsnį.",
+        "choices": [
+            ",,Alerginiai produktai“.",
+            ",,Kmynų eterinis aliejus“.",
+            ",,Ekstraktai“.",
+            ",,Augalinės žaliavos: mėginių ėmimas ir ruošimas“."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Nurodykite, kokiai grupei yra priskiriamas Europos farmakopėjos monografijoje aprašytas sausasis jonažolių ekstraktas.",
+        "choices": [
+            "Frakcionuotų ekstraktų.",
+            "Kiekybiškai įvertintų ekstraktų.",
+            "Kokybiškai įvertintų ekstraktų.",
+            "Koncentruotų ekstraktų."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Nurodykite, koks stabilumo vertinimo kriterijus yra tinkamas naujam fitopreparatui.",
+        "choices": [
+            "Nuosėdų atsiradimas ekstrakte.",
+            "Eterinių aliejų kiekio kitimas sausajame ekstrakte.",
+            "Žymenų, sąlygojančių fitoterapinį poveikį, kiekio kitimas.",
+            "Tapatumo nustatymo taikant spalvinę reakciją rezultatas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kuris iš nurodytų teiginių neteisingai apibūdina BMR spektrometrijos taikymą fitopreparatų vystymui ir kokybės kontrolei?",
+        "choices": [
+            "Metodas taikomas išgrynintų palyginamųjų augalinių medžiagų pagrindimui.",
+            "Metodas taikomas ekstraktų sudėties ekvivalentiškumo įvertinimui.",
+            "BMR spektroskopijos metodu galima tirti augalinių junginių stereoizomerų mišinius.",
+            "Naudojantis spektro duomenimis atliekamas palyginamosios medžiagos analitinio žymens molekulinės masės nustatymas."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Nurodykite priežastį į naujo produkto specifikaciją įtraukti ,,piršto atspaudų“ parametrą.",
+        "choices": [
+            "Būdinga chromatograma taikoma fitopreparato stabilumo tyrimų vertinimui.",
+            "Chromatogramos smailių spektrų (UV, IR, masių) vaizdas naudojamas junginių struktūrai nustatyti.",
+            "Parametras taikomas veikliosios medžiagos identifikavimui sudėtiniame fitopreparate.",
+            "Taikoma tablečių su augaliniais ekstraktais sudėties nustatymui."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kokiu tikslu naujo fitopreparato kokybės kontrolei gali būti diegiama efektyviosios skysčių chromatografijos metodika?",
+        "choices": [
+            "Efektyvioji skysčių chromatografija - palyginti naujas tyrimo metodas.",
+            "ESC naudojama priemaišų nustatymui.",
+            "ESC plačiai taikoma junginių struktūrai nustatyti.",
+            "Vienu metu galima atlikti kelių tiriamųjų tirpalų skirstymą."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Nurodykite, kuris teiginys apie augalinio preparato tiriamojo bandinio ruošimą yra neteisingas.",
+        "choices": [
+            "Jei bandinį sudaro nepakankamai išdžiovinta augalinė žaliava, atliekamas papildomas jos džiovinimas.",
+            "Augalinio preparato ėminys analitiniais tikslais gali būti išskirstomas į atskirus bandinius.",
+            "Kiekvienas papildomas bandinio ruošimo žingsnis reikalauja papildomų sąnaudų.",
+            "Mažesnis pašalinių junginių kiekis gerina tokias analitinio tyrimo metodo charakteristikas kaip atrankumas ar nustatymo riba."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Nurodykite, kuris teiginys apie fitopreparato su melisų ekstraktu analitinius žymenis teisingas.",
+        "choices": [
+            "Vandeninio ekstrakto preparate reikia kontroliuoti tonizuojančiu poveikiu pasižyminčius junginius.",
+            "Rozmarinų rūgštis – tinkamas analitinis žymuo skystųjų vaistų formų kiekybės parametro tyrimui.",
+            "Reikia specifikuoti antioksidantiniu poveikiu pasižyminčius izoflavonus.",
+            "Sausieji ekstraktai vertinami pagal eterinio aliejaus kiekį."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kokiu tikslu gali būti taikomi modifikuoti ESC antioksidantinio aktyvumo nustatymo metodai tiriant augalinius mėginius?",
+        "choices": [
+            "Diegiant greitą analizę, kuri taupo laboratorijos išteklius.",
+            "Siekiant panaudoti nejudrią fazę, paskleistą ant plokščio paviršiaus.",
+            "Siekiant kontroliuoti aktyviausią komponentą fitopreparato bandinio eliuate, kurio įtaka bendram fitopreparato aktyvumui didžiausia.",
+            "Siekiant priemaišų nustatymo."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Nurodykite, kuris teiginys apie augalinių vaistinių preparatų kontrolei taikomus jungtinius žymenis yra teisingas.",
+        "choices": [
+            "Tai junginiai, turintys įvairiapusį terapinį aktyvumą.",
+            "Tik kompleksiniai augalinės kilmės junginiai gali būti naudojami kaip tokie žymenys.",
+            "Jungtiniai žymenys išimtinai gali būti taikomi tik daugiakomponenčių vaistinių preparatų kokybės kontrolei.",
+            "Šie junginiai yra fitopreparatų priemaišos."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Nurodykite, kuris teiginys apie standartizuotus vaistinius augalinius ekstraktus yra teisingas.",
+        "choices": [
+            "Standartizuoti ekstraktai yra naudojami tik receptinių augalinių preparatų gamybai.",
+            "Standartizavimui gali būti naudojamos pagalbinės medžiagos.",
+            "Standartizavimui naudojami plačiai žinomi dominuojantys analitiniai žymenys.",
+            "Standartizavimas apibrėžia ekstrakto grynumą."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Nurodykite, kuo tradicinio augalinio preparato kokybės kontrolės sistema skiriasi nuo augalinio preparato, kurio sudėtyje yra rafinuotas (valytas) augalinis ekstraktas.",
+        "choices": [
+            "Kokybės kontrolės sistemos esminių skirtumų neturi.",
+            "Rafinuoto augalinio preparato sudėties kontrolei taikomos palyginamosios medžiagos.",
+            "Tradicinio augalinio preparato kontrolei netaikomas stabilumo tyrimas.",
+            "Tradicinio augalinio preparato kiekybės parametro kontrolei gali būti taikomas titravimas, o receptinio rafinuoto – chromatografija."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Nurodykite parametrą, kuris nėra būtinas naujo į vidų vartojamo kapsulių formos vaistinio preparato su augaliniu ekstraktu stabilumo specifikacijoje.",
+        "choices": [
+            "Kapsulių vidutinės masės parametras.",
+            "Suirimo laiko arba (ir) tirpumo laiko parametras.",
+            "Veikliosios medžiagos tapatybės parametras.",
+            "Kiekybės parametras."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Nurodykite, kuris teiginys apie augalinių preparatų žymenis yra neteisingas.",
+        "choices": [
+            "Pasirinkimas privalo būti pagrįstas moksliškai.",
+            "Preparatų kontrolei gali būti taikomi tik farmakopėjiniai žymenys.",
+            "Terapinis ar farmakologinis žymenų aktyvumas yra prioritetiniai parenkant žymenis naujo fitopreparato kontrolei.",
+            "Žymuo privalo nekisti gamybos etapų metu."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Nurodykite, kuris teiginys apie aflatoksinus yra neteisingas.",
+        "choices": [
+            "Tai mikotoksinai. Juos išskiria Aspergillus spp.",
+            "Kiekybiniam aflatoksinų nustatymui gali būti naudojama skysčių chromatografija.",
+            "Aflatoksinų priemaiša vaistiniuose preparatuose gali sukelti kancerogeninį poveikį.",
+            "Farmakopėjoje nurodyta aflatoksinų B1, B2, G1 ir G2 sumos leistina riba yra didesnė nei  4 g/kg."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Nurodykite, kokia priežastis yra tinkamai pagrįsta naujų nefarmakopėjinių fitocheminio tyrimo metodų diegimui.",
+        "choices": [
+            "Gamintojas nusprendžia pakeisti laboratorinės įrangos tiekėją.",
+            "Plonasluoksnė chromatografija ir titravimas yra nešiuolaikiniai tyrimo metodai.",
+            "Siekiama kontroliuoti ne junginių grupę, bet ir atskirus junginius, kurie apsprendžia fitoterapinį poveikį.",
+            "Gamintojas neturi farmakopėjoje nurodytos įrangos."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Kokia priežastis yra tinkamai pagrįsta aktyvių žymenų kiekybės parametro įtraukimui į fitofarmacinio preparato specifikaciją?",
+        "choices": [
+            "Žymuo yra specifiškas konkrečiai žaliavai.",
+            "Dominuojantis komponentas.",
+            "Nesudėtinga analitinės kontrolės metodika.",
+            "Kontrolės parametras privalo būti įtrauktas į specifikaciją."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kokiu tikslu naujo fitopreparato kokybės kontrolei gali būti pasirenkami jungtiniai analitiniai žymenys?",
+        "choices": [
+            "Tiriant flavonoidų turtingus preparatus.",
+            "Veikliosios medžiagos kontrolei iki gamybos.",
+            "Daugiakomponenčio fitopreparato stabilumo kontrolei.",
+            "Pagalbinių medžiagų kontrolei."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Nurodykite plonasluoksnės chromatografijos privalumą lyginant su ESC tiriant fitopreparatų mėginius.",
+        "choices": [
+            "Greitesnė metodika.",
+            "Paprastas kiekinis tyrimas.",
+            "Tiriamoji ir palyginamoji medžiagos chromatografiškai skirstomos vienu metu.",
+            "Reikšmingai efektyvesnė metodika tiriant vaistinės sąlygomis."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 20,
+        "question": "Pateiktame sąraše nurodykite augalinį vaistinį preparatą.",
+        "choices": [
+            "Rutozido ir askorbo rūgšties 25 mg/100 mg dengtos tabletės",
+            "Tabletės, kurių sudėtyje yra  300 mg inulino, 30 mg pektino, 30 mg beta1,3/1,6-gliukano, 130 mg gliukozės.",
+            "Kapsulės, kurių sudėtyje yra standartizuotas aviečių vaisių ekstraktas.",
+            "Geriamasis tirpalas, kurio sudėtyje yra standartizuota šunvyšnių lapų tinktūra."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Kodėl svarbu tinkamai deklaruoti ir atsižvelgti į pirminės augalinės medžiagos / augalinio ekstrakto santykį (angl. DER – drug extract ratio)?",
+        "choices": [
+            "Santykis atskleidžia technologinio proceso tipą.",
+            "Santykis tiesiogiai siejamas su fitoterapine funkcija.",
+            "Santykis žymi ekstrakto santykinį stiprumą pagal panaudotos medžiagos kiekio santykį su ekstrakto kiekiu.",
+            "Santykis nurodo priemaišų ir teršalų lygį, priklausantį nuo panaudotos medžiagos kiekio."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    }
+]

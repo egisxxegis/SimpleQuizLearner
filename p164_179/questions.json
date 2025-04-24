@@ -1,0 +1,961 @@
+[
+    {
+        "number": 1,
+        "question": "Kas tai yra farmacijos praktika?",
+        "choices": [
+            "Farmacijos specialisto atliekama farmacinė veikla.",
+            "Farmacijos įmonių kontrolė.",
+            "Fizinių asmenų atliekama sveikatinimo ir kitos veiklos sritis, apimanti vaistų gamybą kontrolę ir jų pateikimą galutiniam vartotojui.",
+            "Vaistininko ir vaistininko padėjėjo (farmakotechniko) praktika: vaistininko praktika farmacinė veikla; vaistininko padėjėjo (farmakotechniko) praktika - vaistininko padėjėjo (farmakotechniko) vykdoma farmacinė veikla."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 1,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 2,
+        "question": "Kurie visuomenės vaistinės darbuotojai turi teisę vadintis farmacijos specialistais?",
+        "choices": [
+            "Tik vaistininkai.",
+            "Tik vaistininko padėjėjai (farmakotechnikai).",
+            "Vaistininkas, vaistininko padėjėjas (farmakotechnikas) arba Vyriausybės įgaliotos institucijos nustatyta tvarka jiems prilygintas asmuo",
+            "Visi vaistinės darbuotojai."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 2,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 3,
+        "question": "Kas tai yra farmacinė paslauga?",
+        "choices": [
+            "Vaistininko praktika vaistinėje, apimanti gydytojo išrašytų receptų kontrolę, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie vaistinius preparatus teikimą.",
+            "Farmacijos specialistų visuomenės vaistinėse atliekama sveikatinimo ir kitos veiklos sritis, apimanti vaistų gamybą, sandėliavimą, kokybės kontrolę ir jų pateikimą galutiniam vartotojui.",
+            "Vaistininkų praktika ligoninių vaistinėse.",
+            "Vaistinėje farmacijos specialistų teikiama paslauga, apimanti receptų tikrinimą, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos priežiūros ir farmacijos specialistams, taip pat jų konsultavimą."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 3,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 4,
+        "question": "Kuris iš teiginių atitinka farmacinės veiklos sąvokos apibūdinimą?",
+        "choices": [
+            "Farmacinė veikla - juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti didmeninį vaistinių preparatų platinimą ir vaistinių preparatų prekybos tarpininkavimą, veikliųjų medžiagų platinimą.",
+            "Farmacinė veikla - juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti reklamos apie vaistinius preparatus teikimą žiniasklaidoje.",
+            "Tik vaistininkų vykdoma farmacinė veikla, apimanti vaistinių preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų ir į Europos Komisijos sąrašą įrašytų pagalbinių medžiagų, kurios naudojamos kaip pradinės medžiagos vaistinių preparatų gamybai, gamybą, importą iš trečiųjų šalių, kokybės kontrolę, vaistinių preparatų, veikliųjų medžiagų ir į Europos Komisijos sąrašą įrašytų pagalbinių medžiagų, kurios naudojamos kaip pradinės medžiagos vaistinių preparatų gamybai, didmeninį platinimą, vaistinių preparatų lygiagretų importą.",
+            "Farmacinė veikla - tik fizinių asmenų vykdoma sveikatinimo veikla, apimanti reklamos apie vaistinius preparatus teikimą žiniasklaidoje."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 4,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 5,
+        "question": "Kuris iš teiginių pilnai charakterizuoja farmacines atliekas?",
+        "choices": [
+            "Vaistai, kurie ilgiau nei metus neparduoti iš vaistinės.",
+            "Konfiskuoti arba surinkti iš gyventojų vaistai.",
+            "Naikintini vaistiniai preparatai (nekokybiški, pasibaigusio tinkamumo laiko, konfiskuoti, surinkti iš gyventojų vaistiniai preparatai ar jų falsifikatai, tiriamųjų vaistinių preparatų likučiai) ir vaistinių preparatų tyrimams panaudotos ar netinkamos kokybės, pasibaigusio tinkamumo laiko cheminės medžiagos, kurios buvo įsigytos tokiems tyrimams atlikti.",
+            "Naikintini vaistiniai preparatai (nekokybiški, pasibaigusio tinkamumo laiko, konfiskuoti, surinkti iš gyventojų, falsifikuoti)."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 5,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 6,
+        "question": "Kas tai yra vaistinė?",
+        "choices": [
+            "Juridinis asmuo ar juridinių asmenų padalinys, turintis teisę verstis vaistų ir vaistinių medžiagų įsigijimu, laikymu, vaistų ruošimu, vaistų bei vaistinių medžiagų kokybės kontrole, pardavimu (išdavimu) galutiniam vartotojui.",
+            "Vaistų gamybos ir prekybos jais įmonė, turinti teisę aprūpinti vaistais ir sveikatos priežiūros įstaigas.",
+            "Juridinis asmuo, turintis teisę užsiimti vaistų gamyba, vaistų prekyba ir jų didmeniniu platinimu.",
+            "Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, užsienio valstybės juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje, konkrečioje veiklos vietoje vykdantis farmacinę veiklą, apimančią vaistinių preparatų įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų teikimą ir (ar) ekstemporaliųjų vaistinių preparatų gamybą, jų kokybės kontrolę, farmacinę rūpybą."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 6,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 7,
+        "question": "Kuri iš nurodytų institucijų kontroliuoja farmacinę veiklą LR?",
+        "choices": [
+            "LR SAM Farmacijos departamentas.",
+            "LR Finansų ministerija.",
+            "Valstybinė vaistų kontrolės tarnyba.",
+            "ES Farmacijos įmonių asociacija.",
+            "Valstybės įmonė „Farmacijos rūmai“."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 7,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 8,
+        "question": "Kada vaistininkas gali eiti vaistininko pareigas ar vykdyti farmacinės veiklos vadovo pareigas vaistinėje?",
+        "choices": [
+            "Turėdamas universiteto baigimo diplomą.",
+            "Turėdamas ne mažesnį kaip 2 metų darbo stažą.",
+            "Tik turėdamas vaistininko praktikos licenciją.",
+            "Turėdamas ne mažesnę kaip 2 metų darbo patirtį farmacine veikla užsiimančiose įmonėse."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 8,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 9,
+        "question": "Kuriam laikotarpiui išduodama farmacinės veiklos licencija juridiniam asmeniui?",
+        "choices": [
+            "5 metams.",
+            "10 metų.",
+            "Individualiam laikui, kurį nustato sveikatos apsaugos ministras.",
+            "Neterminuotai."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 9,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 10,
+        "question": "Kurią pareigą privalo vykdyti didmeninio platinimo licencijos turėtojas?",
+        "choices": [
+            "Platinti tik tokius vaistinius preparatus ar jų grupes, kurie laikomi patalpose, atitinkančiose licencijoje ir jos dokumentuose nurodytas laikymo sąlygas.",
+            "Tiekti Lietuvos Respublikos rinkai visus vaistinius preparatus.",
+            "Tiekti vaistinius preparatus tik asmenims, kurie turi vaistų gamybos ir (ar) asmens sveikatos priežiūros veiklos licencijas.",
+            "Tvarkyti vaistinių preparatų pardavimo dokumentus, registruoti vaistinių preparatų ir išsiuntimo operacijas, nurodant tik šią informaciją: vaistinio preparato pavadinimą, parduoto vaistinio preparato kiekį, gavėjo pavadinimą."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 10,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 11,
+        "question": "Kas gali įvežti iš kitos EEE valstybės neregistruotus vaistinius preparatus ar importuoti iš trečiosios šalies vardinius vaistinius preparatus į Lietuvos Respubliką?",
+        "choices": [
+            "Gali tik juridiniai asmenys, gavę gamybos licenciją.",
+            "Gali tik juridiniai asmenys, gavę vaistinės veiklos licenciją.",
+            "Gali tik juridiniai asmenys ,gavę gamybinės vaistinės veiklos licenciją.",
+            "Gali tik juridiniai asmenys, gavę didmeninio platinimo licenciją."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 11,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 12,
+        "question": "Kas konkrečioje EEE valstybėje registruoja vaistinį preparatą?",
+        "choices": [
+            "Europos Komisija.",
+            "Europos Vaistų Agentūra.",
+            "Tos valstybės įgaliota institucija.",
+            "Nereglamentuojama."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 12,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 13,
+        "question": "Kas iš karto registruoja vaistinį preparatą visose Europos Sąjungos valstybėse?",
+        "choices": [
+            "Europos Komisija.",
+            "Europos Agentūra.",
+            "Įgaliotos valstybės institucija.",
+            "Kas metai vis kita ES valstybės įgaliota institucija."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 13,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 14,
+        "question": "Kas Lietuvos Respublikoje registruoja vaistinius preparatus ir juos klasifikuoja į receptinius ir nereceptinius?",
+        "choices": [
+            "Europos Vaistų Agentūra.",
+            "Valstybinė vaistų kontrolės tarnyba.",
+            "Vaistinio preparato gamintojas.",
+            "Vaistinio preparato registruotojas."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 14,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 15,
+        "question": "Kas yra vaistinio preparato lygiagretus importas?",
+        "choices": [
+            "Valstybinės vaistų kontrolės tarnybos išduodamas dokumentas, kuriuo suteikiama teisė lygiagrečiai importuoti vaistinį preparatą.",
+            "Kitoje EEE valstybėje registruoto vaistinio preparato, kuris yra tapatus Lietuvos Respublikoje jau registruotam vaistiniam preparatui ar pakankamai į jį panašus, įvežimas į Lietuvos Respubliką nesinaudojant vaistinio preparato registruotojo platinimo tinklu.",
+            "Į Bendrijos vaistinių preparatų registrą įrašyto vaistinio preparato didmeninis platinimas, kai jis įvežamas į Lietuvos Respubliką nesinaudojant vaistinio preparato registruotojo platinimo tinklu.",
+            "Kitoje trečiųjų šalių valstybėje registruoto vaistinio preparato, kuris yra tapatus Lietuvos Respublikoje jau registruotam vaistiniam preparatui ar pakankamai į jį panašus, įvežimas į Lietuvos Respubliką nesinaudojant vaistinio preparato registruotojo platinimo tinklu."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 15,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 16,
+        "question": "Kas yra farmakologinio budrumo sistema?",
+        "choices": [
+            "Vaistinio preparato registruotojo ir EEE valstybės naudojama sistema, skirta su farmakologiniu budrumu susijusiems uždaviniams spręsti ir pareigoms vykdyti, registruotų vaistinių preparatų saugumui stebėti bei jų naudos ir rizikos santykio pokyčiams nustatyti.",
+            "Juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti vaistinių preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų šalių, kokybės kontrolę.",
+            "Farmacinės informacijos apie vaistinius preparatus teikimas.",
+            "Bet koks su žmonėmis atliekamas biomedicininis tyrimas, skirtas nustatyti, patikrinti ir patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį, farmakologinį ir (ar) kitokį farmakodinaminį poveikį ir (ar) nustatyti nepageidaujamas reakcijas į vieną ar kelis  tiriamuosius vaistinius preparatus, ir (ar) ištirti vieno ar kelių tiriamųjų preparatų rezorbciją, pasiskirstymą, metabolizmą ir išskyrimą, siekiant nustatyti tiriamojo vaistinio preparato saugumą ir (ar) veiksmingumą."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 16,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 17,
+        "question": "Sveikatos priežiūros ir farmacijos specialistai, pastebėję įtariamą nepageidaujamą reakciją ir (ar) gavę informacijos apie tai, kam turi pranešti?",
+        "choices": [
+            "Sveikatos apsaugos ministerijai, naudodami nustatytą pranešimo apie įtariamas nepageidaujamas reakcijas formą.",
+            "Valstybinei vaistų kontrolės tarnybai, naudodami nustatytą pranešimo apie įtariamas nepageidaujamas reakcijas formą.",
+            "Farmacijos departamentui, naudodami nustatytą pranešimo apie įtariamas nepageidaujamas reakcijas formą.",
+            "Vaistinio preparato registruotojui, naudodami nustatytą pranešimo apie įtariamas nepageidaujamas reakcijas formą."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 17,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 18,
+        "question": "Kas turi teisę įpareigoti vaistinio preparato registruotoją turėti veikiančią konkretaus vaistinio preparato rizikos valdymo sistemą, jeigu yra abejonių dėl rizikos, kuri gali turėti įtakos registruoto vaistinio preparato naudos ir rizikos santykiui?",
+        "choices": [
+            "Europos vaistų agentūra.",
+            "Sveikatos apsaugos ministerija.",
+            "Valstybinė vaistų kontrolės tarnyba.",
+            "Farmacijos departamentas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 18,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 19,
+        "question": "Kam vaistinio preparato registruotojas turi rengti ir elektroninių ryšių priemonėmis pateikti periodiškai atnaujinamus saugumo protokolus?",
+        "choices": [
+            "Europos vaistų agentūrai.",
+            "Sveikatos apsaugos ministerijai.",
+            "Valstybinei vaistų kontrolės tarnybai.",
+            "Farmacijos departamentui."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 19,
+        "random_picture_from": null,
+        "comment": "Dokumente nuspalvinta <<Valstybinei vaistų kontrolės tarnybai.>>, bet neteisingai nuspalvinta.\n\n55 straipsnis.\nPeriodiškai atnaujinamų saugumo protokolų rengimas ir teikimas\nVaistinio preparato registruotojas turi rengti ir elektroninių ryšių priemonėmis Europos vaistų agentūrai pateikti periodiškai atnaujinamus saugumo protokolus."
+    },
+    {
+        "number": 20,
+        "question": "Kur turi gyventi ir veikti kvalifikuotas asmuo, atsakingas už farmakologinį budrumą?",
+        "choices": [
+            "ES valstybėje.",
+            "Kur yra vaistinio preparato registracijos turėtojas.",
+            "EEE valstybėje.",
+            "Kur tik nori."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 20,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 21,
+        "question": "Koks yra nustatytas minimalus kaimo gyvenamojoje vietovėje esančios visuomenės vaistinės oficinos plotas?",
+        "choices": [
+            "Ne mažesnis kaip 10 m2.",
+            "Ne mažesnis kaip 15 m2.",
+            "Ne mažesnis kaip 20 m2.",
+            "25 m2.",
+            "Minimalus oficinos plotas nereglamentuojamas."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 21,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 22,
+        "question": "Kas turi būti suteikiama parduodant (išduodant) gyventojams vaistinius preparatus visuomenės vaistinėje?",
+        "choices": [
+            "Farmacinė paslauga.",
+            "Gera vaistinės praktika.",
+            "Teisė pacientui pakeisti vienus vaistus kitais vaistiniais preparatais.",
+            "Geros pardavimo praktikos paslauga."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 22,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 23,
+        "question": "Kuris reikalavimas netaikomas vaistinės oficinai?",
+        "choices": [
+            "Oficina privalo turėti natūralų apšvietimą.",
+            "Oficina, įrengta visuomeninės paskirties pastate, turi turėti atskirą įėjimą.",
+            "Oficina turi būti prieinama neįgaliems žmonėms.",
+            "Oficinoje turi būti vieta atsisėsti.",
+            "Visi reikalavimai taikomi."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 23,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 24,
+        "question": "Kuris teiginys apie stendą su Lietuvos Respublikos vaistinės emblema yra teisingas?",
+        "choices": [
+            "Turi būti įrengtas prie vaistinės lauko įėjimo į oficiną, o jei vaistinė įrengta pastate, kuriame įsikūrę keletas asmenų, prie artimiausio lauko įėjimo į pastatą, kuriame yra vaistinė.",
+            "Plokščio stendo išmatavimai nereglamentuojami.",
+            "Sustabdžius vaistinės veiklos licenciją stendas turi būti nenukabintas 3 mėnesius.",
+            "Fono spalva raudona, figūrų spalva žalia.",
+            "Stendo su vaistinės emblema įrengimui nurodyti reikalavimai yra tik rekomendacinio pobūdžio."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 24,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 25,
+        "question": "Kiek galioja sveikatos priežiūros specialistų išrašyti narkotinių vaistinių preparatų receptai?",
+        "choices": [
+            "Iki 10 dienų, įskaitant recepto įsigaliojimo dieną.",
+            "Iki 30 dienų.",
+            "Iki 5 dienų, įskaitant recepto įsigaliojimo dieną.",
+            "Iki 7 dienų, įskaitant recepto įsigaliojimo dieną."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 25,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 26,
+        "question": "Kiek galioja sveikatos priežiūros specialistų išrašyti receptai su žyma „Ilgalaikiam gydymui“?",
+        "choices": [
+            "Iki 30 dienų.",
+            "Iki 180 dienų, įskaitant recepto įsigaliojimo dieną.",
+            "Iki 90 dienų.",
+            "Iki 360 dienų, įskaitant recepto įsigaliojimo dieną."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 26,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 27,
+        "question": "Kiek galioja Sveikatos priežiūros specialistų išrašyti popieriniai receptai su žyma „Gydymui tęsti“?",
+        "choices": [
+            "Iki 30 dienų.",
+            "Iki 180 dienų, įskaitant recepto įsigaliojimo dieną.",
+            "Iki 90 dienų.",
+            "Iki 360 dienų, įskaitant recepto įsigaliojimo dieną."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 27,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 28,
+        "question": "Kiek galima pacientams išrašyti etanolio pagal vieną receptą - kaip ekstemporaliojo vaistinio preparato sudedamosios dalies, nepriklausomai nuo jo koncentracijos?",
+        "choices": [
+            "100 ml.",
+            "150 ml.",
+            "200 ml.",
+            "Nereglamentuojama."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 28,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 29,
+        "question": "Kuriuos popierinių receptų blankus sveikatos priežiūros specialistai turi užpildyti išrašydami kompensuojamuosius narkotinius vaistinius preparatus?",
+        "choices": [
+            "Popierinius 2 formos specialųjį recepto blanką ir 3 formos ar 3 formos (išimties atvejams) receptų blankus.",
+            "Tik popierinį 3 formos recepto blanką.",
+            "Popierinius 1 formos su specialia žyma ir 3 formos receptų blankus.",
+            "Tik popierinį 3 formos (išimties atvejams) recepto blanką."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 29,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 30,
+        "question": "Kokį didžiausią benzodiazepinų kiekį leidžiama išrašyti vienam pacientui vienu kartu?",
+        "choices": [
+            "10 tablečių.",
+            "20 tablečių.",
+            "60 tablečių",
+            "Parduodamas kiekis neribojamas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 30,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 31,
+        "question": "Kur gali būti parduodami kompensuojamieji vaistiniai preparatai ir kompensuojamosios MPP pagal popierinį 3 formos receptą?",
+        "choices": [
+            "Visoje LR teritorijoje.",
+            "Tik TLK aptarnaujamoje teritorijoje, kurioje yra ASPĮ, išrašiusi šį receptą.",
+            "Tik TLK aptarnaujamoje teritorijoje, kurioje yra ASPĮ, prie kurios yra prisirašęs apdraustasis.",
+            "Kompensuojamųjų vaistinių preparatų pase nurodytose vaistinėse."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 31,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 32,
+        "question": "Kiek vaistinėje saugomi popieriniai receptai, išrašyti 1 formos recepto blankuose, ar kitų valstybių receptai, pagal kuriuos išduoti antiinfekciniai vaistiniai preparatai, sisteminiam vartojimui grupuojami J grupėje pagal ATC indekso pirmąjį kodo lygį?",
+        "choices": [
+            "1 metus.",
+            "3 metus.",
+            "3 mėnesius.",
+            "1 mėnesį."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 32,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 33,
+        "question": "Kiek vaistinėje saugomi popieriniai receptai, išrašyti 1 formos recepto blankuose pagal kuriuos išduoti vaistiniai preparatai, įrašyti į sveikatos apsaugos ministro patvirtintą Vaistų ir vaistinių medžiagų, kiekybiškai apskaitomų farmacijos įmonėse, įstaigose ir ASPĮ, sąrašą?",
+        "choices": [
+            "3 metus.",
+            "1 metus.",
+            "3 mėnesius.",
+            "1 mėnesį."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 33,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 34,
+        "question": "Kas daroma pasibaigus popierinių receptų saugojimo terminui?",
+        "choices": [
+            "Pasibaigus saugojimo terminui, popieriniai receptai sunaikinami vadovaujantis sveikatos apsaugos ministro patvirtintu Receptų sunaikinimo tvarkos aprašu.",
+            "Atiduodami į antrinių žaliavų supirkimo punktus.",
+            "Išmetami į šiukšlių konteinerius.",
+            "Atiduodami VVKT kartu su sunaikinimo aktu."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 34,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 35,
+        "question": "Kur gali būti teikiamos sveikatos apsaugos ministro nustatyta tvarka farmacinės rūpybos paslaugos?",
+        "choices": [
+            "Gali būti teikiamos visuomenės vaistinėse, atitinkančiose sveikatos apsaugos ministro nustatytus reikalavimus.",
+            "Vaistų prekybos vietose, gavusiose atitinkamą pažymą.",
+            "Gali būti teikiamos visuomenės vaistinėse, atitinkančiose VVKT prie SAM nustatytos formos reikalavimus.",
+            "Visose vaistinėse."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 35,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 36,
+        "question": "Kuriuos iš nurodytų dokumentų vaistininkas, norintis pratęsti vaistininko praktikai licencijos galiojimą, privalo pateikti Valstybinei vaistų kontrolės tarnybai?",
+        "choices": [
+            "Įmonės registravimo pažymėjimo kopiją.",
+            "Įmonės licencijos farmacinei veiklai kopiją.",
+            "Diplomo kopiją.",
+            "Dokumentus apie 240 val. trukmės kvalifikacijos kėlimą per paskutinius 5 metus.",
+            "Apie profesinės kvalifikacijos kėlimą ir vaistininko praktiką, jeigu vaistininkas vykdo farmacijos praktiką įmonėje, vykdančioje farmacinę veiklą."
+        ],
+        "answers_num": [
+            5
+        ],
+        "option_type": "AB",
+        "original_num": 36,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 37,
+        "question": "Kaip turi būti pažymėta vaistinės oficinoje esanti savitarnos vieta, kurioje laikomi nereceptiniai vaistiniai preparatai?",
+        "choices": [
+            "Atskirta nuo kitų oficinos vietų, pritaikant įvairias pertvaras.",
+            "Pažymėta bendru pavadinimu „Nereceptiniai vaistiniai preparatai“.",
+            "Įrengta atskiroje patalpoje, kuri žymima užrašu „Nereceptinių vaistų išdavimas“.",
+            "Pažymėta bendru pavadinimu „Nereceptiniai vaistiniai preparatai“ ir nurodyta ši informacija: „Vienu kartu nereceptinių vaistinių preparatų parduodama ne ilgesniam kaip vieno mėnesio gydymo kursui“."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 37,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 38,
+        "question": "Kada gali būti pakeista pramoniniu būdu arba pramoninį gamybos procesą apimančiu metodu pagamintų vaistinių preparatų pakuotė?",
+        "choices": [
+            "Jeigu recepte išrašyto vaistinio preparato dozuočių kiekis atitinka gamintojo pakuotę.",
+            "Darant dažniausiai gyventojo ar sveikatos priežiūros įstaigos prašomų dozuočių kiekio pakuotės paruošas.",
+            "Nustačius neatitikimą paciento prašomai vaistinio preparato pakuotei.",
+            "Įvertinus visus farmakologinius vaistinio preparato veikimo aspektus ir tinkamumą konkrečiam pacientui."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 38,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 39,
+        "question": "Kaip apibūdinamos narkotinės ir psichotropinės medžiagos:",
+        "choices": [
+            "Į oficialų sąrašą įtraukta medžiagos, kaip nurodyta Reglamento (EB) Nr. 273/2004 2 straipsnio a punkte ir Reglamento (EB) Nr. 111/2005 2 straipsnio a punkte.",
+            "Cheminės medžiagos, šių medžiagų druskos ar jų mišiniai, dažnai naudojami neteisėtai ir dėl to kontroliuojami pagal Jungtinių Tautų 1988 metų konvenciją ir įrašyti į SAM patvirtintą pirmtakų (prekursorių) sąrašą.",
+            "Į Sveikatos apsaugos ministerijos patvirtintus kontroliuojamų medžiagų sąrašus įrašytos gamtinės ar sintetinės medžiagos, kurios dėl kenksmingo poveikio ar piktnaudžiavimo jomis sukelia sunkų žmogaus sveikatos sutrikimą, pasireiškiantį asmens psichine ir fizine priklausomybe nuo jų, ar pavojų žmogaus sveikatai.",
+            "Narkotinės ir psichotropinės vaistinės medžiagos, kurios dar nėra paruoštos galutiniam vartojimui ir yra įrašytos į SAM patvirtintą pirmtakų (prekursorių) sąrašą.",
+            "Cheminės ir gamtinės medžiagos, iš kurių įmanoma susintetinti narkotines ir psichotropines medžiagas."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 39,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 40,
+        "question": "Kuriuos augalus draudžiama auginti Lietuvos Respublikos teritorijoje?",
+        "choices": [
+            "Visų rūšių aguonas.",
+            "Opijines aguonas ir kokamedžius.",
+            "Pluoštines kanapes.",
+            "Ežiuoles."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 40,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 41,
+        "question": "Išorinė vaistinio preparato pakuotė: pakuotė, į kurią įdėta vidinė pakuotė.",
+        "choices": [
+            "Pakuotė, į kurią įdėta vidinė pakuotė.",
+            "Specialioje ataskaitos lentelėje pateikti duomenys apie vaisto panaudojimą.",
+            "Pakuotė, besiliečianti su vaistu.",
+            "Pakuotė su minimalia informacija vartotojui."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 41,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 42,
+        "question": "Kas tai yra kompensuojamieji vaistiniai preparatai?",
+        "choices": [
+            "Vaistiniai preparatai, kurie įrašyti į Kompensuojamųjų vaistinių preparatų kainyną ir kurių įsigijimo išlaidos ar jų dalis privalomuoju visiems asmenims yra kompensuojama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų.",
+            "Mažą kainą turintys vaistiniai preparatai.",
+            "Visi vaistiniai preparatai, kurių įsigijimo išlaidas kompensuoja LR biudžetas.",
+            "Vaistiniai preparatai, kurie įrašyti į Kompensuojamųjų vaistinių preparatų kainyną ir kurių įsigijimo išlaidos ar jų dalis privalomuoju sveikatos draudimu apdraustiems asmenims yra kompensuojama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 42,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 43,
+        "question": "Kaip apibūdinamas vaistinio preparato pakuotės lapelis?",
+        "choices": [
+            "Informacija vartotojui..",
+            "Interneto tinklalapiuose skelbiama informacija apie vaistinį preparatą.",
+            "Vartotojui informuoti skirtas lapelis, pateikiamas kartu su vaistiniu preparatu.",
+            "Preparato informacija, nurodyta jo charakteristikų santraukoje."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 43,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 44,
+        "question": "Farmacijos specialisto profesinė kompetencija vertinama:",
+        "choices": [
+            "Įmonės farmacinės veiklos vadovo prašymu.",
+            "Kai farmacijos specialistas, neturintis vaistininko praktikos licencijos ar neįrašytas į Vaistininko padėjėjų (farmakotechnikų) sąrašą, sveikatos apsaugos ministro nustatyta tvarka ir terminais nesivertė vaistininko ar vaistininko padėjėjo (farmakotechniko) praktika.",
+            "Kai farmacijos specialistas, turintis vaistininko praktikos licenciją SA ministro nustatyta tvarka ir terminais vertėsi vaistininko praktika.",
+            "Įmonės vadovo prašymu po įsiteisėjusio teismo sprendimu."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 44,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 45,
+        "question": "Farmacijos specialisto profesinė kompetencija vertinama:",
+        "choices": [
+            "Įmonės farmacinės veiklos vadovo prašymu.",
+            "Kai farmacijos specialisto, turinčio vaistininko praktikos licenciją ar įrašyto į Vaistininko padėjėjų (farmakotechnikų) sąrašą, darbo stažas verčiantis vaistininko ar vaistininko padėjėjo (farmakotechniko) praktika yra trumpesnis kaip 3 metai per paskutinius 5 metus arba trumpesnis kaip 2 paskutiniai metai nepertraukiamojo darbo stažo verčiantis vaistininko ar vaistininko padėjėjo (farmakotechniko) praktika.",
+            "Kai farmacijos specialistas, turintis vaistininko praktikos licenciją SA ministro nustatyta tvarka ir terminais vertėsi vaistininko praktika.",
+            "Įmonės vadovo prašymu po įsiteisėjusio teismo sprendimu."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 45,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 46,
+        "question": "Kas sudaro didžiausią dalį išlaidų sveikatai?",
+        "choices": [
+            "Išlaidos vaistams;",
+            "Ligoninių išlaidos;",
+            "Odontologinės išlaidos;",
+            "Kita."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 46,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 47,
+        "question": "Kam skiriama didžiausia valstybės biudžeto dalis",
+        "choices": [
+            "Socialinėms išmokoms.",
+            "Švietimui",
+            "Sveikatai",
+            "Gynybai",
+            "Kita."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 47,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 48,
+        "question": "Remiantis OECD duomenimis, Lietuvos gyventojai vaistams išleidžia",
+        "choices": [
+            "Iki 100 JAV dolerių per metus",
+            "nuo 100 iki 500 JAV dolerių per metus",
+            "nuo 501 iki 1000 JAV dolerių per metus",
+            "daugiau kaip 1000 JAV dolerių"
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 48,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 49,
+        "question": "Pažymėkite, kuri mirties priežastis nėra tarp 5ių jų pagrindinių mirties priežasčių Lietuvoje",
+        "choices": [
+            "širdies ir kraujagyslių ligos;",
+            "vėžiniai susirgimai;",
+            "savižudybės;",
+            "kvėpavimo takų ligos."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 49,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 50,
+        "question": "Kurioje pasaulio šalyje yra išleidžiama daugiausia pinigų vaistams?",
+        "choices": [
+            "Kinijoje;",
+            "Indijoje;",
+            "Japonijoje",
+            "Jungtinėse Amerikos Valstijose",
+            "Rusijos Federacijoje."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 50,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 51,
+        "question": "Asmens sveikatos priežiūros įstaigos registruotus vaistinius preparatus gali įsigyti iš?",
+        "choices": [
+            "Kitų sveikatos priežiūros įstaigų;",
+            "Tik iš vaistinių;",
+            "Tik iš vaistų platinimo įmonių;",
+            "Iuridinių asmenų, turinčių Farmacijos įstatymo nustatyta tvarka išduotą didmeninio platinimo ar gamybos licenciją."
+        ],
+        "answers_num": [
+            4
+        ],
+        "option_type": "AB",
+        "original_num": 51,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 52,
+        "question": "Receptiniams vaistiniams preparatams priskiriami tie, kurie atitinka nors vieną iš šių kriterijų:",
+        "choices": [
+            "Jų sudėtyje yra medžiagų ar jų darinių, kurių veikimą ir (ar) nepageidaujamas reakcijas reikia tirti toliau;",
+            "Skirti ambulatoriniam gydymui;",
+            "Skirti gydyti ligoms, kurios turi būti diagnozuojamos ligoninėje;",
+            "Paprastai skiriami  vartoti per os."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 52,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 53,
+        "question": "Vaistinės savo veiklą vykdo pagal - .",
+        "choices": [
+            "Sveikatos apsaugos ministro patvirtintus geros vaistinių praktikos nuostatus;",
+            "Sveikatos apsaugos ministro patvirtintus geros vaistų platinimo praktikos nuostatus;",
+            "Sveikatos apsaugos ministro patvirtintus geros vaistų gamybos praktikos nuostatus;",
+            "Sveikatos apsaugos ministro patvirtintus geros vaistų aptarnavimo praktikos nuostatus."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 53,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 54,
+        "question": "Vaistinės patalpose darbo laiku turi dirbti bent vienas vaistininkas, išskyrus miestus, turinčius mažiau:",
+        "choices": [
+            "Kaip 3 tūkst. gyventojų;",
+            "Kaip 5 tūkst. gyventojų;",
+            "Kaip 10 tūkst. gyventojų."
+        ],
+        "answers_num": [
+            1
+        ],
+        "option_type": "AB",
+        "original_num": 54,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 55,
+        "question": "Vaistinėje 3 metus saugomi šie popieriniai receptai:",
+        "choices": [
+            "1 formos, pagal kuriuos parduoti narkotiniai vaistiniai preparatai;",
+            "1 formos, pagal kuriuos parduoti analgetiniai vaistiniai preparatai;",
+            "2 formos, pagal kuriuos parduoti narkotiniai vaistiniai preparatai;",
+            "2 formos, pagal kuriuos parduoti psichotropiniai vaistiniai preparatai."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 55,
+        "random_picture_from": null,
+        "comment": null
+    },
+    {
+        "number": 56,
+        "question": "Vaistinėje 1 metus saugomi šie popieriniai receptai:",
+        "choices": [
+            "1 formos, pagal kuriuos parduoti narkotiniai vaistiniai preparatai;",
+            "1 formos, pagal kuriuos parduoti vaistiniai preparatai, kurių veikliosios medžiagos bendrinis pavadinimas yra semagliutidas;",
+            "2 formos, pagal kuriuos parduoti narkotiniai vaistiniai preparatai;",
+            "2 formos, pagal kuriuos parduoti psichotropiniai vaistiniai preparatai."
+        ],
+        "answers_num": [
+            2
+        ],
+        "option_type": "AB",
+        "original_num": 56,
+        "random_picture_from": null,
+        "comment": null
+    }
+]
