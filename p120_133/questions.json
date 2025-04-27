@@ -1087,7 +1087,7 @@
         ],
         "option_type": "AB",
         "original_num": 64,
-        "random_picture_from": null,
+        "random_picture_from": ["64.png"],
         "comment": null
     },
     {

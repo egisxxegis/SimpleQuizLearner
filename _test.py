@@ -700,15 +700,48 @@ def _do_test():
     tasks: list[_types.TaskV2] = []
     for pack in tasks_packed:
         tasks.extend(pack)
-    for task in tasks:
-        if task.random_picture_from is not None:
-            for picture_path in task.random_picture_from:
-                if not os.path.exists(picture_path):
-                    raise FileNotFoundError(f"Image not found: {picture_path}")
-                if str(task.original_num) not in picture_path:
-                    raise ValueError(
-                        f"Image {picture_path} does not match task number {task.original_num}."
-                    )
+    pictured_tasks = [task for task in tasks if task.random_picture_from is not None]
+
+    # check ref: task --> image
+    for task in pictured_tasks:
+        for picture_path in task.random_picture_from:
+            if not os.path.exists(picture_path):
+                raise FileNotFoundError(f"Image not found: {picture_path}")
+            if str(task.original_num) not in picture_path:
+                raise ValueError(
+                    f"Image {picture_path} does not match task number {task.original_num}."
+                )
+
+    # check ref: image --> task
+    folders = FileHandler.get_all_valid_folders()
+    for folder in folders:
+        pictures: list[tuple[str, str]] = []
+        for file in os.scandir(folder):
+            if file.is_file() and file.name.lower().split(".")[-1] in [
+                "jpg",
+                "png",
+                "gif",
+                "jpeg",
+                "webp",
+                "bmp",
+            ]:
+                pictures.append((file.name, file.path))
+        tasks = _quizerv2.get_tasks_v2(
+            full_file_path=os.path.join(folder, "questions.json"), its_folder=folder
+        )
+        pictured_tasks = [
+            task for task in tasks if task.random_picture_from is not None
+        ]
+        for picture_name, picture_path in pictures:
+            found = False
+            for task in pictured_tasks:
+                if picture_path in task.random_picture_from:
+                    found = True
+                    break
+            if not found:
+                raise ValueError(
+                    f"Image {picture_name} does not match any task in folder {folder}."
+                )
 
     print("All tests passed.")
 
