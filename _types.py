@@ -12,13 +12,13 @@ class TypeAnswerConverter:
 
 
 class TaskV2(pydantic.BaseModel):
-    number: int
+    number: int | str
     question: str
     choices: list[str]
     answers_num: list[int]
     option_type: Literal["AB", "MULTI"]
     original_num: int
-    random_picture_from: str | None = None
+    random_picture_from: list[str] | None = None
     comment: str | None = None
 
     def get_answers(self) -> list[str]:
@@ -62,3 +62,8 @@ class SimpleChem(pydantic.BaseModel):
     chem: str
     chem_in_raw: str
     "raw + chem"
+
+
+class Scores(pydantic.BaseModel):
+    right: int
+    total: int

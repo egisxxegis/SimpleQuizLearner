@@ -12,7 +12,7 @@ def create_if_not_exists(the_source):
 def get_content(the_source, the_limiter, its_folder=""):
     the_file = open(the_source["full_file_path"], "r", encoding="utf-8")
     the_raw_content = the_file.read()
-    the_content = []
+    the_content: list[Task] = []
     the_i = -1
     the_x = 0
     the_task = Task()

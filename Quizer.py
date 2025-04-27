@@ -1,6 +1,10 @@
-from FileHandler import get_content, get_all_valid_folders, fix_format_multianswer
+from FileHandler import get_content, get_all_valid_folders
 from os import path
 from random import shuffle
+from typing import Literal
+import _quizerv2 as qv2
+import _types
+from _quizutils import get_correct_indexes, is_answer_correct
 
 from Task import Task
 
@@ -11,50 +15,56 @@ if the_pil:
 
 def get_all_content():
     all_folders = get_all_valid_folders()
-    all_content = []
+    all_content: list[Task] | list[_types.TaskV2] = []
+    filename = "questions.txt"
+    filename_json = "questions.json"
+    mode: None | Literal["json", "txt"] = None
+
+    def sustain_mode(value: str, full_path: str):
+        nonlocal mode
+        if mode is None:
+            mode = value
+            return
+        if mode != value:
+            raise ValueError(
+                "Do not mix json and txt files."
+                + f" Found {value} in {full_path} even though we are in {mode} mode."
+            )
+
     for folder in all_folders:
-        the_path = path.join(folder, "questions.txt")
-        source = {"full_file_path": the_path}
-        the_content = get_content(source, "%!%", folder)
-        all_content += the_content
+        the_path = path.join(folder, filename)
+        if path.exists(the_path):
+            sustain_mode("txt", folder)
+        the_path2 = path.join(folder, filename_json)
+        if path.exists(the_path2):
+            sustain_mode("json", folder)
+            the_path = the_path2
+        if not path.exists(the_path):
+            raise NameError(
+                f"Found empty folder: {folder}. Please add questions to folder or delete the folder."
+            )
+
+        if mode == "txt":
+            source = {"full_file_path": the_path}
+            the_content = get_content(source, "%!%", folder)
+            all_content += the_content
+        elif mode == "json":
+            all_content += qv2.get_tasks_v2(full_file_path=the_path, its_folder=folder)
+        else:
+            raise NotImplementedError(f"Unknown mode: {mode}.")
 
     return all_content
 
 
-def get_correct_indexes(the_answer_indexes: list[int], real_answers_i: str):
-    real_answers_i = (
-        real_answers_i if isinstance(real_answers_i, str) else str(real_answers_i)
-    )
-    multi_explode = [int(x) for x in real_answers_i.split(",") if x.isnumeric()]
-    correct_indexes = []
-    for iii in range(0, len(the_answer_indexes)):
-        if the_answer_indexes[iii] + 1 in multi_explode:  # dp not +1 for old versions
-            correct_indexes.append(iii + 1)
-    return correct_indexes
-
-
-def is_answer_correct(the_input: str, the_correct_indexes: list[int]):
-    the_input = fix_format_multianswer(the_input)
-    the_chosens = [int(x) for x in the_input.split(",") if x.isnumeric()]
-    the_right_ones = [int(x) for x in the_correct_indexes]
-    the_chosen = the_chosens if len(the_chosens) > 0 else [0]
-    the_right_ones = the_right_ones if len(the_chosen) > 0 else [0]
-    the_right_ones.sort()
-    the_chosens.sort()
-    return the_right_ones == the_chosens
-
-
-if __name__ == "__main__":
-    content: list[Task] = get_all_content()
-
+def main(content: list[Task], scores: _types.Scores):
     i_range = [x for x in range(0, len(content))]
     shuffle(i_range)
-    right = 0
-    total = 0
     for i in i_range:
         task = content[i]
         print("\n------------------------------------------------------------------")
-        print(f"({i+1}/{len(content)}; your score: {right}/{total}) {task.question}")
+        print(
+            f"({i+1}/{len(content)}; your score: {scores.right}/{scores.total}) {task.question}"
+        )
         print(f"\n")
         answer_indexes = [x for x in range(0, len(task.answers))]
         shuffle(answer_indexes)
@@ -75,20 +85,31 @@ if __name__ == "__main__":
         # continue here
         if is_answer_correct(user_guess, correct_index):
             print("------Correct")
-            right += 1
+            scores.right += 1
         else:
             print(
                 f"------Incorrect. Right answer{'s were' if task.is_answer_multi else ' was'} "
                 f"{', '.join([str(x) for x in correct_index])}."
             )
             print(task.comment)
-        total += 1
+        scores.total += 1
 
         input("\n-------Enter to continue\n")
+
+
+if __name__ == "__main__":
+    content = get_all_content()
+    scores = _types.Scores(right=0, total=0)
+    if len(content) == 0 or isinstance(content[-1], Task):
+        main(content, scores)
+    else:
+        qv2.main(content, scores)
     print("\n\n\n")
     print("--**--**-- Results --**--**--")
-    print(f"--**-- Total questions: {total}")
-    print(f"--**-- Right answers:   {right}")
-    print(f"--**-- Magic score:     {right}/{total} = {right / total * 100 : .2f}%")
+    print(f"--**-- Total questions: {scores.total}")
+    print(f"--**-- Right answers:   {scores.right}")
+    print(
+        f"--**-- Magic score:     {scores.right}/{scores.total} = {scores.right / (scores.total or 1) * 100 : .2f}%"
+    )
     print("\n\n")
     input("\n--**--**-- Enter to exit\n")

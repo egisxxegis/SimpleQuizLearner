@@ -90,7 +90,7 @@
         ],
         "option_type": "MULTI",
         "original_num": 5,
-        "random_picture_from": "5.png",
+        "random_picture_from": ["5.png"],
         "comment": null
     }
 ]
