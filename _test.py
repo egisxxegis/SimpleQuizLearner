@@ -2,6 +2,9 @@ import _test_data
 import _creatorv2
 import _types
 import _chem
+import _quizerv2
+import FileHandler
+import os
 
 
 def test(val1, val2):
@@ -687,6 +690,25 @@ def _do_test():
     )
     chems = _chem.get_chems_full(chems)
     test([x.chem for x in chems], ["NH₄⁺", "Hg²⁺", "H₂C₂O₄", "2H₂O", "PO₄³⁻"])
+
+    tasks_packed = [
+        _quizerv2.get_tasks_v2(
+            full_file_path=os.path.join(folder, "questions.json"), its_folder=folder
+        )
+        for folder in FileHandler.get_all_valid_folders()
+    ]
+    tasks: list[_types.TaskV2] = []
+    for pack in tasks_packed:
+        tasks.extend(pack)
+    for task in tasks:
+        if task.random_picture_from is not None:
+            for picture_path in task.random_picture_from:
+                if not os.path.exists(picture_path):
+                    raise FileNotFoundError(f"Image not found: {picture_path}")
+                if str(task.original_num) not in picture_path:
+                    raise ValueError(
+                        f"Image {picture_path} does not match task number {task.original_num}."
+                    )
 
     print("All tests passed.")
 

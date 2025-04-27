@@ -8,7 +8,7 @@ from _quizutils import get_correct_indexes, is_answer_correct
 
 from Task import Task
 
-the_pil = bool(input("Type anything to allow show images. (if there is any)"))
+the_pil = True
 if the_pil:
     from PIL import Image
 
