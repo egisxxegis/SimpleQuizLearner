@@ -30,7 +30,7 @@ def main(tasks: list[_types.TaskV2], scores: _types.Scores):
         task = tasks[i]
         print("\n------------------------------------------------------------------")
         print(
-            f"(score: {scores.right}/{scores.total}) Page {task.number} question {task.original_num}."
+            f"(score: {scores.right}/{scores.total} out of {len(tasks)}) Page {task.number} question {task.original_num}."
         )
         print(f"{task.question}")
         print(f"\n")
