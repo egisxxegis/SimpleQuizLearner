@@ -16,6 +16,7 @@ if the_pil:
 def get_all_content():
     all_folders = get_all_valid_folders()
     all_content: list[Task] | list[_types.TaskV2] = []
+    packs: list[list[Task] | list[_types.TaskV2]] = []
     filename = "questions.txt"
     filename_json = "questions.json"
     mode: None | Literal["json", "txt"] = None
@@ -48,12 +49,15 @@ def get_all_content():
             source = {"full_file_path": the_path}
             the_content = get_content(source, "%!%", folder)
             all_content += the_content
+            packs.append(the_content)
         elif mode == "json":
-            all_content += qv2.get_tasks_v2(full_file_path=the_path, its_folder=folder)
+            the_content = qv2.get_tasks_v2(full_file_path=the_path, its_folder=folder)
+            all_content += the_content
+            packs.append(the_content)
         else:
             raise NotImplementedError(f"Unknown mode: {mode}.")
 
-    return all_content
+    return all_content, packs
 
 
 def main(content: list[Task], scores: _types.Scores):
@@ -98,12 +102,16 @@ def main(content: list[Task], scores: _types.Scores):
 
 
 if __name__ == "__main__":
-    content = get_all_content()
+    content, packs = get_all_content()
     scores = _types.Scores(right=0, total=0)
     if len(content) == 0 or isinstance(content[-1], Task):
         main(content, scores)
     else:
-        qv2.main(content, scores)
+        content2 = qv2.reduce_packs(packs)
+        assert len(content) >= len(
+            content2
+        ), f"Reduced packs len {len(content2)} cant be longer than full dataset content {len(content)}"
+        qv2.main(content2, scores)
     print("\n\n\n")
     print("--**--**-- Results --**--**--")
     print(f"--**-- Total questions: {scores.total}")

@@ -75,3 +75,9 @@ class SimpleChem(pydantic.BaseModel):
 class Scores(pydantic.BaseModel):
     right: int
     total: int
+
+
+class Intro(pydantic.BaseModel):
+    question: str
+    answers: list[str]
+    folders_per_topic: int

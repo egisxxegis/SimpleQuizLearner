@@ -755,12 +755,26 @@ def _do_test():
         _creatorv2._intify_multis(["1", "A", "2", "B"], ["B", "a", "1", 2])[0],
         [3, 2, 4, 1],
     )
+    test(
+        _creatorv2._intify_multis(
+            ["2", "A", "D"], [1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"]
+        )[0],
+        [2, 10, 13],
+    )
 
     # parse
     test(_creatorv2._parse_multis("145ab*-c", 1, 9, "a", "c"), None)
     test(
         _creatorv2._parse_multis("145abc", 1, 9, "a", "c"),
         ["1", "4", "5", "a", "b", "c"],
+    )
+
+    # folder indexes
+    test(
+        _quizerv2.get_folder_indexes(
+            "13;,.,;,/,;'a", [1, 1, 1, 1, 1, 11, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 3
+        ),
+        [0, 1, 2, 6, 7, 8, 27, 28, 29],
     )
 
     # only for pharm stuff. comment me if not the case.

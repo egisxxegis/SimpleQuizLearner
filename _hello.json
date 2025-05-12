@@ -1,0 +1,27 @@
+{
+    "question": "Available topics",
+    "answers": [
+        "Farmacijos raida",
+        "Farmacinė analizė",
+        "Farmacinė chemija",
+        "Farmacinės technologijos (I ir II)",
+        "Farmakognozija (I ir II)",
+        "Farmakologija  (I ir II) ",
+        "Biofarmacija",
+        "Farmacijos rinkodara ir ekonomika",
+        "Farmakogenomika ir vaistų metabolizmas",
+        "Fitoterapija (I ir II)",
+        "Vaistų chemija",
+        "Toksikologija",
+        "Farmacinė biotechnologija",
+        "Farmacijos pramonės technologijos ir medicinos priemonės",
+        "Socialinė farmacija (I ir II)",
+        "Ligų valdymas",
+        "Klinikinės farmacijos",
+        "Farmacinė rūpyba",
+        "Farmacinių preparatų kūrimas: Vaistų kokybė",
+        "Farmacinių preparatų kūrimas: Fitofarmaciniai preparatai",
+        "Farmacinių preparatų kūrimas: Biologiniai vaistai"
+    ],
+    "folders_per_topic": 3
+}

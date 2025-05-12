@@ -372,8 +372,18 @@ def _parse_multis(
     raw: str, min1: str, max1: str, min2: str = None, max2: str = None
 ) -> list[str | Literal["*", "-"]] | None:
     converted = raw
-    converted = converted.replace(" ", ",").replace(".", ",").replace(";", ",").lower()
-    _make_set = lambda x, y: set(chr(x) for x in range(ord(str(x)), ord(str(y)) + 1))
+    converted = (
+        converted.replace(" ", ",")
+        .replace(".", ",")
+        .replace(";", ",")
+        .replace("/", ",")
+        .replace("'", ",")
+        .replace('"', ",")
+        .lower()
+    )
+    _make_set = lambda x, y: set(
+        chr(x) for x in range(ord(str(x).lower()), ord(str(y).lower()) + 1)
+    )
     range1 = _make_set(min1, max1)
     range2 = _make_set(min2, max2) if min2 is not None and max2 is not None else None
 
