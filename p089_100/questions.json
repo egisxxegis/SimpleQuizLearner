@@ -552,7 +552,24 @@
         "option_type": "AB",
         "original_num": 32,
         "random_picture_from": null,
-        "comment": null
+        "comment": "puslapis 96, klausimas „32.“ yra du kartus pakartotas. Čia pirmasis"
+    },
+    {
+        "number": 32002,
+        "question": "Kas yra prekių linija?",
+        "choices": [
+            "prekių liniją sudarančių inovacijų skaičius;",
+            "asortimento prekių linijų skaičius;",
+            "panašios paskirties prekių rinkinys;",
+            "prekių liniją sudarančių prekių modifikacijų skaičius."
+        ],
+        "answers_num": [
+            3
+        ],
+        "option_type": "AB",
+        "original_num": 32002,
+        "random_picture_from": null,
+        "comment": "puslapis 96, klausimas „32.“ yra du kartus pakartotas. Čia antrasis"
     },
     {
         "number": 33,
