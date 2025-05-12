@@ -743,6 +743,26 @@ def _do_test():
                     f"Image {picture_name} does not match any task in folder {folder}."
                 )
 
+    # intify
+    test(_creatorv2._intify_multis(["1", "A", "2"])[0], [1, "A", 2])
+    test(
+        _creatorv2._intify_multis(
+            ["1", "*", "2", "-"],
+        ),
+        ([1, "*", 2, "-"], "*"),
+    )
+    test(
+        _creatorv2._intify_multis(["1", "A", "2", "B"], ["B", "a", "1", 2])[0],
+        [3, 2, 4, 1],
+    )
+
+    # parse
+    test(_creatorv2._parse_multis("145ab*-c", 1, 9, "a", "c"), None)
+    test(
+        _creatorv2._parse_multis("145abc", 1, 9, "a", "c"),
+        ["1", "4", "5", "a", "b", "c"],
+    )
+
     # only for pharm stuff. comment me if not the case.
     if True:
         test(len(tasks_packed) % 3, 0)
@@ -764,6 +784,14 @@ def _do_test():
                 raise ValueError(
                     f"Task {task.original_num} is not MULTI but has multiple answers: {task.answers_num}. Question text: {task.question}"
                 )
+
+    # folder order
+    if True:
+        test(folders[0].split("p")[-1], "001_004")
+        test(folders[-1].split("p")[-1], "246_246")
+        test(len(folders), 63)
+        folders2 = sorted(folders.copy())
+        test(folders, folders2)
 
     print("All tests passed.")
 

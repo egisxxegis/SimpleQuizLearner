@@ -4,6 +4,14 @@ from typing import Literal, Type
 TypeAnswer = Literal["A", "B", "C", "D", "E", "F", "G", "H"]
 TypeAnswerConversion = list[int] | Literal["all", "N/A"]
 LETTERS: list[TypeAnswer] = ["A", "B", "C", "D", "E", "F", "G", "H"]
+# 1 - 9 A - Z
+_MIN1 = 1
+_MAX1 = 9
+_MIN2 = "A"
+_MAX2 = "Z"
+INTRO_NUMBERS = [str(x) for x in range(_MIN1, _MAX1 + 1)] + [
+    chr(x) for x in range(ord(_MIN2), ord(_MAX2) + 1)
+]
 
 
 class TypeAnswerConverter:

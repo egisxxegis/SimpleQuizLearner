@@ -368,6 +368,60 @@ def ask_mode() -> Literal["AB", "MULTI"]:
             return mode
 
 
+def _parse_multis(
+    raw: str, min1: str, max1: str, min2: str = None, max2: str = None
+) -> list[str | Literal["*", "-"]] | None:
+    converted = raw
+    converted = converted.replace(" ", ",").replace(".", ",").replace(";", ",").lower()
+    _make_set = lambda x, y: set(chr(x) for x in range(ord(str(x)), ord(str(y)) + 1))
+    range1 = _make_set(min1, max1)
+    range2 = _make_set(min2, max2) if min2 is not None and max2 is not None else None
+
+    # converted = re.sub(r",+", ",", converted)
+    converted = converted.replace(",", "")
+    values: list[int | str] = []
+    # for value in converted.split(","):
+    for value in converted:
+        values.append(value)
+    if converted.replace(",", "") in ["*", "-"]:
+        converted = converted.replace(",", "")
+        values = [converted]
+    else:
+        if len(values) < 0:
+            print("No values scanned. Try again.")
+            return None
+        bad_values = [x for x in values if x not in range1 and x not in range2]
+        if bad_values:
+            range1_str = f"{min1}-{max1}"
+            range2_str = f"{min2}-{max2}" if min2 and max2 else ""
+            range_str = " or ".join([range1_str, range2_str])
+            print(f"Some values are not within {range_str}. Try again. {bad_values=}")
+            return None
+    return sorted(set(values))
+
+
+def _intify_multis(
+    parsed: list[str],
+    reference: list[str] = ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
+) -> tuple[list[int], None | str]:
+    reference2 = []
+    to_return: list[int | str] = []
+    for ref in reference:
+        _ref = str(ref).strip().lower()
+        reference2.append(_ref)
+    special = next(iter(x for x in parsed if x not in reference + reference2), "")
+    for value in parsed:
+        _value = value.strip()
+        try:
+            to_return.append(reference.index(_value) + 1)
+        except ValueError:
+            try:
+                to_return.append(reference2.index(_value.lower()) + 1)
+            except ValueError:
+                to_return.append(value)
+    return to_return, special
+
+
 def ask_letter_conversion(
     letter: _types.TypeAnswer, _converted: None | str = None
 ) -> _types.TypeAnswerConversion:
@@ -375,30 +429,11 @@ def ask_letter_conversion(
         converted = _converted or input(
             f'Into which answer numbers the letter "{letter}" shall be converted?\n* is all\n- is not applicable\nExample: 1, 2, 6\n'
         )
-        converted = converted.replace(" ", ",").replace(".", ",").replace(";", ",")
-        # converted = re.sub(r",+", ",", converted)
-        converted = converted.replace(",", "")
-        values: list[int | str] = []
-        # for value in converted.split(","):
-        for value in converted:
-            try:
-                values.append(int(value))
-            except ValueError:
-                continue
-        if converted.replace(",", "") in ["*", "-"]:
-            converted = converted.replace(",", "")
-            values = [converted]
+        values = _parse_multis(converted, 1, 6)
+        if values is None:
+            continue
         else:
-            if len(values) < 0:
-                print("No values scanned. Try again.")
-                continue
-            bad_values = [x for x in values if x < 1 or x > 6]
-            if bad_values:
-                print(
-                    f"Some values are less than 1 or greater than 6. Try again. {bad_values}"
-                )
-                continue
-        values = sorted(set(values))
+            values, converted = _intify_multis(values)
         print(f"Understood as: {', '.join([str(x) for x in values])}")
         # is_correct = ask_is_correct(True) if _converted is None else True
         is_correct = True
