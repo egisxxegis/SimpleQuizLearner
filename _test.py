@@ -743,6 +743,28 @@ def _do_test():
                     f"Image {picture_name} does not match any task in folder {folder}."
                 )
 
+    # only for pharm stuff. comment me if not the case.
+    if True:
+        test(len(tasks_packed) % 3, 0)
+
+    # multichoice or abc. pick only one
+    if True:
+        for pack in tasks_packed:
+            _type = pack[0].option_type
+            for task in pack:
+                if task.option_type != _type:
+                    raise ValueError(
+                        f"Task {task.original_num} mixed type: {task.option_type} != {_type}. Question text: {task.question}"
+                    )
+
+    # you are abc but demand multi? Redflag
+    if True:
+        for task in tasks:
+            if task.option_type != "MULTI" and len(task.answers_num) > 1:
+                raise ValueError(
+                    f"Task {task.original_num} is not MULTI but has multiple answers: {task.answers_num}. Question text: {task.question}"
+                )
+
     print("All tests passed.")
 
 
