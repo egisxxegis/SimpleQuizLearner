@@ -141,25 +141,6 @@
         "comment": null
     },
     {
-        "number": 9,
-        "question": "Rinkodaros komplekso elementas, susijęs su prekių judėjimu nuo gamintojo iki vartotojų grupių:",
-        "choices": [
-            "Prekė",
-            "Kaina",
-            "Paskirstymas",
-            "Rėmimas",
-            "Darbuotojai;",
-            "Procesas"
-        ],
-        "answers_num": [
-            3
-        ],
-        "option_type": "AB",
-        "original_num": 9,
-        "random_picture_from": null,
-        "comment": "Atsakymų lentoje nurodytas Rėmimas, bet Paskirstymas - tai sprendimų ir veiksmų visuma, kuri apsprendžia prekių judėjimą nuo gamintojo iki vartotojo"
-    },
-    {
         "number": 10,
         "question": "Pažymėkite, kuris iš išvardytų tikslų gali būti laikomas rinkodaros tikslu?",
         "choices": [
@@ -536,40 +517,6 @@
         "original_num": 31,
         "random_picture_from": null,
         "comment": null
-    },
-    {
-        "number": 32,
-        "question": "Kas yra prekių asortimento gylis?",
-        "choices": [
-            "prekių liniją sudarančių inovacijų skaičius;",
-            "asortimento prekių linijų skaičius;",
-            "panašios paskirties prekių rinkinys;",
-            "prekių liniją sudarančių prekių modifikacijų skaičius."
-        ],
-        "answers_num": [
-            4
-        ],
-        "option_type": "AB",
-        "original_num": 32,
-        "random_picture_from": null,
-        "comment": "puslapis 96, klausimas „32.“ yra du kartus pakartotas. Čia pirmasis"
-    },
-    {
-        "number": 32002,
-        "question": "Kas yra prekių linija?",
-        "choices": [
-            "prekių liniją sudarančių inovacijų skaičius;",
-            "asortimento prekių linijų skaičius;",
-            "panašios paskirties prekių rinkinys;",
-            "prekių liniją sudarančių prekių modifikacijų skaičius."
-        ],
-        "answers_num": [
-            3
-        ],
-        "option_type": "AB",
-        "original_num": 32002,
-        "random_picture_from": null,
-        "comment": "puslapis 96, klausimas „32.“ yra du kartus pakartotas. Čia antrasis"
     },
     {
         "number": 33,

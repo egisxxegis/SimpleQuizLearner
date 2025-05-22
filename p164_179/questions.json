@@ -307,23 +307,6 @@
         "comment": null
     },
     {
-        "number": 19,
-        "question": "Kam vaistinio preparato registruotojas turi rengti ir elektroninių ryšių priemonėmis pateikti periodiškai atnaujinamus saugumo protokolus?",
-        "choices": [
-            "Europos vaistų agentūrai.",
-            "Sveikatos apsaugos ministerijai.",
-            "Valstybinei vaistų kontrolės tarnybai.",
-            "Farmacijos departamentui."
-        ],
-        "answers_num": [
-            1
-        ],
-        "option_type": "AB",
-        "original_num": 19,
-        "random_picture_from": null,
-        "comment": "Dokumente nuspalvinta <<Valstybinei vaistų kontrolės tarnybai.>>, bet neteisingai nuspalvinta.\n\n55 straipsnis.\nPeriodiškai atnaujinamų saugumo protokolų rengimas ir teikimas\nVaistinio preparato registruotojas turi rengti ir elektroninių ryšių priemonėmis Europos vaistų agentūrai pateikti periodiškai atnaujinamus saugumo protokolus."
-    },
-    {
         "number": 20,
         "question": "Kur turi gyventi ir veikti kvalifikuotas asmuo, atsakingas už farmakologinį budrumą?",
         "choices": [
