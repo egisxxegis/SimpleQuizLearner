@@ -638,12 +638,12 @@
             "Vietinė absorbcija negali vykti žarnyne."
         ],
         "answers_num": [
-            2
+            1
         ],
         "option_type": "AB",
         "original_num": 38,
         "random_picture_from": null,
-        "comment": null
+        "comment": "2025-05-23 tikslinantis laiškas: „atsakymas turi būti <apatinėje>, ne <viršutinėje>“"
     },
     {
         "number": 39,
