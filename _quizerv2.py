@@ -87,9 +87,29 @@ def reduce_packs(packs: list[list[_types.TaskV2]]) -> list[_types.TaskV2]:
         return tasks
 
 
+def normalize_user_guess(user_guess: str, is_parse_unique=True) -> str:
+    user_guess = user_guess.upper()
+    user_guess = ",".join(
+        "".join(
+            re.sub(
+                rf"[^1-9{_types.LETTERS[0]}-{_types.LETTERS[-1]}]", "", user_guess
+            ).split()
+        )
+    )
+    if is_parse_unique:
+        parts = _creatorv2._parse_multis(
+            user_guess, _types._MIN1, _types._MAX1, _types._MIN2, _types._MAX2
+        )  # removes duplicates
+        user_guess = normalize_user_guess("".join(parts), is_parse_unique=False)
+    for letter in _types.LETTERS:
+        user_guess = user_guess.replace(letter, str(_types.LETTERS.index(letter) + 1))
+    return user_guess
+
+
 def main(tasks: list[_types.TaskV2], scores: _types.Scores):
     i_range = [x for x in range(0, len(tasks))]
     shuffle(i_range)
+    failed_questions: list[_types.TaskV2] = []
     for i in i_range:
         image_handle: None | ImageFile.ImageFile = None
         task = tasks[i]
@@ -125,24 +145,18 @@ def main(tasks: list[_types.TaskV2], scores: _types.Scores):
             image_handle = Image.open(picture_path)
             image_handle.show(question_id)
         multianswer_suffix = " (_MULTICHOICE_) " if task.option_type == "MULTI" else ""
-        user_guess = input(f"Your choice? {multianswer_suffix}- ")
+        while not (
+            user_guess := normalize_user_guess(
+                input(f"Your choice? {multianswer_suffix}- ")
+            )
+        ):
+            pass
         # continue here
-        user_guess = user_guess.upper()
-        user_guess = ",".join(
-            "".join(
-                re.sub(
-                    rf"[^1-9{_types.LETTERS[0]}-{_types.LETTERS[-1]}]", "", user_guess
-                ).split()
-            )
-        )
-        for letter in _types.LETTERS:
-            user_guess = user_guess.replace(
-                letter, str(_types.LETTERS.index(letter) + 1)
-            )
         if is_answer_correct(user_guess, correct_index_nums):
             print("------Correct")
             scores.right += 1
         else:
+            failed_questions.append(task)
             transformer = lambda x: (
                 str(x)
                 if task.option_type == "MULTI" or x >= len(_types.LETTERS)
@@ -160,3 +174,4 @@ def main(tasks: list[_types.TaskV2], scores: _types.Scores):
         )
         if image_handle is not None:
             image_handle.close()
+    return failed_questions

@@ -5,6 +5,7 @@ from typing import Literal
 import _quizerv2 as qv2
 import _types
 from _quizutils import get_correct_indexes, is_answer_correct
+import re
 
 from Task import Task
 
@@ -103,21 +104,46 @@ def main(content: list[Task], scores: _types.Scores):
 
 if __name__ == "__main__":
     content, packs = get_all_content()
-    scores = _types.Scores(right=0, total=0)
+    score_factory = lambda: _types.Scores(right=0, total=0)
+    scores = score_factory()
+
+    def print_scores(is_prompt_ending=True):
+        print("\n\n\n")
+        print("--**--**-- Results --**--**--")
+        print(f"--**-- Total questions: {scores.total}")
+        print(f"--**-- Right answers:   {scores.right}")
+        print(
+            f"--**-- Magic score:     {scores.right}/{scores.total} = {scores.right / (scores.total or 1) * 100 : .2f}%"
+        )
+        print("\n\n")
+        if is_prompt_ending:
+            input("\n--**--**-- Enter to exit\n")
+
     if len(content) == 0 or isinstance(content[-1], Task):
         main(content, scores)
+        print_scores()
     else:
         content2 = qv2.reduce_packs(packs)
         assert len(content) >= len(
             content2
         ), f"Reduced packs len {len(content2)} cant be longer than full dataset content {len(content)}"
-        qv2.main(content2, scores)
-    print("\n\n\n")
-    print("--**--**-- Results --**--**--")
-    print(f"--**-- Total questions: {scores.total}")
-    print(f"--**-- Right answers:   {scores.right}")
-    print(
-        f"--**-- Magic score:     {scores.right}/{scores.total} = {scores.right / (scores.total or 1) * 100 : .2f}%"
-    )
-    print("\n\n")
-    input("\n--**--**-- Enter to exit\n")
+        while len(content2) > 0:
+            retryables = qv2.main(content2, scores)
+            is_retryable = retryables and len(retryables) > 0
+            print_scores(is_prompt_ending=not is_retryable)
+            if is_retryable:
+                while True:
+                    print("\n")
+                    print(f"Retry {len(retryables)} failed questions?")
+                    print("A. Yes\nB. No and exit")
+                    user_guess = qv2.normalize_user_guess(input(f"Your choice? - "))
+                    if not user_guess in ["1", "2"]:
+                        continue
+                    if qv2.is_answer_correct(user_guess, [1]):
+                        content2 = retryables
+                        scores = score_factory()
+                        break
+                    else:
+                        exit(0)
+            else:
+                content2 = []  # exhausted

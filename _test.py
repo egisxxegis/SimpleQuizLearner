@@ -768,6 +768,10 @@ def _do_test():
         _creatorv2._parse_multis("145abc", 1, 9, "a", "c"),
         ["1", "4", "5", "a", "b", "c"],
     )
+    test(
+        _creatorv2._parse_multis("9,14,5,abc145abc", 1, 9, "a", "c"),
+        ["1", "4", "5", "9", "a", "b", "c"],
+    )
 
     # folder indexes
     test(
