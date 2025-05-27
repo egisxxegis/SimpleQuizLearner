@@ -94,14 +94,16 @@ def append_question(
 
 
 def get_all_valid_folders():
-    return [
-        f.path
-        for f in scandir(path.abspath(getcwd()))
-        if f.is_dir()
-        if f.name != ".idea"
-        if f.name != ".git"
-        if f.name != ".ignore"
-        if f.name != ".venv"
-        if f.name != "_debug"
-        if f.name != "__pycache__"
-    ]
+    return sorted(
+        [
+            f.path
+            for f in scandir(path.abspath(getcwd()))
+            if f.is_dir()
+            if f.name != ".idea"
+            if f.name != ".git"
+            if f.name != ".ignore"
+            if f.name != ".venv"
+            if f.name != "_debug"
+            if f.name != "__pycache__"
+        ]
+    )
