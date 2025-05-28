@@ -729,12 +729,12 @@ def _do_test():
         tasks = _quizerv2.get_tasks_v2(
             full_file_path=os.path.join(folder, "questions.json"), its_folder=folder
         )
-        pictured_tasks = [
+        _pictured_tasks = [
             task for task in tasks if task.random_picture_from is not None
         ]
         for picture_name, picture_path in pictures:
             found = False
-            for task in pictured_tasks:
+            for task in _pictured_tasks:
                 if picture_path in task.random_picture_from:
                     found = True
                     break
@@ -742,6 +742,13 @@ def _do_test():
                 raise ValueError(
                     f"Image {picture_name} does not match any task in folder {folder}."
                 )
+
+    # check shuffle-imaged tasks have no text
+    for task in pictured_tasks:
+        if len(task.random_picture_from) > 1:
+            assert [x.strip() for x in task.choices] == [
+                "" for _ in task.choices
+            ], f"Task {task.number=} has text but multiple images. Text: {task.question}"
 
     # intify
     test(_creatorv2._intify_multis(["1", "A", "2"])[0], [1, "A", 2])
