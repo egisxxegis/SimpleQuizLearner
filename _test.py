@@ -726,11 +726,11 @@ def _do_test():
                 "bmp",
             ]:
                 pictures.append((file.name, file.path))
-        tasks = _quizerv2.get_tasks_v2(
+        _tasks = _quizerv2.get_tasks_v2(
             full_file_path=os.path.join(folder, "questions.json"), its_folder=folder
         )
         _pictured_tasks = [
-            task for task in tasks if task.random_picture_from is not None
+            task for task in _tasks if task.random_picture_from is not None
         ]
         for picture_name, picture_path in pictures:
             found = False
@@ -817,6 +817,36 @@ def _do_test():
         test(len(folders), 63)
         folders2 = sorted(folders.copy())
         test(folders, folders2)
+
+    # reasonable amount of choices
+    print(f"will check lengths for {len(tasks)} tasks")
+    for task in tasks:
+        _id = f"#{task.original_num} {task.question}"
+        assert len(task.choices) > 1, "1 choice in question? Doubts." + _id
+        for answer_num in task.answers_num:
+            try:
+                task.choices[answer_num - 1]
+            except IndexError:
+                raise IndexError(
+                    f"Task one of answers is {answer_num} but choices length is {len(task.choices)}. Task: {_id}"
+                )
+        if True and task.option_type == "MULTI":
+            assert len(task.choices) >= 4, f"count 4 choices not reached in task {_id}"
+
+    # reasonable amount of choices with delta 1
+    _skip_allowed = 1  # TODO do not forget to change me after dataset change
+    for pack in tasks_packed:
+        _min = min([len(task.choices) for task in pack])
+        _max = max([len(task.choices) for task in pack])
+        _min_count = len([x for x in pack if len(x.choices) == _min])
+        _max_count = len([x for x in pack if len(x.choices) == _max])
+        allowed_delta = 2
+        if _max - _min > 2:
+            if _skip_allowed <= 0:
+                raise ValueError(
+                    f"Tasks in pack have {_max=} choices and {_min=} choices. That is {_max-_min} delta.\n.....{_max_count=} {_min_count=} {allowed_delta=}. Pack representative: {pack[0].question}"
+                )
+            _skip_allowed -= 1
 
     print("All tests passed.")
 

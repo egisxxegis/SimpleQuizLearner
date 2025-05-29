@@ -128,7 +128,8 @@
         "number": 8,
         "question": "Kuri (-ios) medžiaga (-os) naudojamos tabletėms padengti žarnyne tirpia plėvele?",
         "choices": [
-            "Metilceliuliozė 2 Acetilftalilceliuliozė",
+            "Metilceliuliozė",
+            "Acetilftalilceliuliozė",
             "Polivinilpirolidonas",
             "Metaftalilceliuliozė"
         ],

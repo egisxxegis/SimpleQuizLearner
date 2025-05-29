@@ -40,9 +40,7 @@
             "magnetofekcija,",
             "biolistika,",
             "sonoporacija,",
-            "elektroporacija. I lygio",
-            "dvivalenčiai metalų jonai (druskos forma),",
-            "joninės paviršinio aktyvumo medžiagos."
+            "elektroporacija. I lygio"
         ],
         "answers_num": [
             4
@@ -108,7 +106,9 @@
         "question": "Rekombinantinių baltymų tirpumui padidinti naudojami:",
         "choices": [
             "angliavandeniai,",
-            "organiniai tirpikliai,"
+            "organiniai tirpikliai,",
+            "dvivalenčiai metalų jonai (druskos forma),",
+            "joninės paviršinio aktyvumo medžiagos."
         ],
         "answers_num": [
             1
